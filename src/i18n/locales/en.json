@@ -31,11 +31,11 @@
   },
   "trust": {
     "noHiddenFees": "No Hidden Fees",
-    "noHiddenFeesDesc": "Price shown is all-inclusive",
+    "noHiddenFeesDesc": "The price you see is the price you pay — nothing tucked away in the fine print",
     "fullInsurance": "Full Insurance",
-    "fullInsuranceDesc": "Zero excess option available",
+    "fullInsuranceDesc": "Comprehensive cover with a zero-excess upgrade if you want total peace of mind",
     "fastPickup": "10-Min Pickup",
-    "fastPickupDesc": "Meet you at arrivals"
+    "fastPickupDesc": "Your car is waiting at arrivals — no shuttle buses, no queues"
   },
   "stats": {
     "years": "Years Experience",
@@ -46,61 +46,61 @@
   "howItWorks": {
     "label": "How It Works",
     "title": "On the Road in 3 Steps",
-    "subtitle": "Simple booking. Instant confirmation. No queues at the airport.",
-    "step1Title": "Choose Your Location",
-    "step1Desc": "Select from Podgorica Airport, Tivat Airport, Ulcinj, and 28+ pickup points across Montenegro.",
-    "step2Title": "Pick Your Car",
-    "step2Desc": "Browse our fleet from economy runabouts to premium SUVs. Filter by size, transmission, or budget.",
-    "step3Title": "Drive Ulcinj",
-    "step3Desc": "We meet you at arrivals. Your car is ready. Explore Velika Plaza, Ada Bojana, and the southern coast."
+    "subtitle": "No railway has ever reached Ulcinj. Buses run on their own schedule. A car is genuinely the only way south.",
+    "step1Title": "Pick Your Departure Point",
+    "step1Desc": "Podgorica Airport, Tivat Airport, or any of 28+ spots across Montenegro. Wherever you land, we meet you.",
+    "step2Title": "Choose Your Vehicle",
+    "step2Desc": "City hatchbacks for cobbled streets, SUVs for the dirt track to Valdanos, beach-ready wagons for sand-blown Velika Plaza.",
+    "step3Title": "Head South",
+    "step3Desc": "Past the last petrol station, past the final signpost, into the part of Montenegro that most tourists never reach."
   },
   "fleet": {
     "label": "Our Fleet",
     "title": "Choose Your Ride",
-    "subtitle": "Browse real-time availability and prices — book directly."
+    "subtitle": "Live availability and pricing — book directly, skip the middlemen."
   },
   "brands": {
     "label": "Trusted brands in our fleet"
   },
   "destinations": {
     "label": "Top Destinations",
-    "title": "Explore from Ulcinj",
-    "subtitle": "From Velika Plaza to the Albanian border — each destination a different world."
+    "title": "The Forgotten South",
+    "subtitle": "Mosques and church bells. Pirate towers and Roman walls. Grey volcanic sand and 2,000-year-old olive groves. Each stop here feels like a different country."
   },
   "features": {
     "label": "Why Choose Us",
-    "title": "Built for Travellers",
-    "subtitle": "Everything you need for a stress-free car rental in Ulcinj."
+    "title": "Built for the Remote South",
+    "subtitle": "Ulcinj sits at the end of the road — literally. We specialise in getting you there and keeping you moving."
   },
   "reviews": {
     "label": "Reviews",
-    "title": "Loved by Travellers",
-    "subtitle": "Real experiences from real customers exploring Ulcinj and southern Montenegro."
+    "title": "From Fellow Explorers",
+    "subtitle": "Honest accounts from travellers who ventured past the tourist trail into Ulcinj's untamed south."
   },
   "faq": {
     "label": "FAQ",
-    "title": "Common Questions",
-    "subtitle": "Everything you need to know before you book."
+    "title": "Before You Head South",
+    "subtitle": "The answers you need before you leave the last highway behind."
   },
   "cta": {
-    "title": "Ready to Explore Ulcinj?",
-    "subtitle": "Book in minutes. Pick up at the airport. Drive to Velika Plaza, Ada Bojana, and Montenegro's stunning south.",
+    "title": "Ready to Disappear South?",
+    "subtitle": "The muezzin call drifts over the old town. Grey sand stretches to the Albanian border. Pirate ruins guard the headland. Get a car and go find it.",
     "browseFleet": "Browse Fleet"
   },
   "sidebar": {
     "bookTitle": "Book Your Car",
-    "bookText": "Search real-time availability and prices for Ulcinj and southern Montenegro.",
+    "bookText": "Live availability for Ulcinj and the forgotten south — vehicles ready for sand, dirt roads, and border crossings.",
     "helpTitle": "Need Help?",
-    "helpText": "Our team is available via WhatsApp, Viber, or phone.",
+    "helpText": "Reach us on WhatsApp, Viber, or phone. We speak the local roads.",
     "popularDest": "Popular Destinations"
   },
   "book": {
     "title": "Find Your Car",
     "seoTitle": "Book — Southern Coast Explorer",
-    "seoDesc": "Cars built for Ulcinj's remote south. Albanian border paperwork sorted, beach-ready vehicles, instant confirmation. No bus reaches Velika Plaza \u2014 a car is essential."
+    "seoDesc": "Vehicles matched to Ulcinj's raw south. Albanian border documents sorted, beach-capable cars, instant confirmation. No bus reaches Velika Plaza — a car is the only option."
   },
   "footer": {
-    "brandDesc": "Affordable car hire in Ulcinj and southern Montenegro. Airport pickups, full insurance, and no hidden fees.",
+    "brandDesc": "Car hire for Montenegro's wildest stretch of coast. Pirate towers, volcanic sand, Albanian border runs, and olive groves older than Rome.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "locations": "Locations",
@@ -118,68 +118,68 @@
   },
   "notFound": {
     "code": "404",
-    "title": "Wrong Turn",
-    "text": "Looks like you've taken a detour. This road doesn't lead anywhere — but Ulcinj's best routes are just a click away.",
+    "title": "Dead End",
+    "text": "Even in Ulcinj, not every track leads somewhere. This one doesn't — but the good roads are a click away.",
     "backHome": "Back to Home",
     "searchCars": "Search Cars"
   },
   "home": {
-    "seoDesc": "Montenegro's southernmost town has no railway and scarce buses. A car from \u20AC13/day unlocks 12 km Long Beach, Ada Bojana island, and Albania in 30 min."
+    "seoDesc": "Montenegro's southernmost town has no railway, scarce buses, and roads that run out of signs. A car from \u20AC13/day unlocks 12 km of grey volcanic beach, a pirate fortress, and Albania in 30 min."
   },
   "about": {
     "title": "About Us",
-    "subtitle": "Helping travellers explore Ulcinj and southern Montenegro.",
-    "seoDesc": "Southern coast specialists covering the stretch no other agency prioritises. We know the dirt tracks to Valdanos, the tide times at Ada Bojana, and the Sukobin border queue."
+    "subtitle": "Connecting adventurers to Montenegro's forgotten south since day one.",
+    "seoDesc": "We started because nobody else covered Ulcinj properly. The pirate fortress, the grey sand, the Albanian border crossing, the 2,000-year-old olive groves — all of it unreachable without a car."
   },
   "velika-plaza": {
     "title": "Car Hire for Velika Plaza",
-    "subtitle": "Drive to one of Europe's longest sandy beaches.",
-    "seoDesc": "12 km of unbroken sand stretching to the Albanian border \u2014 one of Europe's longest beaches. No public transport reaches it; a car is the only practical option."
+    "subtitle": "12 km of grey volcanic sand, empty in every direction. No bus comes here.",
+    "seoDesc": "Grey mineral-rich sand stretches to the Albanian border — therapeutic, volcanic, and almost entirely deserted. No public transport. A car is the only way to reach Velika Plaza."
   },
   "ada-bojana": {
     "title": "Car Hire for Ada Bojana",
-    "subtitle": "Montenegro's kitesurfing island at the Albanian border.",
-    "seoDesc": "A river-delta island where the Bojana meets the Adriatic. Consistent thermal winds make it a European kitesurfing hotspot. Drive 15 min south from Ulcinj centre."
+    "subtitle": "Europe's last wild river delta. Kitesurfing, stilt restaurants, and the Albanian border.",
+    "seoDesc": "A triangular island where the Bojana river meets the Adriatic — the last wild river delta in Europe. Thermal winds 15-25 knots June through September. Drive 15 min south from Ulcinj."
   },
   "stari-grad": {
     "title": "Ulcinj Old Town (Stari Grad)",
-    "subtitle": "Ancient fortress and Ottoman architecture overlooking the Adriatic.",
-    "seoDesc": "2,500 years of history packed into a hilltop fortress. Ottoman walls, a slave market turned piazza, and Adriatic views from every battlement. Park below, walk up."
+    "subtitle": "2,500 years of fortress walls. Illyrian, Roman, Venetian, Ottoman — all stacked on one headland.",
+    "seoDesc": "Pirate stronghold turned Ottoman citadel. Cervantes may have been imprisoned here. The muezzin call mixes with church bells over 2,500 years of layered history. Park below, walk up."
   },
   "valdanos": {
     "title": "Car Hire for Valdanos",
-    "subtitle": "Secluded bay surrounded by 80,000 olive trees.",
-    "seoDesc": "A hidden bay ringed by 80,000 olive trees, some over 2,000 years old. Wild camping, empty pebble beach, zero facilities. Only reachable by car."
+    "subtitle": "A hidden bay down a rough track, guarded by 80,000 olive trees — some older than Christ.",
+    "seoDesc": "Accessible only by a rutted dirt road. 80,000 olive trees, some 2,000+ years old, ring a silent bay with zero facilities. Bring everything you need. Only reachable by car."
   },
   "bar": {
     "title": "Car Hire in Bar",
-    "subtitle": "Port city with ancient ruins — 30 minutes from Ulcinj.",
-    "seoDesc": "30 min north from Ulcinj to Bar's port town. Explore the ruined Stari Bar fortress above, then catch the ferry timetable to Bari, Italy if the mood strikes."
+    "subtitle": "A working port with medieval ruins on the hill and an olive tree older than Rome.",
+    "seoDesc": "30 min north of Ulcinj. Stari Bar fortress crumbles on the hillside above a working port. An olive tree believed to be 2,000+ years old stands nearby. Ferry to Bari if Italy calls."
   },
   "lake-skadar": {
     "title": "Car Hire for Lake Skadar",
-    "subtitle": "The Balkans' largest lake — 45 minutes from Ulcinj.",
-    "seoDesc": "45 min inland from Ulcinj to the Balkans' largest lake. Dalmatian pelicans, boat trips from Rijeka Crnojevica, and Crmnica wine tastings along the shore."
+    "subtitle": "Pelicans, flamingos, and Crmnica wine — 45 minutes inland from the coast.",
+    "seoDesc": "The Balkans' largest lake sits 45 min from Ulcinj. Dalmatian pelicans, flamingo sightings at the Salina salt pans, boat trips from Virpazar, and Crmnica reds by the glass."
   },
   "podgorica-airport": {
     "title": "Podgorica Airport Car Hire",
-    "subtitle": "Montenegro's closest airport to Ulcinj — just 40km away.",
-    "seoDesc": "TGD is Ulcinj's closest airport at just 40 km. Collect at arrivals and drive south through Tuzi \u2014 you'll hit Ulcinj's Old Town walls in 45 min."
+    "subtitle": "Ulcinj's closest airport — 40 km. Collect and drive south into the unknown.",
+    "seoDesc": "TGD is 40 km from Ulcinj. Collect at arrivals, drive south through Tuzi, and watch the signs disappear. You'll reach the Old Town walls in 45 min."
   },
   "shkodra": {
     "title": "Day Trip to Shkodra, Albania",
-    "subtitle": "Cross the border and explore Rozafa Castle — 30 minutes from Ulcinj.",
-    "seoDesc": "Cross at Sukobin into Albania and reach Shkodra's Rozafa Castle in 30 min. Green card insurance and border docs come with every Ulcinj rental."
+    "subtitle": "Cross at Sukobin and stand on Rozafa Castle in 30 minutes flat.",
+    "seoDesc": "The Sukobin border crossing is quiet and fast. Shkodra's Rozafa Castle has guarded the lake since Illyrian times. Green card insurance and border docs come with every rental."
   },
   "montenegro": {
     "title": "Southern Montenegro Driving Guide",
-    "subtitle": "Rural roads, Albanian border procedures, and tips for the remote south.",
-    "seoDesc": "Southern Montenegro driving tips: rural single-lane roads, unsigned dirt tracks to beaches, Albanian border procedures at Sukobin, and fuel stops south of Bar."
+    "subtitle": "Unmarked turns, livestock on the road, and the best drive you'll take all year.",
+    "seoDesc": "Southern Montenegro driving intel: single-lane roads with no markings, unsigned dirt tracks to hidden beaches, the Sukobin border procedure, and the last fuel stop before Albania."
   },
   "border-crossing": {
     "title": "Sukobin Border Crossing to Albania",
-    "subtitle": "Ulcinj to Shkodra in 30 min \u2014 the easiest Albania crossing.",
-    "seoDesc": "The Sukobin crossing is Montenegro's quietest Albanian border. Green card docs, typical wait times, and what to expect on the Albanian side."
+    "subtitle": "Ulcinj to Shkodra in 30 min — the quietest Albanian crossing.",
+    "seoDesc": "The Sukobin checkpoint is Montenegro's most relaxed Albanian border. Green card documents, typical wait times under 20 min, and what to expect on the Albanian side."
   },
   "privacy": {
     "title": "Privacy Policy",
@@ -199,38 +199,38 @@
   "featureCards": {
     "airportPickup": {
       "title": "Beach Access",
-      "desc": "Drive straight to Velika Plaza, Ada Bojana, or Valdanos. No taxis needed."
+      "desc": "Sand gets in everything down here. Drive straight to Velika Plaza, Ada Bojana, or the hidden cove at Valdanos — no taxi negotiation required."
     },
     "fullInsurance": {
       "title": "Full Insurance",
-      "desc": "Comprehensive coverage with zero excess option. Drive with complete peace of mind."
+      "desc": "Comprehensive cover including zero-excess upgrade. Dirt roads to Valdanos and unmarked lanes to the beach are all covered."
     },
     "support": {
       "title": "24/7 Support",
-      "desc": "Roadside assistance and customer service available around the clock, every day."
+      "desc": "Roadside help and customer support around the clock. Even when you're on that trackless stretch south of Velika Plaza at dusk."
     },
     "noHiddenFees": {
       "title": "No Hidden Fees",
-      "desc": "Fuel policy, mileage, tax — everything is included in the price you see."
+      "desc": "Fuel policy, mileage, tax — everything baked into the price. No surprises when you're already deep in the south."
     },
     "freeCancellation": {
       "title": "Free Cancellation",
-      "desc": "Plans change. Cancel up to 24 hours before pickup for a full refund."
+      "desc": "Balkan plans shift. Cancel up to 24 hours before pickup and get a full refund. The south will wait for you."
     },
     "crossBorder": {
-      "title": "Cross-Border",
-      "desc": "Drive to Albania, Croatia, Bosnia, or Kosovo. Cross-border travel permitted."
+      "title": "Cross-Border Ready",
+      "desc": "Albania in 30 min, Croatia in 3 hours, Kosovo in 4. Green card paperwork arranged at booking — just drive."
     }
   },
   "testimonials": {
     "0": {
-      "text": "Ulcinj is far from both airports so a hire car was essential. Picked up at Podgorica and drove straight to Long Beach. Painless experience."
+      "text": "No railway, no reliable bus, and the beach is 5 km from town on a road with no pavement. We picked up at Podgorica and had sand between our toes within the hour. Essential."
     },
     "1": {
-      "text": "We drove from Tivat down to Ada Bojana for the kitesurfing. The car was in great condition and we crossed into Albania for a day trip to Shkodra. Brilliant."
+      "text": "Drove from Tivat to Ada Bojana for the kitesurfing. Crossed into Albania for lunch in Shkodra. Back in Ulcinj for grilled fish on the river. None of that happens without a car."
     },
     "2": {
-      "text": "Spent a week exploring Ulcinj's Old Town and the olive groves at Valdanos. Without a car you'd miss all of it — public transport barely exists down here."
+      "text": "Spent a week exploring Stari Grad, the olive groves at Valdanos, and the Salina salt flats. Ulcinj feels like a different country from the tourist coast — you need wheels to discover it."
     }
   },
   "faqItems": {
@@ -240,7 +240,7 @@
     },
     "1": {
       "q": "Can I drive to Albania?",
-      "a": "Yes! If you plan to travel outside Montenegro, notify the rental agent in advance so they can complete the required documents. Cross-border travel to Albania and other neighbouring countries is permitted."
+      "a": "Yes — and you should. The Sukobin crossing is 15 min south of Ulcinj and usually takes under 20 min to clear. Just let the rental agent know at booking so they prepare the Green Card and border documentation."
     },
     "2": {
       "q": "Is there a minimum age?",
@@ -287,42 +287,42 @@
     "velika-plaza": {
       "name": "Velika Plaza",
       "tag": "Long Beach",
-      "desc": "12km of sandy coastline — one of Europe's longest beaches."
+      "desc": "12 km of grey volcanic sand. Therapeutic minerals. Almost nobody here."
     },
     "ada-bojana": {
       "name": "Ada Bojana",
       "tag": "Kitesurfing",
-      "desc": "River island with sandy beaches and consistent wind."
+      "desc": "Wild river delta. Thermal winds. Stilt-house fish restaurants over the water."
     },
     "stari-grad": {
       "name": "Stari Grad",
       "tag": "Old Town",
-      "desc": "Ancient fortress and Ottoman architecture overlooking the sea."
+      "desc": "Pirate fortress, Ottoman walls, and a muezzin call that echoes across 2,500 years."
     },
     "valdanos": {
       "name": "Valdanos",
       "tag": "Olive Groves",
-      "desc": "Secluded bay surrounded by 80,000 olive trees."
+      "desc": "Dirt track to a silent bay. 80,000 olive trees. Zero facilities. Bring everything."
     },
     "bar": {
       "name": "Bar",
       "tag": "30 Minutes",
-      "desc": "Port city with Stari Bar ruins and ferry connections."
+      "desc": "Working port, ruined fortress on the hill, and an olive tree older than Rome."
     },
     "lake-skadar": {
       "name": "Lake Skadar",
       "tag": "45 Minutes",
-      "desc": "The Balkans' largest lake — pelicans, monasteries, wine."
+      "desc": "Pelicans and flamingos on the Balkans' biggest lake. Wine tastings on the shore."
     },
     "podgorica-airport": {
       "name": "Podgorica Airport",
       "tag": "40 Minutes",
-      "desc": "Montenegro's closest airport to Ulcinj."
+      "desc": "Closest airport to Ulcinj. Collect your car and drive south until the signs run out."
     },
     "shkodra": {
       "name": "Shkodra",
       "tag": "Albania — 30 Min",
-      "desc": "Cross into Albania and explore Rozafa Castle."
+      "desc": "Cross the border, climb Rozafa Castle, eat byrek. Back for dinner."
     }
   },
   "kotor": {
@@ -355,25 +355,10 @@
     "subtitle": "Montenegro's capital — just 45 minutes inland from Ulcinj.",
     "seoDesc": "Podgorica is the closest major city to Ulcinj, just 40 km inland. Explore the capital's rivers, bridges, and markets before heading to the mountains."
   },
-  "podgorica-airport": {
-    "title": "Podgorica Airport Car Hire",
-    "subtitle": "Montenegro's closest airport to Ulcinj — just 40 km away.",
-    "seoDesc": "Podgorica Airport (TGD) is the closest airport to Ulcinj at just 45 minutes. Budget carriers, year-round flights, meet-and-greet pickup."
-  },
   "dubrovnik-airport": {
     "title": "Dubrovnik Airport Car Hire",
     "subtitle": "Fly into Croatia, drive south to Montenegro's coast.",
     "seoDesc": "Fly into Dubrovnik Airport and drive to Ulcinj via the Montenegrin coast. Cross at Debeli Brijeg, green card insurance included."
-  },
-  "montenegro": {
-    "title": "Montenegro Driving Guide from Ulcinj",
-    "subtitle": "Practical road intel: routes north, border crossings, and drive times from southern Montenegro.",
-    "seoDesc": "Road-by-road driving guide from Ulcinj: coastal routes north, Podgorica connection, Albania border crossing, and essential driving tips."
-  },
-  "border-crossing": {
-    "title": "Border Crossing Guide",
-    "subtitle": "Documents, wait times, and crossing logistics for rental cars.",
-    "seoDesc": "Green card, rental contract, passport — what to have ready at each checkpoint. Albania, Croatia, Bosnia, Kosovo crossing details from Ulcinj."
   },
   "kotorBody": {
     "h1": "Kotor — 2 Hours North via the Adriatic Coast",
@@ -483,148 +468,148 @@
     "gettingText2": "From the bay, continue south through Budva and Bar to Ulcinj. The total drive is 4-5 hours depending on border wait times and route choice. Break the journey with stops at Kotor, Budva, or Petrovac."
   },
   "aboutBody": {
-    "h1": "Ulcinj Car Hire",
-    "p1": "Ulcinj Car Hire connects travellers with reliable, affordable rental cars in Montenegro's southern coast. Ulcinj is the furthest major resort from both airports — making a hire car not just convenient, but essential for reaching Velika Plaza, Ada Bojana, and the region's hidden gems.",
-    "h2": "Why You Need a Car in Ulcinj",
-    "p2": "Ulcinj sits at the southern tip of Montenegro's coastline, 75km from Tivat Airport and 40km from Podgorica Airport. Public transport to Ulcinj is extremely limited — buses are infrequent and don't reach the beaches or outlying attractions. A rental car gives you the freedom to explore Velika Plaza's 12km shoreline, cross into Albania for a day trip to Shkodra, or drive inland to Lake Skadar.",
-    "h3": "What We Offer",
-    "p3": "We provide car rental services throughout Montenegro, with pickup and dropoff at Podgorica Airport, Tivat Airport, and locations across the coast and interior. Our fleet ranges from compact city cars to spacious SUVs, all fully insured with no hidden fees.",
-    "promiseTitle": "Our Promise",
-    "promise1": "Full insurance with zero excess options available",
-    "promise2": "Airport meet-and-greet — we bring the car to you at arrivals",
-    "promise3": "No hidden fees — the price you see is the price you pay",
-    "promise4": "Cross-border travel permitted to Albania, Croatia, Bosnia, Serbia, and Kosovo",
-    "promise5": "Free cancellation on most bookings",
-    "promise6": "24/7 roadside assistance throughout your trip",
-    "h4": "Local Knowledge",
-    "p4": "We know the roads of southern Montenegro inside out. Whether you're driving from Podgorica Airport down to Ulcinj's Old Town, taking the coastal road to Ada Bojana for kitesurfing, exploring the olive groves at Valdanos, or crossing into Albania to visit Shkodra, we can help you plan the route.",
+    "h1": "The Road South Ends Here",
+    "p1": "We built Ulcinj Car Hire because nobody else was paying attention to the south. The tourist trail stops at Budva. The guidebooks give Ulcinj a paragraph. The bus timetable is more suggestion than schedule. But down here — past the last petrol station on the coastal road, where the muezzin call drifts over Ottoman walls and the sand turns grey with volcanic minerals — this is where Montenegro gets interesting.",
+    "h2": "Why a Car Changes Everything",
+    "p2": "No railway has ever been built to Ulcinj. The bus from Podgorica runs a few times daily, skips most beaches entirely, and stops nowhere near Ada Bojana or Valdanos. Velika Plaza stretches for 12 km along the Albanian border with no pavement, no bus stop, and no taxi rank. The dirt track to Valdanos bay has no signpost. The Sukobin border crossing to Albania is 15 minutes south — but only if you have wheels. A car is not a convenience here. It is the difference between seeing Ulcinj and actually experiencing it.",
+    "h3": "What We Arrange",
+    "p3": "Pickup at Podgorica Airport (40 km), Tivat Airport (75 km), or anywhere across Montenegro. Compact cars for Stari Grad's tight lanes, SUVs for the unpaved road to Valdanos, beach-ready wagons that can handle sand. All fully insured with Albanian border paperwork sorted at booking.",
+    "promiseTitle": "What Comes Standard",
+    "promise1": "Full insurance with zero-excess upgrade available — dirt roads and unmarked tracks included",
+    "promise2": "Airport meet-and-greet at Podgorica or Tivat — your car is at arrivals, not in a lot three shuttles away",
+    "promise3": "Transparent pricing — no surprises when you are 40 km from the nearest ATM",
+    "promise4": "Cross-border travel to Albania, Croatia, Bosnia, Serbia, and Kosovo — Green Card arranged at booking",
+    "promise5": "Free cancellation on most bookings — Balkan plans shift, we get it",
+    "promise6": "24/7 roadside assistance — even on the trackless stretch between Velika Plaza and the Albanian border",
+    "h4": "We Know These Roads",
+    "p4": "The shortcut through Tuzi that saves 20 minutes from the airport. The unmarked left turn to Valdanos that Google Maps misses. The tide timing at Ada Bojana that determines whether you park on sand or in the river. The old town market where you can buy fresh figs, local honey, and olive oil pressed from trees that were ancient when Rome was young. We drive these roads daily, and we will help you plan yours. Mirëdita — welcome south.",
     "h5": "Get in Touch",
-    "p5": "Have a question about renting a car in Ulcinj? We're available via phone, WhatsApp, and Viber. Search our fleet online and book in minutes — or reach out and we'll help you find the right car for your trip."
+    "p5": "Questions about renting a car in Ulcinj? We are available via phone, WhatsApp, and Viber. Search the fleet online and book in minutes — or reach out and we will match you with the right vehicle for wherever you are headed. Faleminderit."
   },
   "velikaPlazaBody": {
-    "h1": "Velika Plaza — One of Europe's Longest Beaches",
-    "p1": "Velika Plaza (Long Beach) stretches for 12 kilometres along Ulcinj's southern coastline, making it one of the longest sandy beaches in Europe. The dark, mineral-rich sand is said to have therapeutic properties, drawing visitors from across the Balkans and beyond.",
-    "p2": "Reaching Velika Plaza requires a car — the beach begins about 5km south of Ulcinj town and stretches all the way to Ada Bojana at the Albanian border. Public transport to the beach is minimal, so a rental car is the practical choice for exploring the full length of the shoreline.",
-    "activitiesTitle": "Activities",
-    "activity1": "Kitesurfing and windsurfing — consistent thermal winds make this a hotspot",
-    "activity2": "Beach bars and restaurants along the shore, particularly around the northern end",
-    "activity3": "Therapeutic sand treatments — the mineral-rich sand is locally famous",
-    "activity4": "Sunbathing and swimming — shallow entry makes it family-friendly",
+    "h1": "Velika Plaza — 12 Kilometres of Grey Volcanic Sand",
+    "p1": "Few tourists know about Velika Plaza, and fewer still make it here. The sand is not golden — it is fine, grey, and loaded with volcanic minerals that locals have used for therapeutic treatments for generations. The beach begins roughly 5 km south of Ulcinj town and stretches, unbroken and largely empty, all the way to the Albanian border. On a clear day you can see the mountains of northern Albania shimmering in the heat haze across the water.",
+    "p2": "Getting here requires a car. There is no bus. There is no pavement for the last stretch. The parking areas are informal — gravel clearings between the dunes and the occasional beach bar. Sand gets into everything: the car, your shoes, your bag. That is part of the deal. The reward is a beach so vast that even in August you can walk for twenty minutes without passing another soul.",
+    "activitiesTitle": "What Happens on the Sand",
+    "activity1": "Kitesurfing and windsurfing — thermal winds blow 15-25 knots from June through September, with shallow water ideal for beginners and advanced riders alike",
+    "activity2": "Beach bars cluster near the northern access points, serving cold Niksicko beer and grilled fish. The further south you walk, the emptier it gets",
+    "activity3": "Therapeutic sand treatments — bury yourself in the mineral-rich grey sand. Locals swear by it for joint pain and skin conditions",
+    "activity4": "Swimming in water that stays shallow for 50+ metres out, warm from June, and remarkably clean given how wild the beach is",
     "gettingThereTitle": "Getting There",
-    "gettingThereText": "From Ulcinj centre, drive south on the main coastal road. The beach stretches from the town's outskirts all the way to Ada Bojana. Parking is available at several access points along the road, with beach clubs offering their own lots."
+    "gettingThereText": "Drive south from Ulcinj centre on the main coastal road. Multiple access tracks branch off to the beach along the 12 km stretch. The northern end near Copacabana beach bar is easiest to find. For the emptiest sections, keep driving south until the road becomes a track and the dunes close in on both sides."
   },
   "adaBojanaBody": {
-    "h1": "Ada Bojana — River Island Paradise",
-    "p1": "Ada Bojana is a triangular river island at the mouth of the Bojana river, right on the Albanian border. It's connected to the mainland by a bridge and is famous for kitesurfing, sandy beaches on all three sides, and fresh river fish restaurants built on stilts over the water.",
-    "p2": "The island attracts kitesurfers from across Europe thanks to consistent thermal winds that blow reliably from spring through autumn. The shallow, warm waters and wide sandy beaches create conditions suited to both beginners and advanced riders.",
-    "kitesurfTitle": "Kitesurfing",
-    "kitesurfText": "Ada Bojana is Montenegro's kitesurfing capital. Several schools operate on the island offering lessons and equipment hire. The best wind conditions run from May to September, with thermal winds typically picking up around midday.",
-    "restaurantsTitle": "River Fish Restaurants",
-    "restaurantsText": "The island is dotted with traditional wooden restaurants built on stilts over the Bojana river. Fresh fish — including carp, eel, and mullet — is grilled on the spot. It's a dining experience unique to this part of Montenegro.",
+    "h1": "Ada Bojana — Europe's Last Wild River Delta",
+    "p1": "Ada Bojana is a triangular island formed where the Bojana river empties into the Adriatic, right on the Albanian border. It is the last wild river delta in Europe — no concrete promenade, no resort complex, just sandy riverbanks, a single bridge in, and wooden stilt-house restaurants perched over the slow brown water. The confluence of river and sea creates a microclimate that kitesurfers have been quietly exploiting for decades.",
+    "p2": "Consistent thermal winds blow 15 to 25 knots from June through September, pulling reliably from the same direction each afternoon. The water is shallow and warm on the river side, deeper and cooler on the Adriatic face. Several kite schools operate from the beach, renting gear and running courses. Even non-surfers come for the atmosphere — the stilt restaurants serve freshly grilled carp, eel, and mullet pulled from the river that morning, and the sunset over the delta is genuinely extraordinary.",
+    "kitesurfTitle": "Kitesurfing Conditions",
+    "kitesurfText": "The thermal wind pattern is remarkably consistent: calm mornings, building from midday, peaking at 15-25 knots through the afternoon. The river side offers flat, shallow water for freestyle and beginners. The sea side has small waves for wave riding. Several schools offer lessons, board storage, and rental gear. The season runs May to September, with July and August being the most reliable months.",
+    "restaurantsTitle": "Eating on the River",
+    "restaurantsText": "The stilt-house restaurants are Ada Bojana's signature. Wooden platforms built over the river, reached by narrow gangways, serving whatever the fishermen caught that day. Grilled fish, river eel, and fresh salad. No menus in some places — the waiter tells you what is available. Cold rakija to finish. This is not polished dining. This is food pulled from the water beneath your feet, cooked over charcoal, and served on paper tablecloths while the river slides past.",
     "gettingThereTitle": "Getting There",
-    "gettingThereText": "Ada Bojana is approximately 20km south of Ulcinj centre. Cross the bridge from the mainland — the road continues across the island to the various beaches. A car is essential as there is no public transport to the island."
+    "gettingThereText": "Drive 15 km south from Ulcinj centre, past Velika Plaza, and cross the single bridge onto the island. The road is paved but narrow. There is no public transport to Ada Bojana — a car is the only realistic option. Park on the island near your chosen beach or restaurant."
   },
   "stariGradBody": {
-    "h1": "Stari Grad — Ulcinj's Ancient Fortress",
-    "p1": "Ulcinj's Stari Grad (Old Town) sits on a rocky promontory overlooking the Adriatic, with fortified walls dating back over 2,500 years. It's one of the oldest continuously inhabited settlements on the Adriatic coast, with layers of Illyrian, Roman, Venetian, and Ottoman history visible in the architecture.",
-    "p2": "The fortress complex contains a museum, several small churches and mosques, a central square, and winding stone alleys lined with restaurants and small hotels. The views from the ramparts across to Italy on clear days are spectacular.",
-    "historyTitle": "History",
-    "historyText": "Pirates, Venetian admirals, and Ottoman pashas have all ruled from these walls. Legend has it that Miguel de Cervantes was held captive here, and the town's character may have inspired elements of Don Quixote. The Ottoman influence remains strong — Ulcinj's majority Albanian population gives the Old Town a distinctly Mediterranean-meets-Oriental atmosphere.",
-    "whatToSeeTitle": "What to See",
-    "museum": "The Ulcinj Museum inside the fortress — archaeological finds from ancient times to the Ottoman period",
-    "mosque": "The historic mosques and hammam ruins, reflecting centuries of Ottoman rule",
-    "walls": "The fortified walls and towers with panoramic Adriatic views",
+    "h1": "Stari Grad — 2,500 Years of Pirate Walls and Ottoman Prayers",
+    "p1": "Ulcinj's Old Town sits on a rocky headland above the Adriatic, fortified by walls that have been built, destroyed, and rebuilt for two and a half millennia. Illyrians laid the first stones. Romans expanded them. Venetians reinforced them. Ottomans added minarets. Pirates used them as a base for raiding Adriatic shipping. The legend says Miguel de Cervantes was held captive in the Balsic Tower here, and that the character of Dulcinea in Don Quixote takes her name from Dulcigno — the old Italian name for Ulcinj.",
+    "p2": "Today the fortress is a layered archaeological sandwich. A mosque stands next to a church. Albanian is spoken more than Montenegrin. The muezzin call from the minaret mixes with church bells on Sunday morning. The old town market in the lanes below sells fresh figs, jars of local honey, and olive oil pressed from the ancient groves at Valdanos. Say mirëdita (hello) and you will get a smile. Say faleminderit (thank you) and you will get a conversation.",
+    "historyTitle": "The Pirate Stronghold",
+    "historyText": "Ulcinj was one of the Adriatic's most notorious pirate ports from the 16th to 18th centuries. The Balsic Tower — the tall structure dominating the fortress — reportedly held Cervantes prisoner for five years after he was captured at the Battle of Lepanto in 1571. North African pirates, Barbary corsairs, and local raiders all used Ulcinj as a base. The slave market in the main square is now a peaceful piazza with cafe tables, but the iron rings in the walls are still visible.",
+    "whatToSeeTitle": "Inside the Walls",
+    "museum": "Ulcinj Museum in the fortress — Illyrian coins, Ottoman weaponry, and a scale model of the old pirate port",
+    "mosque": "The historic mosques and hammam ruins — Ottoman Ulcinj had 12 mosques and 4 hammams within the walls",
+    "walls": "Walk the full circuit of the ramparts. On a clear day you can see across to Italy. The sunset from the western battlements is worth the climb alone.",
     "gettingThereTitle": "Getting There",
-    "gettingThereText": "Stari Grad is in the heart of Ulcinj town. Park in the lots below the fortress walls and walk up through the main gate. The climb is short but steep."
+    "gettingThereText": "Stari Grad is in the centre of Ulcinj town. Park in the paid lots below the fortress walls — the streets are too narrow for cars inside. Walk up through the main gate. The climb is short, steep, and absolutely worth it."
   },
   "valdanosBody": {
-    "h1": "Valdanos — Bay of 80,000 Olive Trees",
-    "p1": "Valdanos is a secluded bay roughly 4km north of Ulcinj, hidden behind a hillside covered with an estimated 80,000 olive trees — some over 2,000 years old. The bay itself is a small, sheltered cove with crystal-clear water and a pebbly beach.",
-    "p2": "The area has a wild, untouched quality that sets it apart from the more developed beaches around Ulcinj. The combination of ancient olive groves, quiet water, and surrounding hills makes Valdanos feel like a secret Mediterranean hideaway.",
-    "olivesTitle": "The Olive Groves",
-    "olivesText": "The olive groves around Valdanos are among the oldest cultivated groves in the Mediterranean. Local olive oil from this area is prized for its quality. Several farms in the area offer tastings and sell directly to visitors.",
+    "h1": "Valdanos — A Hidden Bay Behind 80,000 Olive Trees",
+    "p1": "Valdanos is the kind of place that does not appear in guidebooks, and that is exactly the point. A rough dirt track branches off the coastal road about 4 km north of Ulcinj and drops through dense olive groves — an estimated 80,000 trees, some confirmed to be over 2,000 years old — down to a silent bay with crystal-clear water and a pebble beach. There are no sun loungers. No beach bar. No facilities of any kind. Bring water, food, and everything else you need.",
+    "p2": "The bay has a wild, slightly eerie quality. Abandoned socialist-era bungalows dot the hillside above the beach, overtaken by ivy and fig trees. The olive groves are thick enough to block the wind, creating a sheltered microclimate that feels ten degrees warmer than the open coast. The water is startlingly clear — you can see the bottom at 5 metres. Stray dogs wander the track. The only sound is cicadas and the occasional fishing boat engine in the distance.",
+    "olivesTitle": "The Ancient Olive Groves",
+    "olivesText": "The Valdanos olive groves are among the oldest cultivated groves in the entire Mediterranean basin. Some individual trees have been carbon-dated to over 2,000 years — they were producing fruit when the Roman Empire was at its peak. Local farmers still press oil from these trees, and you can buy bottles directly from houses along the track. The oil is thick, green, peppery, and nothing like what you find in supermarkets.",
     "gettingThereTitle": "Getting There",
-    "gettingThereText": "From Ulcinj centre, drive north along the coastal road towards Bar. After about 4km, turn left down the signed track to Valdanos bay. A car is necessary — there is no public transport. The road is unpaved for the last kilometre."
+    "gettingThereText": "From Ulcinj centre, drive north on the coastal road toward Bar. After about 4 km, look for an unsigned left turn (easy to miss — it is between two stone walls). The track is unpaved, potholed, and narrow for the last kilometre. A standard car can make it in dry conditions, but slowly. An SUV handles it comfortably. There is no public transport. There are no taxis. If your car cannot manage the track, park at the top and walk down — it takes about 15 minutes on foot."
   },
   "barBody": {
-    "h1": "Bar — Port City and Ancient Ruins",
-    "p1": "Bar is a working port city about 30 minutes north of Ulcinj by car. While the modern town centres on the ferry terminal (with connections to Bari, Italy), the real draw is Stari Bar — the ruined medieval city in the hills above the town.",
-    "p2": "Stari Bar contains the remains of over 240 buildings, including churches, mosques, and palaces, spread across a dramatic hilltop site. The ruins date from various periods, with some structures over 1,000 years old. An ancient olive tree near Stari Bar — believed to be over 2,000 years old — is one of the oldest in Europe.",
+    "h1": "Bar — Working Port and Medieval Ruins on the Hill",
+    "p1": "Bar is not a pretty town. It is a working Adriatic port 30 minutes north of Ulcinj, built mostly from post-earthquake concrete after the devastating 1979 quake flattened much of the original settlement. The modern waterfront has a ferry terminal with overnight boats to Bari, Italy, a promenade lined with cafes, and a functional commercial harbour. But the reason to come here is above the town — Stari Bar, the ruined medieval fortress city that clings to the hillside like a ghost.",
+    "p2": "Stari Bar contains the remains of over 240 buildings — churches, mosques, palaces, houses, and public baths — spread across a dramatic hilltop connected to the modern town by a 20-minute walk through olive groves. An ancient olive tree near the entrance is believed to be over 2,000 years old, making it one of the oldest living trees in Europe. It still produces fruit.",
     "dayTripTitle": "What to See",
-    "stariBar": "Stari Bar ruins — the medieval fortress city with panoramic views",
-    "oliveTree": "The Old Olive Tree — said to be over 2,000 years old, one of Europe's most ancient",
-    "portArea": "The waterfront promenade and ferry port area",
+    "stariBar": "Stari Bar fortress ruins — wander through 240 crumbling structures with views across to Italy on clear days. Allow 2 hours minimum",
+    "oliveTree": "The Old Olive Tree of Bar — a gnarled, fenced-off monument believed to be 2,000+ years old. Still alive. Still bearing olives",
+    "portArea": "The waterfront promenade — functional rather than beautiful, but the spot to check the ferry schedule to Bari if Italy is calling",
     "gettingThereTitle": "Getting There",
-    "gettingThereText": "Drive north from Ulcinj on the main coastal road (E85). Bar is roughly 30km away, taking about 30 minutes. Stari Bar is a further 4km inland from the modern town."
+    "gettingThereText": "Drive north from Ulcinj on the E85 coastal road. Bar is 30 km away, about 30 minutes in normal traffic. Park in the modern town and walk or drive up to Stari Bar (4 km further inland, signed from the main road)."
   },
   "lakeSkadarBody": {
-    "h1": "Lake Skadar — The Balkans' Largest Lake",
-    "p1": "Lake Skadar (Skadarsko Jezero) is shared between Montenegro and Albania and is the largest lake in the Balkans. Designated a National Park, it's home to over 280 bird species including rare Dalmatian pelicans, plus island monasteries, traditional fishing villages, and some of Montenegro's best wine.",
-    "p2": "From Ulcinj, the lake is about 45 minutes by car via Podgorica or the inland route through Krute. The drive itself is scenic, passing through rolling green hills and small villages.",
-    "activitiesTitle": "Activities",
-    "boatTour": "Boat tours from Virpazar or Rijeka Crnojevica — see the monasteries, pelicans, and water lilies",
-    "wine": "Wine tasting at lakeside vineyards — the Crmnica region produces excellent Vranac reds",
-    "kayak": "Kayaking through the lily pads and quiet channels",
+    "h1": "Lake Skadar — Pelicans, Flamingos, and Crmnica Wine",
+    "p1": "Lake Skadar is the largest lake in the Balkans, shared between Montenegro and Albania, and it sits just 45 minutes inland from Ulcinj. It is a national park, a birdwatcher's paradise, and home to one of the last breeding colonies of Dalmatian pelicans in Europe. In the right season — late autumn through early spring — flamingos appear at the Salina salt pans on the lake's western edge. The first time you see a flamingo standing in a Montenegrin wetland, you question your map.",
+    "p2": "The Montenegrin shore is dotted with tiny fishing villages, island monasteries accessible only by boat, and the Crmnica wine region where steep hillside vineyards produce a dark, tannic Vranac red that pairs perfectly with smoked carp from the lake. Boat tours depart from Virpazar and Rijeka Crnojevica, winding through channels lined with water lilies to hidden monastery islands and pelican nesting grounds.",
+    "activitiesTitle": "What to Do",
+    "boatTour": "Boat tours from Virpazar or Rijeka Crnojevica — wind through lily-pad channels to island monasteries and pelican colonies. Allow half a day minimum",
+    "wine": "Wine tasting at Crmnica vineyards along the southern shore — thick Vranac reds, lake-view terraces, and smoked fish platters",
+    "kayak": "Kayaking through the quiet channels at dawn when the birds are most active and the lake is glass-flat. Rental available at Virpazar",
     "gettingThereTitle": "Getting There",
-    "gettingThereText": "From Ulcinj, drive north towards Podgorica, then follow signs to Virpazar (the main access point for boat tours). The total journey takes roughly 45 minutes."
+    "gettingThereText": "Drive north from Ulcinj toward Podgorica, then follow signs to Virpazar (the main boat tour departure point). The total journey is roughly 45 minutes. Alternatively, take the inland road through Krute for a more scenic, winding approach through small Albanian-majority villages."
   },
   "podgoricaAirportBody": {
     "h1": "Car Hire at Podgorica Airport (TGD)",
-    "p1": "Podgorica Airport is the closest airport to Ulcinj — just 40km away, or roughly 45 minutes by car. For travellers heading to Montenegro's south coast, Podgorica is the logical arrival point, cutting the driving time nearly in half compared to Tivat Airport.",
-    "p2": "The airport handles both international and domestic flights, with daily service to Belgrade and regular flights to major European cities. A new terminal opened in 2006, and the facility has won ACI Europe awards for quality.",
+    "p1": "Podgorica Airport is Ulcinj's closest airport — just 40 km north, roughly 45 minutes by road through Tuzi. For anyone heading to the deep south of Montenegro, this is the logical arrival point. Collect your car at arrivals and drive south. The signs get sparser. The road gets emptier. Ulcinj appears when you have almost given up looking for it.",
+    "p2": "The airport handles daily flights to Belgrade and regular connections to major European cities. It is small, functional, and efficient — you clear baggage and walk to your car in under 10 minutes. A new terminal opened in 2006 and has won ACI Europe awards for service quality.",
     "distancesTitle": "Distances from Podgorica Airport",
     "dist1": "Ulcinj: 40 km (approximately 45 minutes)",
     "dist2": "Bar: 50 km (approximately 50 minutes)",
     "dist3": "Velika Plaza: 45 km (approximately 50 minutes)",
     "dist4": "Podgorica centre: 12 km (approximately 15 minutes)",
-    "whyTitle": "Why Pick Up at Podgorica?",
-    "whyText": "Podgorica Airport is the closest airport to Ulcinj and Montenegro's southern coast. Picking up your car here means a straightforward 45-minute drive south to Ulcinj, Ada Bojana, and Velika Plaza. The route is well-maintained dual carriageway for most of the journey.",
+    "whyTitle": "Why Podgorica for Ulcinj?",
+    "whyText": "Podgorica is the closest airport to Ulcinj and the entire southern coast. Picking up here saves at least an hour compared to Tivat. The road south is well-maintained dual carriageway for most of the journey, passing through the Albanian-majority town of Tuzi before the landscape opens up and Ulcinj's fortress appears on the headland.",
     "meetText": "We meet you at the arrivals hall with your name on a sign. Your car is parked right outside. Total time from landing to driving: about 10 minutes."
   },
   "shkodraBody": {
-    "h1": "Day Trip to Shkodra, Albania",
-    "p1": "Shkodra (Shkoder) is one of Albania's oldest and most culturally significant cities, sitting at the southern end of Lake Skadar just 30 minutes from Ulcinj across the Montenegrin-Albanian border. The Sukobin/Muriqan border crossing is straightforward and typically has short wait times.",
-    "p2": "The city is dominated by Rozafa Castle, a dramatic hilltop fortress overlooking the lake and surrounding plains. The castle has been occupied since Illyrian times and offers panoramic views that alone justify the trip.",
+    "h1": "Shkodra — Albania in 30 Minutes",
+    "p1": "Shkodra is one of the oldest cities in the Balkans, sitting at the southern tip of Lake Skadar just across the Albanian border. The Sukobin/Muriqan crossing is 15 minutes south of Ulcinj and is Montenegro's quietest Albanian checkpoint — often cleared in under 20 minutes. The shift is immediate: different language, different currency (Albanian lek), different energy. The road to Shkodra is lined with unfinished concrete buildings, roadside watermelon vendors, and the occasional donkey cart sharing the lane with you.",
+    "p2": "Rozafa Castle dominates the approach — an Illyrian-era fortress on a dramatic hilltop overlooking the lake, the rivers, and the entire Shkodra plain. The legend says a woman was walled into the foundations as a sacrifice during construction, and her breast still protrudes from the stone so she could continue feeding her infant. Whether you believe the story or not, the views from the top are staggering.",
     "whatToSeeTitle": "What to See",
-    "castle": "Rozafa Castle — Illyrian-era hilltop fortress with sweeping views over Lake Skadar",
-    "pedestrian": "The renovated pedestrian centre with Ottoman-era bazaar, cafes, and galleries",
-    "lake": "Lake Skadar's Albanian shore — a different perspective on the lake",
-    "borderTitle": "Border Crossing",
-    "borderText": "The Sukobin/Muriqan crossing is the most traveller-friendly route from Ulcinj to Albania. Ensure your rental company has provided a Green Card covering Albania. Have your passport, rental contract, and Green Card ready. Wait times are usually under 30 minutes.",
+    "castle": "Rozafa Castle — climb the Illyrian fortress walls for panoramic views across Lake Skadar and the Albanian Alps in the distance",
+    "pedestrian": "The renovated pedestrian centre — Ottoman-era bazaar lanes, Italian-era boulevards, strong espresso in tiny cups, and bakeries selling hot byrek (Albanian savoury pastry)",
+    "lake": "The Albanian shore of Lake Skadar — a completely different perspective on the lake, quieter and less visited than the Montenegrin side",
+    "borderTitle": "Crossing at Sukobin",
+    "borderText": "The Sukobin/Muriqan checkpoint is small and usually fast. Have your passport, rental contract, and Green Card ready. Wait times are typically under 20 minutes. On the Albanian side, the road improves significantly once you reach the Shkodra bypass. Bring some lek or withdraw from ATMs in Shkodra — euros are accepted informally but at poor rates.",
     "gettingThereTitle": "Getting There",
-    "gettingThereText": "From Ulcinj, drive south through Krute towards the Albanian border at Sukobin. After crossing, follow the main road to Shkodra — total driving time is approximately 30-40 minutes."
+    "gettingThereText": "Drive south from Ulcinj through Krute toward the Albanian border at Sukobin. After clearing the checkpoint, follow the main road to Shkodra — total driving time is 30-40 minutes. The drive back is the same route. Allow a full day for a comfortable visit including the castle, lunch in the pedestrian zone, and a walk along the lake."
   },
   "montenegroBody": {
-    "h1": "Exploring Montenegro by Car",
-    "p1": "Montenegro stands as one of Europe's most rewarding destinations for self-drive exploration. From dramatic mountain roads and quiet inland villages to winding coastal drives along the Adriatic, the country offers diverse landscapes within surprisingly short distances. Renting a car provides access to locations well beyond the reach of public transport.",
-    "p2": "Although compact in size, Montenegro requires longer driving times than maps suggest. Mountain switchbacks, narrow coastal roads, and scenic routes encourage frequent stops. Travellers gain the freedom to experience both journey and destination — navigating fjord-like bays, historic towns, and highland viewpoints at their own pace.",
+    "h1": "Driving Southern Montenegro — An Honest Guide",
+    "p1": "Southern Montenegro is not the polished Adriatic that travel magazines sell. Below Bar, the road narrows. Signage becomes optional. Google Maps sends you down tracks that end at a farmer's gate. Livestock crosses the road without warning. The last petrol station before Albania is in Ulcinj town, and it closes early on Sundays. This is the part of the country that the tourist brochures quietly skip — and it is the most rewarding stretch of coastline in the entire eastern Mediterranean.",
+    "p2": "The landscape shifts constantly: rocky headlands give way to flat salt marshes, which give way to olive-covered hillsides, which give way to 12 km of grey volcanic sand. The towns have minarets instead of church towers. Albanian is spoken as often as Montenegrin. Fresh burek from roadside bakeries costs less than a euro. The roads are fine if you pay attention, terrible if you do not. A car is not optional — it is the entire point.",
     "startTitle": "Getting Started",
-    "startText": "For Ulcinj-bound travellers, Podgorica Airport is the closest option at just 40km. Tivat Airport is 75km away but often has more international routes. Both airports have car hire desks and meet-and-greet delivery services.",
-    "timesTitle": "Driving Times",
-    "timesText1": "Actual driving times regularly exceed what maps show. Mountain switchbacks, jagged coastline roads, rural obstacles (including livestock), and winter mountain snow all contribute to longer journeys. The scenic coastal and countryside experience more than justifies the extended travel time.",
-    "timesText2": "From Ulcinj: Bar is 30 minutes, Podgorica Airport 45 minutes, Budva 1.5 hours, Kotor 2 hours, Tivat Airport 1.5 hours.",
-    "rulesTitle": "Driving Rules & Safety",
-    "rulesIntro": "Traffic police checks occur frequently but present no concern if you have proper documentation. You'll need:",
-    "rule1": "A valid driver's licence (international licence accepted)",
-    "rule2": "Rental contract or proof of vehicle ownership",
-    "rule3": "Insurance documentation",
-    "rule4": "A \"Green Card\" for border crossings (approximately 15 Euros for 15 days)",
+    "startText": "Podgorica Airport is 40 km from Ulcinj — the closest option. Tivat Airport is 75 km but has more international routes. Both have car hire desks and meet-and-greet delivery. For the deep south, Podgorica saves an hour of driving.",
+    "timesTitle": "Realistic Driving Times",
+    "timesText1": "Maps underestimate everything south of Bar. Mountain switchbacks, single-lane roads with oncoming traffic, and the occasional herd of goats all add time. Budget 50% more than Google suggests and you will be relaxed instead of stressed.",
+    "timesText2": "From Ulcinj: Bar 30 min, Podgorica Airport 45 min, Lake Skadar 45 min, Shkodra (Albania) 35 min, Budva 1.5 hours, Kotor 2 hours.",
+    "rulesTitle": "Driving Rules and Realities",
+    "rulesIntro": "Police checkpoints are common and straightforward if your paperwork is in order. Keep these documents accessible:",
+    "rule1": "Valid driving licence (international licence accepted)",
+    "rule2": "Rental contract or vehicle ownership proof",
+    "rule3": "Insurance documents",
+    "rule4": "Green Card for border crossings (approximately 15 EUR for 15 days)",
     "keyRulesTitle": "Key Rules",
-    "keyRule1": "Seat belts are mandatory for all passengers",
-    "keyRule2": "Mobile phone use while driving is prohibited",
-    "keyRule3": "Any drinking and driving is illegal — zero tolerance",
-    "keyRule4": "Speed limits are strictly enforced",
-    "conditionsTitle": "Road Conditions",
-    "conditionsText": "City roads maintain fair condition. Mountain roads can be more challenging, with minimal guard rails in places. Some drivers operate aggressively, so caution is advised throughout the country — particularly on mountain passes and narrow coastal stretches.",
-    "routesTitle": "Main Routes",
-    "e65Title": "E65/E80",
-    "e65Text": "The main coastal route connects Herceg-Novi to Podgorica, passing through Kotor, Perast, Tivat, and Budva. This is the most popular driving route and offers stunning views of the Bay of Kotor.",
-    "e762Title": "E762",
-    "e762Text": "Bisects the country from coast to interior, leading into eastern Croatia. This route takes you through Montenegro's mountainous heartland.",
+    "keyRule1": "Seat belts mandatory — all passengers, no exceptions",
+    "keyRule2": "Mobile phone use while driving is prohibited — hands-free only",
+    "keyRule3": "Zero alcohol tolerance — any trace means licence confiscation on the spot",
+    "keyRule4": "Speed limits strictly enforced, particularly through villages",
+    "conditionsTitle": "Road Conditions in the South",
+    "conditionsText": "Main roads between Bar and Ulcinj are generally fine. Side roads to beaches and bays range from patchy tarmac to dirt tracks. The road to Valdanos is unpaved for the last kilometre. The road across Ada Bojana is paved but narrow. Stray dogs, cats, and occasional goats share the road with you. Drive carefully after dark — street lighting is minimal outside towns.",
+    "routesTitle": "Main Routes from Ulcinj",
+    "e65Title": "Coastal Road North (E85)",
+    "e65Text": "The main route from Ulcinj to Bar, Petrovac, Budva, and eventually Kotor. Well-maintained, scenic, and busy in summer. The stretch between Bar and Budva has tunnels and sharp bends — keep headlights on.",
+    "e762Title": "Inland via Tuzi",
+    "e762Text": "The fast route to Podgorica Airport. Dual carriageway for most of the distance. Passes through the Albanian-majority town of Tuzi — good burek at the bakeries on the main road.",
     "borderTitle": "Border Crossings",
-    "borderText": "Cross-border travel is straightforward with the right documentation. Checkpoints can experience heavy congestion during peak season, with kilometre-long car queues common at popular crossings. Optimal crossing times are weekday mornings or late evenings.",
-    "nationTitle": "A Young Nation",
-    "nationText": "Montenegro achieved independence in June 2006, making it one of the world's newest nations. Tourism development continues to grow, offering a more exotic and slightly more rugged adventure compared to neighbouring countries. The landscape combines green mountains cut through by fjords full of deep blue Adriatic water, a variety of beaches, and the mysteries of ancient Old Towns."
+    "borderText": "The Sukobin/Muriqan crossing to Albania is 15 minutes south of Ulcinj and usually clears in under 20 minutes. Summer weekends can be busier. Have all documents ready in hand before you reach the window. The Debeli Brijeg crossing to Croatia (4+ hours north) is significantly busier — cross early morning or late evening.",
+    "nationTitle": "A Different Montenegro",
+    "nationText": "Southern Montenegro feels like a different country from the tourist coast around Budva and Kotor. The Albanian cultural influence is strong — the food shifts from cevapi to burek and byrek, the mosques outnumber the churches, and the pace of life slows to something approaching stillness. This is Montenegro at its most authentic, most multicultural, and most overlooked. A car lets you find it on your own terms."
   },
   "borderCrossingBody": {
     "h1": "Can I Take My Rental Car Across Borders?",
