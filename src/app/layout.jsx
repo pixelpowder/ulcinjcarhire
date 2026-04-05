@@ -9,9 +9,9 @@ import { LanguageContext } from '@/src/i18n/LanguageContext';
 import { DEFAULT_LANG } from '@/src/i18n/languages';
 
 export const metadata = {
-  title: 'Ulcinj Car Hire — Velika Plaza & Montenegro\'s South',
+  title: 'Ulcinj Car Hire — 12 km Beach, Albania Border',
   description:
-    'Rent a car in Ulcinj from EUR13/day. Pick up at Podgorica Airport, Tivat Airport, or Ulcinj. Explore Velika Plaza, Ada Bojana, and the Albanian border. Free cancellation, full insurance.',
+    'Montenegro\'s hidden south needs a car. 12 km Long Beach, Ada Bojana kitesurfing, and Albania 30 min away. From \u20AC13/day with Albanian border docs included.',
   metadataBase: new URL('https://www.ulcinjcarhire.com'),
 };
 
