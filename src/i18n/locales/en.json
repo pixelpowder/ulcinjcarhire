@@ -31,11 +31,11 @@
   },
   "trust": {
     "noHiddenFees": "No Hidden Fees",
-    "noHiddenFeesDesc": "The price you see is the price you pay — nothing tucked away in the fine print",
+    "noHiddenFeesDesc": "All-in pricing from the start — border tolls and fuel policy explained upfront",
     "fullInsurance": "Full Insurance",
-    "fullInsuranceDesc": "Comprehensive cover with a zero-excess upgrade if you want total peace of mind",
-    "fastPickup": "10-Min Pickup",
-    "fastPickupDesc": "Your car is waiting at arrivals — no shuttle buses, no queues"
+    "fullInsuranceDesc": "Full collision cover included, plus optional zero-excess for coastal and mountain routes",
+    "fastPickup": "Flexible Pickup",
+    "fastPickupDesc": "Collect from Podgorica Airport, Tivat Airport, or direct to your Ulcinj hotel"
   },
   "stats": {
     "years": "Years Experience",
