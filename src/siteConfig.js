@@ -9,7 +9,7 @@ const siteConfig = {
   hero: {
     headline: "Explore Ulcinj at Your Own Pace",
     subheadline: "Affordable car hire near Velika Plaza. 40km from Podgorica Airport, 75km from Tivat Airport.",
-    image: "/img/pexels-3802510.jpg",
+    image: "/img/hero-ulcinj.webp",
   },
 
   cars: [
@@ -153,9 +153,9 @@ const siteConfig = {
   ],
 
   testimonials: [
-    { name: "James Hartley", location: "Bristol, UK", text: "Ulcinj is far from both airports so a hire car was essential. Picked up at Podgorica and drove straight to Long Beach. Painless experience.", rating: 5, avatar: "/img/pexels-220453.jpg" },
-    { name: "Anna Fischer", location: "Munich, Germany", text: "We drove from Tivat down to Ada Bojana for the kitesurfing. The car was in great condition and we crossed into Albania for a day trip to Shkodra. Brilliant.", rating: 5, avatar: "/img/pexels-774909.jpg" },
-    { name: "Tom & Sarah", location: "Melbourne, Australia", text: "Spent a week exploring Ulcinj's Old Town and the olive groves at Valdanos. Without a car you'd miss all of it — public transport barely exists down here.", rating: 5, avatar: "/img/pexels-1222271.jpg" },
+    { name: "James Hartley", location: "Bristol, UK", text: "Ulcinj is far from both airports so a hire car was essential. Picked up at Podgorica and drove straight to Long Beach. Painless experience.", rating: 5, avatar: "/img/avatar-1.webp" },
+    { name: "Anna Fischer", location: "Munich, Germany", text: "We drove from Tivat down to Ada Bojana for the kitesurfing. The car was in great condition and we crossed into Albania for a day trip to Shkodra. Brilliant.", rating: 5, avatar: "/img/avatar-2.webp" },
+    { name: "Tom & Sarah", location: "Melbourne, Australia", text: "Spent a week exploring Ulcinj's Old Town and the olive groves at Valdanos. Without a car you'd miss all of it — public transport barely exists down here.", rating: 5, avatar: "/img/avatar-3.webp" },
   ],
 
   faq: [
@@ -185,56 +185,56 @@ const siteConfig = {
       slug: "velika-plaza",
       tag: "Long Beach",
       desc: "12km of sandy coastline — one of Europe's longest beaches.",
-      image: "/img/pexels-3802510.jpg",
+      image: "/img/velika-plaza.webp",
     },
     {
       name: "Ada Bojana",
       slug: "ada-bojana",
       tag: "Kitesurfing",
       desc: "River island with sandy beaches and consistent wind.",
-      image: "/img/pexels-16099591.jpg",
+      image: "/img/ada-bojana.webp",
     },
     {
       name: "Stari Grad",
       slug: "stari-grad",
       tag: "Old Town",
       desc: "Ancient fortress and Ottoman architecture overlooking the sea.",
-      image: "/img/pexels-5668157.jpg",
+      image: "/img/ulcinj-old-town.webp",
     },
     {
       name: "Valdanos",
       slug: "valdanos",
       tag: "Olive Groves",
       desc: "Secluded bay surrounded by 80,000 olive trees.",
-      image: "/img/pexels-9526645.jpg",
+      image: "/img/valdanos-olives.webp",
     },
     {
       name: "Bar",
       slug: "bar",
       tag: "30 Minutes",
       desc: "Port city with Stari Bar ruins and ferry connections.",
-      image: "/img/pexels-26753897.jpg",
+      image: "/img/bar-nearby.webp",
     },
     {
       name: "Lake Skadar",
       slug: "lake-skadar",
       tag: "45 Minutes",
       desc: "The Balkans' largest lake — pelicans, monasteries, wine.",
-      image: "/img/pexels-28674522.jpg",
+      image: "/img/lake-skadar.webp",
     },
     {
       name: "Podgorica Airport",
       slug: "podgorica-airport",
       tag: "40 Minutes",
       desc: "Montenegro's closest airport to Ulcinj.",
-      image: "/img/pexels-29904099.jpg",
+      image: "/img/ulcinj-beach-sunset.webp",
     },
     {
       name: "Shkodra",
       slug: "shkodra",
       tag: "Albania — 30 Min",
       desc: "Cross into Albania and explore Rozafa Castle.",
-      image: "/img/pexels-6216512.jpg",
+      image: "/img/shkodra-albania.webp",
     },
   ],
 };
