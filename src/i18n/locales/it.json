@@ -12,7 +12,7 @@
     "perDay": "al giorno"
   },
   "hero": {
-    "headline": "Noleggio Auto Montenegro",
+    "headline": "Noleggio Auto Ulcinj",
     "badges": {
       "freeCancellation": "Cancellazione Gratuita",
       "fullInsurance": "Assicurazione Completa Inclusa",
@@ -127,7 +127,7 @@
   "about": {
     "title": "Chi Siamo",
     "subtitle": "Aiutiamo i viaggiatori a esplorare il Montenegro dal 2007.",
-    "seoDesc": "Chi è Montenegro Car Hire. Dal 2007 aiutiamo i viaggiatori a esplorare il Montenegro con auto affidabili, consegna in aeroporto e competenza locale."
+    "seoDesc": "Chi è Ulcinj Car Hire. Dal 2007 aiutiamo i viaggiatori a esplorare il Montenegro con auto affidabili, consegna in aeroporto e competenza locale."
   },
   "kotor": {
     "title": "Noleggio Auto a Kotor",
@@ -182,17 +182,17 @@
   "privacy": {
     "title": "Informativa sulla Privacy",
     "subtitle": "Come gestiamo le tue informazioni.",
-    "seoDesc": "Informativa sulla privacy di Montenegro Car Hire. Come raccogliamo, utilizziamo e proteggiamo i tuoi dati personali durante la ricerca di auto a noleggio."
+    "seoDesc": "Informativa sulla privacy di Ulcinj Car Hire. Come raccogliamo, utilizziamo e proteggiamo i tuoi dati personali durante la ricerca di auto a noleggio."
   },
   "terms": {
     "title": "Termini e Condizioni",
     "subtitle": "Condizioni di utilizzo del nostro sito web.",
-    "seoDesc": "Termini e condizioni di utilizzo di Montenegro Car Hire. Scopri il processo di prenotazione, il partner di noleggio, i prezzi e la responsabilità."
+    "seoDesc": "Termini e condizioni di utilizzo di Ulcinj Car Hire. Scopri il processo di prenotazione, il partner di noleggio, i prezzi e la responsabilità."
   },
   "cookie-policy": {
     "title": "Politica sui Cookie",
     "subtitle": "Come utilizziamo i cookie su questo sito.",
-    "seoDesc": "Politica sui cookie di Montenegro Car Hire. Scopri quali cookie utilizziamo, come il widget di prenotazione memorizza le preferenze e come gestirli."
+    "seoDesc": "Politica sui cookie di Ulcinj Car Hire. Scopri quali cookie utilizziamo, come il widget di prenotazione memorizza le preferenze e come gestirli."
   },
   "featureCards": {
     "airportPickup": {
@@ -222,13 +222,13 @@
   },
   "testimonials": {
     "0": {
-      "text": "Ho ritirato un'Octavia impeccabile all'aeroporto di Tivat in meno di 5 minuti. Valore incredibile."
+      "text": "Ulcinj è lontana da entrambi gli aeroporti, quindi il noleggio auto era essenziale. Ritirata a Podgorica e guidato direttamente alla Spiaggia Lunga. Senza problemi."
     },
     "1": {
-      "text": "La BMW era in condizioni perfette e i documenti per la Croatia erano pronti al nostro arrivo. Altamente consigliato."
+      "text": "Siamo andati da Tivat ad Ada Bojana per il kitesurf. L'auto era in ottime condizioni e abbiamo fatto una gita in Albania a Scutari. Fantastico."
     },
     "2": {
-      "text": "Abbiamo esplorato il Montenegro per due settimane. Il Jeep ha affrontato perfettamente le strade di montagna."
+      "text": "Passata una settimana esplorando la città vecchia di Ulcinj e gli oliveti di Valdanos. Senza auto si perderebbe tutto — i trasporti pubblici qui sono praticamente inesistenti."
     }
   },
   "faqItems": {
@@ -282,50 +282,50 @@
     }
   },
   "destCards": {
-    "tivat-airport": {
-      "name": "Aeroporto di Tivat",
-      "tag": "Più popolare",
-      "desc": "Il nostro hub principale. Ti incontriamo agli arrivi."
+    "velika-plaza": {
+      "name": "Velika Plaza",
+      "tag": "Spiaggia lunga",
+      "desc": "12 km di costa sabbiosa — una delle spiagge più lunghe d'Europa."
     },
-    "kotor": {
-      "name": "Kotor",
-      "tag": "Sito UNESCO",
-      "desc": "Città medievale murata sull'Adriatico."
+    "ada-bojana": {
+      "name": "Ada Bojana",
+      "tag": "Kitesurf",
+      "desc": "Isola fluviale con spiagge sabbiose e vento costante."
+    },
+    "stari-grad": {
+      "name": "Stari Grad",
+      "tag": "Centro storico",
+      "desc": "Antica fortezza e architettura ottomana affacciata sul mare."
+    },
+    "valdanos": {
+      "name": "Valdanos",
+      "tag": "Oliveti",
+      "desc": "Baia appartata con 80.000 ulivi."
+    },
+    "bar": {
+      "name": "Bar",
+      "tag": "30 minuti",
+      "desc": "Città portuale con le rovine di Stari Bar."
+    },
+    "lake-skadar": {
+      "name": "Lago di Scutari",
+      "tag": "45 minuti",
+      "desc": "Il lago più grande dei Balcani — pellicani, monasteri, vino."
     },
     "podgorica-airport": {
       "name": "Aeroporto di Podgorica",
-      "tag": "Hub della capitale",
-      "desc": "Il principale aeroporto internazionale del Montenegro."
+      "tag": "40 minuti",
+      "desc": "L'aeroporto più vicino a Ulcinj."
     },
-    "perast": {
-      "name": "Perast",
-      "tag": "Gioiello nascosto",
-      "desc": "Villaggio barocco sulla Baia di Kotor."
-    },
-    "budva": {
-      "name": "Budva",
-      "tag": "Città balneare",
-      "desc": "Spiagge della riviera e le mura della città vecchia."
-    },
-    "dubrovnik-airport": {
-      "name": "Aeroporto di Dubrovnik",
-      "tag": "Oltre confine",
-      "desc": "Vola a Dubrovnik, guida fino al Montenegro."
-    },
-    "tivat": {
-      "name": "Tivat",
-      "tag": "Città del porto",
-      "desc": "Porto Montenegro e la splendida Boka Bay."
-    },
-    "podgorica": {
-      "name": "Podgorica",
-      "tag": "Capitale",
-      "desc": "La moderna capitale del Montenegro — cultura e commercio."
+    "shkodra": {
+      "name": "Scutari",
+      "tag": "Albania — 30 min",
+      "desc": "Attraversa il confine ed esplora il castello di Rozafa."
     }
   },
   "aboutBody": {
     "h1": "Noleggio Auto Montenegro",
-    "p1": "Dal 2007, Montenegro Car Hire mette in contatto i viaggiatori con auto a noleggio affidabili e convenienti in tutto il Montenegro. Quella che è nata come una semplice idea — rendere più facile per i visitatori esplorare questo splendido angolo dell'Adriatic — è diventata uno dei servizi di autonoleggio più affidabili del Paese.",
+    "p1": "Dal 2007, Ulcinj Car Hire mette in contatto i viaggiatori con auto a noleggio affidabili e convenienti in tutto il Montenegro. Quella che è nata come una semplice idea — rendere più facile per i visitatori esplorare questo splendido angolo dell'Adriatic — è diventata uno dei servizi di autonoleggio più affidabili del Paese.",
     "h2": "Perché abbiamo iniziato",
     "p2": "Il Montenegro è un Paese che si vive meglio al proprio ritmo. Le tortuose strade costiere, i villaggi di montagna nascosti e le città patrimonio UNESCO sono difficili da raggiungere con i mezzi pubblici. Abbiamo colto l'opportunità di offrire ai viaggiatori la libertà di scoprire il Montenegro alle proprie condizioni — niente orari di pullman turistici, niente panorami persi, nessun compromesso.",
     "h3": "Cosa offriamo",

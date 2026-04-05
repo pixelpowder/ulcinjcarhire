@@ -292,7 +292,7 @@
   left: 0;
   right: 0;
   z-index: 100;
-  background: rgb(5, 32, 60);
+  background: rgb(61, 28, 13);
   border-bottom: none;
   height: 136px;
   display: flex;
@@ -431,7 +431,7 @@
   right: 0;
   bottom: 0;
   width: 280px;
-  background: rgb(5, 32, 60);
+  background: rgb(61, 28, 13);
   z-index: 201;
   display: flex;
   flex-direction: column;
@@ -526,7 +526,7 @@
   position: absolute;
   top: calc(100% + 8px);
   right: 0;
-  background: rgb(5, 32, 60);
+  background: rgb(61, 28, 13);
   border: 1px solid rgba(255,255,255,0.2);
   border-radius: var(--radius-sm);
   overflow: hidden;
@@ -568,7 +568,7 @@
   position: absolute;
   inset: 0;
   z-index: 0;
-  background: rgb(5,32,60);
+  background: rgb(61,28,13);
 }
 
 .hero-wrapper__bg::after {
@@ -577,9 +577,9 @@
   inset: 0;
   background: linear-gradient(
     to bottom,
-    rgba(5, 32, 60, 0.65) 0%,
-    rgba(5, 32, 60, 0.50) 50%,
-    rgba(5, 32, 60, 0.40) 100%
+    rgba(61, 28, 13, 0.65) 0%,
+    rgba(61, 28, 13, 0.50) 50%,
+    rgba(61, 28, 13, 0.40) 100%
   );
   z-index: 2;
 }
@@ -710,7 +710,7 @@
 
 /* ─── LOCALRENT WIDGET COLOUR OVERRIDES ─────────────── */
 .search-cigarette__wrap {
-  background-color: #05203c !important;
+  background-color: #3D1C0D !important;
 }
 .search-placeholder,
 .search-cigarette__placeholder {
@@ -718,13 +718,13 @@
 }
 .winter-package-banner--more,
 .link-dashed-M {
-  color: #0062e3 !important;
-  border-color: #0062e3 !important;
-  border-bottom-color: #0062e3 !important;
+  color: #C25B28 !important;
+  border-color: #C25B28 !important;
+  border-bottom-color: #C25B28 !important;
 }
 .featuring-cool-cars__badge {
-  background-color: rgba(0, 98, 227, 0.15) !important;
-  color: #0062e3 !important;
+  background-color: rgba(194, 91, 40, 0.15) !important;
+  color: #C25B28 !important;
 }
 /* Buttons / CTAs */
 .btn-primary,
@@ -732,8 +732,8 @@
 .search-cigarette__submit,
 [class*="button--primary"],
 [class*="btn--primary"] {
-  background-color: #0062e3 !important;
-  border-color: #0062e3 !important;
+  background-color: #C25B28 !important;
+  border-color: #C25B28 !important;
 }
 [class*="button--primary"]:hover,
 [class*="btn--primary"]:hover,
@@ -790,7 +790,7 @@
 
 /* ─── BOOKING CARD ─────────────────────────────────────── */
 .booking-card {
-  background: rgba(5, 32, 60, 0.85);
+  background: rgba(61, 28, 13, 0.85);
   border-radius: 12px;
   padding: 25px 28px 25px;
   max-width: 100%;
@@ -932,7 +932,7 @@ select.booking-field__input {
 }
 
 .booking-card__search {
-  background: rgb(0, 98, 227);
+  background: rgb(194, 91, 40);
   color: var(--white);
   border: none;
   border-radius: 8px;
@@ -956,7 +956,7 @@ select.booking-field__input {
 
 /* ─── TRUST STRIP ──────────────────────────────────────── */
 .trust-strip {
-  background: rgba(5, 32, 60, 0.93);
+  background: rgba(61, 28, 13, 0.93);
   backdrop-filter: blur(80px);
   -webkit-backdrop-filter: blur(80px);
   padding: 40px 0;
@@ -1265,7 +1265,7 @@ select.booking-field__input {
 .faq-item {
   background: #fff !important;
   border: 1px solid var(--gray-200, #e5e7eb) !important;
-  box-shadow: 0 2px 8px rgba(5,32,60,0.06) !important;
+  box-shadow: 0 2px 8px rgba(61,28,13,0.06) !important;
 }
 
 .step-card {
@@ -1328,7 +1328,7 @@ select.booking-field__input {
 .dest-card__overlay {
   position: absolute;
   inset: 0;
-  background: linear-gradient(to top, rgba(5,32,60,0.7) 0%, rgba(5,32,60,0.05) 55%);
+  background: linear-gradient(to top, rgba(61,28,13,0.7) 0%, rgba(61,28,13,0.05) 55%);
   backdrop-filter: blur(1px);
   -webkit-backdrop-filter: blur(1px);
   padding: 18px;
@@ -1339,7 +1339,7 @@ select.booking-field__input {
 
 .dest-card {
   border: 1px solid rgba(255,255,255,0.8);
-  box-shadow: 0 4px 24px rgba(5,32,60,0.06), inset 0 1px 0 rgba(255,255,255,0.9);
+  box-shadow: 0 4px 24px rgba(61,28,13,0.06), inset 0 1px 0 rgba(255,255,255,0.9);
 }
 
 .dest-card__tag {
@@ -1610,7 +1610,7 @@ select.booking-field__input {
 }
 
 .feature-card:hover {
-  box-shadow: 0 8px 32px rgba(5,32,60,0.1), inset 0 1px 0 rgba(255,255,255,0.9) !important;
+  box-shadow: 0 8px 32px rgba(61,28,13,0.1), inset 0 1px 0 rgba(255,255,255,0.9) !important;
   border-color: var(--blue) !important;
 }
 

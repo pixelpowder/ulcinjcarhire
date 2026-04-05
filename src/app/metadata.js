@@ -19,8 +19,8 @@ export function t(lang, key) {
   return fallback || key;
 }
 
-const SITE_NAME = 'Montenegro Car Hire';
-const BASE_URL = 'https://www.montenegrocarhire.com';
+const SITE_NAME = 'Ulcinj Car Hire';
+const BASE_URL = 'https://www.ulcinjcarhire.com';
 
 export function buildAlternates(slug) {
   const path = slug ? `/${slug}` : '';

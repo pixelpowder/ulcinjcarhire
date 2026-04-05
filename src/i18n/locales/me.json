@@ -12,7 +12,7 @@
     "perDay": "po danu"
   },
   "hero": {
-    "headline": "Rent a Car Crna Gora",
+    "headline": "Rent a Car Ulcinj",
     "badges": {
       "freeCancellation": "Besplatna Otkazivanja",
       "fullInsurance": "Puno Osiguranje Uključeno",
@@ -222,13 +222,13 @@
   },
   "testimonials": {
     "0": {
-      "text": "Preuzeo sam besprijekornu Octavia na aerodromu Tivat za manje od 5 minuta. Nevjerovatna vrijednost."
+      "text": "Ulcinj je daleko od oba aerodroma, pa je auto na iznajmljivanje bio neophodan. Preuzeli smo ga u Podgorici i odvezli se pravo na Veliku plažu. Bez problema."
     },
     "1": {
-      "text": "BMW je bio u savršenom stanju, a dokumenti za Croatia bili su spremni kada smo stigli. Toplo preporučujem."
+      "text": "Vozili smo od Tivta do Ade Bojane na kajtserfing. Auto je bio u odličnom stanju i otišli smo u Albaniju u Skadar. Sjajno."
     },
     "2": {
-      "text": "Istraživali smo Crna Gora dvije sedmice. Jeep je savršeno savladao planinske puteve."
+      "text": "Proveli smo sedmicu istražujući Stari grad Ulcinja i maslinike Valdanosa. Bez auta biste propustili sve — javni prevoz ovdje gotovo ne postoji."
     }
   },
   "faqItems": {
@@ -282,45 +282,45 @@
     }
   },
   "destCards": {
-    "tivat-airport": {
-      "name": "Aerodrom Tivat",
-      "tag": "Najpopularnije",
-      "desc": "Naš glavni hub. Dočekujemo vas na dolascima."
+    "velika-plaza": {
+      "name": "Velika plaža",
+      "tag": "Duga plaža",
+      "desc": "12 km pješčane obale — jedna od najdužih plaža u Evropi."
     },
-    "kotor": {
-      "name": "Kotor",
-      "tag": "UNESCO lokalitet",
-      "desc": "Srednjovjekovni utvrđeni grad na Jadranu."
+    "ada-bojana": {
+      "name": "Ada Bojana",
+      "tag": "Kajtserfing",
+      "desc": "Riječno ostrvo sa pješčanim plažama i stalnim vjetrom."
+    },
+    "stari-grad": {
+      "name": "Stari Grad",
+      "tag": "Stari grad",
+      "desc": "Drevna tvrđava i osmanska arhitektura s pogledom na more."
+    },
+    "valdanos": {
+      "name": "Valdanos",
+      "tag": "Maslinici",
+      "desc": "Skriveni zaliv s 80.000 maslina."
+    },
+    "bar": {
+      "name": "Bar",
+      "tag": "30 minuta",
+      "desc": "Lučki grad s ruševinama Starog Bara."
+    },
+    "lake-skadar": {
+      "name": "Skadarsko jezero",
+      "tag": "45 minuta",
+      "desc": "Najveće jezero Balkana — pelikani, manastiri, vino."
     },
     "podgorica-airport": {
       "name": "Aerodrom Podgorica",
-      "tag": "Glavni grad hub",
-      "desc": "Glavni međunarodni aerodrom Crna Gora."
+      "tag": "40 minuta",
+      "desc": "Najbliži aerodrom Ulcinju."
     },
-    "perast": {
-      "name": "Perast",
-      "tag": "Skriveni dragulj",
-      "desc": "Barokno selo na Boka Bay."
-    },
-    "budva": {
-      "name": "Budva",
-      "tag": "Primorski grad",
-      "desc": "Plaže Rivijere i zidine starog grada."
-    },
-    "dubrovnik-airport": {
-      "name": "Aerodrom Dubrovnik",
-      "tag": "Prekogranično",
-      "desc": "Doletite u Dubrovnik, vozite u Crna Gora."
-    },
-    "tivat": {
-      "name": "Tivat",
-      "tag": "Grad marine",
-      "desc": "Porto Crna Gora i zadivljujuća Boka Bay."
-    },
-    "podgorica": {
-      "name": "Podgorica",
-      "tag": "Glavni grad",
-      "desc": "Moderna prijestonica Crna Gora — kultura i trgovina."
+    "shkodra": {
+      "name": "Skadar",
+      "tag": "Albanija — 30 min",
+      "desc": "Pređite granicu i istražite tvrđavu Rozafa."
     }
   },
   "aboutBody": {

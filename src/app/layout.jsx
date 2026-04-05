@@ -9,10 +9,10 @@ import { LanguageContext } from '@/src/i18n/LanguageContext';
 import { DEFAULT_LANG } from '@/src/i18n/languages';
 
 export const metadata = {
-  title: 'Montenegro Car Hire — Tivat & Podgorica Airport Pickup',
+  title: 'Ulcinj Car Hire — Velika Plaza & Montenegro\'s South',
   description:
-    'Rent a car in Montenegro from €13/day. Pick up at Tivat Airport, Podgorica Airport, Kotor, Budva and 28+ locations. Free cancellation, full insurance, no hidden fees.',
-  metadataBase: new URL('https://www.montenegrocarhire.com'),
+    'Rent a car in Ulcinj from EUR13/day. Pick up at Podgorica Airport, Tivat Airport, or Ulcinj. Explore Velika Plaza, Ada Bojana, and the Albanian border. Free cancellation, full insurance.',
+  metadataBase: new URL('https://www.ulcinjcarhire.com'),
 };
 
 export default function RootLayout({ children }) {

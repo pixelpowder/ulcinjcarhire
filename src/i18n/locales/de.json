@@ -12,7 +12,7 @@
     "perDay": "pro Tag"
   },
   "hero": {
-    "headline": "Mietwagen in Montenegro",
+    "headline": "Mietwagen in Ulcinj",
     "badges": {
       "freeCancellation": "Kostenlose Stornierung",
       "fullInsurance": "Vollkasko inklusive",
@@ -81,7 +81,7 @@
     "subtitle": "Alles, was Sie vor Ihrer Buchung wissen müssen."
   },
   "cta": {
-    "title": "Bereit, Montenegro zu entdecken?",
+    "title": "Bereit, Ulcinj zu entdecken?",
     "subtitle": "In wenigen Minuten buchen. Am Flughafen abholen. Die gesamte Adriatic-Küste in Ihrem eigenen Tempo erkunden.",
     "browseFleet": "Flotte ansehen"
   },
@@ -98,7 +98,7 @@
     "seoDesc": "Mietwagen in Montenegro suchen und buchen. Echtzeit-Verfügbarkeit, sofortige Bestätigung, kostenlose Stornierung."
   },
   "footer": {
-    "brandDesc": "Premium-Autovermietung in Montenegro seit 2007. Flughafenabholung, Vollkasko und keine versteckten Kosten.",
+    "brandDesc": "Autovermietung in Ulcinj und Südmontenegro. Flughafenabholung, Vollkasko und keine versteckten Kosten.",
     "quickLinks": "Schnelllinks",
     "guides": "Reiseführer",
     "locations": "Standorte",
@@ -122,12 +122,12 @@
     "searchCars": "Autos suchen"
   },
   "home": {
-    "seoDesc": "Mietwagen in Montenegro ab 13 €/Tag. Abholung am Flughafen Tivat, Flughafen Podgorica, Kotor, Budva und über 28 Standorten. Kostenlose Stornierung, Vollkasko, keine versteckten Kosten. Online in wenigen Minuten buchen."
+    "seoDesc": "Mietwagen in Ulcinj ab 13 €/Tag. Abholung am Flughafen Tivat, Flughafen Podgorica, Kotor, Budva und über 28 Standorten. Kostenlose Stornierung, Vollkasko, keine versteckten Kosten. Online in wenigen Minuten buchen."
   },
   "about": {
     "title": "Über uns",
-    "subtitle": "Wir helfen Reisenden seit 2007, Montenegro zu entdecken.",
-    "seoDesc": "Über Montenegro Car Hire. Seit 2007 helfen wir Reisenden, Montenegro mit zuverlässigen Mietwagen, Flughafenzustellung und lokaler Expertise zu entdecken."
+    "subtitle": "Wir helfen Reisenden seit 2007, Ulcinj zu entdecken.",
+    "seoDesc": "Über Ulcinj Car Hire. Seit 2007 helfen wir Reisenden, Montenegro mit zuverlässigen Mietwagen, Flughafenzustellung und lokaler Expertise zu entdecken."
   },
   "kotor": {
     "title": "Mietwagen in Kotor",
@@ -182,17 +182,17 @@
   "privacy": {
     "title": "Datenschutzrichtlinie",
     "subtitle": "Wie wir mit Ihren Daten umgehen.",
-    "seoDesc": "Datenschutzrichtlinie von Montenegro Car Hire. Wie wir Ihre personenbezogenen Daten bei der Suche nach Mietwagen erheben, verwenden und schützen."
+    "seoDesc": "Datenschutzrichtlinie von Ulcinj Car Hire. Wie wir Ihre personenbezogenen Daten bei der Suche nach Mietwagen erheben, verwenden und schützen."
   },
   "terms": {
     "title": "Allgemeine Geschäftsbedingungen",
     "subtitle": "Nutzungsbedingungen für unsere Website.",
-    "seoDesc": "Allgemeine Geschäftsbedingungen für die Nutzung von Montenegro Car Hire. Erfahren Sie mehr über Buchungsprozess, Mietpartner, Preise und Haftung."
+    "seoDesc": "Allgemeine Geschäftsbedingungen für die Nutzung von Ulcinj Car Hire. Erfahren Sie mehr über Buchungsprozess, Mietpartner, Preise und Haftung."
   },
   "cookie-policy": {
     "title": "Cookie-Richtlinie",
     "subtitle": "Wie wir Cookies auf dieser Website verwenden.",
-    "seoDesc": "Cookie-Richtlinie von Montenegro Car Hire. Erfahren Sie, welche Cookies wir verwenden, wie das Buchungs-Widget Einstellungen speichert und wie Sie sie verwalten."
+    "seoDesc": "Cookie-Richtlinie von Ulcinj Car Hire. Erfahren Sie, welche Cookies wir verwenden, wie das Buchungs-Widget Einstellungen speichert und wie Sie sie verwalten."
   },
   "featureCards": {
     "airportPickup": {
@@ -222,13 +222,13 @@
   },
   "testimonials": {
     "0": {
-      "text": "Einen makellosen Octavia am Flughafen Tivat in unter 5 Minuten abgeholt. Die gesamte Küste bis nach Ulcinj gefahren. Unglaubliches Preis-Leistungs-Verhältnis."
+      "text": "Ulcinj liegt weit von beiden Flughäfen entfernt, daher war ein Mietwagen unerlässlich. Am Flughafen Podgorica abgeholt und direkt zum Langen Strand gefahren. Reibungslos."
     },
     "1": {
-      "text": "Der BMW war in perfektem Zustand und die Grenzübertrittsdokumente für Croatia waren bei unserer Ankunft bereit. Sehr empfehlenswert."
+      "text": "Wir sind von Tivat nach Ada Bojana zum Kitesurfen gefahren. Das Auto war in bestem Zustand und wir haben einen Tagesausflug nach Shkodra in Albanien gemacht. Brillant."
     },
     "2": {
-      "text": "Wir haben Montenegro zwei Wochen lang erkundet. Der Jeep meisterte Bergstraßen perfekt. Die beste Mietwagen-Erfahrung, die wir je hatten."
+      "text": "Eine Woche lang die Altstadt von Ulcinj und die Olivenhaine bei Valdanos erkundet. Ohne Auto verpasst man alles — öffentliche Verkehrsmittel gibt es hier kaum."
     }
   },
   "faqItems": {
@@ -282,50 +282,50 @@
     }
   },
   "destCards": {
-    "tivat-airport": {
-      "name": "Flughafen Tivat",
-      "tag": "Beliebteste Wahl",
-      "desc": "Unser Hauptstandort. Wir treffen Sie bei der Ankunft."
+    "velika-plaza": {
+      "name": "Velika Plaza",
+      "tag": "Langer Strand",
+      "desc": "12 km Sandstrand — einer der längsten Europas."
     },
-    "kotor": {
-      "name": "Kotor",
-      "tag": "UNESCO-Welterbe",
-      "desc": "Mittelalterliche ummauerte Stadt an der Adria."
+    "ada-bojana": {
+      "name": "Ada Bojana",
+      "tag": "Kitesurfen",
+      "desc": "Flussinsel mit Sandstränden und konstantem Wind."
+    },
+    "stari-grad": {
+      "name": "Stari Grad",
+      "tag": "Altstadt",
+      "desc": "Antike Festung und osmanische Architektur mit Meerblick."
+    },
+    "valdanos": {
+      "name": "Valdanos",
+      "tag": "Olivenhaine",
+      "desc": "Abgelegene Bucht mit 80.000 Olivenbäumen."
+    },
+    "bar": {
+      "name": "Bar",
+      "tag": "30 Minuten",
+      "desc": "Hafenstadt mit den Ruinen von Stari Bar."
+    },
+    "lake-skadar": {
+      "name": "Skadarsee",
+      "tag": "45 Minuten",
+      "desc": "Der größte See des Balkans — Pelikane, Klöster, Wein."
     },
     "podgorica-airport": {
       "name": "Flughafen Podgorica",
-      "tag": "Hauptstadt-Hub",
-      "desc": "Montenegros wichtigster internationaler Flughafen."
+      "tag": "40 Minuten",
+      "desc": "Montenegros nächster Flughafen zu Ulcinj."
     },
-    "perast": {
-      "name": "Perast",
-      "tag": "Geheimtipp",
-      "desc": "Barockdorf an der Bucht von Kotor."
-    },
-    "budva": {
-      "name": "Budva",
-      "tag": "Strandstadt",
-      "desc": "Riviera-Strände und die Altstadt-Mauern."
-    },
-    "dubrovnik-airport": {
-      "name": "Flughafen Dubrovnik",
-      "tag": "Grenzüberschreitend",
-      "desc": "Fliegen Sie nach Dubrovnik, fahren Sie nach Montenegro."
-    },
-    "tivat": {
-      "name": "Tivat",
-      "tag": "Hafenstadt",
-      "desc": "Porto Montenegro und die atemberaubende Boka Bay."
-    },
-    "podgorica": {
-      "name": "Podgorica",
-      "tag": "Hauptstadt",
-      "desc": "Montenegros moderne Hauptstadt — Kultur und Handel."
+    "shkodra": {
+      "name": "Shkodra",
+      "tag": "Albanien — 30 Min",
+      "desc": "Erkunden Sie die Burg Rozafa."
     }
   },
   "aboutBody": {
     "h1": "Montenegro Autovermietung",
-    "p1": "Seit 2007 verbindet Montenegro Car Hire Reisende mit zuverlässigen und erschwinglichen Mietwagen in ganz Montenegro. Was als einfache Idee begann — Besuchern die Erkundung dieser atemberaubenden Ecke der Adriatic zu erleichtern — hat sich zu einem der vertrauenswürdigsten Mietwagenservices des Landes entwickelt.",
+    "p1": "Seit 2007 verbindet Ulcinj Car Hire Reisende mit zuverlässigen und erschwinglichen Mietwagen in ganz Montenegro. Was als einfache Idee begann — Besuchern die Erkundung dieser atemberaubenden Ecke der Adriatic zu erleichtern — hat sich zu einem der vertrauenswürdigsten Mietwagenservices des Landes entwickelt.",
     "h2": "Warum wir angefangen haben",
     "p2": "Montenegro ist ein Land, das man am besten in eigenem Tempo erlebt. Die kurvigen Küstenstraßen, versteckten Bergdörfer und UNESCO-Welterbestätten sind mit öffentlichen Verkehrsmitteln nur schwer erreichbar. Wir sahen die Möglichkeit, Reisenden die Freiheit zu geben, Montenegro auf eigene Faust zu entdecken — keine Reisebusfahrpläne, keine verpassten Aussichtspunkte, keine Kompromisse.",
     "h3": "Was wir anbieten",
