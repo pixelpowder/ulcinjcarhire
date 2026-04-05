@@ -325,6 +325,163 @@
       "desc": "Cross into Albania and explore Rozafa Castle."
     }
   },
+  "kotor": {
+    "title": "Ulcinj to Kotor Car Hire",
+    "subtitle": "Drive north along the coast to Montenegro's UNESCO jewel in about 2 hours.",
+    "seoDesc": "Drive from Ulcinj to Kotor via the coastal road through Budva. Explore the UNESCO-listed Old Town, fortress walls, and Bay of Kotor at your own pace."
+  },
+  "budva": {
+    "title": "Ulcinj to Budva Car Hire",
+    "subtitle": "Montenegro's riviera capital — 1.5 hours north along the Adriatic coast.",
+    "seoDesc": "Drive from Ulcinj to Budva's beaches, Old Town, and riviera nightlife. 90 minutes via the coastal road past Bar and Petrovac."
+  },
+  "perast": {
+    "title": "Ulcinj to Perast Car Hire",
+    "subtitle": "A baroque waterfront village on the Bay of Kotor — about 2 hours from Ulcinj.",
+    "seoDesc": "Drive from Ulcinj to Perast's baroque palaces and boat to Our Lady of the Rocks island. Scenic coastal road via Budva and Kotor."
+  },
+  "tivat": {
+    "title": "Ulcinj to Tivat Car Hire",
+    "subtitle": "Porto Montenegro marina and the Bay of Kotor — under 2 hours north.",
+    "seoDesc": "Drive from Ulcinj to Tivat's Porto Montenegro marina. Coastal road via Bar and Budva, or inland via Podgorica and the Sozina tunnel."
+  },
+  "tivat-airport": {
+    "title": "Tivat Airport Car Hire",
+    "subtitle": "Collect your rental car at arrivals — we meet you at the gate.",
+    "seoDesc": "Tivat Airport is 75 km from Ulcinj. Collect at arrivals and drive south along the coast to Ulcinj in under 2 hours."
+  },
+  "podgorica": {
+    "title": "Ulcinj to Podgorica Car Hire",
+    "subtitle": "Montenegro's capital — just 45 minutes inland from Ulcinj.",
+    "seoDesc": "Podgorica is the closest major city to Ulcinj, just 40 km inland. Explore the capital's rivers, bridges, and markets before heading to the mountains."
+  },
+  "podgorica-airport": {
+    "title": "Podgorica Airport Car Hire",
+    "subtitle": "Montenegro's closest airport to Ulcinj — just 40 km away.",
+    "seoDesc": "Podgorica Airport (TGD) is the closest airport to Ulcinj at just 45 minutes. Budget carriers, year-round flights, meet-and-greet pickup."
+  },
+  "dubrovnik-airport": {
+    "title": "Dubrovnik Airport Car Hire",
+    "subtitle": "Fly into Croatia, drive south to Montenegro's coast.",
+    "seoDesc": "Fly into Dubrovnik Airport and drive to Ulcinj via the Montenegrin coast. Cross at Debeli Brijeg, green card insurance included."
+  },
+  "montenegro": {
+    "title": "Montenegro Driving Guide from Ulcinj",
+    "subtitle": "Practical road intel: routes north, border crossings, and drive times from southern Montenegro.",
+    "seoDesc": "Road-by-road driving guide from Ulcinj: coastal routes north, Podgorica connection, Albania border crossing, and essential driving tips."
+  },
+  "border-crossing": {
+    "title": "Border Crossing Guide",
+    "subtitle": "Documents, wait times, and crossing logistics for rental cars.",
+    "seoDesc": "Green card, rental contract, passport — what to have ready at each checkpoint. Albania, Croatia, Bosnia, Kosovo crossing details from Ulcinj."
+  },
+  "kotorBody": {
+    "h1": "Kotor — 2 Hours North via the Adriatic Coast",
+    "p1": "From Ulcinj, drive north on the coastal road through Bar and Petrovac, past the Budva riviera, and into the Bay of Kotor. The drive takes roughly 2 hours but passes through some of Montenegro's most dramatic scenery — rocky headlands, beach coves, and eventually the fjord-like bay itself.",
+    "p2": "Kotor's UNESCO-listed Old Town sits at the head of the bay, enclosed by medieval walls that climb 1,200 metres up the mountainside to the fortress of San Giovanni. The town is car-free inside the walls, so park at the lots near the River Gate or the Tabacina multi-storey and explore on foot.",
+    "landmarksTitle": "What to See in Kotor",
+    "stJohnTitle": "St. John Fortress",
+    "stJohnText": "The fortress sits 1,200 steps above the Old Town, offering panoramic views over the entire Bay of Kotor. Allow 45 minutes up and 30 down. The climb starts from the north-east corner of the Old Town walls. Bring water — there are no facilities on the path.",
+    "cathedralTitle": "St. Tryphon Cathedral",
+    "cathedralText": "Built in 1166, this Romanesque cathedral is Kotor's most important religious monument. The interior houses Byzantine-era frescoes, gold and silver reliquaries, and a treasury of medieval art. The twin bell towers are the most photographed feature of the Old Town skyline.",
+    "dayTripsTitle": "Day Trips from Kotor",
+    "perastTrip": "Continue along the bay road to Perast (15 minutes from Kotor). Boats to Our Lady of the Rocks island leave from the waterfront — about 5 EUR return. The baroque village has a single waterfront promenade lined with stone palaces and cafes.",
+    "cetinjeTrip": "Head inland on the Kotor-Cetinje serpentine road — 25 hairpin bends climbing 1,000 metres above the bay. The viewpoint at the top offers one of the most photographed panoramas in Montenegro. Cetinje is 45 minutes from Kotor.",
+    "royalCourtText": "Cetinje's monastery holds religious relics and sits at the centre of Montenegro's former royal capital. Combined with the serpentine drive, this makes a solid half-day trip."
+  },
+  "budvaBody": {
+    "h1": "Budva — The Heart of the Montenegrin Riviera",
+    "p1": "Budva is Montenegro's most popular beach destination, about 90 minutes north of Ulcinj via the coastal road through Bar and Petrovac. The town attracts visitors from across Europe to its stunning coastline, vibrant nightlife, and beautifully preserved medieval Old Town.",
+    "p2": "The Budva Riviera stretches 21 km from Jaz Beach in the north to Petrovac in the south. With a rental car, you can explore the entire coastline — stopping at hidden coves, beach bars, and clifftop viewpoints that are impossible to reach by public transport.",
+    "beachesTitle": "Beaches Worth the Drive",
+    "beachesIntro": "Key stops along the riviera:",
+    "mogren": "Two cove beaches connected by a tunnel carved through the cliff, walking distance from the Old Town. Loungers and a bar operate May to September.",
+    "jaz": "A large sandy bay 3 km north of Budva town. Free parking in the upper lot. Hosts summer music events.",
+    "svetiStefan": "The famous fortified island village 6 km south of Budva. The mainland beach is public; the island is a luxury hotel. Best photographed from the road above.",
+    "becici": "A long, gently sloping sand beach between Budva and Sveti Stefan. Family-friendly with lifeguards in season.",
+    "oldTownTitle": "Budva Old Town",
+    "oldTownText": "The walled peninsula is compact enough to walk in 15 minutes. Enter through the main gate, loop through cobblestone streets past churches and galleries, and exit at the Citadela for views south toward Sveti Stefan. Restaurants inside the walls charge a premium — locals eat at places just outside the gate.",
+    "dayTripsTitle": "Day Trips from Budva",
+    "svetiStefanTrip": "Drive 6 km south on the coastal road to the Sveti Stefan viewpoint. Walk down to Milocer beach (public, free entry). The Queen's Beach next door requires a hotel pass.",
+    "kotorTrip": "Head north through the mountains to Kotor — 30 minutes through a dramatic tunnel. Combine with Perast for a full-day bay loop.",
+    "lovcenTrip": "The mountain road to Lovcen National Park offers the Njegos Mausoleum at 1,657 metres — carry a jacket even in summer. The winding road has limited guardrails.",
+    "gettingAroundTitle": "Getting Around",
+    "gettingAroundText": "Budva has paid parking near the Old Town walls and behind the bus station. Both fill by mid-morning in summer. Free street parking exists along the Becici road but requires a 10-minute walk."
+  },
+  "perastBody": {
+    "h1": "Perast — Baroque Village on the Bay of Kotor",
+    "p1": "Perast sits on the bay road between Kotor and Risan, about 2 hours from Ulcinj via the coastal route. This tiny village of 350 residents was once a major shipbuilding centre under the Republic of Venice, and its waterfront is lined with grand baroque palaces, a tall bell tower, and stone quays.",
+    "p2": "Parking in Perast is limited to a small lot at the north end of the village and roadside spaces along the approach. In summer, arrive before 9 am or after 5 pm to find a spot. The village itself has no car traffic — just a single waterfront promenade.",
+    "islandsTitle": "The Two Islands",
+    "stGeorgeTitle": "St. George (Sveti Djordje)",
+    "stGeorgeText": "A natural island 200 metres offshore, recognisable by its tall dark cypresses and 12th-century Benedictine monastery. The island is closed to visitors, but boats circle it for photographs. Best seen in early morning when the bay is flat.",
+    "ladyOfRocksTitle": "Our Lady of the Rocks (Gospa od Skrpjela)",
+    "ladyOfRocksText": "A man-made island built by locals throwing rocks and sinking old boats over centuries. The tradition continues every July 22nd during the Fasinada festival. Taxi boats from Perast run every 15 minutes in season — about 5 EUR return. The church inside holds votive paintings by Boka sailors.",
+    "historicTitle": "Walking Through Perast",
+    "historicText": "The village has no traffic — just one paved promenade along the water. Walk south to north in 10 minutes, passing stone palaces, the St. Nicholas bell tower, and waterfront cafes with bay views. The Perast Museum in the Buiovic Palace documents the town's maritime history.",
+    "monasteryTitle": "Banja Monastery",
+    "monasteryText": "Continue north past Perast toward Risan for 2 km to reach the Banja Monastery. It holds religious artefacts from Russian, Greek, and local Boka dynasties. Usually open mornings only."
+  },
+  "tivatBody": {
+    "h1": "Tivat — Porto Montenegro and the Bay Gateway",
+    "p1": "Tivat sits on the Bay of Kotor, roughly 1.5 to 2 hours north of Ulcinj via the coastal road. The town is home to Porto Montenegro, a luxury superyacht marina that has transformed this once-quiet bay town into one of the Adriatic's most fashionable destinations.",
+    "p2": "The town is compact: a 2 km waterfront promenade connects the ferry pier to the Porto Montenegro marina. Most restaurants, shops, and cafes line this strip. Tivat Airport sits just across the road from town, making it the most convenient arrival point for the Bay of Kotor.",
+    "beachesTitle": "Beaches Near Tivat",
+    "beachesText": "Tivat's 17 beaches span 3 km of bay coastline. The water is calmer than the open Adriatic. Top picks:",
+    "beach1": "Plavi Horizonri (Blue Horizons) — white sand, shallow entry, ideal for families. Located 2 km south of the marina.",
+    "beach2": "Lustica Bay resort — 10 minutes south of town on the Lustica peninsula. Managed beach clubs with lounger rental, plus the Chedi hotel.",
+    "portoTitle": "Porto Montenegro",
+    "portoText": "The marina berths 450+ vessels including superyachts up to 250 metres. The waterfront village has boutiques, restaurants, the Regent hotel, and a pool club. Regular events (regattas, food festivals) run through summer.",
+    "culturalTitle": "Beyond the Waterfront",
+    "monasteryTitle": "Prevlaka Peninsula",
+    "monasteryText": "A 10-minute drive south of Porto Montenegro brings you to the ruins of the 10th-century St. Michael Archangel Monastery among olive trees. The peninsula has a quiet pebble beach facing the open bay.",
+    "churchTitle": "Gornja Lastva",
+    "churchText": "A hillside village 3 km above Tivat, reached by a narrow switchback road. Stone houses, an old church, and panoramic views over the entire bay.",
+    "museumText": "For maritime history, drive through the Vrmac tunnel to the Kotor Maritime Museum inside the Old Town walls — a comfortable half-day trip from Tivat."
+  },
+  "tivatAirportBody": {
+    "h1": "Car Hire at Tivat Airport (TIV)",
+    "p1": "Tivat Airport is Montenegro's main coastal airport, handling over a million passengers during peak season. The airport is 75 km from Ulcinj — about 1.5 to 2 hours via the coastal road through Budva and Bar. If your flight arrives at Tivat, collecting a car here and driving south to Ulcinj is straightforward.",
+    "p2": "Summer schedules bring easyJet, Ryanair, TUI, and Wizz Air from cities across Europe. Winter service drops to daily Belgrade flights. Book early for July-August arrivals when demand peaks.",
+    "distancesTitle": "Distances from Tivat Airport",
+    "dist1": "Kotor: 12 minutes via Vrmac tunnel",
+    "dist2": "Budva: 25 minutes south",
+    "dist3": "Ulcinj: approximately 1.5-2 hours south via the coastal road",
+    "dist4": "Perast: 20 minutes along the bay road north",
+    "facilitiesTitle": "Airport Facilities",
+    "facilitiesText": "Single-terminal airport with a cafe, duty-free shop, ATMs, and tourist information. Rental car pickup is at the short-stay car park directly outside arrivals — about 40 metres from the baggage hall.",
+    "whyTitle": "Why Rent at Tivat Airport?",
+    "whyText": "Tivat Airport has the most international flight connections of any Montenegrin airport. If your airline does not serve Podgorica (which is closer to Ulcinj), Tivat is the alternative. The drive south along the coast passes through Budva, Petrovac, and Bar — all worth stops along the way.",
+    "meetText": "We meet you at the arrivals hall with your name on a sign. Your car is parked right outside. Total time from landing to driving: about 10 minutes."
+  },
+  "podgoricaBody": {
+    "h1": "Podgorica — Montenegro's Capital, 45 Minutes from Ulcinj",
+    "p1": "Podgorica is the closest major city to Ulcinj, just 40 km inland — roughly 45 minutes by car. As Montenegro's capital and largest city, it sits on the confluence of six rivers (Moraca, Ribnica, Zeta, Sitnica, Mareza, Cijevna) with a population of around 170,000.",
+    "p2": "The city's architecture reflects every era: Ottoman clock towers, Austro-Hungarian facades, Yugoslav-era concrete blocks, and modern glass towers. The Millennium Bridge over the Moraca is the city's most recognisable landmark.",
+    "p3": "Podgorica works well as a day trip from Ulcinj or as a stopover en route to the northern mountains. Lower prices, easier parking, and restaurant tables without reservations make it a refreshing change from the tourist coast.",
+    "seeTitle": "What to See",
+    "seeText": "The old Turkish Quarter (Stara Varos) has narrow streets, a clock tower, and traditional restaurants. Delta City shopping centre has international brands and underground parking. The Green Market near the central square sells local produce daily.",
+    "dayTripsTitle": "Day Trips from Podgorica",
+    "skadarTitle": "Skadar Lake",
+    "skadarText": "Drive 30 minutes south to the largest lake in the Balkans. Boat tours launch from Virpazar village. The lake is a national park home to pelican colonies and 260+ bird species.",
+    "danilovgradTitle": "Danilovgrad",
+    "danilovgradText": "A quiet river town 25 minutes west of Podgorica. Riverside beaches, fish restaurants, and the nearby Zdrebaonik monastery.",
+    "zabljak": "A mountain town at 1,450 metres in the Durmitor range, 170 km north. Skiing in winter, Tara canyon rafting and Black Lake hiking in summer. The drive takes 2.5-3 hours."
+  },
+  "dubrovnikAirportBody": {
+    "h1": "Renting a Car at Dubrovnik Airport (DBV)",
+    "p1": "Dubrovnik Airport handles a wider range of airlines than Montenegro's own airports. If your preferred carrier does not serve Tivat or Podgorica, landing at Dubrovnik and driving south through Montenegro to Ulcinj is a well-established route — though it is a longer drive of 4-5 hours.",
+    "p2": "The drive takes you through the Croatian coast, across the Montenegro border at Debeli Brijeg, along the Bay of Kotor, and then south via Budva, Bar, and finally Ulcinj. Ensure your rental company includes a Green Card for Montenegro.",
+    "p3": "Croatian motorway tolls apply on the A1 from the airport toward the border. The toll is modest (under 5 EUR) and can be paid by card or cash.",
+    "borderTitle": "Border Crossing Tips",
+    "borderText": "The Debeli Brijeg checkpoint is the only coastal crossing between Croatia and Montenegro. In summer, expect 30-90 minute queues during mid-day. Cross before 8 am or after 8 pm for shorter waits. Have passport, rental contract, and Green Card ready in hand.",
+    "facilitiesTitle": "Airport Facilities",
+    "facilitiesText1": "The terminal sits 20 km south-east of Dubrovnik Old Town. Rental car desks are in the arrivals hall. Collect paperwork inside, then walk to the car park.",
+    "facilitiesText2": "Some agencies use off-site lots with shuttle transfers — confirm in advance whether your car is on-site.",
+    "gettingTitle": "The Drive to Montenegro",
+    "gettingText1": "Exit the airport and follow the E65 south-east through Cavtat toward the Montenegro border. The road is well-maintained with sea views. After the border, continue through Herceg Novi and along the Bay of Kotor.",
+    "gettingText2": "From the bay, continue south through Budva and Bar to Ulcinj. The total drive is 4-5 hours depending on border wait times and route choice. Break the journey with stops at Kotor, Budva, or Petrovac."
+  },
   "aboutBody": {
     "h1": "Ulcinj Car Hire",
     "p1": "Ulcinj Car Hire connects travellers with reliable, affordable rental cars in Montenegro's southern coast. Ulcinj is the furthest major resort from both airports — making a hire car not just convenient, but essential for reaching Velika Plaza, Ada Bojana, and the region's hidden gems.",
