@@ -196,89 +196,89 @@
   },
   "featureCards": {
     "airportPickup": {
-      "title": "Prise en charge à l'aéroport",
-      "desc": "Récupérez votre voiture aux arrivées de l'aéroport de Tivat ou Podgorica. Pas de navette, pas d'attente."
+      "title": "Accès aux plages",
+      "desc": "Velika Plaza, Ada Bojana, Valdanos — chaque plage est un monde à part, et aucune n'est accessible en bus."
     },
     "fullInsurance": {
       "title": "Assurance tous risques",
-      "desc": "Couverture complète avec option zéro franchise. Conduisez en toute sérénité."
+      "desc": "Couverture complète avec option zéro franchise. Inclut la protection sur les pistes non asphaltées menant à Ada Bojana et à la oliveraie de Valdanos."
     },
     "support": {
       "title": "Assistance 24h/24",
-      "desc": "Assistance routière et service client disponibles jour et nuit, tous les jours."
+      "desc": "Cerf-volant cassé à Ada Bojana et besoin d'aide ? Appelez-nous. Assistance routière disponible à toute heure, là où la route s'arrête."
     },
     "noHiddenFees": {
       "title": "Aucun frais caché",
-      "desc": "Politique carburant, kilométrage, taxes — tout est inclus dans le prix affiché."
+      "desc": "Tout inclus dans le prix — y compris le long trajet depuis l'aéroport de Podgorica (2 h) ou Tivat (2 h 30). Le prix affiché est le prix final."
     },
     "freeCancellation": {
       "title": "Annulation gratuite",
-      "desc": "Les plans changent. Annulez jusqu'à 24 heures avant pour un remboursement intégral."
+      "desc": "Les conditions de vent changent et les plans de kitesurf aussi. Annulation gratuite jusqu'à 24 heures avant le départ — les changements saisonniers sont également couverts."
     },
     "crossBorder": {
-      "title": "Transfrontalier",
-      "desc": "Roulez en Croatia, Bosnia, Albania ou Kosovo. Les trajets transfrontaliers sont autorisés."
+      "title": "Passage de frontières",
+      "desc": "L'Albanie est à 20 minutes — le poste de Muriqan/Sukobin est le point d'entrée le plus proche depuis le Monténégro. Shkodra en 45 min, Tirana en 3 h. La Croatie, le Kosovo et la Bosnie sont aussi autorisés."
     }
   },
   "testimonials": {
     "0": {
-      "text": "Ulcinj est loin des deux aéroports, une voiture de location était donc indispensable. Récupérée à Podgorica et conduit directement à la Longue Plage. Sans problème."
+      "text": "Je suis venu pour le vent d'Ada Bojana — et il a tenu toutes ses promesses. Trois jours de kite dans des thermiques quasi parfaits. Avec la voiture, j'ai pu explorer la plage des deux côtés et remonter la côte chaque soir pour dîner à Ulcinj. Je n'aurais pas fait autrement."
     },
     "1": {
-      "text": "Nous avons conduit de Tivat à Ada Bojana pour le kitesurf. La voiture était en excellent état et nous sommes allés en Albanie pour visiter Shkodra. Génial."
+      "text": "Le matin, nous flânions dans les remparts ottomans du Stari Grad, et le soir, nous filions vers Velika Plaza pour regarder le soleil plonger dans l'Adriatique. La route côtière au coucher du soleil reste un souvenir à part. La voiture a donné tout son rythme à ce voyage."
     },
     "2": {
-      "text": "Passé une semaine à explorer la vieille ville d'Ulcinj et les oliveraies de Valdanos. Sans voiture, on manquerait tout — les transports en commun sont quasi inexistants ici."
+      "text": "Dès le deuxième jour, j'ai passé la frontière albanaise — 20 minutes jusqu'au poste, encore 30 jusqu'à Shkodra. C'était comme entrer dans un autre monde. Ulcinj elle-même a déjà quelque chose de reculé et de tranquille comparé au reste de la côte monténégrine, mais avec un véhicule on peut pousser encore plus au sud."
     }
   },
   "faqItems": {
     "0": {
       "q": "Quels documents dois-je fournir ?",
-      "a": "Un permis de conduire valide (les informations doivent figurer en caractères latins), un passeport et une carte de crédit physique au nom du conducteur principal. Un permis de conduire international est recommandé si votre permis n'est valable que dans son pays d'émission. Les copies ou permis électroniques ne sont pas acceptés."
+      "a": "Un permis de conduire valide avec les informations en caractères latins, votre passeport et une carte de crédit physique au nom du conducteur principal. Si votre permis a été délivré hors UE et n'est valable que dans son pays d'origine, munissez-vous d'un permis de conduire international. Les copies ou permis électroniques ne sont pas acceptés à la prise en charge."
     },
     "1": {
-      "q": "Puis-je conduire en Croatie ou en Albanie ?",
-      "a": "Oui ! Si vous prévoyez de voyager en dehors du Monténégro, informez l'agent de location à l'avance afin qu'il puisse préparer les documents nécessaires. Les déplacements transfrontaliers vers les pays voisins sont autorisés."
+      "q": "Puis-je conduire en Albanie ?",
+      "a": "Absolument — et Ulcinj est le meilleur point de départ du Monténégro pour cela. Le poste-frontière de Muriqan/Sukobin est à seulement 20 minutes au sud de la ville et le passage est généralement rapide. Shkodra est à 45 minutes, Tirana à environ 3 heures. Signalez-le à la réservation et nous préparerons la Carte Verte et les documents de passage. Les voyages en Croatie, Bosnie, Kosovo et Serbie sont également autorisés."
     },
     "2": {
       "q": "Y a-t-il un âge minimum ?",
-      "a": "L'âge minimum et les exigences en matière d'expérience de conduite varient selon le véhicule. Ces détails sont affichés lorsque vous recherchez les voitures disponibles."
+      "a": "L'âge minimum est de 21 ans. Les conducteurs doivent être titulaires d'un permis valide depuis au moins 2 ans. Les conducteurs de 21 à 24 ans paient un supplément jeune conducteur — le montant exact est indiqué par véhicule dans les résultats de recherche."
     },
     "3": {
       "q": "Qu'est-ce qui est inclus dans le prix ?",
-      "a": "Tous les véhicules sont assurés — la plupart incluent l'assurance responsabilité civile et la garantie dommages par collision (CDW) dans le prix de base. La TVA, les kits d'équipement (trousse de premiers secours, triangle de signalisation, gilet de haute visibilité) et une politique carburant transparente sont également inclus. Les conditions de kilométrage varient selon le véhicule. Des options de couverture étendue sont disponibles moyennant un supplément."
+      "a": "Tous les véhicules incluent l'assurance responsabilité civile et la garantie dommages par collision (CDW) dans le prix de base. TVA, kit d'équipement obligatoire (trousse de secours, triangle de signalisation, gilet réfléchissant) et politique carburant transparente sont également inclus. À noter : les stations-service se raréfient au sud de Bar — faites le plein avant de rejoindre Ada Bojana ou Valdanos. Des options kilométrage illimité et couvertures étendues sont disponibles par véhicule."
     },
     "4": {
       "q": "Comment se passe la prise en charge ?",
-      "a": "Choisissez l'heure et le lieu de prise en charge lors de la réservation — les options varient selon l'agent de location et la destination. L'agent organisera la rencontre au lieu convenu. Pour les détails précis du point de rencontre, contactez l'agent directement après la réservation."
+      "a": "Ulcinj est à environ 2 heures de l'aéroport de Podgorica et 2 h 30 de Tivat — un long trajet après un vol. Nous recommandons vivement la location en aller simple : récupérez le véhicule à l'aéroport d'arrivée et restituez-le à Ulcinj, ou inversement. Les horaires et points de rendez-vous sont confirmés avec l'agent après la réservation."
     },
     "5": {
       "q": "Puis-je restituer le véhicule dans un autre lieu ?",
-      "a": "Oui — les locations en aller simple sont proposées dans 28 villes et localités du Monténégro. Il vous suffit de choisir des lieux de prise en charge et de restitution différents lors de la réservation."
+      "a": "Oui — les locations en aller simple sont disponibles dans 28 villes et localités au Monténégro. Compte tenu de la distance des deux aéroports, la combinaison prise en charge à Podgorica ou Tivat et restitution à Ulcinj (ou l'inverse) est l'une des plus demandées."
     },
     "6": {
       "q": "Quelle est la politique d'annulation ?",
-      "a": "Annulation gratuite jusqu'à 7 jours avant la date de début de location. Pour les voitures de luxe et les cabriolets, l'annulation gratuite est possible jusqu'à 30 jours avant. Des frais de service de paiement de 6 % s'appliquent à toutes les annulations."
+      "a": "Locations standard : annulation gratuite jusqu'à 7 jours avant la date de début. Véhicules premium et cabriolets : annulation gratuite jusqu'à 30 jours avant. Des frais de traitement de paiement de 6 % s'appliquent à toutes les annulations, quel que soit le délai. Si vous planifiez votre séjour selon les conditions de kite à Ada Bojana, la fenêtre d'annulation flexible est à garder en tête."
     },
     "7": {
       "q": "Un dépôt de garantie est-il requis ?",
-      "a": "Le montant du dépôt varie selon le véhicule — certains véhicules sont disponibles sans dépôt. Si un dépôt est requis, il doit être prélevé sur une carte de crédit physique au nom du conducteur principal et est remboursé à la restitution du véhicule en bon état."
+      "a": "Le montant du dépôt varie selon le véhicule — généralement entre 50 et 300 EUR, et certains véhicules n'en requièrent aucun. Le dépôt doit être effectué sur une carte de crédit physique (pas de débit ni de prépayée) au nom du conducteur principal. Il est retenu à la prise en charge et restitué dans les quelques jours ouvrables suivant le retour du véhicule sans dommages."
     },
     "8": {
       "q": "Que se passe-t-il si je dépasse la limite de kilométrage ?",
-      "a": "Les véhicules avec restriction de kilométrage sont facturés au kilomètre supplémentaire. Les tarifs sont indiqués dans les détails du véhicule avant la réservation."
+      "a": "Les véhicules avec un plafond kilométrique facturent chaque kilomètre supplémentaire au-delà de la limite convenue. Le tarif au kilomètre est indiqué dans les détails du véhicule avant confirmation de la réservation. Si vous prévoyez de rouler en Albanie ou de longer toute la côte monténégrine, cherchez les options kilométrage illimité dans les résultats."
     },
     "9": {
       "q": "Y a-t-il des frais cachés ?",
-      "a": "Non. Le prix affiché comprend toutes les taxes et tous les frais. Ce qui est indiqué lors de la réservation correspond à ce que vous payez."
+      "a": "Aucun. Le prix affiché à la réservation est le prix final — taxes, TVA et tous frais standard sont inclus. Le trajet plus long depuis Podgorica ou Tivat est intégré dans le tarif, non ajouté après coup. Vous ne recevrez aucune facture surprise à la prise en charge."
     },
     "10": {
       "q": "Combien dois-je payer à l'avance ?",
-      "a": "Seulement 15 à 20 % du montant total sont nécessaires pour confirmer votre réservation. Le solde est payé directement à l'agent de location lors de la prise en charge."
+      "a": "Un acompte de 15 à 20 % du coût total de la location est prélevé à la réservation pour garantir le véhicule. Le solde est réglé en espèces ou par carte directement auprès de l'agent lors de la prise en charge."
     },
     "11": {
       "q": "Puis-je louer sans carte de crédit ?",
-      "a": "Certains véhicules sont disponibles sans carte de crédit. Vérifiez la disponibilité lors de votre recherche — les options sans carte de crédit sont clairement indiquées."
+      "a": "Une petite sélection de véhicules est disponible sans carte de crédit, clairement signalée dans les résultats de recherche. Pour la plupart des véhicules — notamment ceux sans caution — une carte de crédit physique au nom du conducteur principal est requise."
     }
   },
   "destCards": {

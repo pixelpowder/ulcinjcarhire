@@ -199,88 +199,88 @@
   "featureCards": {
     "airportPickup": {
       "title": "Beach Access",
-      "desc": "Sand gets in everything down here. Drive straight to Velika Plaza, Ada Bojana, or the hidden cove at Valdanos — no taxi negotiation required."
+      "desc": "Velika Plaza, Ada Bojana, Valdanos — each beach a different world, and none of them on a bus route."
     },
     "fullInsurance": {
       "title": "Full Insurance",
-      "desc": "Comprehensive cover including zero-excess upgrade. Dirt roads to Valdanos and unmarked lanes to the beach are all covered."
+      "desc": "Comprehensive cover with zero-excess upgrade. Includes protection on the unpaved access roads near Ada Bojana and the Valdanos olive grove track."
     },
     "support": {
       "title": "24/7 Support",
-      "desc": "Roadside help and customer support around the clock. Even when you're on that trackless stretch south of Velika Plaza at dusk."
+      "desc": "Kite snapped at Ada Bojana and you need a lift? Ring us. Roadside help available around the clock, wherever the road ends."
     },
     "noHiddenFees": {
       "title": "No Hidden Fees",
-      "desc": "Fuel policy, mileage, tax — everything baked into the price. No surprises when you're already deep in the south."
+      "desc": "Everything baked into the price — including the longer airport transfer from Podgorica (2 hrs) or Tivat (2.5 hrs). What you see is what you pay."
     },
     "freeCancellation": {
       "title": "Free Cancellation",
-      "desc": "Balkan plans shift. Cancel up to 24 hours before pickup and get a full refund. The south will wait for you."
+      "desc": "Wind conditions shift and kitesurfing plans change. Cancel up to 24 hours before pickup for a full refund — seasonal changes covered too."
     },
     "crossBorder": {
       "title": "Cross-Border Ready",
-      "desc": "Albania in 30 min, Croatia in 3 hours, Kosovo in 4. Green card paperwork arranged at booking — just drive."
+      "desc": "Albania is 20 minutes away — the Muriqan/Sukobin crossing is the closest entry point from Montenegro. Shkodra in 45 min, Tirana in 3 hrs. Croatia, Kosovo, and Bosnia also permitted."
     }
   },
   "testimonials": {
     "0": {
-      "text": "No railway, no reliable bus, and the beach is 5 km from town on a road with no pavement. We picked up at Podgorica and had sand between our toes within the hour. Essential."
+      "text": "I came for the Ada Bojana wind and it delivered — three straight days of kiting in near-perfect thermals. Having the car meant I could scout the beach from both sides and still drive up the coast for dinner in Ulcinj each evening. Wouldn't have done it any other way."
     },
     "1": {
-      "text": "Drove from Tivat to Ada Bojana for the kitesurfing. Crossed into Albania for lunch in Shkodra. Back in Ulcinj for grilled fish on the river. None of that happens without a car."
+      "text": "We spent our mornings wandering the Ottoman walls of Stari Grad and our evenings driving out to Velika Plaza to watch the sun drop into the Adriatic. The road along the coast at sunset is something we still talk about. The car made the whole rhythm of the trip possible."
     },
     "2": {
-      "text": "Spent a week exploring Stari Grad, the olive groves at Valdanos, and the Salina salt flats. Ulcinj feels like a different country from the tourist coast — you need wheels to discover it."
+      "text": "I crossed into Albania on day two — 20 minutes to the border, another 30 to Shkodra. It felt like a completely different world. Ulcinj itself already feels remote and unhurried compared to the rest of Montenegro's coast, but with wheels you can push even further south."
     }
   },
   "faqItems": {
     "0": {
       "q": "What documents do I need?",
-      "a": "A valid driving licence (must show Latin script details), a foreign passport, and a physical credit card in the main driver's name. International Driving Permit recommended if your licence is only valid in its country of origin. Copies or electronic licences are not accepted."
+      "a": "A valid driving licence showing details in Latin script, your passport, and a physical credit card in the main driver's name. If your licence was issued outside the EU and is only valid in its country of origin, bring an International Driving Permit. Electronic or photocopied licences are not accepted at pickup."
     },
     "1": {
       "q": "Can I drive to Albania?",
-      "a": "Yes — and you should. The Sukobin crossing is 15 min south of Ulcinj and usually takes under 20 min to clear. Just let the rental agent know at booking so they prepare the Green Card and border documentation."
+      "a": "Absolutely — and Ulcinj is the best starting point in Montenegro for it. The Muriqan/Sukobin border crossing is just 20 minutes south of town and usually clears quickly. Shkodra is 45 minutes away; Tirana is around 3 hours. Just tell us at booking and we'll have the Green Card and border paperwork ready. Travel to Croatia, Bosnia, Kosovo, and Serbia is also permitted."
     },
     "2": {
       "q": "Is there a minimum age?",
-      "a": "The minimum age and driving experience requirements vary by vehicle. These details are shown when you search for available cars."
+      "a": "The minimum age is 21. Drivers must have held a full licence for at least 2 years. Drivers aged 21–24 pay a young driver supplement — the exact rate is shown per vehicle in the search results."
     },
     "3": {
       "q": "What's included in the price?",
-      "a": "All vehicles come with insurance — most include Third Party Liability and Collision Damage Waiver (CDW) in the base price. VAT, equipment kits (first aid, warning triangle, visibility vest), and a transparent fuel policy are also included. Mileage terms vary by vehicle. Extended coverage options are available for an additional fee."
+      "a": "All vehicles include Third Party Liability insurance and Collision Damage Waiver (CDW) in the base price. VAT, mandatory equipment kit (first aid, warning triangle, visibility vest), and a transparent fuel policy are all included. Note that fuel stations become sparse south of Bar — tank up before heading to Ada Bojana or Valdanos. Unlimited mileage and extended coverage upgrades are available per vehicle."
     },
     "4": {
       "q": "How does pickup work?",
-      "a": "Choose your pickup time and location during booking — options vary depending on the rental agent and destination. The agent will arrange to meet you at the agreed location. For precise meeting point details, contact the agent directly after booking."
+      "a": "Ulcinj is around 2 hours from Podgorica Airport and 2.5 hours from Tivat — both are long drives after a flight. We strongly recommend a one-way rental: pick up at whichever airport you land at and drop off in Ulcinj, or vice versa. Pick up times and meeting points are confirmed with the rental agent after booking."
     },
     "5": {
       "q": "Can I drop off at a different location?",
-      "a": "Yes — one-way rentals are supported across 28 cities and towns in Montenegro. Simply choose different pickup and dropoff locations during booking."
+      "a": "Yes — one-way rentals are available across 28 towns and cities throughout Montenegro. Given the distance from both airports, picking up at Podgorica or Tivat and returning the car in Ulcinj (or the reverse) is one of the most popular combinations we arrange."
     },
     "6": {
       "q": "What is the cancellation policy?",
-      "a": "Free cancellation up to 7 days before the rental start date. For luxury cars and convertibles, free cancellation is available up to 30 days before. A 6% payment service fee applies to all cancellations."
+      "a": "Standard rentals: free cancellation up to 7 days before the start date. Premium and convertible vehicles: free cancellation up to 30 days before. A 6% payment processing fee applies to all cancellations regardless of timing. If you're planning around kitesurfing conditions at Ada Bojana, the flexible cancellation window is worth keeping in mind."
     },
     "7": {
       "q": "Is a deposit required?",
-      "a": "Deposit amounts vary by vehicle — some cars are available with no deposit. If required, the deposit must be on a physical credit card in the main driver's name and is refunded upon return of the vehicle in good condition."
+      "a": "Deposit requirements vary by vehicle — typically between EUR 50 and EUR 300, and some cars carry no deposit at all. The deposit must be on a physical credit card (not debit or prepaid) in the main driver's name. It is held at pickup and released within a few business days of returning the vehicle undamaged."
     },
     "8": {
       "q": "What happens if I exceed the mileage limit?",
-      "a": "Vehicles with mileage restrictions are charged per kilometre over the limit. Rates are shown in the vehicle details before you book."
+      "a": "Vehicles that carry a mileage cap charge per kilometre above the agreed limit. The per-km rate is listed in the vehicle details before you confirm your booking. If you're planning to drive into Albania or explore the full Montenegrin coast, look for unlimited mileage options in the search results."
     },
     "9": {
       "q": "Are there any hidden fees?",
-      "a": "No. The price you see includes all taxes and fees. What's shown at booking is what you pay."
+      "a": "None. The price shown at booking is the full price — taxes, VAT, and all standard fees are included. The longer transfer from Podgorica or Tivat is factored in, not added on. You won't be handed a surprise invoice at pickup."
     },
     "10": {
       "q": "How much do I pay upfront?",
-      "a": "Only 15-20% of the total is required to confirm your booking. The remainder is paid directly to the rental agent at pickup."
+      "a": "A deposit of 15–20% of the total rental cost is taken at booking to secure the vehicle. The remaining balance is settled in cash or by card directly with the rental agent when you collect the keys."
     },
     "11": {
       "q": "Can I rent without a credit card?",
-      "a": "Some vehicles are available without a credit card. Check availability when searching — card-free options are clearly marked."
+      "a": "A small selection of vehicles can be rented without a credit card. These are flagged clearly in the search results. For most vehicles, particularly those available with zero deposit, a physical credit card in the main driver's name is required."
     }
   },
   "destCards": {
