@@ -616,7 +616,7 @@
   position: absolute;
   inset: 0;
   z-index: 0;
-  background: rgb(61,28,13);
+  background: rgb(26,26,26);
 }
 
 .hero-wrapper__bg::after {
@@ -625,9 +625,9 @@
   inset: 0;
   background: linear-gradient(
     to bottom,
-    rgba(61, 28, 13, 0.55) 0%,
-    rgba(61, 28, 13, 0.40) 50%,
-    rgba(61, 28, 13, 0.30) 100%
+    rgba(26, 26, 26, 0.55) 0%,
+    rgba(26, 26, 26, 0.40) 50%,
+    rgba(26, 26, 26, 0.30) 100%
   );
   z-index: 2;
 }
@@ -758,7 +758,7 @@
 
 /* ─── LOCALRENT WIDGET COLOUR OVERRIDES ─────────────── */
 .search-cigarette__wrap {
-  background-color: #1A1A1A !important;
+  background-color: #111111 !important;
 }
 .search-placeholder,
 .search-cigarette__placeholder {
@@ -766,13 +766,13 @@
 }
 .winter-package-banner--more,
 .link-dashed-M {
-  color: #FF5000 !important;
-  border-color: #FF5000 !important;
-  border-bottom-color: #FF5000 !important;
+  color: #FF6B00 !important;
+  border-color: #FF6B00 !important;
+  border-bottom-color: #FF6B00 !important;
 }
 .featuring-cool-cars__badge {
   background-color: rgba(194, 91, 40, 0.15) !important;
-  color: #FF5000 !important;
+  color: #FF6B00 !important;
 }
 /* Buttons / CTAs */
 .btn-primary,
@@ -780,8 +780,8 @@
 .search-cigarette__submit,
 [class*="button--primary"],
 [class*="btn--primary"] {
-  background-color: #FF5000 !important;
-  border-color: #FF5000 !important;
+  background-color: #FF6B00 !important;
+  border-color: #FF6B00 !important;
 }
 [class*="button--primary"]:hover,
 [class*="btn--primary"]:hover,
@@ -838,7 +838,7 @@
 
 /* ─── BOOKING CARD ─────────────────────────────────────── */
 .booking-card {
-  background: rgba(61, 28, 13, 0.85);
+  background: rgba(26, 26, 26, 0.85);
   border-radius: 12px;
   padding: 25px 28px 25px;
   max-width: 100%;
@@ -1004,7 +1004,7 @@ select.booking-field__input {
 
 /* ─── TRUST STRIP ──────────────────────────────────────── */
 .trust-strip {
-  background: rgba(61, 28, 13, 0.93);
+  background: rgba(26, 26, 26, 0.93);
   backdrop-filter: blur(80px);
   -webkit-backdrop-filter: blur(80px);
   padding: 40px 0;
@@ -2541,4 +2541,65 @@ select.booking-field__input {
     width: 100%;
     justify-content: center;
   }
+}
+
+/* ─── ADVENTURE HUB (ULCINJ UNIQUE) ──────────────────── */
+.adventure-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 24px;
+}
+
+.adventure-card {
+  background: var(--white);
+  border-radius: var(--radius-lg);
+  padding: 28px 24px;
+  box-shadow: var(--shadow-sm);
+  text-align: center;
+  transition: transform 0.3s cubic-bezier(0.4,0,0.2,1), box-shadow 0.3s;
+}
+
+.adventure-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 32px rgba(10,46,26,0.1);
+}
+
+.adventure-card__icon {
+  width: 52px;
+  height: 52px;
+  border-radius: 14px;
+  background: var(--blue-light, #e6f4f1);
+  color: var(--blue, #0D8B7D);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 16px;
+  transition: transform 0.3s, background 0.3s, color 0.3s;
+}
+
+.adventure-card:hover .adventure-card__icon {
+  transform: scale(1.15);
+  background: var(--blue, #0D8B7D);
+  color: #fff;
+  box-shadow: 0 6px 20px rgba(13,139,125,0.3);
+}
+
+.adventure-card__title {
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--navy);
+  margin-bottom: 8px;
+}
+
+.adventure-card__desc {
+  font-size: 14px;
+  color: var(--gray-600);
+  line-height: 1.6;
+}
+
+@media (max-width: 768px) {
+  .adventure-grid { grid-template-columns: repeat(2, 1fr); gap: 16px; }
+}
+@media (max-width: 480px) {
+  .adventure-grid { grid-template-columns: 1fr; }
 }

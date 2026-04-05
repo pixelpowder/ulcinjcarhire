@@ -384,59 +384,28 @@ function StatCounters() {
   );
 }
 
-/* ─── HOW IT WORKS ─────────────────────────────────────── */
-function HowItWorks() {
-  const { t } = useTranslation();
-  const steps = [
-    { num: '01', title: t('howItWorks.step1Title'), desc: t('howItWorks.step1Desc') },
-    { num: '02', title: t('howItWorks.step2Title'), desc: t('howItWorks.step2Desc') },
-    { num: '03', title: t('howItWorks.step3Title'), desc: t('howItWorks.step3Desc') },
-  ];
+/* ─── ADVENTURE HUB (ULCINJ UNIQUE) ───────────────────── */
+function AdventureHub() {
   return (
-    <section className="section section--gray" id="how-it-works">
+    <section className="section section--gray" id="adventure">
       <div className="container">
         <div className="section-header">
-          <span className="section-label">{t('howItWorks.label')}</span>
-          <h2 className="section-title">{t('howItWorks.title')}</h2>
-          <p className="section-subtitle">{t('howItWorks.subtitle')}</p>
+          <span className="section-label">Explore</span>
+          <h2 className="section-title">Southern Montenegro Adventures</h2>
+          <p className="section-subtitle">Ulcinj is the gateway to experiences you will not find anywhere else on the coast.</p>
         </div>
-        <div className="steps-grid">
-          {steps.map((step, i) => (
-            <div key={step.num} className="step-card reveal-item">
-              <div className="step-card__num">{step.num}</div>
-              <h3 className="step-card__title">{step.title}</h3>
-              <p className="step-card__desc">{step.desc}</p>
+        <div className="adventure-grid">
+          {[
+            { icon: <Globe size={24} />, title: 'Kitesurfing Capital', desc: 'Ada Bojana\'s thermal winds blow May to September. Flat warm water, schools on-site, gear hire included. Europe\'s best-kept kite secret.' },
+            { icon: <MapPin size={24} />, title: 'Albania in 30 Minutes', desc: 'Cross at Sukobin, reach Shkodra\'s Rozafa Castle in half an hour. Green Card included with every booking — just tell us at checkout.' },
+            { icon: <Star size={24} fill="currentColor" />, title: 'Europe\'s Longest Beach', desc: 'Velika Plaza stretches 12 km of dark mineral sand. Therapeutic properties, warm shallows, and beach bars from end to end.' },
+            { icon: <ShieldCheck size={24} />, title: 'Ottoman Fortress', desc: 'Stari Grad\'s 2,500-year-old walls overlook the Adriatic. Legend says Cervantes was held captive within these ramparts.' },
+          ].map((item) => (
+            <div key={item.title} className="adventure-card reveal-item">
+              <div className="adventure-card__icon">{item.icon}</div>
+              <h3 className="adventure-card__title">{item.title}</h3>
+              <p className="adventure-card__desc">{item.desc}</p>
             </div>
-          ))}
-        </div>
-      </div>
-    </section>
-  );
-}
-
-/* ─── BRAND LOGOS ──────────────────────────────────────── */
-const CAR_BRANDS = [
-  { name: 'Toyota',     logo: '/img/logo-toyota.png' },
-  { name: 'Fiat',       logo: '/img/logo-fiat.png' },
-  { name: 'Volkswagen', logo: '/img/logo-volkswagen.png' },
-  { name: 'Peugeot',    logo: '/img/logo-peugeot.png' },
-  { name: 'Renault',    logo: '/img/logo-renault.png' },
-  { name: 'Hyundai',    logo: '/img/logo-hyundai.png' },
-  { name: 'Citroën',    logo: '/img/logo-citroen.png' },
-  { name: 'Suzuki',     logo: '/img/logo-suzuki.png' },
-  { name: 'Ford',       logo: '/img/logo-ford.png' },
-  { name: 'Dacia',      logo: '/img/logo-dacia.png' },
-];
-
-function BrandLogos() {
-  const { t } = useTranslation();
-  return (
-    <section className="brands-section">
-      <div className="container">
-        <p className="brands-label">{t("brands.label")}</p>
-        <div className="brands-row">
-          {CAR_BRANDS.map((brand) => (
-            <img key={brand.name} className="brand-logo" src={brand.logo} alt={brand.name} loading="lazy" />
           ))}
         </div>
       </div>
@@ -689,9 +658,9 @@ function FAQ() {
         </div>
 
         <div className="faq-list">
-          {[0, 6].map(start => (
+          {[0, 5].map(start => (
             <div key={start} className="faq-column">
-              {[0, 1, 2, 3, 4, 5].map(offset => {
+              {Array.from({ length: start === 0 ? 5 : 4 }, (_, i) => i).map(offset => {
                 const i = start + offset;
                 const isOpen = open === i;
                 return (
@@ -847,12 +816,11 @@ export default function App() {
         <Fleet />
         <Reviews />
         <TrustpilotBanner />
-        <HowItWorks />
         <StatCounters />
-        <BrandLogos />
+        <AdventureHub />
+        <FAQ />
         <Destinations />
         <Features />
-        <FAQ />
         <CTABanner />
       </main>
       <Footer />
