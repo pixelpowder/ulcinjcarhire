@@ -9,7 +9,7 @@ export default function Valdanos() {
       title={t("valdanos.title")}
       subtitle={t("valdanos.subtitle")}
       description={t("valdanos.seoDesc")}
-      image="/img/pexels-9526645.jpg"
+      image="/img/valdanos-olives.webp"
     >
       <h2>{t('valdanosBody.h1')}</h2>
       <p>{t('valdanosBody.p1')}</p>

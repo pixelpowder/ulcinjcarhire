@@ -9,7 +9,7 @@ export default function StariGrad() {
       title={t("stari-grad.title")}
       subtitle={t("stari-grad.subtitle")}
       description={t("stari-grad.seoDesc")}
-      image="/img/pexels-5668157.jpg"
+      image="/img/ulcinj-old-town.webp"
     >
       <h2>{t('stariGradBody.h1')}</h2>
       <p>{t('stariGradBody.p1')}</p>

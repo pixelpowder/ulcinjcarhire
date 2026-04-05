@@ -9,7 +9,7 @@ export default function AdaBojana() {
       title={t("ada-bojana.title")}
       subtitle={t("ada-bojana.subtitle")}
       description={t("ada-bojana.seoDesc")}
-      image="/img/pexels-16099591.jpg"
+      image="/img/ada-bojana.webp"
     >
       <h2>{t('adaBojanaBody.h1')}</h2>
       <p>{t('adaBojanaBody.p1')}</p>

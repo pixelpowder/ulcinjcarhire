@@ -9,7 +9,7 @@ export default function VelikaPlaza() {
       title={t("velika-plaza.title")}
       subtitle={t("velika-plaza.subtitle")}
       description={t("velika-plaza.seoDesc")}
-      image="/img/pexels-3802510.jpg"
+      image="/img/velika-plaza.webp"
     >
       <h2>{t('velikaPlazaBody.h1')}</h2>
       <p>{t('velikaPlazaBody.p1')}</p>

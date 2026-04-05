@@ -9,7 +9,7 @@ export default function Bar() {
       title={t("bar.title")}
       subtitle={t("bar.subtitle")}
       description={t("bar.seoDesc")}
-      image="/img/pexels-26753897.jpg"
+      image="/img/bar-nearby.webp"
     >
       <h2>{t('barBody.h1')}</h2>
       <p>{t('barBody.p1')}</p>

@@ -9,7 +9,7 @@ export default function Shkodra() {
       title={t("shkodra.title")}
       subtitle={t("shkodra.subtitle")}
       description={t("shkodra.seoDesc")}
-      image="/img/pexels-6216512.jpg"
+      image="/img/shkodra-albania.webp"
     >
       <h2>{t('shkodraBody.h1')}</h2>
       <p>{t('shkodraBody.p1')}</p>

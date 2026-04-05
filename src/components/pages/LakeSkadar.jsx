@@ -9,7 +9,7 @@ export default function LakeSkadar() {
       title={t("lake-skadar.title")}
       subtitle={t("lake-skadar.subtitle")}
       description={t("lake-skadar.seoDesc")}
-      image="/img/pexels-28674522.jpg"
+      image="/img/lake-skadar.webp"
     >
       <h2>{t('lakeSkadarBody.h1')}</h2>
       <p>{t('lakeSkadarBody.p1')}</p>
