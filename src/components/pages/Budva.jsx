@@ -4,7 +4,7 @@ import ContentPage from '../../ContentPage';
 export default function Budva() {
   const { t } = useTranslation();
   return (
-    <ContentPage title={t("budva.title")} subtitle={t("budva.subtitle")} description={t("budva.seoDesc")} image="/img/southern-coast-road.webp">
+    <ContentPage title={t("budva.title")} subtitle={t("budva.subtitle")} description={t("budva.seoDesc")} image="/img/budva-old-town.webp">
       <h2>{t('budvaBody.h1')}</h2>
       <p>{t('budvaBody.p1')}</p>
       <p>{t('budvaBody.p2')}</p>

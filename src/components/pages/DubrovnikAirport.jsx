@@ -9,7 +9,7 @@ export default function DubrovnikAirport() {
       title={t("dubrovnik-airport.title")}
       subtitle={t("dubrovnik-airport.subtitle")}
       description={t("dubrovnik-airport.seoDesc")}
-      image="/img/southern-coast-road.webp"
+      image="/img/dubrovnik-nearby.webp"
     >
       <h2>{t('dubrovnikAirportBody.h1')}</h2>
       <p>{t('dubrovnikAirportBody.p1')}</p>

@@ -4,7 +4,7 @@ import ContentPage from '../../ContentPage';
 export default function PodgoricaAirport() {
   const { t } = useTranslation();
   return (
-    <ContentPage title={t("podgorica-airport.title")} subtitle={t("podgorica-airport.subtitle")} description={t("podgorica-airport.seoDesc")} image="/img/southern-coast-road.webp">
+    <ContentPage title={t("podgorica-airport.title")} subtitle={t("podgorica-airport.subtitle")} description={t("podgorica-airport.seoDesc")} image="/img/lake-skadar.webp">
       <h2>{t('podgoricaAirportBody.h1')}</h2>
       <p>{t('podgoricaAirportBody.p1')}</p>
       <p>{t('podgoricaAirportBody.p2')}</p>
