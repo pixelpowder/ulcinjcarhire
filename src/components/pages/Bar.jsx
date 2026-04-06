@@ -13,6 +13,7 @@ export default function Bar() {
     >
       <h2>{t('barBody.h1')}</h2>
       <p>{t('barBody.p1')}</p>
+      <img src="/img/bar-nearby.webp" alt="Bar town and port on the Montenegrin coast" loading="lazy" />
       <p>{t('barBody.p2')}</p>
 
       <h3>{t('barBody.dayTripTitle')}</h3>

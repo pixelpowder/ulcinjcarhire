@@ -13,6 +13,7 @@ export default function LakeSkadar() {
     >
       <h2>{t('lakeSkadarBody.h1')}</h2>
       <p>{t('lakeSkadarBody.p1')}</p>
+      <img src="/img/lake-skadar.webp" alt="Lake Skadar, the largest lake in the Balkans, Montenegro" loading="lazy" />
       <p>{t('lakeSkadarBody.p2')}</p>
 
       <h3>{t('lakeSkadarBody.activitiesTitle')}</h3>

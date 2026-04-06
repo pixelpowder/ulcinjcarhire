@@ -13,6 +13,7 @@ export default function VelikaPlaza() {
     >
       <h2>{t('velikaPlazaBody.h1')}</h2>
       <p>{t('velikaPlazaBody.p1')}</p>
+      <img src="/img/velika-plaza.webp" alt="Velika Plaza beach, the longest sandy beach in Montenegro" loading="lazy" />
       <p>{t('velikaPlazaBody.p2')}</p>
 
       <h3>{t('velikaPlazaBody.activitiesTitle')}</h3>

@@ -13,6 +13,7 @@ export default function AdaBojana() {
     >
       <h2>{t('adaBojanaBody.h1')}</h2>
       <p>{t('adaBojanaBody.p1')}</p>
+      <img src="/img/ada-bojana.webp" alt="Ada Bojana river island and beach near Ulcinj" loading="lazy" />
       <p>{t('adaBojanaBody.p2')}</p>
 
       <h3>{t('adaBojanaBody.kitesurfTitle')}</h3>

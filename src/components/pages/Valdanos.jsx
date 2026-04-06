@@ -13,6 +13,7 @@ export default function Valdanos() {
     >
       <h2>{t('valdanosBody.h1')}</h2>
       <p>{t('valdanosBody.p1')}</p>
+      <img src="/img/valdanos-olives.webp" alt="Ancient olive grove at Valdanos bay near Ulcinj" loading="lazy" />
       <p>{t('valdanosBody.p2')}</p>
 
       <h3>{t('valdanosBody.olivesTitle')}</h3>

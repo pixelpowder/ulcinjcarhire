@@ -13,6 +13,7 @@ export default function StariGrad() {
     >
       <h2>{t('stariGradBody.h1')}</h2>
       <p>{t('stariGradBody.p1')}</p>
+      <img src="/img/ulcinj-old-town.webp" alt="Ulcinj Old Town fortress walls overlooking the Adriatic Sea" loading="lazy" />
       <p>{t('stariGradBody.p2')}</p>
 
       <h3>{t('stariGradBody.historyTitle')}</h3>

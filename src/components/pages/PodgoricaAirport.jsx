@@ -7,6 +7,7 @@ export default function PodgoricaAirport() {
     <ContentPage title={t("podgorica-airport.title")} subtitle={t("podgorica-airport.subtitle")} description={t("podgorica-airport.seoDesc")} image="/img/lake-skadar.webp">
       <h2>{t('podgoricaAirportBody.h1')}</h2>
       <p>{t('podgoricaAirportBody.p1')}</p>
+      <img src="/img/podgorica-airport.webp" alt="Podgorica Airport, the main international airport in Montenegro" loading="lazy" />
       <p>{t('podgoricaAirportBody.p2')}</p>
       <h2>{t('podgoricaAirportBody.distancesTitle')}</h2>
       <ul>
