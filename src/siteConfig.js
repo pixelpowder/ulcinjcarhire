@@ -227,7 +227,7 @@ const siteConfig = {
       slug: "podgorica-airport",
       tag: "40 Minutes",
       desc: "Montenegro's closest airport to Ulcinj.",
-      image: "/img/ulcinj-beach-sunset.webp",
+      image: "/img/podgorica-airport.webp",
     },
     {
       name: "Shkodra",
