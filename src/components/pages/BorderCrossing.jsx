@@ -2,7 +2,7 @@
 import useTranslation from '../../i18n/useTranslation';
 import ContentPage from '../../ContentPage';
 export default function BorderCrossing() {
-  const { t } = useTranslation();
+  const { t, localePath } = useTranslation();
   return (
     <ContentPage title={t("border-crossing.title")} subtitle={t("border-crossing.subtitle")} description={t("border-crossing.seoDesc")} image="/img/southern-coast-road.webp">
       <h2>{t('borderCrossingBody.h1')}</h2>
@@ -19,7 +19,7 @@ export default function BorderCrossing() {
       <p>{t('borderCrossingBody.croatiaTip')}</p>
       <p>{t('borderCrossingBody.croatiaFerry')}</p>
       <h3>{t('borderCrossingBody.albaniaTitle')}</h3>
-      <p>{t('borderCrossingBody.albaniaText')}</p>
+      <p>{t('borderCrossingBody.albaniaText')} From Ulcinj, the <a href={localePath('/shkodra')}>Shkodra day trip</a> is the easiest cross-border drive in Montenegro.</p>
       <p>{t('borderCrossingBody.albaniaNote')}</p>
       <h3>{t('borderCrossingBody.bosniaTitle')}</h3>
       <p>{t('borderCrossingBody.bosniaText')}</p>

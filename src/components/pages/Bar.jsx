@@ -3,7 +3,7 @@ import useTranslation from '../../i18n/useTranslation';
 import ContentPage from '../../ContentPage';
 
 export default function Bar() {
-  const { t } = useTranslation();
+  const { t, localePath } = useTranslation();
   return (
     <ContentPage
       title={t("bar.title")}
@@ -24,7 +24,7 @@ export default function Bar() {
       </ul>
 
       <h3>{t('barBody.gettingThereTitle')}</h3>
-      <p>{t('barBody.gettingThereText')}</p>
+      <p>{t('barBody.gettingThereText')} From Bar, continue south along the coast to <a href={localePath('/velika-plaza')}>Velika Plaza's 12 km sandy beach</a>.</p>
     </ContentPage>
   );
 }

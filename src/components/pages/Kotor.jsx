@@ -2,7 +2,7 @@
 import useTranslation from '../../i18n/useTranslation';
 import ContentPage from '../../ContentPage';
 export default function Kotor() {
-  const { t } = useTranslation();
+  const { t, localePath } = useTranslation();
   return (
     <ContentPage title={t("kotor.title")} subtitle={t("kotor.subtitle")} description={t("kotor.seoDesc")} image="/img/kotor-old-town.webp">
       <h2>{t('kotorBody.h1')}</h2>
@@ -16,7 +16,7 @@ export default function Kotor() {
       <h2>{t('kotorBody.dayTripsTitle')}</h2>
       <p>{t('kotorBody.perastTrip')}</p>
       <p>{t('kotorBody.cetinjeTrip')}</p>
-      <p>{t('kotorBody.royalCourtText')}</p>
+      <p>{t('kotorBody.royalCourtText')} Most visitors <a href={localePath('/tivat-airport')}>hire a car at Tivat Airport</a> to reach Kotor.</p>
     </ContentPage>
   );
 }

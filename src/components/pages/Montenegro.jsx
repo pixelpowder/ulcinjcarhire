@@ -2,14 +2,14 @@
 import useTranslation from '../../i18n/useTranslation';
 import ContentPage from '../../ContentPage';
 export default function Montenegro() {
-  const { t } = useTranslation();
+  const { t, localePath } = useTranslation();
   return (
     <ContentPage title={t("montenegro.title")} subtitle={t("montenegro.subtitle")} description={t("montenegro.seoDesc")} image="/img/southern-coast-road.webp">
       <h2>{t('montenegroBody.h1')}</h2>
       <p>{t('montenegroBody.p1')}</p>
       <p>{t('montenegroBody.p2')}</p>
       <h2>{t('montenegroBody.startTitle')}</h2>
-      <p>{t('montenegroBody.startText')}</p>
+      <p>{t('montenegroBody.startText')} For southern Montenegro, <a href={localePath('/podgorica-airport')}>Podgorica Airport</a> is the closest option at just 40 km from Ulcinj.</p>
       <h2>{t('montenegroBody.timesTitle')}</h2>
       <p>{t('montenegroBody.timesText1')}</p>
       <p>{t('montenegroBody.timesText2')}</p>

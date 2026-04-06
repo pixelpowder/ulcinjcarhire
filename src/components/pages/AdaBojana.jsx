@@ -3,7 +3,7 @@ import useTranslation from '../../i18n/useTranslation';
 import ContentPage from '../../ContentPage';
 
 export default function AdaBojana() {
-  const { t } = useTranslation();
+  const { t, localePath } = useTranslation();
   return (
     <ContentPage
       title={t("ada-bojana.title")}
@@ -23,7 +23,7 @@ export default function AdaBojana() {
       <p>{t('adaBojanaBody.restaurantsText')}</p>
 
       <h3>{t('adaBojanaBody.gettingThereTitle')}</h3>
-      <p>{t('adaBojanaBody.gettingThereText')}</p>
+      <p>{t('adaBojanaBody.gettingThereText')} From Ada Bojana you can <a href={localePath('/shkodra')}>cross into Albania and reach Shkodra in 30 minutes</a>.</p>
     </ContentPage>
   );
 }
