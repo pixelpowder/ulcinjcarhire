@@ -184,6 +184,18 @@
     <priority>0.7</priority>
   </url>
 
+  <!-- Contact -->
+  <url><loc>https://www.ulcinjcarhire.com/contact</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+
+  <!-- Budva -->
+  <url><loc>https://www.ulcinjcarhire.com/budva</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- Tivat -->
+  <url><loc>https://www.ulcinjcarhire.com/tivat</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- Blog -->
+  <url><loc>https://www.ulcinjcarhire.com/blog</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+
   <!-- Privacy Policy -->
   <url>
     <loc>https://www.ulcinjcarhire.com/privacy</loc>
