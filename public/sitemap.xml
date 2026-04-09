@@ -193,8 +193,145 @@
   <!-- Tivat -->
   <url><loc>https://www.ulcinjcarhire.com/tivat</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 
-  <!-- Blog -->
-  <url><loc>https://www.ulcinjcarhire.com/blog</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <!-- Blog Index -->
+  <url>
+    <loc>https://www.ulcinjcarhire.com/blog</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.ulcinjcarhire.com/blog" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.ulcinjcarhire.com/de/blog" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.ulcinjcarhire.com/ru/blog" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.ulcinjcarhire.com/it/blog" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.ulcinjcarhire.com/fr/blog" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.ulcinjcarhire.com/me/blog" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.ulcinjcarhire.com/blog" />
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Blog: Ulcinj Old Town Guide -->
+  <url>
+    <loc>https://www.ulcinjcarhire.com/blog/ulcinj-old-town-guide</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.ulcinjcarhire.com/blog/ulcinj-old-town-guide" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.ulcinjcarhire.com/de/blog/ulcinj-old-town-guide" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.ulcinjcarhire.com/ru/blog/ulcinj-old-town-guide" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.ulcinjcarhire.com/it/blog/ulcinj-old-town-guide" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.ulcinjcarhire.com/fr/blog/ulcinj-old-town-guide" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.ulcinjcarhire.com/me/blog/ulcinj-old-town-guide" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.ulcinjcarhire.com/blog/ulcinj-old-town-guide" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Blog: Velika Plaza Kitesurfing -->
+  <url>
+    <loc>https://www.ulcinjcarhire.com/blog/velika-plaza-kitesurfing</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.ulcinjcarhire.com/blog/velika-plaza-kitesurfing" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.ulcinjcarhire.com/de/blog/velika-plaza-kitesurfing" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.ulcinjcarhire.com/ru/blog/velika-plaza-kitesurfing" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.ulcinjcarhire.com/it/blog/velika-plaza-kitesurfing" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.ulcinjcarhire.com/fr/blog/velika-plaza-kitesurfing" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.ulcinjcarhire.com/me/blog/velika-plaza-kitesurfing" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.ulcinjcarhire.com/blog/velika-plaza-kitesurfing" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Blog: Ada Bojana River Island -->
+  <url>
+    <loc>https://www.ulcinjcarhire.com/blog/ada-bojana-river-island</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.ulcinjcarhire.com/blog/ada-bojana-river-island" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.ulcinjcarhire.com/de/blog/ada-bojana-river-island" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.ulcinjcarhire.com/ru/blog/ada-bojana-river-island" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.ulcinjcarhire.com/it/blog/ada-bojana-river-island" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.ulcinjcarhire.com/fr/blog/ada-bojana-river-island" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.ulcinjcarhire.com/me/blog/ada-bojana-river-island" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.ulcinjcarhire.com/blog/ada-bojana-river-island" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Blog: Ulcinj to Albania Border -->
+  <url>
+    <loc>https://www.ulcinjcarhire.com/blog/ulcinj-to-albania-border</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.ulcinjcarhire.com/blog/ulcinj-to-albania-border" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.ulcinjcarhire.com/de/blog/ulcinj-to-albania-border" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.ulcinjcarhire.com/ru/blog/ulcinj-to-albania-border" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.ulcinjcarhire.com/it/blog/ulcinj-to-albania-border" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.ulcinjcarhire.com/fr/blog/ulcinj-to-albania-border" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.ulcinjcarhire.com/me/blog/ulcinj-to-albania-border" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.ulcinjcarhire.com/blog/ulcinj-to-albania-border" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Blog: Ulcinj Olive Trail -->
+  <url>
+    <loc>https://www.ulcinjcarhire.com/blog/ulcinj-olive-trail</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.ulcinjcarhire.com/blog/ulcinj-olive-trail" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.ulcinjcarhire.com/de/blog/ulcinj-olive-trail" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.ulcinjcarhire.com/ru/blog/ulcinj-olive-trail" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.ulcinjcarhire.com/it/blog/ulcinj-olive-trail" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.ulcinjcarhire.com/fr/blog/ulcinj-olive-trail" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.ulcinjcarhire.com/me/blog/ulcinj-olive-trail" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.ulcinjcarhire.com/blog/ulcinj-olive-trail" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Blog: Valdanos Bay Secret -->
+  <url>
+    <loc>https://www.ulcinjcarhire.com/blog/valdanos-bay-secret</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.ulcinjcarhire.com/blog/valdanos-bay-secret" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.ulcinjcarhire.com/de/blog/valdanos-bay-secret" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.ulcinjcarhire.com/ru/blog/valdanos-bay-secret" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.ulcinjcarhire.com/it/blog/valdanos-bay-secret" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.ulcinjcarhire.com/fr/blog/valdanos-bay-secret" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.ulcinjcarhire.com/me/blog/valdanos-bay-secret" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.ulcinjcarhire.com/blog/valdanos-bay-secret" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Blog: Ulcinj Seafood Guide -->
+  <url>
+    <loc>https://www.ulcinjcarhire.com/blog/ulcinj-seafood-guide</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.ulcinjcarhire.com/blog/ulcinj-seafood-guide" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.ulcinjcarhire.com/de/blog/ulcinj-seafood-guide" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.ulcinjcarhire.com/ru/blog/ulcinj-seafood-guide" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.ulcinjcarhire.com/it/blog/ulcinj-seafood-guide" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.ulcinjcarhire.com/fr/blog/ulcinj-seafood-guide" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.ulcinjcarhire.com/me/blog/ulcinj-seafood-guide" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.ulcinjcarhire.com/blog/ulcinj-seafood-guide" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Blog: Ulcinj to Lake Skadar South -->
+  <url>
+    <loc>https://www.ulcinjcarhire.com/blog/ulcinj-to-lake-skadar-south</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.ulcinjcarhire.com/blog/ulcinj-to-lake-skadar-south" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.ulcinjcarhire.com/de/blog/ulcinj-to-lake-skadar-south" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.ulcinjcarhire.com/ru/blog/ulcinj-to-lake-skadar-south" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.ulcinjcarhire.com/it/blog/ulcinj-to-lake-skadar-south" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.ulcinjcarhire.com/fr/blog/ulcinj-to-lake-skadar-south" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.ulcinjcarhire.com/me/blog/ulcinj-to-lake-skadar-south" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.ulcinjcarhire.com/blog/ulcinj-to-lake-skadar-south" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Blog: Sas Fortress Ruins -->
+  <url>
+    <loc>https://www.ulcinjcarhire.com/blog/sas-fortress-ruins</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.ulcinjcarhire.com/blog/sas-fortress-ruins" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.ulcinjcarhire.com/de/blog/sas-fortress-ruins" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.ulcinjcarhire.com/ru/blog/sas-fortress-ruins" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.ulcinjcarhire.com/it/blog/sas-fortress-ruins" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.ulcinjcarhire.com/fr/blog/sas-fortress-ruins" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.ulcinjcarhire.com/me/blog/sas-fortress-ruins" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.ulcinjcarhire.com/blog/sas-fortress-ruins" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
 
   <!-- Privacy Policy -->
   <url>
