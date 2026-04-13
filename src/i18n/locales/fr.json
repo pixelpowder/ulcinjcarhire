@@ -356,7 +356,10 @@
     "dayTripsTitle": "Excursions d'une journée depuis Kotor",
     "perastTrip": "Située dans la ville voisine de Perast, cette église se dresse sur une île artificielle dans la baie de Kotor. Les pêcheurs y déposent des rochers chaque année depuis 1452, agrandissant progressivement l'île. L'accès en ferry coûte environ 1 euro ; les bateaux privés coûtent environ 5 euros. Le trajet en voiture depuis Kotor prend moins de 30 minutes via la E65/E80 Nord.",
     "cetinjeTrip": "Construit en 1701, le monastère abrite la main de Jean-Baptiste. Il présente une décoration ornée et de l'art orthodoxe. Le trajet en voiture depuis Kotor prend environ une heure à travers des routes de montagne pittoresques.",
-    "royalCourtText": "Le palais royal du Monténégro datant de 1871, exposant des œuvres d'art, des objets et des photographies de l'histoire royale du pays. Situé à côté du monastère dans l'ancienne capitale royale."
+    "royalCourtText": "Le palais royal du Monténégro datant de 1871, exposant des œuvres d'art, des objets et des photographies de l'histoire royale du pays. Situé à côté du monastère dans l'ancienne capitale royale.",
+    "tivatLinkPre": "La plupart des visiteurs ",
+    "tivatLinkText": "louent une voiture à l'aéroport de Tivat",
+    "tivatLinkPost": " pour rejoindre Kotor."
   },
   "budvaBody": {
     "h1": "Budva — Le cœur de la Riviera monténégrine",
@@ -435,6 +438,7 @@
     "skadarText": "Potentiellement le plus beau lac d'Europe, situé à la frontière entre le Monténégro et l'Albanie en tant que parc national. Abritant des millions de pélicans, c'est le plus grand lac des Balkans et une visite incontournable pour les amoureux de la nature.",
     "danilovgradTitle": "Danilovgrad",
     "danilovgradText": "Une ville fluviale pittoresque à environ trente minutes à l'ouest de Podgorica, proposant des plages au bord de la rivière, des promenades en bateau, des galeries et le monastère de Zdrebaonik à proximité.",
+    "zabljakTitle": "Zabljak",
     "zabljak": "Une ville alpine dans la région montagneuse du Durmitor, perchée à 1 500 mètres d'altitude et à 170 kilomètres de Podgorica. Une destination toute l'année offrant le ski en hiver et la randonnée, le rafting et le VTT en été."
   },
   "podgoricaAirportBody": {
@@ -475,6 +479,9 @@
     "p2": "Bien que compact par sa taille, le Monténégro nécessite des temps de conduite plus longs que ce que les cartes suggèrent. Les virages en lacet des montagnes, les routes côtières étroites et les itinéraires panoramiques encouragent les arrêts fréquents. Les voyageurs gagnent la liberté de vivre à la fois le trajet et la destination — naviguant entre des baies aux allures de fjords, des villes historiques et des belvédères d'altitude à leur propre rythme.",
     "startTitle": "Par où commencer",
     "startText": "De nombreux visiteurs récupèrent leur voiture de location dans l'un des aéroports du Monténégro ou à l'aéroport de Dubrovnik en Croatie, selon la disponibilité des vols. L'aéroport de Tivat est le plus proche de la côte — à seulement 10 minutes de Kotor et 20 minutes de Budva. L'aéroport de Podgorica dessert la capitale et l'intérieur du pays. L'aéroport de Dubrovnik reste populaire car il dispose souvent de davantage de vols internationaux.",
+    "podgoricaLinkPre": "Pour le sud du Monténégro, l'",
+    "podgoricaLinkText": "aéroport de Podgorica",
+    "podgoricaLinkPost": " est l'option la plus proche à seulement 40 km d'Ulcinj.",
     "timesTitle": "Temps de conduite",
     "timesText1": "Les temps de conduite réels dépassent régulièrement ce qu'indiquent les cartes. Les virages en lacet des montagnes, les routes côtières découpées, les obstacles ruraux (y compris le bétail) et la neige hivernale en montagne contribuent tous à allonger les trajets. L'expérience panoramique des côtes et de la campagne justifie amplement le temps de voyage supplémentaire.",
     "timesText2": "Les trajets entre les villes côtières varient généralement de trente minutes à une heure. Le trajet de Herceg-Novi à Podgorica via la E65/E80 prend environ deux heures.",
@@ -523,6 +530,9 @@
     "croatiaFerry": "Il existe également le raccourci par le ferry Kamenari-Lepetane à travers la baie de Kotor, qui évite de contourner toute la baie — économisant environ 45 minutes.",
     "albaniaTitle": "Monténégro → Albanie",
     "albaniaText": "Deux passages principaux : Sukobin/Muriqan (côtier, près d'Ulcinj) et Hani i Hotit (intérieur, près du lac Skadar). Le passage côtier est plus adapté aux voyageurs et présente généralement des temps d'attente plus courts.",
+    "shkodraLinkPre": "Depuis Ulcinj, l'",
+    "shkodraLinkText": "excursion d'une journée à Shkodra",
+    "shkodraLinkPost": " est le trajet transfrontalier le plus facile au Monténégro.",
     "albaniaNote": "Remarque : les routes albanaises diffèrent considérablement de celles du Monténégro. Conduisez prudemment, surtout sur les routes rurales.",
     "bosniaTitle": "Monténégro → Bosnie-Herzégovine",
     "bosniaText": "Le principal passage se trouve à Šćepan Polje (près de Foča) si vous allez vers le nord, ou via Vilusi depuis Nikšić. Les passages sont généralement calmes avec des temps d'attente minimaux en dehors de l'été.",
@@ -550,6 +560,21 @@
     "route3": "Budva → Shkodër (Albanie) : 2h30 via le passage côtier d'Ulcinj",
     "route4": "Podgorica → Belgrade (Serbie) : 5-6 heures via la E65 nord",
     "ctaText": "Besoin d'une voiture avec les documents transfrontaliers prêts ? Consultez notre flotte — sélectionnez simplement vos pays de destination lors de la réservation et nous nous occupons de la Carte Verte."
+  },
+  "velikaPlazaBody": {
+    "adaBojanaLinkPre": "À l'extrémité sud, la ",
+    "adaBojanaLinkText": "plage de kitesurf d'Ada Bojana",
+    "adaBojanaLinkPost": " n'est qu'à 5 minutes de plus."
+  },
+  "adaBojanaBody": {
+    "shkodraLinkPre": "Depuis Ada Bojana, vous pouvez ",
+    "shkodraLinkText": "passer en Albanie et rejoindre Shkodra en 30 minutes",
+    "shkodraLinkPost": "."
+  },
+  "barBody": {
+    "velikaPlazaLinkPre": "Depuis Bar, continuez vers le sud le long de la côte jusqu'à la ",
+    "velikaPlazaLinkText": "plage de sable de 12 km de Velika Plaza",
+    "velikaPlazaLinkPost": "."
   },
 
   "blogIndex": {

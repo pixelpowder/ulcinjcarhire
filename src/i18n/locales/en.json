@@ -357,7 +357,10 @@
     "dayTripsTitle": "Day Trips from Kotor",
     "perastTrip": "Continue along the bay road to Perast (15 minutes from Kotor). Boats to Our Lady of the Rocks island leave from the waterfront — about 5 EUR return. The baroque village has a single waterfront promenade lined with stone palaces and cafes.",
     "cetinjeTrip": "Head inland on the Kotor-Cetinje serpentine road — 25 hairpin bends climbing 1,000 metres above the bay. The viewpoint at the top offers one of the most photographed panoramas in Montenegro. Cetinje is 45 minutes from Kotor.",
-    "royalCourtText": "Cetinje's monastery holds religious relics and sits at the centre of Montenegro's former royal capital. Combined with the serpentine drive, this makes a solid half-day trip."
+    "royalCourtText": "Cetinje's monastery holds religious relics and sits at the centre of Montenegro's former royal capital. Combined with the serpentine drive, this makes a solid half-day trip.",
+    "tivatLinkPre": "Most visitors ",
+    "tivatLinkText": "hire a car at Tivat Airport",
+    "tivatLinkPost": " to reach Kotor."
   },
   "budvaBody": {
     "h1": "Budva — The Heart of the Montenegrin Riviera",
@@ -436,6 +439,7 @@
     "skadarText": "Drive 30 minutes south to the largest lake in the Balkans. Boat tours launch from Virpazar village. The lake is a national park home to pelican colonies and 260+ bird species.",
     "danilovgradTitle": "Danilovgrad",
     "danilovgradText": "A quiet river town 25 minutes west of Podgorica. Riverside beaches, fish restaurants, and the nearby Zdrebaonik monastery.",
+    "zabljakTitle": "Zabljak",
     "zabljak": "A mountain town at 1,450 metres in the Durmitor range, 170 km north. Skiing in winter, Tara canyon rafting and Black Lake hiking in summer. The drive takes 2.5-3 hours."
   },
   "dubrovnikAirportBody": {
@@ -481,7 +485,10 @@
     "activity3": "Therapeutic sand treatments — bury yourself in the mineral-rich grey sand. Locals swear by it for joint pain and skin conditions",
     "activity4": "Swimming in water that stays shallow for 50+ metres out, warm from June, and remarkably clean given how wild the beach is",
     "gettingThereTitle": "Getting There",
-    "gettingThereText": "Drive south from Ulcinj centre on the main coastal road. Multiple access tracks branch off to the beach along the 12 km stretch. The northern end near Copacabana beach bar is easiest to find. For the emptiest sections, keep driving south until the road becomes a track and the dunes close in on both sides."
+    "gettingThereText": "Drive south from Ulcinj centre on the main coastal road. Multiple access tracks branch off to the beach along the 12 km stretch. The northern end near Copacabana beach bar is easiest to find. For the emptiest sections, keep driving south until the road becomes a track and the dunes close in on both sides.",
+    "adaBojanaLinkPre": "At the southern end, ",
+    "adaBojanaLinkText": "Ada Bojana's kitesurfing beach",
+    "adaBojanaLinkPost": " is just 5 minutes further."
   },
   "adaBojanaBody": {
     "h1": "Ada Bojana — Europe's Last Wild River Delta",
@@ -492,7 +499,10 @@
     "restaurantsTitle": "Eating on the River",
     "restaurantsText": "The stilt-house restaurants are Ada Bojana's signature. Wooden platforms built over the river, reached by narrow gangways, serving whatever the fishermen caught that day. Grilled fish, river eel, and fresh salad. No menus in some places — the waiter tells you what is available. Cold rakija to finish. This is not polished dining. This is food pulled from the water beneath your feet, cooked over charcoal, and served on paper tablecloths while the river slides past.",
     "gettingThereTitle": "Getting There",
-    "gettingThereText": "Drive 15 km south from Ulcinj centre, past Velika Plaza, and cross the single bridge onto the island. The road is paved but narrow. There is no public transport to Ada Bojana — a car is the only realistic option. Park on the island near your chosen beach or restaurant."
+    "gettingThereText": "Drive 15 km south from Ulcinj centre, past Velika Plaza, and cross the single bridge onto the island. The road is paved but narrow. There is no public transport to Ada Bojana — a car is the only realistic option. Park on the island near your chosen beach or restaurant.",
+    "shkodraLinkPre": "From Ada Bojana you can ",
+    "shkodraLinkText": "cross into Albania and reach Shkodra in 30 minutes",
+    "shkodraLinkPost": "."
   },
   "stariGradBody": {
     "h1": "Stari Grad — 2,500 Years of Pirate Walls and Ottoman Prayers",
@@ -525,7 +535,10 @@
     "oliveTree": "The Old Olive Tree of Bar — a gnarled, fenced-off monument believed to be 2,000+ years old. Still alive. Still bearing olives",
     "portArea": "The waterfront promenade — functional rather than beautiful, but the spot to check the ferry schedule to Bari if Italy is calling",
     "gettingThereTitle": "Getting There",
-    "gettingThereText": "Drive north from Ulcinj on the E85 coastal road. Bar is 30 km away, about 30 minutes in normal traffic. Park in the modern town and walk or drive up to Stari Bar (4 km further inland, signed from the main road)."
+    "gettingThereText": "Drive north from Ulcinj on the E85 coastal road. Bar is 30 km away, about 30 minutes in normal traffic. Park in the modern town and walk or drive up to Stari Bar (4 km further inland, signed from the main road).",
+    "velikaPlazaLinkPre": "From Bar, continue south along the coast to ",
+    "velikaPlazaLinkText": "Velika Plaza's 12 km sandy beach",
+    "velikaPlazaLinkPost": "."
   },
   "lakeSkadarBody": {
     "h1": "Lake Skadar — Pelicans, Flamingos, and Crmnica Wine",
@@ -570,6 +583,9 @@
     "p2": "The landscape shifts constantly: rocky headlands give way to flat salt marshes, which give way to olive-covered hillsides, which give way to 12 km of grey volcanic sand. The towns have minarets instead of church towers. Albanian is spoken as often as Montenegrin. Fresh burek from roadside bakeries costs less than a euro. The roads are fine if you pay attention, terrible if you do not. A car is not optional — it is the entire point.",
     "startTitle": "Getting Started",
     "startText": "Podgorica Airport is 40 km from Ulcinj — the closest option. Tivat Airport is 75 km but has more international routes. Both have car hire desks and meet-and-greet delivery. For the deep south, Podgorica saves an hour of driving.",
+    "podgoricaLinkPre": "For southern Montenegro, ",
+    "podgoricaLinkText": "Podgorica Airport",
+    "podgoricaLinkPost": " is the closest option at just 40 km from Ulcinj.",
     "timesTitle": "Realistic Driving Times",
     "timesText1": "Maps underestimate everything south of Bar. Mountain switchbacks, single-lane roads with oncoming traffic, and the occasional herd of goats all add time. Budget 50% more than Google suggests and you will be relaxed instead of stressed.",
     "timesText2": "From Ulcinj: Bar 30 min, Podgorica Airport 45 min, Lake Skadar 45 min, Shkodra (Albania) 35 min, Budva 1.5 hours, Kotor 2 hours.",
@@ -618,6 +634,9 @@
     "croatiaFerry": "There is also the Kamenari-Lepetane ferry shortcut across the Bay of Kotor which avoids driving around the entire bay — saves about 45 minutes.",
     "albaniaTitle": "Montenegro to Albania",
     "albaniaText": "Two main crossings: Sukobin/Muriqan (coastal, near Ulcinj — the most convenient from southern Montenegro) and Hani i Hotit (inland, near Skadar Lake). The Sukobin crossing is more traveller-friendly and typically has shorter wait times.",
+    "shkodraLinkPre": "From Ulcinj, the ",
+    "shkodraLinkText": "Shkodra day trip",
+    "shkodraLinkPost": " is the easiest cross-border drive in Montenegro.",
     "albaniaNote": "Note: Albanian roads differ significantly from Montenegro. Drive cautiously, especially on rural roads.",
     "bosniaTitle": "Montenegro to Bosnia & Herzegovina",
     "bosniaText": "The main crossing is at Scepan Polje (near Foca) if heading north, or via Vilusi from Niksic. Crossings are generally quiet with minimal wait times outside summer.",

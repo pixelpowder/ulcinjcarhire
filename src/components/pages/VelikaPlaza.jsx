@@ -25,7 +25,7 @@ export default function VelikaPlaza() {
       </ul>
 
       <h3>{t('velikaPlazaBody.gettingThereTitle')}</h3>
-      <p>{t('velikaPlazaBody.gettingThereText')} At the southern end, <a href={localePath('/ada-bojana')}>Ada Bojana's kitesurfing beach</a> is just 5 minutes further.</p>
+      <p>{t('velikaPlazaBody.gettingThereText')} {t('velikaPlazaBody.adaBojanaLinkPre')}<a href={localePath('/ada-bojana')}>{t('velikaPlazaBody.adaBojanaLinkText')}</a>{t('velikaPlazaBody.adaBojanaLinkPost')}</p>
     </ContentPage>
   );
 }

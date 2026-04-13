@@ -16,7 +16,7 @@ export default function Kotor() {
       <h2>{t('kotorBody.dayTripsTitle')}</h2>
       <p>{t('kotorBody.perastTrip')}</p>
       <p>{t('kotorBody.cetinjeTrip')}</p>
-      <p>{t('kotorBody.royalCourtText')} Most visitors <a href={localePath('/tivat-airport')}>hire a car at Tivat Airport</a> to reach Kotor.</p>
+      <p>{t('kotorBody.royalCourtText')} {t('kotorBody.tivatLinkPre')}<a href={localePath('/tivat-airport')}>{t('kotorBody.tivatLinkText')}</a>{t('kotorBody.tivatLinkPost')}</p>
     </ContentPage>
   );
 }

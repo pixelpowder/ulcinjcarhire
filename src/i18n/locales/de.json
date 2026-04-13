@@ -356,7 +356,10 @@
     "dayTripsTitle": "Tagesausflüge ab Kotor",
     "perastTrip": "Diese Kirche befindet sich im nahegelegenen Perast auf einer künstlichen Insel in der Bucht von Kotor. Fischer werfen dort seit 1452 jährlich Steine ins Wasser.",
     "cetinjeTrip": "Das 1701 erbaute Kloster beherbergt die Hand Johannes des Täufers. Die Fahrt von Kotor dauert etwa eine Stunde durch malerische Bergstraßen.",
-    "royalCourtText": "Montenegros königlicher Palast von 1871 in der ehemaligen königlichen Hauptstadt."
+    "royalCourtText": "Montenegros königlicher Palast von 1871 in der ehemaligen königlichen Hauptstadt.",
+    "tivatLinkPre": "Die meisten Besucher ",
+    "tivatLinkText": "mieten ein Auto am Flughafen Tivat",
+    "tivatLinkPost": ", um Kotor zu erreichen."
   },
   "budvaBody": {
     "h1": "Budva — Das Herz der Montenegrinischen Riviera",
@@ -435,6 +438,7 @@
     "skadarText": "Möglicherweise der schönste See Europas, gelegen an der Grenze zwischen Montenegro und Albanien als Nationalpark. Heimat von Millionen von Pelikanen, ist er der größte See auf dem Balkan und ein Muss für Naturliebhaber.",
     "danilovgradTitle": "Danilovgrad",
     "danilovgradText": "Eine malerische Flussstadt etwa dreißig Minuten westlich von Podgorica, mit Flussstränden, Bootsfahrten, Galerien und dem nahegelegenen Kloster Zdrebaonik.",
+    "zabljakTitle": "Zabljak",
     "zabljak": "Eine Alpenstadt in der Gebirgsregion Durmitor, auf 1.500 Metern über dem Meeresspiegel und 170 Kilometer von Podgorica entfernt. Ein Ganzjahresziel, das im Winter Skifahren und im Sommer Wandern, Rafting und Mountainbiken bietet."
   },
   "podgoricaAirportBody": {
@@ -475,6 +479,9 @@
     "p2": "Obwohl Montenegro flächenmäßig kompakt ist, erfordern die Fahrzeiten mehr Zeit, als Karten vermuten lassen. Serpentinen in den Bergen, schmale Küstenstraßen und landschaftlich reizvolle Strecken laden zu häufigen Stopps ein. Reisende gewinnen die Freiheit, sowohl die Fahrt als auch das Ziel zu genießen — fjordähnliche Buchten, historische Städte und Aussichtspunkte im Hochland in ihrem eigenen Tempo zu erkunden.",
     "startTitle": "Erste Schritte",
     "startText": "Viele Besucher übernehmen ihren Mietwagen an einem der Flughäfen Montenegros oder am Flughafen Dubrovnik in Kroatien, je nach Flugverfügbarkeit. Der Flughafen Tivat liegt am nächsten zur Küste — nur 10 Minuten von Kotor und 20 Minuten von Budva entfernt. Der Flughafen Podgorica bedient die Hauptstadt und das Landesinnere. Der Flughafen Dubrovnik bleibt beliebt, da er oft über ein größeres Angebot an internationalen Flügen verfügt.",
+    "podgoricaLinkPre": "Für Südmontenegro ist der ",
+    "podgoricaLinkText": "Flughafen Podgorica",
+    "podgoricaLinkPost": " die nächstgelegene Option mit nur 40 km bis Ulcinj.",
     "timesTitle": "Fahrzeiten",
     "timesText1": "Die tatsächlichen Fahrzeiten übersteigen regelmäßig die Angaben auf Karten. Serpentinen in den Bergen, zerklüftete Küstenstraßen, ländliche Hindernisse (einschließlich Vieh) und Schnee auf den Bergstraßen im Winter tragen alle zu längeren Fahrten bei. Das landschaftliche Erlebnis an der Küste und auf dem Land rechtfertigt die verlängerte Reisezeit mehr als genug.",
     "timesText2": "Fahrten zwischen Küstenstädten dauern in der Regel zwischen dreißig Minuten und einer Stunde. Die Fahrt von Herceg-Novi nach Podgorica über die E65/E80 dauert ungefähr zwei Stunden.",
@@ -523,6 +530,9 @@
     "croatiaFerry": "Es gibt auch die Fährverbindung Kamenari–Lepetane als Abkürzung über die Bucht von Kotor, die das Umfahren der gesamten Bucht erspart — das spart etwa 45 Minuten.",
     "albaniaTitle": "Montenegro → Albanien",
     "albaniaText": "Zwei Hauptübergänge: Sukobin/Muriqan (an der Küste, nahe Ulcinj) und Hani i Hotit (im Landesinneren, nahe dem Skadar-See). Der Küstenübergang ist reisefreundlicher und hat in der Regel kürzere Wartezeiten.",
+    "shkodraLinkPre": "Von Ulcinj aus ist der ",
+    "shkodraLinkText": "Tagesausflug nach Shkodra",
+    "shkodraLinkPost": " die einfachste grenzüberschreitende Fahrt in Montenegro.",
     "albaniaNote": "Hinweis: Die Straßen in Albanien unterscheiden sich erheblich von denen in Montenegro. Fahren Sie vorsichtig, besonders auf Landstraßen.",
     "bosniaTitle": "Montenegro → Bosnien und Herzegowina",
     "bosniaText": "Der Hauptübergang befindet sich bei Šćepan Polje (nahe Foča), wenn Sie nach Norden fahren, oder über Vilusi von Nikšić aus. Die Grenzübergänge sind in der Regel ruhig mit minimalen Wartezeiten außerhalb des Sommers.",
@@ -550,6 +560,21 @@
     "route3": "Budva → Shkodër (Albanien): 2,5 Stunden über den Küstenübergang bei Ulcinj",
     "route4": "Podgorica → Belgrad (Serbien): 5–6 Stunden über die E65 Richtung Norden",
     "ctaText": "Benötigen Sie ein Auto mit fertig vorbereiteten Grenzübergangs-Dokumenten? Durchsuchen Sie unsere Flotte — wählen Sie einfach bei der Buchung Ihre Zielländer aus und wir kümmern uns um die Grüne Karte."
+  },
+  "velikaPlazaBody": {
+    "adaBojanaLinkPre": "Am südlichen Ende ist der ",
+    "adaBojanaLinkText": "Kitesurf-Strand von Ada Bojana",
+    "adaBojanaLinkPost": " nur 5 Minuten weiter."
+  },
+  "adaBojanaBody": {
+    "shkodraLinkPre": "Von Ada Bojana aus können Sie ",
+    "shkodraLinkText": "nach Albanien übersetzen und Shkodra in 30 Minuten erreichen",
+    "shkodraLinkPost": "."
+  },
+  "barBody": {
+    "velikaPlazaLinkPre": "Von Bar aus fahren Sie weiter südlich an der Küste entlang zum ",
+    "velikaPlazaLinkText": "12 km langen Sandstrand Velika Plaza",
+    "velikaPlazaLinkPost": "."
   },
 
   "blogIndex": {

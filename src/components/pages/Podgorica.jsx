@@ -16,7 +16,7 @@ export default function Podgorica() {
       <p>{t('podgoricaBody.skadarText')}</p>
       <h3>{t('podgoricaBody.danilovgradTitle')}</h3>
       <p>{t('podgoricaBody.danilovgradText')}</p>
-      <h3>Zabljak</h3>
+      <h3>{t('podgoricaBody.zabljakTitle')}</h3>
       <p>{t('podgoricaBody.zabljak')}</p>
     </ContentPage>
   );

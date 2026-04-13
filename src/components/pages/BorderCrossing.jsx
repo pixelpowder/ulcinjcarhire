@@ -19,7 +19,7 @@ export default function BorderCrossing() {
       <p>{t('borderCrossingBody.croatiaTip')}</p>
       <p>{t('borderCrossingBody.croatiaFerry')}</p>
       <h3>{t('borderCrossingBody.albaniaTitle')}</h3>
-      <p>{t('borderCrossingBody.albaniaText')} From Ulcinj, the <a href={localePath('/shkodra')}>Shkodra day trip</a> is the easiest cross-border drive in Montenegro.</p>
+      <p>{t('borderCrossingBody.albaniaText')} {t('borderCrossingBody.shkodraLinkPre')}<a href={localePath('/shkodra')}>{t('borderCrossingBody.shkodraLinkText')}</a>{t('borderCrossingBody.shkodraLinkPost')}</p>
       <p>{t('borderCrossingBody.albaniaNote')}</p>
       <h3>{t('borderCrossingBody.bosniaTitle')}</h3>
       <p>{t('borderCrossingBody.bosniaText')}</p>

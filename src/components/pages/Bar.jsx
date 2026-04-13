@@ -24,7 +24,7 @@ export default function Bar() {
       </ul>
 
       <h3>{t('barBody.gettingThereTitle')}</h3>
-      <p>{t('barBody.gettingThereText')} From Bar, continue south along the coast to <a href={localePath('/velika-plaza')}>Velika Plaza's 12 km sandy beach</a>.</p>
+      <p>{t('barBody.gettingThereText')} {t('barBody.velikaPlazaLinkPre')}<a href={localePath('/velika-plaza')}>{t('barBody.velikaPlazaLinkText')}</a>{t('barBody.velikaPlazaLinkPost')}</p>
     </ContentPage>
   );
 }
