@@ -552,7 +552,7 @@
     "law1": "Kroatien: Scheinwerfer müssen jederzeit eingeschaltet sein. Auf Autobahnen fallen Mautgebühren an (bar oder mit Karte)",
     "law2": "Albanien: Die Geschwindigkeitsbegrenzungen sind auf Landstraßen niedriger. Die Straßenqualität variiert erheblich",
     "law3": "Bosnien: Winterreifen sind von November bis April Pflicht. Führen Sie einen Erste-Hilfe-Kasten und ein Warndreieck mit",
-    "law4": "Serbien: Null-Promille-Grenze. Mautstationen berechnen pro Kilometer \u2014 an der Mautstelle Ticket nehmen",
+    "law4": "Serbien: Null-Promille-Grenze. Mautstationen berechnen pro Kilometer — an der Mautstelle Ticket nehmen",
     "law5": "Kosovo: Es wird auf der rechten Seite gefahren. Ein internationaler Führerschein wird empfohlen",
     "popularTitle": "Beliebte grenzüberschreitende Routen",
     "route1": "Tivat → Dubrovnik: 2 Stunden über die Küsten-E65. Atemberaubende Landschaft, ein Grenzübergang",
@@ -564,19 +564,46 @@
   "velikaPlazaBody": {
     "adaBojanaLinkPre": "Am südlichen Ende ist der ",
     "adaBojanaLinkText": "Kitesurf-Strand von Ada Bojana",
-    "adaBojanaLinkPost": " nur 5 Minuten weiter."
+    "adaBojanaLinkPost": " nur 5 Minuten weiter.",
+    "h1": "Velika Plaza — 12 Kilometer grauer Vulkansand",
+    "p1": "Wenige Touristen kennen Velika Plaza, und noch weniger schaffen es hierher. Der Sand ist nicht golden — er ist fein, grau und voller vulkanischer Mineralien, die Einheimische seit Generationen für therapeutische Behandlungen nutzen. Der Strand beginnt etwa 5 km südlich der Stadt Ulcinj und erstreckt sich, ununterbrochen und weitgehend leer, bis zur albanischen Grenze. An klaren Tagen sieht man die Berge Nordalbaniens im Hitzeflimmern über dem Wasser.",
+    "p2": "Die Anfahrt erfordert ein Auto. Es gibt keinen Bus. Es gibt keinen Gehweg auf dem letzten Abschnitt. Die Parkplätze sind informell — Schotterplätze zwischen den Dünen und der gelegentlichen Strandbar. Sand gelangt überall hin: ins Auto, in die Schuhe, in die Tasche. Das gehört dazu. Die Belohnung ist ein Strand so weitläufig, dass man selbst im August zwanzig Minuten gehen kann, ohne einer Menschenseele zu begegnen.",
+    "activitiesTitle": "Was am Strand passiert",
+    "activity1": "Kitesurfen und Windsurfen — thermische Winde mit 15–25 Knoten von Juni bis September, mit flachem Wasser ideal für Anfänger und Fortgeschrittene",
+    "activity2": "Strandbars am nördlichen Zugang servieren kaltes Nikšićko-Bier und gegrillten Fisch. Je weiter südlich man geht, desto leerer wird es",
+    "activity3": "Therapeutische Sandbehandlungen — begraben Sie sich im mineralreichen grauen Sand. Einheimische schwören darauf bei Gelenkschmerzen und Hautproblemen",
+    "activity4": "Schwimmen in Wasser, das über 50 Meter flach bleibt, ab Juni warm und erstaunlich sauber trotz der Wildheit des Strandes",
+    "gettingThereTitle": "Anfahrt",
+    "gettingThereText": "Fahren Sie von Ulcinj Zentrum südlich auf der Küstenstraße. Mehrere Zufahrtswege führen entlang der 12 km zum Strand. Das nördliche Ende beim Copacabana-Strandbar ist am leichtesten zu finden. Für die leersten Abschnitte fahren Sie weiter südlich, bis die Straße zum Feldweg wird und die Dünen sich auf beiden Seiten schließen."
   },
   "adaBojanaBody": {
     "shkodraLinkPre": "Von Ada Bojana aus können Sie ",
     "shkodraLinkText": "nach Albanien übersetzen und Shkodra in 30 Minuten erreichen",
-    "shkodraLinkPost": "."
+    "shkodraLinkPost": ".",
+    "h1": "Ada Bojana — Europas letztes wildes Flussdelta",
+    "p1": "Ada Bojana ist eine dreieckige Insel, die dort entsteht, wo der Fluss Bojana in die Adria mündet, direkt an der albanischen Grenze. Es ist das letzte wilde Flussdelta Europas — keine Betonpromenade, kein Resortanlage, nur sandige Flussufer, eine einzige Brücke hinein und Holzpfahlrestaurants über dem langsamen, braunen Wasser.",
+    "p2": "Konstante thermische Winde von 15 bis 25 Knoten wehen von Juni bis September und ziehen jeden Nachmittag zuverlässig aus derselben Richtung. Das Wasser ist auf der Flussseite flach und warm, auf der Adriaseite tiefer und kühler. Mehrere Kiteschulen bieten Kurse und Ausrüstungsverleih an. Die Pfahlrestaurants servieren frisch gegrillten Karpfen, Aal und Meeräsche direkt aus dem Fluss.",
+    "kitesurfTitle": "Kitesurfbedingungen",
+    "kitesurfText": "Das thermische Windmuster ist bemerkenswert beständig: ruhige Vormittage, ab Mittag zunehmend, Spitzen bei 15–25 Knoten am Nachmittag. Die Flussseite bietet flaches Wasser für Freestyle und Anfänger. Die Seeseite hat kleine Wellen zum Wellenreiten. Saison von Mai bis September, Juli und August am zuverlässigsten.",
+    "restaurantsTitle": "Essen am Fluss",
+    "restaurantsText": "Die Pfahlrestaurants sind Ada Bojanas Markenzeichen. Holzplattformen über dem Fluss, erreichbar über schmale Stege, servieren, was die Fischer an dem Tag gefangen haben. Gegrillter Fisch, Flussaal und frischer Salat. In manchen Lokalen keine Speisekarte — der Kellner sagt Ihnen, was verfügbar ist. Kalter Rakija zum Abschluss.",
+    "gettingThereTitle": "Anfahrt",
+    "gettingThereText": "Fahren Sie 15 km südlich von Ulcinj Zentrum, vorbei an Velika Plaza, und überqueren Sie die einzige Brücke auf die Insel. Die Straße ist asphaltiert, aber schmal. Es gibt keinen öffentlichen Nahverkehr nach Ada Bojana — ein Auto ist die einzige realistische Option."
   },
   "barBody": {
     "velikaPlazaLinkPre": "Von Bar aus fahren Sie weiter südlich an der Küste entlang zum ",
     "velikaPlazaLinkText": "12 km langen Sandstrand Velika Plaza",
-    "velikaPlazaLinkPost": "."
+    "velikaPlazaLinkPost": ".",
+    "h1": "Bar — Arbeitshafen und mittelalterliche Ruinen auf dem Hügel",
+    "p1": "Bar ist keine hübsche Stadt. Es ist ein Arbeitshafen an der Adria, 30 Minuten nördlich von Ulcinj, größtenteils aus Nachbeben-Beton erbaut, nachdem das verheerende Erdbeben von 1979 einen Großteil der ursprünglichen Siedlung dem Erdboden gleichmachte. Aber der Grund zu kommen liegt oberhalb der Stadt — Stari Bar, die mittelalterliche Festungsruine, die sich wie ein Geist an den Hang klammert.",
+    "p2": "Stari Bar enthält die Überreste von über 240 Gebäuden — Kirchen, Moscheen, Paläste, Häuser und öffentliche Bäder — verteilt auf einem dramatischen Hügel. Ein uralter Olivenbaum am Eingang soll über 2.000 Jahre alt sein und damit einer der ältesten lebenden Bäume Europas. Er trägt noch immer Früchte.",
+    "dayTripTitle": "Sehenswürdigkeiten",
+    "stariBar": "Festungsruinen Stari Bar — wandern Sie durch 240 verfallende Gebäude mit Blick bis nach Italien an klaren Tagen. Mindestens 2 Stunden einplanen",
+    "oliveTree": "Der alte Olivenbaum von Bar — ein knorriges, eingezäuntes Denkmal, angeblich über 2.000 Jahre alt. Noch lebendig. Trägt noch Oliven",
+    "portArea": "Die Uferpromenade — eher funktional als schön, aber der Ort, um den Fährfahrplan nach Bari zu prüfen",
+    "gettingThereTitle": "Anfahrt",
+    "gettingThereText": "Fahren Sie von Ulcinj nördlich auf der Küstenstraße E85. Bar liegt 30 km entfernt, etwa 30 Minuten bei normalem Verkehr. Parken Sie in der modernen Stadt und fahren oder gehen Sie hinauf nach Stari Bar (4 km landeinwärts, ausgeschildert)."
   },
-
   "blogIndex": {
     "breadcrumbBlog": "Blog",
     "heroTitle": "Ulcinj Reisefuehrer",
@@ -601,7 +628,6 @@
     "card_sas_title": "Die Ruinen der Festung Sas",
     "card_sas_excerpt": "Eine mittelalterliche Handelsstadt, verschluckt vom Bojana-Fluss. Broeckelnde Mauern, eine vergessene Kirche und eine Fahrt durch die Feuchtgebiete."
   },
-
   "blogOldtown": {
     "title": "Ulcinjs osmanische Altstadt: Mauern, Moscheen und Meerblick",
     "subtitle": "Ein Rundgang durch das befestigte Viertel ueber dem Hafen — 2.500 Jahre Schichtgeschichte von den Illyrern bis zu den Osmanen.",
@@ -642,7 +668,6 @@
     "glanceBest": "Beste Zeit",
     "glanceBestVal": "Spaeter Nachmittag"
   },
-
   "blogVelikaplaza": {
     "title": "Velika Plaza: Europas laengster Sandstrand",
     "subtitle": "12 Kilometer dunkler Mineralsand von Ulcinj bis zur Bojana-Muendung — Kitesurfen, warmes Flachwasser und Strandbars von einem Ende zum anderen.",
@@ -685,7 +710,6 @@
     "glanceBest": "Beste Monate",
     "glanceBestVal": "Jun–Sep"
   },
-
   "blogAdabojana": {
     "title": "Ada Bojana: Mit dem Auto zur Flussinsel Montenegros",
     "subtitle": "Eine dreieckige Insel, wo die Bojana auf die Adria trifft — Sandstraende, Flussfischrestaurants und einige der besten Kitesurfbedingungen Europas.",
@@ -725,7 +749,6 @@
     "glanceWind": "Windsaison",
     "glanceWindVal": "Jun–Aug am staerksten"
   },
-
   "blogAlbania": {
     "title": "Grenzuebergang nach Albanien von Ulcinj: Was Sie wissen muessen",
     "subtitle": "Der Grenzuebergang Sukobin liegt 20 Minuten suedlich von Ulcinj. Gruene-Karte-Unterlagen, was Sie am Checkpoint erwartet, und eine Tagestouren-Route nach Shkodra und zurueck.",
@@ -766,7 +789,6 @@
     "glanceBest": "Bester Tag",
     "glanceBestVal": "Wochentag, Abfahrt morgens"
   },
-
   "blogOlive": {
     "title": "Der alte Olivenbaum und die Olivenhaine von Ulcinj",
     "subtitle": "Ein 2.000 Jahre alter Baum, terrassierte Haine bis zur Adria und kaltgepresstes Oel, das Sie direkt am Hof probieren koennen.",
@@ -804,7 +826,6 @@
     "glanceBest": "Beste Jahreszeit",
     "glanceBestVal": "Apr–Mai oder Nov"
   },
-
   "blogValdanos": {
     "title": "Valdanos-Bucht: Die versteckte Bucht mit 10.000 Olivenbaeumen",
     "subtitle": "Eine geschuetzte Bucht, umgeben von uralten Olivenhainen — keine Hotels, keine Bebauung, nur klares Wasser und das Zirpen der Grillen im Sommer.",
@@ -844,7 +865,6 @@
     "glanceBest": "Beste Monate",
     "glanceBestVal": "Mai–Okt"
   },
-
   "blogSeafood": {
     "title": "Ulcinjs Fischkultur: Wo Fischer noch fischen",
     "subtitle": "Der Morgenfang landet vor der Daemmerung am Hafen. Ganzer Grillfisch, schwarzes Risotto und Flussaal — ein Fuehrer zum Fischessen in Montenegros suedlichster Stadt.",
@@ -887,7 +907,6 @@
     "glanceMarket": "Fischmarkt",
     "glanceMarketVal": "Oeffnet 6:30 Uhr"
   },
-
   "blogSkadar": {
     "title": "Skadarsee vom Suedufer: Murici-Strand",
     "subtitle": "Die meisten Besucher erreichen den See von Virpazar. Von Ulcinj ist das Suedufer bei Murici naeher, ruhiger und genauso schoen.",
@@ -928,7 +947,6 @@
     "glanceBest": "Beste Monate",
     "glanceBestVal": "Apr–Sep"
   },
-
   "blogSas": {
     "title": "Die Ruinen der Festung Sas: Fahrt zu Ulcinjs verlorener Stadt",
     "subtitle": "Eine mittelalterliche Handelsstadt, die mit Dubrovnik rivalisierte, vom Sumpfland verschluckt und vergessen. Die Mauern stehen noch am Ufer der Bojana.",
@@ -966,5 +984,86 @@
     "glanceFeeVal": "Kostenlos (unbewirtschaftet)",
     "glanceBest": "Beste Zeit",
     "glanceBestVal": "Morgens (kuehl, gutes Licht)"
+  },
+  "velika-plaza": {
+    "title": "Mietwagen für Velika Plaza",
+    "subtitle": "12 km grauer Vulkansand, leer in jede Richtung. Kein Bus fährt hierher.",
+    "seoDesc": "Grauer, mineralreicher Sand erstreckt sich bis zur albanischen Grenze — therapeutisch, vulkanisch und fast vollständig menschenleer. Kein öffentlicher Nahverkehr. Ein Auto ist der einzige Weg zur Velika Plaza."
+  },
+  "ada-bojana": {
+    "title": "Mietwagen für Ada Bojana",
+    "subtitle": "Europas letztes wildes Flussdelta. Kitesurfen, Pfahlrestaurants und die albanische Grenze.",
+    "seoDesc": "Eine dreieckige Insel, wo der Fluss Bojana auf die Adria trifft — das letzte wilde Flussdelta Europas. Thermische Winde 15–25 Knoten von Juni bis September. 15 Minuten südlich von Ulcinj."
+  },
+  "stari-grad": {
+    "title": "Altstadt Ulcinj (Stari Grad)",
+    "subtitle": "2.500 Jahre Festungsmauern. Illyrer, Römer, Venezianer, Osmanen — alles auf einer Landzunge geschichtet.",
+    "seoDesc": "Piratenfestung, die zur osmanischen Zitadelle wurde. Cervantes soll hier gefangen gehalten worden sein. Der Muezzinruf vermischt sich mit Kirchenglocken über 2.500 Jahre Schichtgeschichte."
+  },
+  "valdanos": {
+    "title": "Mietwagen für Valdanos",
+    "subtitle": "Eine versteckte Bucht an einem holprigen Weg, bewacht von 80.000 Olivenbäumen — einige älter als Christus.",
+    "seoDesc": "Nur über einen unbefestigten Feldweg erreichbar. 80.000 Olivenbäume, einige über 2.000 Jahre alt, umringen eine stille Bucht ohne jegliche Einrichtungen. Nur mit dem Auto erreichbar."
+  },
+  "bar": {
+    "title": "Mietwagen in Bar",
+    "subtitle": "Ein Arbeitshafen mit mittelalterlichen Ruinen auf dem Hügel und einem Olivenbaum, der älter ist als Rom.",
+    "seoDesc": "30 Minuten nördlich von Ulcinj. Die Festung Stari Bar zerfällt am Hang über einem Arbeitshafen. Ein über 2.000 Jahre alter Olivenbaum steht in der Nähe. Fähre nach Bari, wenn Italien ruft."
+  },
+  "lake-skadar": {
+    "title": "Mietwagen für den Skadarsee",
+    "subtitle": "Pelikane, Flamingos und Crmnica-Wein — 45 Minuten landeinwärts von der Küste.",
+    "seoDesc": "Der größte See des Balkans liegt 45 Minuten von Ulcinj entfernt. Krauskopfpelikane, Flamingo-Sichtungen an den Salina-Salzpfannen, Bootstouren ab Virpazar und Crmnica-Rotwein im Glas."
+  },
+  "shkodra": {
+    "title": "Tagesausflug nach Shkodra, Albanien",
+    "subtitle": "Überqueren Sie die Grenze bei Sukobin und stehen Sie in 30 Minuten auf der Burg Rozafa.",
+    "seoDesc": "Der Grenzübergang Sukobin ist ruhig und schnell. Die Burg Rozafa in Shkodra bewacht den See seit illyrischer Zeit. Grüne-Karte-Versicherung und Grenzdokumente bei jeder Anmietung."
+  },
+  "stariGradBody": {
+    "h1": "Stari Grad — 2.500 Jahre Piratenmauern und osmanischer Gebete",
+    "p1": "Die Altstadt von Ulcinj thront auf einer felsigen Landzunge über der Adria, befestigt durch Mauern, die seit zweieinhalb Jahrtausenden gebaut, zerstört und wieder aufgebaut wurden. Illyrer legten die ersten Steine. Römer erweiterten sie. Venezianer verstärkten sie. Osmanen fügten Minarette hinzu. Piraten nutzten sie als Basis für Raubzüge in der Adria.",
+    "p2": "Heute ist die Festung ein geschichtetes archäologisches Sandwich. Eine Moschee steht neben einer Kirche. Albanisch wird häufiger gesprochen als Montenegrinisch. Der Muezzinruf vom Minarett vermischt sich sonntags mit Kirchenglocken. Der Altstadtmarkt verkauft frische Feigen, lokalen Honig und Olivenöl aus den uralten Hainen von Valdanos.",
+    "historyTitle": "Die Piratenfestung",
+    "historyText": "Ulcinj war vom 16. bis 18. Jahrhundert einer der berüchtigsten Piratenhäfen der Adria. Der Balšić-Turm soll Cervantes fünf Jahre lang gefangen gehalten haben, nachdem er 1571 in der Schlacht von Lepanto gefangen genommen wurde. Der Sklavenmarkt auf dem Hauptplatz ist heute eine friedliche Piazza mit Cafétischen, aber die Eisenringe in den Mauern sind noch sichtbar.",
+    "whatToSeeTitle": "Innerhalb der Mauern",
+    "museum": "Ulcinj Museum in der Festung — illyrische Münzen, osmanische Waffen und ein Modell des alten Piratenhafens",
+    "mosque": "Die historischen Moscheen und Hammam-Ruinen — das osmanische Ulcinj hatte 12 Moscheen und 4 Hammams innerhalb der Mauern",
+    "walls": "Gehen Sie den gesamten Mauerring entlang. An klaren Tagen sieht man bis nach Italien. Der Sonnenuntergang von den westlichen Zinnen ist den Aufstieg allein wert.",
+    "gettingThereTitle": "Anfahrt",
+    "gettingThereText": "Stari Grad liegt im Zentrum der Stadt Ulcinj. Parken Sie auf den kostenpflichtigen Parkplätzen unterhalb der Festungsmauern — die Gassen sind zu eng für Autos. Gehen Sie durch das Haupttor hinauf."
+  },
+  "valdanosBody": {
+    "h1": "Valdanos — Eine versteckte Bucht hinter 80.000 Olivenbäumen",
+    "p1": "Valdanos ist der Ort, der in keinem Reiseführer auftaucht, und genau das ist der Punkt. Ein holpriger Feldweg zweigt etwa 4 km nördlich von Ulcinj von der Küstenstraße ab und führt durch dichte Olivenhaine — geschätzt 80.000 Bäume, einige nachweislich über 2.000 Jahre alt — hinunter zu einer stillen Bucht mit kristallklarem Wasser und einem Kiesstrand. Keine Sonnenliegen. Keine Strandbar. Keinerlei Einrichtungen.",
+    "p2": "Die Bucht hat eine wilde, leicht unheimliche Qualität. Verlassene sozialistische Bungalows säumen den Hang über dem Strand, überwuchert von Efeu und Feigenbäumen. Die Olivenhaine sind dicht genug, um den Wind abzuhalten. Das Wasser ist verblüffend klar — man sieht den Boden bei 5 Metern.",
+    "olivesTitle": "Die uralten Olivenhaine",
+    "olivesText": "Die Olivenhaine von Valdanos gehören zu den ältesten kultivierten Hainen im gesamten Mittelmeerraum. Einzelne Bäume wurden auf über 2.000 Jahre datiert. Lokale Bauern pressen noch immer Öl aus diesen Bäumen, und man kann Flaschen direkt an den Häusern entlang des Weges kaufen. Das Öl ist dickflüssig, grün, pfeffrig und nichts wie das aus dem Supermarkt.",
+    "gettingThereTitle": "Anfahrt",
+    "gettingThereText": "Fahren Sie von Ulcinj Zentrum nördlich auf der Küstenstraße Richtung Bar. Nach etwa 4 km suchen Sie eine unbeschilderte Linksabzweigung. Der Weg ist unbefestigt und schmal auf dem letzten Kilometer. Ein normales Auto schafft es bei Trockenheit, aber langsam. Ein SUV fährt bequem. Es gibt keinen öffentlichen Nahverkehr und keine Taxis."
+  },
+  "lakeSkadarBody": {
+    "h1": "Skadarsee — Pelikane, Flamingos und Crmnica-Wein",
+    "p1": "Der Skadarsee ist der größte See des Balkans, geteilt zwischen Montenegro und Albanien, und liegt nur 45 Minuten landeinwärts von Ulcinj. Er ist ein Nationalpark, ein Paradies für Vogelbeobachter und Heimat einer der letzten Brutkolonien von Krauskopfpelikanen in Europa. In der richtigen Jahreszeit erscheinen Flamingos an den Salina-Salzpfannen am Westufer.",
+    "p2": "Das montenegrinische Ufer ist übersät mit winzigen Fischerdörfern, Inselklöstern, die nur per Boot erreichbar sind, und der Crmnica-Weinregion, wo steile Hangweinberge einen dunklen, tanninreichen Vranac-Rotwein produzieren, der perfekt zu geräuchertem Karpfen aus dem See passt.",
+    "activitiesTitle": "Aktivitäten",
+    "boatTour": "Bootstouren ab Virpazar oder Rijeka Crnojevića — durch Seerosenkanäle zu Inselklöstern und Pelikankolonien. Mindestens einen halben Tag einplanen",
+    "wine": "Weinverkostung bei Crmnica-Weingütern am Südufer — kräftige Vranac-Rotweine, Seeterrassen und geräucherte Fischplatten",
+    "kayak": "Kajakfahren durch die ruhigen Kanäle bei Morgengrauen, wenn die Vögel am aktivsten sind. Verleih in Virpazar verfügbar",
+    "gettingThereTitle": "Anfahrt",
+    "gettingThereText": "Fahren Sie von Ulcinj nördlich Richtung Podgorica und folgen Sie den Schildern nach Virpazar (Hauptausgangspunkt für Bootstouren). Die Gesamtfahrzeit beträgt etwa 45 Minuten. Alternativ nehmen Sie die Binnenstraße durch Krute für eine landschaftlich reizvollere Route."
+  },
+  "shkodraBody": {
+    "h1": "Shkodra — Albanien in 30 Minuten",
+    "p1": "Shkodra ist eine der ältesten Städte des Balkans am südlichen Ende des Skadarsees, direkt hinter der albanischen Grenze. Der Grenzübergang Sukobin/Muriqan liegt 15 Minuten südlich von Ulcinj und ist Montenegros ruhigster albanischer Checkpoint — oft in unter 20 Minuten passiert.",
+    "p2": "Die Burg Rozafa dominiert die Anfahrt — eine illyrische Festung auf einem dramatischen Hügel mit Blick auf den See, die Flüsse und die gesamte Shkodra-Ebene. Die Legende besagt, eine Frau sei als Opfergabe in die Fundamente eingemauert worden.",
+    "whatToSeeTitle": "Sehenswürdigkeiten",
+    "castle": "Burg Rozafa — erklimmen Sie die illyrischen Festungsmauern für Panoramablicke über den Skadarsee und die Albanischen Alpen in der Ferne",
+    "pedestrian": "Das renovierte Fußgängerzentrum — osmanische Basargassen, italienische Boulevards, starker Espresso in winzigen Tassen und Bäckereien mit heißem Byrek",
+    "lake": "Das albanische Ufer des Skadarsees — eine völlig andere Perspektive, ruhiger und weniger besucht als die montenegrinische Seite",
+    "borderTitle": "Grenzübergang Sukobin",
+    "borderText": "Der Checkpoint Sukobin/Muriqan ist klein und meist schnell. Halten Sie Reisepass, Mietvertrag und Grüne Karte bereit. Wartezeiten in der Regel unter 20 Minuten. Bringen Sie Lek mit oder heben Sie an Geldautomaten in Shkodra ab.",
+    "gettingThereTitle": "Anfahrt",
+    "gettingThereText": "Fahren Sie von Ulcinj südlich durch Krute zur albanischen Grenze bei Sukobin. Nach dem Checkpoint folgen Sie der Hauptstraße nach Shkodra — Gesamtfahrzeit 30–40 Minuten. Planen Sie einen ganzen Tag für einen komfortablen Besuch ein."
   }
 }

@@ -564,19 +564,46 @@
   "velikaPlazaBody": {
     "adaBojanaLinkPre": "Na južnom kraju, ",
     "adaBojanaLinkText": "kajt plaža Ada Bojana",
-    "adaBojanaLinkPost": " je samo 5 minuta dalje."
+    "adaBojanaLinkPost": " je samo 5 minuta dalje.",
+    "h1": "Velika Plaža — 12 kilometara sivog vulkanskog pijeska",
+    "p1": "Malo turista zna za Veliku Plažu, a još manje ih stigne ovdje. Pijesak nije zlatni — fin je, siv i pun vulkanskih minerala koje mještani generacijama koriste za terapeutske tretmane. Plaža počinje oko 5 km južno od grada Ulcinja i proteže se, neprekinuta i uglavnom prazna, sve do albanske granice.",
+    "p2": "Da biste stigli ovdje, potreban je automobil. Nema autobusa. Nema trotoara na poslednjem dijelu. Parkinzi su neformalni — šljunčane čistine između dina. Pijesak prodire svuda: u auto, cipele, torbu. To je dio ugovora. Nagrada je plaža toliko ogromna da čak i u avgustu možete hodati dvadeset minuta a da ne sretnete živu dušu.",
+    "activitiesTitle": "Šta se dešava na pijesku",
+    "activity1": "Kajtanje i jedričarstvo — termički vjetrovi 15–25 čvorova od juna do septembra, plitka voda idealna za početnike i napredne",
+    "activity2": "Barovi na plaži kod sjevernih pristupa služe hladno pivo Nikšićko i ribu na žaru. Što dalje idete na jug, to je praznije",
+    "activity3": "Terapeutski tretmani pijeskom — zakopajte se u mineralni sivi pijesak. Mještani se kunu da pomaže kod bolova u zglobovima i kožnih problema",
+    "activity4": "Kupanje u vodi koja ostaje plitka na 50+ metara, topla od juna i iznenađujuće čista",
+    "gettingThereTitle": "Kako stići",
+    "gettingThereText": "Vozite na jug od centra Ulcinja obalnim putem. Više pristupnih staza vodi ka plaži duž 12 km. Sjeverni kraj kod bara Copacabana je najlakše naći. Za najpraznije dijelove nastavite na jug dok put ne postane staza i dine se ne zatvore s obje strane."
   },
   "adaBojanaBody": {
     "shkodraLinkPre": "Sa Ade Bojane možete ",
     "shkodraLinkText": "preći u Albaniju i stići do Skadra za 30 minuta",
-    "shkodraLinkPost": "."
+    "shkodraLinkPost": ".",
+    "h1": "Ada Bojana — Posljednja divlja riječna delta Evrope",
+    "p1": "Ada Bojana je trougaono ostrvo nastalo na ušću rijeke Bojane u Jadransko more, tačno na albanskoj granici. To je posljednja divlja riječna delta Evrope — bez betonske šetnice, bez hotelskog kompleksa, samo pješčane obale, jedan jedini most i drveni restorani na stubovima iznad spore smeđe vode.",
+    "p2": "Konstantni termički vjetrovi od 15 do 25 čvorova duvaju od juna do septembra, pojačavajući se svakog popodneva. Voda je na riječnoj strani plitka i topla, na jadranskoj dublja i hladnija. Nekoliko kajt škola nudi časove i opremu za iznajmljivanje. Restorani na stubovima služe svježe grilovani šaran, jegulje i kefal pravo iz rijeke.",
+    "kitesurfTitle": "Uslovi za kajtanje",
+    "kitesurfText": "Obrazac termičkog vjetra je izuzetno konzistentan: mirna jutra, jačanje od podneva, vrhunac 15–25 čvorova popodne. Riječna strana nudi ravnu plitku vodu za freestyle i početnike. Morska strana ima male talase. Sezona od maja do septembra, jul i avgust najpouzdaniji.",
+    "restaurantsTitle": "Jelo na rijeci",
+    "restaurantsText": "Restorani na stubovima su zaštitni znak Ade Bojane. Drvene platforme iznad rijeke, do kojih se dolazi uskim stazama, služe ono što su ribari uhvatili tog dana. Riba na žaru, riječna jegulja i svježa salata. U nekim mjestima nema menija — konobar vam kaže šta ima. Hladna rakija za kraj.",
+    "gettingThereTitle": "Kako stići",
+    "gettingThereText": "Vozite 15 km na jug od centra Ulcinja, prođite Veliku Plažu i pređite jedini most na ostrvo. Put je asfaltiran ali uzak. Nema javnog prevoza do Ade Bojane — automobil je jedina realna opcija."
   },
   "barBody": {
     "velikaPlazaLinkPre": "Iz Bara nastavite na jug duž obale do ",
     "velikaPlazaLinkText": "12 km dugačke pješčane plaže Velika plaža",
-    "velikaPlazaLinkPost": "."
+    "velikaPlazaLinkPost": ".",
+    "h1": "Bar — Radna luka i srednjovjekovne ruševine na brdu",
+    "p1": "Bar nije lijep grad. To je radna jadranska luka 30 minuta sjeverno od Ulcinja, većinom izgrađena od betona poslije razornog zemljotresa 1979. godine. Ali razlog da dođete je iznad grada — Stari Bar, ruševine srednjovjekovnog utvrđenog grada koji se drži padine kao duh.",
+    "p2": "Stari Bar sadrži ostatke preko 240 objekata — crkve, džamije, palate, kuće i javna kupatila — raspoređenih na dramatičnom brdu. Drevna maslina kod ulaza se smatra starom preko 2.000 godina, što je čini jednim od najstarijih živih stabala u Evropi. Još uvijek rađa.",
+    "dayTripTitle": "Šta vidjeti",
+    "stariBar": "Ruševine tvrđave Stari Bar — prošetajte kroz 240 ruševnih struktura sa pogledom do Italije u vedrim danima. Minimum 2 sata",
+    "oliveTree": "Stara maslina Bara — kvrgnavi, ograđeni spomenik star preko 2.000 godina. Još živa. Još rađa masline",
+    "portArea": "Šetalište uz obalu — više funkcionalno nego lijepo, ali mjesto za provjeru reda vožnje trajekta za Bari",
+    "gettingThereTitle": "Kako stići",
+    "gettingThereText": "Vozite iz Ulcinja na sjever obalnim putem E85. Bar je udaljen 30 km, oko 30 minuta. Parkirajte u modernom gradu i vozite ili idite pješke do Starog Bara (4 km u unutrašnjost, obilježeno)."
   },
-
   "blogIndex": {
     "breadcrumbBlog": "Blog",
     "heroTitle": "Vodiči za putovanja po Ulcinju",
@@ -601,7 +628,6 @@
     "card_sas_title": "Ruševine tvrđave Sas",
     "card_sas_excerpt": "Średnjovjekovni trgovački grad koji je progutala rijeka Bojana. Ruševine zidina, zaboravljena crkva i vožnja kroz močvare."
   },
-
   "blogOldtown": {
     "title": "Osmanski Stari grad Ulcinja: zidine, džamije i pogled na more",
     "subtitle": "Vodič za šetnju utvrđenim kvartom iznad luke — 2.500 godina slojevite istorije od Ilira do Osmanlija.",
@@ -642,7 +668,6 @@
     "glanceBest": "Najbolje vrijeme",
     "glanceBestVal": "Kasno popodne"
   },
-
   "blogVelikaplaza": {
     "title": "Velika plaža: najduža pješčana plaža Evrope",
     "subtitle": "12 kilometara tamnog mineralnog pijeska od Ulcinja do rijeke Bojane — kajtanje, toplo plićak i bičevi od kraja do kraja.",
@@ -685,7 +710,6 @@
     "glanceBest": "Najbolji mjeseci",
     "glanceBestVal": "Jun–sep."
   },
-
   "blogAdabojana": {
     "title": "Ada Bojana: vožnja do riječnog ostrva Crne Gore",
     "subtitle": "Trouglasto ostrvo đe se rijeka Bojana susreće sa Jadranom — pješčane plaže, riblji restorani na rijeci i neki od najboljih uslova za kajtanje u Evropi.",
@@ -725,7 +749,6 @@
     "glanceWind": "Sezona vjetrova",
     "glanceWindVal": "Jun–avg. (najjači)"
   },
-
   "blogAlbania": {
     "title": "Prelazak u Albaniju iz Ulcinja: šta treba znati",
     "subtitle": "Granični prelaz Sukobin je 20 minuta južno od Ulcinja. Dokumentacija za Zelenu kartu, šta očekivati na kontrolnom punktu i jednodnevni izlet u Skadar i nazad.",
@@ -766,7 +789,6 @@
     "glanceBest": "Najbolji dan",
     "glanceBestVal": "Radni dan, jutarnji polazak"
   },
-
   "blogOlive": {
     "title": "Stara maslina i maslinici Ulcinja",
     "subtitle": "Drvo staro 2.000 godina, terasasti maslinici koji se spuštaju ka Jadranu i hladno ceđeno ulje koje možete probati na kapiji farme.",
@@ -804,7 +826,6 @@
     "glanceBest": "Najbolja sezona",
     "glanceBestVal": "Apr.–maj ili nov."
   },
-
   "blogValdanos": {
     "title": "Zaliv Valdanos: skriveni zaliv sa 10.000 maslina",
     "subtitle": "Zaklonjeni zaliv okružen drevnim maslinicima — bez hotela, bez razvoja, samo čista voda i zvuk cvrčaka ljeti.",
@@ -844,7 +865,6 @@
     "glanceBest": "Najbolji mjeseci",
     "glanceBestVal": "Maj–okt."
   },
-
   "blogSeafood": {
     "title": "Ribarska tradicija Ulcinja: đe ribari još uvijek love",
     "subtitle": "Jutarnji ulov stiže u luku prije zore. Riba na žaru, crni rižoto i riječna jegulja — vodič za plodove mora u najjužnijem gradu Crne Gore.",
@@ -887,7 +907,6 @@
     "glanceMarket": "Riblja pijaca",
     "glanceMarketVal": "Otvara se u 6:30"
   },
-
   "blogSkadar": {
     "title": "Skadarsko jezero s južne obale: plaža Murići",
     "subtitle": "Većina posjetilaca stiže do jezera iz Virpazara. Iz Ulcinja, južna obala kod Muričija je bliža, tiša i jednako lijepa.",
@@ -928,7 +947,6 @@
     "glanceBest": "Najbolji mjeseci",
     "glanceBestVal": "Apr.–sep."
   },
-
   "blogSas": {
     "title": "Ruševine tvrđave Sas: vožnja do izgubljenog grada Ulcinja",
     "subtitle": "Średnjovjekovni trgovački grad koji je rivalizovao sa Dubrovnikom, progutan močvarama i zaboravljen. Zidine još uvijek stoje pored rijeke Bojane.",
@@ -966,5 +984,86 @@
     "glanceFeeVal": "Besplatno (neuređen lokalitet)",
     "glanceBest": "Najbolje vrijeme",
     "glanceBestVal": "Jutro (svježina, dobro svjetlo)"
+  },
+  "velika-plaza": {
+    "title": "Rent a car za Veliku Plažu",
+    "subtitle": "12 km sivog vulkanskog pijeska, prazno u svim pravcima. Nijedan autobus ne dolazi ovdje.",
+    "seoDesc": "Sivi pijesak bogat mineralima proteže se do albanske granice — terapeutski, vulkanski i gotovo potpuno napušten. Nema javnog prevoza. Automobil je jedini način da stignete do Velike Plaže."
+  },
+  "ada-bojana": {
+    "title": "Rent a car za Adu Bojanu",
+    "subtitle": "Posljednja divlja riječna delta Evrope. Kajtanje, restorani na stubovima i albanska granica.",
+    "seoDesc": "Trougaono ostrvo gdje rijeka Bojana utiče u Jadran — posljednja divlja riječna delta Evrope. Termički vjetrovi 15–25 čvorova od juna do septembra. 15 min južno od Ulcinja."
+  },
+  "stari-grad": {
+    "title": "Ulcinjski Stari Grad",
+    "subtitle": "2.500 godina zidina. Iliri, Rimljani, Mlečani, Osmanlije — sve naslagano na jednom rtu.",
+    "seoDesc": "Piratsko uporište koje je postalo osmanska citadela. Servantes je možda bio zarobljen ovdje. Poziv muezina miješa se sa crkvenim zvonima kroz 2.500 godina slojevite istorije."
+  },
+  "valdanos": {
+    "title": "Rent a car za Valdanos",
+    "subtitle": "Skriveni zaliv na kraju makadamskog puta, čuvan od 80.000 maslina — neke starije od Hrista.",
+    "seoDesc": "Pristupačan samo makadamskim putem. 80.000 maslina, nekim više od 2.000 godina, okružuje tihi zaliv bez ikakvih sadržaja. Ponesite sve sa sobom. Moguće stići samo automobilom."
+  },
+  "bar": {
+    "title": "Rent a car u Baru",
+    "subtitle": "Luka sa srednjovjekovnim ruševinama na brdu i maslinom starijim od Rima.",
+    "seoDesc": "30 min sjeverno od Ulcinja. Tvrđava Stari Bar se ruši na padini iznad luke. Maslina za koju se vjeruje da ima preko 2.000 godina stoji u blizini. Trajekt za Bari ako vas Italija zove."
+  },
+  "lake-skadar": {
+    "title": "Rent a car za Skadarsko jezero",
+    "subtitle": "Pelikani, flamingosi i crm nička vina — 45 minuta u unutrašnjost od obale.",
+    "seoDesc": "Najveće jezero Balkana na 45 min od Ulcinja. Kudravi pelikani, flamingosi na solanama, izleti brodom iz Virpazara i crm nički Vranac na čašu."
+  },
+  "shkodra": {
+    "title": "Jednodnevni izlet u Skadar, Albanija",
+    "subtitle": "Pređite granicu na Sukobinu i budite na tvrđavi Rozafa za 30 minuta.",
+    "seoDesc": "Granični prelaz Sukobin je tih i brz. Tvrđava Rozafa u Skadru čuva jezero od ilirskog doba. Zelena karta i granična dokumenta uključeni u svaki najam."
+  },
+  "stariGradBody": {
+    "h1": "Stari Grad — 2.500 godina piratskih zidina i osmanskih molitvi",
+    "p1": "Stari grad Ulcinja stoji na stijenovitom rtu iznad Jadrana, utvrđen zidinama koje su gradili, rušili i ponovo gradili dva i po milenijuma. Iliri su postavili prve kamene. Rimljani su ih proširili. Mlečani pojačali. Osmanlije dodale minarete. Pirati su ih koristili kao bazu za pljačkanje jadranskog brodovlja.",
+    "p2": "Danas je tvrđava slojeviti arheološki sendvič. Džamija stoji pored crkve. Albanski se čuje češće od crnogorskog. Poziv muezina sa minareta se miješa sa crkvenim zvonima nedjeljom. Starogradska pijaca prodaje svježe smokve, domaći med i maslinovo ulje iz drevnih maslinika u Valdanosu.",
+    "historyTitle": "Piratsko uporište",
+    "historyText": "Ulcinj je bio jedna od najozloglašenijih piratskih luka Jadrana od 16. do 18. vijeka. Za kulu Balšića se tvrdi da je pet godina držala Servantesa u zatočeništvu nakon zarobljavanja u bici kod Lepanta 1571. Pijaca robova na glavnom trgu je danas mirna pjaceta sa kafanskim stolovima, ali željezni prstenovi u zidovima su još vidljivi.",
+    "whatToSeeTitle": "Unutar zidina",
+    "museum": "Muzej Ulcinja u tvrđavi — ilirski novčići, osmansko oružje i maketa starog piratskog pristaništa",
+    "mosque": "Istorijske džamije i ruševine hamama — osmanski Ulcinj je imao 12 džamija i 4 hamama unutar zidina",
+    "walls": "Obiđite puni krug bedema. U vedrim danima vidi se Italija. Zalazak sunca sa zapadnih bedema vrijedi uspona sam po sebi.",
+    "gettingThereTitle": "Kako stići",
+    "gettingThereText": "Stari Grad je u centru grada Ulcinja. Parkirajte na plaćenim parkinzima ispod zidina tvrđave — ulice unutra su preuske za automobile. Popnite se kroz glavna vrata."
+  },
+  "valdanosBody": {
+    "h1": "Valdanos — Skriveni zaliv iza 80.000 maslina",
+    "p1": "Valdanos je onaj tip mjesta koji se ne pojavljuje u vodičima, i to je upravo poenta. Makadamski put skreće sa obalnog puta oko 4 km sjeverno od Ulcinja i spušta se kroz guste maslinike — procijenjenih 80.000 stabala, nekim potvrđeno više od 2.000 godina — do tihog zaliva sa kristalno čistom vodom i šljunkovitom plažom. Nema ležaljki. Nema bara. Nikakvih sadržaja.",
+    "p2": "Zaliv ima divlji, pomalo jezivi karakter. Napušteni socijalistički bungalovi na padini iznad plaže, obrasli bršljanom i smokvama. Maslinici su dovoljno gusti da blokiraju vjetar. Voda je zapanjujuće bistra — dno se vidi na 5 metara.",
+    "olivesTitle": "Drevni maslinici",
+    "olivesText": "Maslinici Valdanosa spadaju u najstarije kultivisane maslinike u cijelom Sredozemlju. Pojedina stabla su datirana na preko 2.000 godina. Lokalni zemljoradnici i dalje cijedu ulje iz ovih stabala, a boce se mogu kupiti direktno kod kuća duž puta. Ulje je gusto, zeleno, paprenasto i nema nikakve veze sa onim iz marketa.",
+    "gettingThereTitle": "Kako stići",
+    "gettingThereText": "Od centra Ulcinja vozite na sjever obalnim putem prema Baru. Nakon oko 4 km tražite neoznačeno skretanje lijevo. Put je neasfaltiran i uzak na poslednjem kilometru. Obični auto može proći po suvom, ali polako. SUV prolazi lagano. Nema javnog prevoza ni taksija."
+  },
+  "lakeSkadarBody": {
+    "h1": "Skadarsko jezero — Pelikani, flamingosi i crmnička vina",
+    "p1": "Skadarsko jezero je najveće jezero Balkana, podijeljeno između Crne Gore i Albanije, samo 45 minuta u unutrašnjost od Ulcinja. To je nacionalni park, raj za posmatrače ptica i dom jedne od poslednjih gnijezdećih kolonija kudravog pelikana u Evropi. U pravo doba — od kasne jeseni do ranog proljeća — flamingosi se pojavljuju na solanama Salina.",
+    "p2": "Crnogorska obala je posuta sitnim ribarskim selima, ostrvskim manastirima dostupnim samo brodom i crmničkim vinskim krajem gdje strmi vinogradi na padinama daju tamni, taninski Vranac koji se savršeno slaže sa dimljenim šaranom iz jezera.",
+    "activitiesTitle": "Šta raditi",
+    "boatTour": "Izleti brodom iz Virpazara ili Rijeke Crnojevića — kroz kanale sa lopočima do ostrvskih manastira i kolonija pelikana. Minimum pola dana",
+    "wine": "Degustacija vina u crmničkim vinogradima na južnoj obali — gust Vranac, terase s pogledom na jezero i dimljeni ribljii tanjiri",
+    "kayak": "Kajak kroz tihe kanale u zoru kad su ptice najaktivnije. Iznajmljivanje dostupno u Virpazaru",
+    "gettingThereTitle": "Kako stići",
+    "gettingThereText": "Vozite iz Ulcinja na sjever prema Podgorici i pratite znakove za Virpazar (glavno polazište za izlete brodom). Ukupno vrijeme vožnje je oko 45 minuta. Alternativno, uzmite unutrašnji put kroz Krute za slikovitiju rutu."
+  },
+  "shkodraBody": {
+    "h1": "Skadar — Albanija za 30 minuta",
+    "p1": "Skadar je jedan od najstarijih gradova Balkana, smješten na južnom kraju Skadarskog jezera odmah preko albanske granice. Granični prelaz Sukobin/Muriqan je 15 minuta južno od Ulcinja i najtiši je albanski prelaz Crne Gore — često pređen za manje od 20 minuta.",
+    "p2": "Tvrđava Rozafa dominira prilazom — ilirska utvrda na dramatičnom brdu sa pogledom na jezero, rijeke i cijelu skadarsku ravnicu. Legenda kaže da je žena uzidana u temelje kao žrtva.",
+    "whatToSeeTitle": "Šta vidjeti",
+    "castle": "Tvrđava Rozafa — popnite se na ilirske zidine za panoramski pogled na Skadarsko jezero i Albanske Alpe u daljini",
+    "pedestrian": "Renovirani pješački centar — osmanske bazarske ulice, italijanski bulevari, jaki espreso u malim šoljicama i pekare sa vrućim burekom",
+    "lake": "Albanska obala Skadarskog jezera — potpuno drugačija perspektiva, tiša i manje posjećena od crnogorske strane",
+    "borderTitle": "Prelaz na Sukobinu",
+    "borderText": "Granični prelaz Sukobin/Muriqan je mali i obično brz. Imajte spremne pasoš, ugovor o najmu i Zelenu kartu. Vrijeme čekanja obično manje od 20 minuta. Ponesite leke ili podignite na bankomatima u Skadru.",
+    "gettingThereTitle": "Kako stići",
+    "gettingThereText": "Iz Ulcinja vozite na jug kroz Krute do albanske granice na Sukobinu. Nakon prelaza pratite glavni put do Skadra — ukupno vrijeme vožnje 30–40 minuta. Planirajte cijeli dan za udoban obilazak."
   }
 }

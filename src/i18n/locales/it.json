@@ -564,19 +564,46 @@
   "velikaPlazaBody": {
     "adaBojanaLinkPre": "All'estremità meridionale, la ",
     "adaBojanaLinkText": "spiaggia per kitesurfisti di Ada Bojana",
-    "adaBojanaLinkPost": " è a soli 5 minuti più avanti."
+    "adaBojanaLinkPost": " è a soli 5 minuti più avanti.",
+    "h1": "Velika Plaza — 12 chilometri di sabbia vulcanica grigia",
+    "p1": "Pochi turisti conoscono Velika Plaza, e ancora meno ci arrivano. La sabbia non è dorata — è fine, grigia e carica di minerali vulcanici che i locali usano da generazioni per trattamenti terapeutici. La spiaggia inizia circa 5 km a sud di Ulcinj e si estende, ininterrotta e in gran parte deserta, fino al confine albanese.",
+    "p2": "Arrivarci richiede un'auto. Non c'è autobus. Non c'è marciapiede nell'ultimo tratto. I parcheggi sono informali — spiazzi di ghiaia tra le dune. La sabbia entra ovunque: nell'auto, nelle scarpe, nella borsa. Fa parte del pacchetto. La ricompensa è una spiaggia così vasta che anche in agosto si può camminare venti minuti senza incontrare anima viva.",
+    "activitiesTitle": "Cosa fare sulla sabbia",
+    "activity1": "Kitesurf e windsurf — venti termici 15–25 nodi da giugno a settembre, con acque basse ideali per principianti e avanzati",
+    "activity2": "Bar sulla spiaggia vicino agli accessi nord servono birra Nikšićko fredda e pesce alla griglia. Più si va a sud, più è deserto",
+    "activity3": "Trattamenti terapeutici nella sabbia — seppellitevi nella sabbia grigia ricca di minerali. I locali giurano che funziona per dolori articolari e problemi cutanei",
+    "activity4": "Nuoto in acque che restano basse per oltre 50 metri, calde da giugno e sorprendentemente pulite",
+    "gettingThereTitle": "Come arrivare",
+    "gettingThereText": "Guidate verso sud dal centro di Ulcinj sulla strada costiera. Diversi accessi portano alla spiaggia lungo i 12 km. L'estremità nord vicino al bar Copacabana è la più facile da trovare. Per le sezioni più deserte, continuate verso sud finché la strada diventa una pista."
   },
   "adaBojanaBody": {
     "shkodraLinkPre": "Da Ada Bojana è possibile ",
     "shkodraLinkText": "attraversare il confine con l'Albania e raggiungere Shkodra in 30 minuti",
-    "shkodraLinkPost": "."
+    "shkodraLinkPost": ".",
+    "h1": "Ada Bojana — L'ultimo delta fluviale selvaggio d'Europa",
+    "p1": "Ada Bojana è un'isola triangolare formata dove il fiume Bojana sfocia nell'Adriatico, proprio al confine albanese. È l'ultimo delta fluviale selvaggio d'Europa — nessun lungomare in cemento, nessun resort, solo sponde sabbiose, un unico ponte e ristoranti su palafitte di legno sopra l'acqua lenta e bruna.",
+    "p2": "Venti termici costanti di 15–25 nodi soffiano da giugno a settembre, rafforzandosi ogni pomeriggio. L'acqua è bassa e calda sul lato del fiume, più profonda e fresca sul lato adriatico. Diverse scuole di kite offrono lezioni e noleggio attrezzatura. I ristoranti su palafitte servono carpa, anguilla e cefalo appena grigliati dal fiume.",
+    "kitesurfTitle": "Condizioni per il kitesurf",
+    "kitesurfText": "Il regime dei venti termici è notevolmente costante: mattinate calme, in aumento da mezzogiorno, picco a 15–25 nodi nel pomeriggio. Il lato fiume offre acqua piatta e bassa per freestyle e principianti. Il lato mare ha piccole onde. Stagione da maggio a settembre, luglio e agosto i mesi più affidabili.",
+    "restaurantsTitle": "Mangiare sul fiume",
+    "restaurantsText": "I ristoranti su palafitte sono il marchio di Ada Bojana. Piattaforme di legno sul fiume, raggiungibili tramite strette passerelle, servono quello che i pescatori hanno catturato quel giorno. Pesce alla griglia, anguilla di fiume e insalata fresca. In alcuni posti niente menù — il cameriere vi dice cosa c'è. Rakija fredda per finire.",
+    "gettingThereTitle": "Come arrivare",
+    "gettingThereText": "Guidate 15 km a sud dal centro di Ulcinj, oltre Velika Plaza, e attraversate l'unico ponte verso l'isola. La strada è asfaltata ma stretta. Non c'è trasporto pubblico per Ada Bojana — l'auto è l'unica opzione realistica."
   },
   "barBody": {
     "velikaPlazaLinkPre": "Da Bar, proseguite verso sud lungo la costa fino alla ",
     "velikaPlazaLinkText": "spiaggia sabbiosa di 12 km di Velika Plaza",
-    "velikaPlazaLinkPost": "."
+    "velikaPlazaLinkPost": ".",
+    "h1": "Bar — Porto operativo e rovine medievali sulla collina",
+    "p1": "Bar non è una bella città. È un porto adriatico operativo a 30 minuti a nord di Ulcinj, costruito per lo più in cemento post-terremoto dopo il devastante sisma del 1979. Ma il motivo per venire è sopra la città — Stari Bar, la città-fortezza medievale in rovina che si aggrappa alla collina come un fantasma.",
+    "p2": "Stari Bar contiene i resti di oltre 240 edifici — chiese, moschee, palazzi, case e bagni pubblici — distribuiti su una drammatica collina. Un antico ulivo vicino all'ingresso si ritiene abbia oltre 2.000 anni, rendendolo uno degli alberi viventi più antichi d'Europa. Produce ancora frutti.",
+    "dayTripTitle": "Cosa vedere",
+    "stariBar": "Rovine della fortezza di Stari Bar — passeggiate tra 240 strutture fatiscenti con vista fino all'Italia nelle giornate limpide. Almeno 2 ore",
+    "oliveTree": "Il vecchio ulivo di Bar — un monumento nodoso e recintato di oltre 2.000 anni. Ancora vivo. Produce ancora olive",
+    "portArea": "Il lungomare — più funzionale che bello, ma il punto dove controllare gli orari del traghetto per Bari",
+    "gettingThereTitle": "Come arrivare",
+    "gettingThereText": "Guidate da Ulcinj verso nord sulla costiera E85. Bar dista 30 km, circa 30 minuti. Parcheggiate nella città moderna e salite a Stari Bar (4 km nell'entroterra, con indicazioni)."
   },
-
   "blogIndex": {
     "breadcrumbBlog": "Blog",
     "heroTitle": "Guide di Viaggio per Ulcinj",
@@ -601,7 +628,6 @@
     "card_sas_title": "Le Rovine della Fortezza di Sas",
     "card_sas_excerpt": "Una citta commerciale medievale inghiottita dal fiume Bojana. Mura in rovina, una chiesa dimenticata e un percorso attraverso le zone umide."
   },
-
   "blogOldtown": {
     "title": "La Citta Vecchia Ottomana di Ulcinj: Mura, Moschee e Vedute sul Mare",
     "subtitle": "Una guida a piedi del quartiere fortificato sopra il porto — 2.500 anni di storia stratificata dagli Illiri agli Ottomani.",
@@ -642,7 +668,6 @@
     "glanceBest": "Orario Migliore",
     "glanceBestVal": "Tardo pomeriggio"
   },
-
   "blogVelikaplaza": {
     "title": "Velika Plaza: La Spiaggia di Sabbia piu Lunga d'Europa",
     "subtitle": "12 chilometri di sabbia minerale scura da Ulcinj alla foce della Bojana — kitesurf, fondali bassi e stabilimenti balneari da un capo all'altro.",
@@ -685,7 +710,6 @@
     "glanceBest": "Mesi Migliori",
     "glanceBestVal": "Giu-Set"
   },
-
   "blogAdabojana": {
     "title": "Ada Bojana: In Auto verso l'Isola alla Foce del Fiume",
     "subtitle": "Un'isola triangolare dove la Bojana incontra l'Adriatico — spiagge sabbiose, ristoranti di pesce di fiume e tra i migliori spot di kitesurf d'Europa.",
@@ -725,7 +749,6 @@
     "glanceWind": "Stagione del Vento",
     "glanceWindVal": "Giu-Ago piu forte"
   },
-
   "blogAlbania": {
     "title": "Attraversare il Confine con l'Albania da Ulcinj: Cosa Sapere",
     "subtitle": "Il valico di Sukobin e a 20 minuti a sud di Ulcinj. Documentazione della Carta Verde, cosa aspettarsi al controllo e un itinerario giornaliero verso Scutari e ritorno.",
@@ -766,7 +789,6 @@
     "glanceBest": "Giorno Migliore",
     "glanceBestVal": "Giorno feriale, partenza mattutina"
   },
-
   "blogOlive": {
     "title": "L'Antico Olivo e gli Uliveti di Ulcinj",
     "subtitle": "Un albero di 2.000 anni, uliveti terrazzati che digradano verso l'Adriatico e olio spremuto a freddo da assaggiare direttamente in azienda.",
@@ -804,7 +826,6 @@
     "glanceBest": "Stagione Migliore",
     "glanceBestVal": "Apr-Mag o Nov"
   },
-
   "blogValdanos": {
     "title": "Baia di Valdanos: La Cala Nascosta con 10.000 Olivi",
     "subtitle": "Un'insenatura riparata circondata da antichi uliveti — nessun hotel, nessun sviluppo turistico, solo acqua cristallina e il canto delle cicale in estate.",
@@ -844,7 +865,6 @@
     "glanceBest": "Mesi Migliori",
     "glanceBestVal": "Mag-Ott"
   },
-
   "blogSeafood": {
     "title": "La Tradizione del Pesce di Ulcinj: Dove i Pescatori Pescano Ancora",
     "subtitle": "Il pescato del mattino arriva al porto prima dell'alba. Pesce intero alla griglia, risotto nero e anguilla di fiume — una guida per mangiare pesce nella citta piu meridionale del Montenegro.",
@@ -887,7 +907,6 @@
     "glanceMarket": "Mercato del Pesce",
     "glanceMarketVal": "Apre alle 6:30"
   },
-
   "blogSkadar": {
     "title": "Il Lago di Scutari dalla Sponda Meridionale: Spiaggia di Murici",
     "subtitle": "La maggior parte dei visitatori raggiunge il lago da Virpazar. Da Ulcinj, la sponda meridionale di Murici e piu vicina, piu tranquilla e altrettanto bella.",
@@ -928,7 +947,6 @@
     "glanceBest": "Mesi Migliori",
     "glanceBestVal": "Apr-Set"
   },
-
   "blogSas": {
     "title": "Le Rovine della Fortezza di Sas: In Auto verso la Citta Perduta di Ulcinj",
     "subtitle": "Una citta commerciale medievale che rivaleggiava con Dubrovnik, inghiottita dalla palude e dimenticata. Le mura si ergono ancora accanto al fiume Bojana.",
@@ -966,5 +984,86 @@
     "glanceFeeVal": "Gratuito (sito non gestito)",
     "glanceBest": "Orario Migliore",
     "glanceBestVal": "Mattina (fresco, buona luce)"
+  },
+  "velika-plaza": {
+    "title": "Noleggio auto per Velika Plaza",
+    "subtitle": "12 km di sabbia vulcanica grigia, deserta in ogni direzione. Nessun autobus arriva qui.",
+    "seoDesc": "Sabbia grigia ricca di minerali si estende fino al confine albanese — terapeutica, vulcanica e quasi completamente deserta. Nessun trasporto pubblico. L'auto è l'unico modo per raggiungere Velika Plaza."
+  },
+  "ada-bojana": {
+    "title": "Noleggio auto per Ada Bojana",
+    "subtitle": "L'ultimo delta fluviale selvaggio d'Europa. Kitesurf, ristoranti su palafitte e il confine albanese.",
+    "seoDesc": "Un'isola triangolare dove il fiume Bojana incontra l'Adriatico — l'ultimo delta fluviale selvaggio d'Europa. Venti termici 15–25 nodi da giugno a settembre. 15 min a sud di Ulcinj."
+  },
+  "stari-grad": {
+    "title": "Città Vecchia di Ulcinj (Stari Grad)",
+    "subtitle": "2.500 anni di mura fortificate. Illiri, Romani, Veneziani, Ottomani — tutti impilati su un promontorio.",
+    "seoDesc": "Roccaforte pirata divenuta cittadella ottomana. Cervantes potrebbe essere stato imprigionato qui. Il richiamo del muezzin si mescola con le campane su 2.500 anni di storia stratificata."
+  },
+  "valdanos": {
+    "title": "Noleggio auto per Valdanos",
+    "subtitle": "Una baia nascosta in fondo a una strada sterrata, custodita da 80.000 ulivi — alcuni più antichi di Cristo.",
+    "seoDesc": "Accessibile solo tramite strada sterrata. 80.000 ulivi, alcuni di oltre 2.000 anni, circondano una baia silenziosa senza alcun servizio. Portate tutto il necessario. Raggiungibile solo in auto."
+  },
+  "bar": {
+    "title": "Noleggio auto a Bar",
+    "subtitle": "Un porto operativo con rovine medievali sulla collina e un ulivo più antico di Roma.",
+    "seoDesc": "30 min a nord di Ulcinj. La fortezza di Stari Bar si sgretola sulla collina sopra un porto operativo. Un ulivo di oltre 2.000 anni si trova nelle vicinanze. Traghetto per Bari se l'Italia chiama."
+  },
+  "lake-skadar": {
+    "title": "Noleggio auto per il Lago di Scutari",
+    "subtitle": "Pellicani, fenicotteri e vino Crmnica — 45 minuti nell'entroterra dalla costa.",
+    "seoDesc": "Il lago più grande dei Balcani a 45 min da Ulcinj. Pellicani dalmati, avvistamenti di fenicotteri alle saline, gite in barca da Virpazar e rosso Crmnica al bicchiere."
+  },
+  "shkodra": {
+    "title": "Gita giornaliera a Scutari, Albania",
+    "subtitle": "Attraversate a Sukobin e salite al Castello di Rozafa in 30 minuti.",
+    "seoDesc": "Il valico di Sukobin è tranquillo e veloce. Il Castello di Rozafa a Scutari sorveglia il lago dai tempi illirici. Assicurazione carta verde e documenti di frontiera inclusi in ogni noleggio."
+  },
+  "stariGradBody": {
+    "h1": "Stari Grad — 2.500 anni di mura piratesche e preghiere ottomane",
+    "p1": "La Città Vecchia di Ulcinj sorge su un promontorio roccioso sopra l'Adriatico, fortificata da mura costruite, distrutte e ricostruite per due millenni e mezzo. Gli Illiri posero le prime pietre. I Romani le ampliarono. I Veneziani le rinforzarono. Gli Ottomani aggiunsero minareti. I pirati le usarono come base per razziare il naviglio adriatico.",
+    "p2": "Oggi la fortezza è un sandwich archeologico stratificato. Una moschea sta accanto a una chiesa. L'albanese si parla più del montenegrino. Il richiamo del muezzin dal minareto si mescola con le campane la domenica. Il mercato della città vecchia vende fichi freschi, miele locale e olio d'oliva dai millenari uliveti di Valdanos.",
+    "historyTitle": "La roccaforte dei pirati",
+    "historyText": "Ulcinj fu uno dei porti pirata più famigerati dell'Adriatico dal XVI al XVIII secolo. La Torre dei Balšić avrebbe tenuto prigioniero Cervantes per cinque anni dopo la cattura nella Battaglia di Lepanto nel 1571. Il mercato degli schiavi nella piazza principale è ora una tranquilla piazza con tavolini, ma gli anelli di ferro nei muri sono ancora visibili.",
+    "whatToSeeTitle": "Dentro le mura",
+    "museum": "Museo di Ulcinj nella fortezza — monete illiriche, armi ottomane e un modello del vecchio porto pirata",
+    "mosque": "Le moschee storiche e le rovine dell'hammam — l'Ulcinj ottomana aveva 12 moschee e 4 hammam dentro le mura",
+    "walls": "Percorrete l'intero circuito dei bastioni. Nelle giornate limpide si vede fino all'Italia. Il tramonto dai bastioni occidentali vale da solo la salita.",
+    "gettingThereTitle": "Come arrivare",
+    "gettingThereText": "Stari Grad è nel centro di Ulcinj. Parcheggiate nei parcheggi a pagamento sotto le mura della fortezza — le strade all'interno sono troppo strette per le auto. Salite attraverso la porta principale."
+  },
+  "valdanosBody": {
+    "h1": "Valdanos — Una baia nascosta dietro 80.000 ulivi",
+    "p1": "Valdanos è il tipo di posto che non compare nelle guide, e questo è esattamente il punto. Una strada sterrata si stacca dalla costiera circa 4 km a nord di Ulcinj e scende attraverso fitti uliveti — circa 80.000 alberi, alcuni confermati di oltre 2.000 anni — fino a una baia silenziosa con acqua cristallina e una spiaggia di ciottoli. Niente lettini. Niente bar. Nessun servizio.",
+    "p2": "La baia ha una qualità selvaggia, leggermente inquietante. Bungalow abbandonati dell'era socialista punteggiano la collina sopra la spiaggia, invasi da edera e fichi. Gli uliveti sono abbastanza fitti da bloccare il vento. L'acqua è incredibilmente limpida — si vede il fondo a 5 metri.",
+    "olivesTitle": "Gli antichi uliveti",
+    "olivesText": "Gli uliveti di Valdanos sono tra i più antichi coltivati dell'intero bacino mediterraneo. Alcuni alberi sono stati datati a oltre 2.000 anni. I contadini locali producono ancora olio da questi alberi, e si possono comprare bottiglie direttamente dalle case lungo la strada. L'olio è denso, verde, piccante e niente a che vedere con quello del supermercato.",
+    "gettingThereTitle": "Come arrivare",
+    "gettingThereText": "Dal centro di Ulcinj, guidate verso nord sulla costiera in direzione Bar. Dopo circa 4 km, cercate una svolta a sinistra non segnalata. La strada è sterrata e stretta nell'ultimo chilometro. Un'auto normale ce la fa con tempo asciutto, ma piano. Un SUV passa comodamente. Non c'è trasporto pubblico né taxi."
+  },
+  "lakeSkadarBody": {
+    "h1": "Lago di Scutari — Pellicani, fenicotteri e vino Crmnica",
+    "p1": "Il Lago di Scutari è il più grande dei Balcani, condiviso tra Montenegro e Albania, a soli 45 minuti nell'entroterra da Ulcinj. È un parco nazionale, un paradiso per birdwatcher e ospita una delle ultime colonie nidificanti di pellicano dalmata in Europa. Nella stagione giusta — tardo autunno a primavera — i fenicotteri compaiono alle saline sul bordo occidentale.",
+    "p2": "La sponda montenegrina è punteggiata di minuscoli villaggi di pescatori, monasteri su isole raggiungibili solo in barca, e la regione vinicola di Crmnica dove vigneti su pendii ripidi producono un Vranac rosso scuro e tannico che si abbina perfettamente alla carpa affumicata del lago.",
+    "activitiesTitle": "Cosa fare",
+    "boatTour": "Gite in barca da Virpazar o Rijeka Crnojevića — attraverso canali di ninfee fino a monasteri insulari e colonie di pellicani. Almeno mezza giornata",
+    "wine": "Degustazione di vini nelle cantine Crmnica sulla sponda sud — rossi Vranac corposi, terrazze sul lago e piatti di pesce affumicato",
+    "kayak": "Kayak nei canali tranquilli all'alba quando gli uccelli sono più attivi. Noleggio disponibile a Virpazar",
+    "gettingThereTitle": "Come arrivare",
+    "gettingThereText": "Guidate da Ulcinj verso nord in direzione Podgorica e seguite le indicazioni per Virpazar (punto di partenza principale delle gite in barca). Il viaggio totale è di circa 45 minuti. In alternativa, prendete la strada interna attraverso Krute per un percorso più panoramico."
+  },
+  "shkodraBody": {
+    "h1": "Scutari — Albania in 30 minuti",
+    "p1": "Scutari è una delle città più antiche dei Balcani, situata all'estremità meridionale del Lago di Scutari oltre il confine albanese. Il valico di Sukobin/Muriqan è a 15 minuti a sud di Ulcinj ed è il checkpoint albanese più tranquillo del Montenegro — spesso superato in meno di 20 minuti.",
+    "p2": "Il Castello di Rozafa domina l'avvicinamento — una fortezza illirica su una collina drammatica con vista sul lago, i fiumi e l'intera pianura di Scutari. La leggenda narra che una donna fu murata nelle fondamenta come sacrificio.",
+    "whatToSeeTitle": "Cosa vedere",
+    "castle": "Castello di Rozafa — salite sulle mura illiriche per viste panoramiche sul Lago di Scutari e le Alpi Albanesi in lontananza",
+    "pedestrian": "Il centro pedonale rinnovato — vicoli del bazar ottomano, boulevard italiani, espresso forte in tazzine e panetterie con byrek caldo",
+    "lake": "La sponda albanese del Lago di Scutari — una prospettiva completamente diversa, più tranquilla e meno visitata del lato montenegrino",
+    "borderTitle": "Attraversamento a Sukobin",
+    "borderText": "Il checkpoint Sukobin/Muriqan è piccolo e di solito veloce. Tenete pronti passaporto, contratto di noleggio e Carta Verde. Tempi di attesa in genere sotto i 20 minuti. Portate lek o prelevate ai bancomat di Scutari.",
+    "gettingThereTitle": "Come arrivare",
+    "gettingThereText": "Da Ulcinj guidate verso sud attraverso Krute fino al confine albanese a Sukobin. Dopo il checkpoint, seguite la strada principale per Scutari — tempo totale 30–40 minuti. Prevedete una giornata intera per una visita comoda."
   }
 }
