@@ -860,7 +860,7 @@ export default function App() {
           <TrustStrip />
         </div>
         <Fleet />
-        <Reviews />
+        {/* <Reviews /> */}
         <StatCounters />
         <AdventureHub />
         <BlogCards />
