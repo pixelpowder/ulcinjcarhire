@@ -6,7 +6,7 @@ export async function generateMetadata({ params }) {
   return {
     title: t(lang, 'blogSkadar.title') + ' | Ulcinj Car Hire',
     description: t(lang, 'blogSkadar.description'),
-    alternates: buildAlternates('blog/ulcinj-to-lake-skadar-south'),
+    alternates: buildAlternates('blog/ulcinj-to-lake-skadar-south', lang),
   };
 }
 

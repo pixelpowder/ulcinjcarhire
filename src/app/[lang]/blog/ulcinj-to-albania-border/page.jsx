@@ -6,7 +6,7 @@ export async function generateMetadata({ params }) {
   return {
     title: t(lang, 'blogAlbania.title') + ' | Ulcinj Car Hire',
     description: t(lang, 'blogAlbania.description'),
-    alternates: buildAlternates('blog/ulcinj-to-albania-border'),
+    alternates: buildAlternates('blog/ulcinj-to-albania-border', lang),
   };
 }
 

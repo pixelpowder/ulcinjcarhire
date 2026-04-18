@@ -6,7 +6,7 @@ export async function generateMetadata({ params }) {
   return {
     title: t(lang, 'blogSeafood.title') + ' | Ulcinj Car Hire',
     description: t(lang, 'blogSeafood.description'),
-    alternates: buildAlternates('blog/ulcinj-seafood-guide'),
+    alternates: buildAlternates('blog/ulcinj-seafood-guide', lang),
   };
 }
 

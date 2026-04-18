@@ -6,7 +6,7 @@ export async function generateMetadata({ params }) {
   return {
     title: t(lang, 'blogOldtown.title') + ' | Ulcinj Car Hire',
     description: t(lang, 'blogOldtown.description'),
-    alternates: buildAlternates('blog/ulcinj-old-town-guide'),
+    alternates: buildAlternates('blog/ulcinj-old-town-guide', lang),
   };
 }
 

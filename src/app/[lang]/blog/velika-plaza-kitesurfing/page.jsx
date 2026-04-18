@@ -6,7 +6,7 @@ export async function generateMetadata({ params }) {
   return {
     title: t(lang, 'blogVelikaplaza.title') + ' | Ulcinj Car Hire',
     description: t(lang, 'blogVelikaplaza.description'),
-    alternates: buildAlternates('blog/velika-plaza-kitesurfing'),
+    alternates: buildAlternates('blog/velika-plaza-kitesurfing', lang),
   };
 }
 

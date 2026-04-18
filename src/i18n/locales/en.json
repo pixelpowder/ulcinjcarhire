@@ -3,7 +3,8 @@
     "book": "Book",
     "blog": "Blog",
     "destinations": "Destinations",
-    "about": "About"
+    "about": "About",
+    "contact": "Contact"
   },
   "common": {
     "home": "Home",
@@ -93,7 +94,9 @@
     "bookText": "Live availability for Ulcinj and the forgotten south — vehicles ready for sand, dirt roads, and border crossings.",
     "helpTitle": "Need Help?",
     "helpText": "Reach us on WhatsApp, Viber, or phone. We speak the local roads.",
-    "popularDest": "Popular Destinations"
+    "popularDest": "Popular Destinations",
+    "tivatAirport": "Tivat Airport",
+    "dubrovnikAirport": "Dubrovnik Airport"
   },
   "book": {
     "title": "Find Your Car",
@@ -115,7 +118,10 @@
     "searchCars": "Search Cars",
     "privacyPolicy": "Privacy Policy",
     "terms": "Terms & Conditions",
-    "cookiePolicy": "Cookie Policy"
+    "cookiePolicy": "Cookie Policy",
+    "testimonials": "Testimonials",
+    "sitemap": "Sitemap",
+    "tivatAirport": "Tivat Airport"
   },
   "notFound": {
     "code": "404",
@@ -125,7 +131,7 @@
     "searchCars": "Search Cars"
   },
   "home": {
-    "seoDesc": "Montenegro's southernmost town has no railway, scarce buses, and roads that run out of signs. A car from \u20AC13/day unlocks 12 km of grey volcanic beach, a pirate fortress, and Albania in 30 min."
+    "seoDesc": "Montenegro's southernmost town has no railway, scarce buses, and roads that run out of signs. A car from €13/day unlocks 12 km of grey volcanic beach, a pirate fortress, and Albania in 30 min."
   },
   "about": {
     "title": "About Us",
@@ -656,7 +662,7 @@
     "law1": "Croatia: headlights must be on at all times. Motorway tolls apply (cash or card)",
     "law2": "Albania: speed limits are lower on rural roads. Road quality varies significantly",
     "law3": "Bosnia: winter tyres mandatory November-April. Carry a first-aid kit and warning triangle",
-    "law4": "Serbia: zero alcohol tolerance behind the wheel. Toll stations on Serbian motorways charge per kilometre \u2014 take a ticket at the booth on entry",
+    "law4": "Serbia: zero alcohol tolerance behind the wheel. Toll stations on Serbian motorways charge per kilometre — take a ticket at the booth on entry",
     "law5": "Kosovo: drive on the right. International driving permit recommended",
     "popularTitle": "Popular Cross-Border Routes",
     "route1": "Ulcinj to Shkodra (Albania): 30-40 minutes via Sukobin crossing. Visit Rozafa Castle",
@@ -665,7 +671,6 @@
     "route4": "Podgorica to Belgrade (Serbia): 5-6 hours via E65 north",
     "ctaText": "Need a car with cross-border documentation ready? Search our fleet — just select your destination countries at booking and we'll arrange the Green Card."
   },
-
   "blogIndex": {
     "breadcrumbBlog": "Blog",
     "heroTitle": "Ulcinj Travel Guides",
@@ -690,7 +695,6 @@
     "card_sas_title": "The Ruins of Sas Fortress",
     "card_sas_excerpt": "A medieval trading city swallowed by the Bojana River. Crumbling walls, a forgotten church, and a drive through the wetlands."
   },
-
   "blogOldtown": {
     "title": "Ulcinj's Ottoman Old Town: Walls, Mosques, and Sea Views",
     "subtitle": "A walking guide to the fortified quarter above the harbour — 2,500 years of layered history from Illyrians to Ottomans.",
@@ -731,7 +735,6 @@
     "glanceBest": "Best Time",
     "glanceBestVal": "Late afternoon"
   },
-
   "blogVelikaplaza": {
     "title": "Velika Plaza: Europe's Longest Sandy Beach",
     "subtitle": "12 kilometres of dark mineral sand stretching from Ulcinj to the Bojana River — kitesurfing, warm shallows, and beach bars from end to end.",
@@ -774,7 +777,6 @@
     "glanceBest": "Best Months",
     "glanceBestVal": "Jun–Sep"
   },
-
   "blogAdabojana": {
     "title": "Ada Bojana: Driving to Montenegro's River-Mouth Island",
     "subtitle": "A triangular island where the Bojana River meets the Adriatic — sandy beaches, river-fish restaurants, and some of Europe's best kitesurfing.",
@@ -814,7 +816,6 @@
     "glanceWind": "Wind Season",
     "glanceWindVal": "Jun–Aug strongest"
   },
-
   "blogAlbania": {
     "title": "Crossing into Albania from Ulcinj: What to Know",
     "subtitle": "The Sukobin border crossing is 20 minutes south of Ulcinj. Green Card paperwork, what to expect at the checkpoint, and a day-trip route to Shkodra and back.",
@@ -855,7 +856,6 @@
     "glanceBest": "Best Day",
     "glanceBestVal": "Weekday, morning start"
   },
-
   "blogOlive": {
     "title": "The Old Olive Tree and the Olive Groves of Ulcinj",
     "subtitle": "A 2,000-year-old tree, terraced groves that slope toward the Adriatic, and cold-pressed oil you can taste at the farm gate.",
@@ -893,7 +893,6 @@
     "glanceBest": "Best Season",
     "glanceBestVal": "Apr–May or Nov"
   },
-
   "blogValdanos": {
     "title": "Valdanos Bay: The Hidden Cove with 10,000 Olive Trees",
     "subtitle": "A sheltered inlet surrounded by ancient olive groves — no hotels, no development, just clear water and the sound of cicadas in summer.",
@@ -933,7 +932,6 @@
     "glanceBest": "Best Months",
     "glanceBestVal": "May–Oct"
   },
-
   "blogSeafood": {
     "title": "Ulcinj's Seafood Tradition: Where Fishermen Still Fish",
     "subtitle": "The morning catch lands at the port before dawn. Grilled whole fish, black risotto, and river eel — a guide to eating seafood in Montenegro's most southern town.",
@@ -976,7 +974,6 @@
     "glanceMarket": "Fish Market",
     "glanceMarketVal": "Opens 6:30am"
   },
-
   "blogSkadar": {
     "title": "Lake Skadar from the Southern Shore: Murici Beach",
     "subtitle": "Most visitors reach the lake from Virpazar. From Ulcinj, the southern shore at Murici is closer, quieter, and just as beautiful.",
@@ -1017,7 +1014,6 @@
     "glanceBest": "Best Months",
     "glanceBestVal": "Apr–Sep"
   },
-
   "blogSas": {
     "title": "The Ruins of Sas Fortress: Driving to Ulcinj's Lost City",
     "subtitle": "A medieval trading city that rivalled Dubrovnik, swallowed by marshland and forgotten. The walls still stand beside the Bojana River.",
@@ -1055,5 +1051,31 @@
     "glanceFeeVal": "Free (unmanaged site)",
     "glanceBest": "Best Time",
     "glanceBestVal": "Morning (cool, good light)"
+  },
+  "contentPage": {
+    "youMightAlsoLike": "You might also like",
+    "readyCta": "Ready to drive Ulcinj?",
+    "searchCars": "Search Cars"
+  },
+  "relatedGuides": {
+    "secretChurches": "Hidden Corners",
+    "vrmacRidge": "Scenic Drives",
+    "swimmingSpots": "Best Swimming Spots"
+  },
+  "navTop": {
+    "carRental": "Car Rental",
+    "destinations": "Destinations",
+    "travelGuides": "Travel Guides",
+    "bokaBayRentals": "Southern Coast"
+  },
+  "cookieBanner": {
+    "title": "Cookie Policy",
+    "text": "We use cookies to improve your experience. By continuing to use this site you agree to our",
+    "accept": "Accept",
+    "decline": "Decline"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "seoDesc": "Get in touch with Ulcinj Car Hire. Email, WhatsApp, and contact form."
   }
 }

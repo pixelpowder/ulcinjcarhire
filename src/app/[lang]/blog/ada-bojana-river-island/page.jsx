@@ -6,7 +6,7 @@ export async function generateMetadata({ params }) {
   return {
     title: t(lang, 'blogAdabojana.title') + ' | Ulcinj Car Hire',
     description: t(lang, 'blogAdabojana.description'),
-    alternates: buildAlternates('blog/ada-bojana-river-island'),
+    alternates: buildAlternates('blog/ada-bojana-river-island', lang),
   };
 }
 

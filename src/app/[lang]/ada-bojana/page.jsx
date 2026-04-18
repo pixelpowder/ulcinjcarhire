@@ -6,7 +6,7 @@ export async function generateMetadata({ params }) {
   return {
     title: t(lang, 'ada-bojana.title') + ' | Ulcinj Car Hire',
     description: t(lang, 'ada-bojana.seoDesc'),
-    alternates: buildAlternates('ada-bojana'),
+    alternates: buildAlternates('ada-bojana', lang),
   };
 }
 

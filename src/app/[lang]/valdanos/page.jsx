@@ -6,7 +6,7 @@ export async function generateMetadata({ params }) {
   return {
     title: t(lang, 'valdanos.title') + ' | Ulcinj Car Hire',
     description: t(lang, 'valdanos.seoDesc'),
-    alternates: buildAlternates('valdanos'),
+    alternates: buildAlternates('valdanos', lang),
   };
 }
 
