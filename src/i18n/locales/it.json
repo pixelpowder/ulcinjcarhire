@@ -3,7 +3,8 @@
     "book": "Prenota",
     "blog": "Blog",
     "destinations": "Destinazioni",
-    "about": "Chi Siamo"
+    "about": "Chi Siamo",
+    "contact": "Contatti"
   },
   "common": {
     "home": "Home",
@@ -27,7 +28,8 @@
     "pickupDate": "Data di ritiro",
     "pickupTime": "Ora",
     "dropoffDate": "Data di riconsegna",
-    "dropoffTime": "Ora"
+    "dropoffTime": "Ora",
+    "selectDates": "Seleziona le date"
   },
   "trust": {
     "noHiddenFees": "Nessun Costo Nascosto",
@@ -92,7 +94,9 @@
     "bookText": "Cerca disponibilità e prezzi in tempo reale in tutto il Montenegro.",
     "helpTitle": "Hai Bisogno di Aiuto?",
     "helpText": "Il nostro team è disponibile via WhatsApp, Viber o telefono.",
-    "popularDest": "Destinazioni Popolari"
+    "popularDest": "Destinazioni Popolari",
+    "tivatAirport": "Aeroporto di Tivat",
+    "dubrovnikAirport": "Aeroporto di Dubrovnik"
   },
   "book": {
     "title": "Trova la Tua Auto",
@@ -114,7 +118,10 @@
     "searchCars": "Cerca Auto",
     "privacyPolicy": "Informativa sulla Privacy",
     "terms": "Termini e Condizioni",
-    "cookiePolicy": "Politica sui Cookie"
+    "cookiePolicy": "Politica sui Cookie",
+    "testimonials": "Testimonianze",
+    "sitemap": "Mappa del sito",
+    "tivatAirport": "Aeroporto di Tivat"
   },
   "notFound": {
     "code": "404",
@@ -457,7 +464,10 @@
     "facilitiesText": "Il terminal dispone di otto gate per le partenze, due gate per gli arrivi, 5.500 metri quadrati di superficie e 25.000 metri quadrati di parcheggio. I servizi includono caffetterie, shopping duty-free e vari servizi.",
     "awardText": "Sebbene piccolo, l'Aeroporto di Podgorica è una struttura pluripremiata, avendo vinto il premio ACI Europe per il miglior aeroporto con meno di 1 milione di passeggeri.",
     "rentalTitle": "Ritirare l'Auto a Noleggio",
-    "rentalText": "Vi accogliamo nella sala arrivi e portiamo l'auto direttamente da voi. Nessuna coda, nessun autobus navetta verso parcheggi esterni. Pochi minuti dopo aver superato la dogana, sarete già in strada verso la vostra destinazione."
+    "rentalText": "Vi accogliamo nella sala arrivi e portiamo l'auto direttamente da voi. Nessuna coda, nessun autobus navetta verso parcheggi esterni. Pochi minuti dopo aver superato la dogana, sarete già in strada verso la vostra destinazione.",
+    "whyTitle": "Perché Podgorica per Ulcinj?",
+    "whyText": "Podgorica è l'aeroporto più vicino a Ulcinj e all'intera costa meridionale. Ritirare l'auto qui ti fa risparmiare almeno un'ora rispetto a Tivat. La strada verso sud è una strada a doppia carreggiata ben mantenuta per la maggior parte del percorso, passando per la città a prevalenza albanese di Tuzi prima che il paesaggio si apra e la fortezza di Ulcinj appaia sulla punta.",
+    "meetText": "Ti incontriamo nella sala arrivi con il tuo nome su un cartello. L'auto è parcheggiata proprio fuori. Tempo totale dall'atterraggio alla partenza: circa 10 minuti."
   },
   "dubrovnikAirportBody": {
     "h1": "Noleggio Auto all'Aeroporto di Dubrovnik (DBV)",
@@ -1065,5 +1075,31 @@
     "borderText": "Il checkpoint Sukobin/Muriqan è piccolo e di solito veloce. Tenete pronti passaporto, contratto di noleggio e Carta Verde. Tempi di attesa in genere sotto i 20 minuti. Portate lek o prelevate ai bancomat di Scutari.",
     "gettingThereTitle": "Come arrivare",
     "gettingThereText": "Da Ulcinj guidate verso sud attraverso Krute fino al confine albanese a Sukobin. Dopo il checkpoint, seguite la strada principale per Scutari — tempo totale 30–40 minuti. Prevedete una giornata intera per una visita comoda."
+  },
+  "contentPage": {
+    "youMightAlsoLike": "Potrebbe piacerti anche",
+    "readyCta": "Pronto a esplorare Ulcinj?",
+    "searchCars": "Cerca auto"
+  },
+  "relatedGuides": {
+    "secretChurches": "Angoli nascosti",
+    "vrmacRidge": "Percorsi panoramici",
+    "swimmingSpots": "Le migliori spiagge"
+  },
+  "navTop": {
+    "carRental": "Noleggio auto",
+    "destinations": "Destinazioni",
+    "travelGuides": "Guide di viaggio",
+    "bokaBayRentals": "Costa meridionale"
+  },
+  "cookieBanner": {
+    "title": "Politica sui cookie",
+    "text": "Utilizziamo i cookie per migliorare la tua esperienza. Continuando a utilizzare questo sito accetti la nostra",
+    "accept": "Accetta",
+    "decline": "Rifiuta"
+  },
+  "contact": {
+    "title": "Contattaci",
+    "seoDesc": "Entra in contatto con Ulcinj Car Hire. Email, WhatsApp e modulo di contatto."
   }
 }

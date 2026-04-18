@@ -1,0 +1,52 @@
+{
+  "enKeyCount": 875,
+  "missing": {
+    "de": [],
+    "fr": [],
+    "it": [],
+    "ru": [],
+    "me": []
+  },
+  "englishCopied": {
+    "de": [
+      "featureCards.support.title",
+      "destCards.velika-plaza.name",
+      "destCards.ada-bojana.name",
+      "destCards.stari-grad.name",
+      "tivatBody.portoTitle",
+      "podgoricaBody.danilovgradTitle",
+      "blogVelikaplaza.adaLink",
+      "blogAlbania.adaLink"
+    ],
+    "fr": [
+      "nav.destinations",
+      "footer.destinations",
+      "destCards.velika-plaza.name",
+      "destCards.ada-bojana.name",
+      "destCards.stari-grad.name",
+      "tivatBody.portoTitle",
+      "podgoricaBody.danilovgradTitle",
+      "blogVelikaplaza.adaLink",
+      "blogAlbania.adaLink",
+      "navTop.destinations"
+    ],
+    "it": [
+      "destCards.velika-plaza.name",
+      "destCards.ada-bojana.name",
+      "destCards.stari-grad.name",
+      "tivatBody.portoTitle",
+      "podgoricaBody.danilovgradTitle",
+      "blogVelikaplaza.adaLink",
+      "blogAlbania.adaLink",
+      "blogSkadar.tipBirdsLabel"
+    ],
+    "ru": [
+      "tivatBody.portoTitle"
+    ],
+    "me": [
+      "destCards.ada-bojana.name",
+      "destCards.stari-grad.name",
+      "podgoricaBody.danilovgradTitle"
+    ]
+  }
+}

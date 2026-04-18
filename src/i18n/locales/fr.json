@@ -3,7 +3,8 @@
     "book": "Réserver",
     "blog": "Blog",
     "destinations": "Destinations",
-    "about": "À Propos"
+    "about": "À Propos",
+    "contact": "Contact"
   },
   "common": {
     "home": "Accueil",
@@ -27,7 +28,8 @@
     "pickupDate": "Date de prise en charge",
     "pickupTime": "Heure",
     "dropoffDate": "Date de restitution",
-    "dropoffTime": "Heure"
+    "dropoffTime": "Heure",
+    "selectDates": "Sélectionnez les dates"
   },
   "trust": {
     "noHiddenFees": "Aucun Frais Caché",
@@ -92,7 +94,9 @@
     "bookText": "Recherchez la disponibilité et les prix en temps réel à travers le Monténégro.",
     "helpTitle": "Besoin d'Aide ?",
     "helpText": "Notre équipe est disponible via WhatsApp, Viber ou téléphone.",
-    "popularDest": "Destinations Populaires"
+    "popularDest": "Destinations Populaires",
+    "tivatAirport": "Aéroport de Tivat",
+    "dubrovnikAirport": "Aéroport de Dubrovnik"
   },
   "book": {
     "title": "Trouvez Votre Voiture",
@@ -114,7 +118,10 @@
     "searchCars": "Rechercher",
     "privacyPolicy": "Politique de Confidentialité",
     "terms": "Conditions Générales",
-    "cookiePolicy": "Politique de Cookies"
+    "cookiePolicy": "Politique de Cookies",
+    "testimonials": "Témoignages",
+    "sitemap": "Plan du site",
+    "tivatAirport": "Aéroport de Tivat"
   },
   "notFound": {
     "code": "404",
@@ -457,7 +464,10 @@
     "facilitiesText": "Le terminal dispose de huit portes d'embarquement, deux portes d'arrivée, 5 500 mètres carrés de surface au sol et 25 000 mètres carrés de parking. Les commodités comprennent des cafés, un magasin hors taxes et divers services.",
     "awardText": "Bien que de petite taille, l'aéroport de Podgorica est une installation primée, ayant remporté le prix ACI Europe du meilleur aéroport de moins d'un million de passagers.",
     "rentalTitle": "Récupérer votre voiture de location",
-    "rentalText": "Nous vous accueillons dans le hall des arrivées et amenons la voiture jusqu'à vous. Pas de files d'attente, pas de navettes vers des parkings extérieurs. Quelques minutes après avoir passé la douane, vous serez sur la route en direction de votre destination."
+    "rentalText": "Nous vous accueillons dans le hall des arrivées et amenons la voiture jusqu'à vous. Pas de files d'attente, pas de navettes vers des parkings extérieurs. Quelques minutes après avoir passé la douane, vous serez sur la route en direction de votre destination.",
+    "whyTitle": "Pourquoi Podgorica pour Ulcinj?",
+    "whyText": "Podgorica est l'aéroport le plus proche d'Ulcinj et de toute la côte sud. Un retrait ici vous fait gagner au moins une heure par rapport à Tivat. La route vers le sud est une autoroute bien entretenue pendant la majeure partie du trajet, traversant la ville à majorité albanaise de Tuzi avant que le paysage s'ouvre et que la forteresse d'Ulcinj apparaisse sur le promontoire.",
+    "meetText": "Nous vous accueillons au hall des arrivées avec votre nom sur un panneau. Votre voiture est garée juste dehors. Temps total de l'atterrissage à la conduite: environ 10 minutes."
   },
   "dubrovnikAirportBody": {
     "h1": "Louer une voiture à l'aéroport de Dubrovnik (DBV)",
@@ -1065,5 +1075,31 @@
     "borderText": "Le checkpoint Sukobin/Muriqan est petit et généralement rapide. Ayez votre passeport, contrat de location et Carte Verte prêts. Temps d'attente généralement moins de 20 minutes. Apportez des leks ou retirez aux distributeurs de Shkodra.",
     "gettingThereTitle": "Comment s'y rendre",
     "gettingThereText": "Depuis Ulcinj, prenez la route vers le sud à travers Krute jusqu'à la frontière albanaise à Sukobin. Après le checkpoint, suivez la route principale vers Shkodra — temps total 30–40 minutes. Prévoyez une journée entière pour une visite confortable."
+  },
+  "contentPage": {
+    "youMightAlsoLike": "Vous aimerez peut-être aussi",
+    "readyCta": "Prêt à explorer Ulcinj en voiture?",
+    "searchCars": "Chercher des voitures"
+  },
+  "relatedGuides": {
+    "secretChurches": "Coins cachés",
+    "vrmacRidge": "Routes pittoresques",
+    "swimmingSpots": "Meilleurs lieux de baignade"
+  },
+  "navTop": {
+    "carRental": "Location de voitures",
+    "destinations": "Destinations",
+    "travelGuides": "Guides de voyage",
+    "bokaBayRentals": "Côte sud"
+  },
+  "cookieBanner": {
+    "title": "Politique relative aux cookies",
+    "text": "Nous utilisons des cookies pour améliorer votre expérience. En continuant à utiliser ce site, vous acceptez notre",
+    "accept": "Accepter",
+    "decline": "Refuser"
+  },
+  "contact": {
+    "title": "Nous contacter",
+    "seoDesc": "Contactez la location de voitures Ulcinj. Email, WhatsApp et formulaire de contact."
   }
 }

@@ -3,7 +3,8 @@
     "book": "Rezerviši",
     "blog": "Blog",
     "destinations": "Destinacije",
-    "about": "O Nama"
+    "about": "O Nama",
+    "contact": "Kontakt"
   },
   "common": {
     "home": "Početna",
@@ -27,7 +28,8 @@
     "pickupDate": "Datum preuzimanja",
     "pickupTime": "Vrijeme",
     "dropoffDate": "Datum vraćanja",
-    "dropoffTime": "Vrijeme"
+    "dropoffTime": "Vrijeme",
+    "selectDates": "Odaberite datume"
   },
   "trust": {
     "noHiddenFees": "Bez Skrivenih Troškova",
@@ -92,7 +94,9 @@
     "bookText": "Pretražite dostupnost i cijene u realnom vremenu širom Crne Gore.",
     "helpTitle": "Trebate Pomoć?",
     "helpText": "Naš tim je dostupan putem WhatsApp, Viber ili telefona.",
-    "popularDest": "Popularne Destinacije"
+    "popularDest": "Popularne Destinacije",
+    "tivatAirport": "Aerodrom Tivat",
+    "dubrovnikAirport": "Aerodrom Dubrovnik"
   },
   "book": {
     "title": "Pronađite Vaš Auto",
@@ -114,7 +118,10 @@
     "searchCars": "Pretraži Auta",
     "privacyPolicy": "Politika Privatnosti",
     "terms": "Uslovi Korišćenja",
-    "cookiePolicy": "Politika Kolačića"
+    "cookiePolicy": "Politika Kolačića",
+    "testimonials": "Iskustva gostiju",
+    "sitemap": "Mapa sajta",
+    "tivatAirport": "Aerodrom Tivat"
   },
   "notFound": {
     "code": "404",
@@ -457,7 +464,10 @@
     "facilitiesText": "Terminal ima osam izlaza za odlaske, dva izlaza za dolaske, 5.500 kvadratnih metara površine i 25.000 kvadratnih metara parkinga. Sadržaji uključuju kafiće, bescarinsku kupovinu i razne usluge.",
     "awardText": "Iako mali, aerodrom Podgorica je nagrađivani objekat, koji je osvojio nagradu ACI Europe za najbolji aerodrom sa manje od milion putnika.",
     "rentalTitle": "Preuzimanje Vašeg Iznajmljenog Automobila",
-    "rentalText": "Dočekujemo vas u hali za dolaske i dovodimo automobil do vas. Bez redova, bez shuttle autobusa do udaljenih parkirališta. U roku od nekoliko minuta nakon prolaska carinske kontrole, bićete na putu prema vašoj destinaciji."
+    "rentalText": "Dočekujemo vas u hali za dolaske i dovodimo automobil do vas. Bez redova, bez shuttle autobusa do udaljenih parkirališta. U roku od nekoliko minuta nakon prolaska carinske kontrole, bićete na putu prema vašoj destinaciji.",
+    "whyTitle": "Zašto Podgorica za Ulcinj?",
+    "whyText": "Podgorica je najbliži aerodrom Ulcinju i cijeloj južnoj obali. Preuzimanje automobila ovdje štedi najmanje sat vremena u odnosu na Tivat. Put na jug je kvalitetna dvosmjerna magistrala većim dijelom putanje, prolazi kroz mjestu Tuzi s albanskom većinom prije nego što se pejzaž otvori i Ulcinjska tvrđava se pojavi na rtu.",
+    "meetText": "Očekujemo vas u holu dolazaka s vašim imenom na znaku. Vaš automobil je parkiran odmah vani. Ukupno vrijeme od slijetanja do vožnje: oko 10 minuta."
   },
   "dubrovnikAirportBody": {
     "h1": "Iznajmljivanje Automobila na Aerodromu Dubrovnik (DBV)",
@@ -1065,5 +1075,31 @@
     "borderText": "Granični prelaz Sukobin/Muriqan je mali i obično brz. Imajte spremne pasoš, ugovor o najmu i Zelenu kartu. Vrijeme čekanja obično manje od 20 minuta. Ponesite leke ili podignite na bankomatima u Skadru.",
     "gettingThereTitle": "Kako stići",
     "gettingThereText": "Iz Ulcinja vozite na jug kroz Krute do albanske granice na Sukobinu. Nakon prelaza pratite glavni put do Skadra — ukupno vrijeme vožnje 30–40 minuta. Planirajte cijeli dan za udoban obilazak."
+  },
+  "contentPage": {
+    "youMightAlsoLike": "Možda će vas zanimati",
+    "readyCta": "Spremni da vozite Ulcinj?",
+    "searchCars": "Pretražite automobile"
+  },
+  "relatedGuides": {
+    "secretChurches": "Skriveni kutci",
+    "vrmacRidge": "Panoramske rute",
+    "swimmingSpots": "Najbolja mjesta za kupanje"
+  },
+  "navTop": {
+    "carRental": "Iznajmljivanje automobila",
+    "destinations": "Odredišta",
+    "travelGuides": "Putni vodiči",
+    "bokaBayRentals": "Južna obala"
+  },
+  "cookieBanner": {
+    "title": "Politika kolačića",
+    "text": "Koristimo kolačiće da poboljšamo vaše iskustvo. Nastavljajući upotrebu ovog sajta, slažete se s našom",
+    "accept": "Prihvati",
+    "decline": "Odbij"
+  },
+  "contact": {
+    "title": "Kontaktirajte nas",
+    "seoDesc": "Stupite u kontakt sa Ulcinj Car Hire. Email, WhatsApp i obrazac za kontakt."
   }
 }
