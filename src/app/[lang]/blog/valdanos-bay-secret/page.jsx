@@ -14,8 +14,8 @@ export default function LangValdanosBaySecretRoute() {
   const articleSchema = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": t('en', 'blogValdanos.title'),
-    "description": t('en', 'blogValdanos.description'),
+    "headline": t(lang, 'blogValdanos.title'),
+    "description": t(lang, 'blogValdanos.description'),
     "image": "https://www.ulcinjcarhire.com/img/blog-valdanos-bay-secret.webp",
     "datePublished": "2026-04-08",
     "dateModified": "2026-04-08",

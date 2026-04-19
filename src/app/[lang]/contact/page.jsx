@@ -4,8 +4,8 @@ import { t, buildAlternates } from '@/src/app/metadata';
 export async function generateMetadata({ params }) {
   const { lang } = await params;
   return {
-    title: 'Contact Us | Ulcinj Car Hire',
-    description: 'Get in touch with Ulcinj Car Hire.',
+    title: t(lang, 'contact.title') + ' | Ulcinj Car Hire',
+    description: t(lang, 'contact.seoDesc'),
     alternates: buildAlternates('contact', lang),
   };
 }

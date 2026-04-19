@@ -14,8 +14,8 @@ export default function LangUlcinjToAlbaniaBorderRoute() {
   const articleSchema = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": t('en', 'blogAlbania.title'),
-    "description": t('en', 'blogAlbania.description'),
+    "headline": t(lang, 'blogAlbania.title'),
+    "description": t(lang, 'blogAlbania.description'),
     "image": "https://www.ulcinjcarhire.com/img/blog-ulcinj-to-albania-border.webp",
     "datePublished": "2026-04-08",
     "dateModified": "2026-04-08",

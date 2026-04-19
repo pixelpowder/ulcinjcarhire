@@ -14,8 +14,8 @@ export default function LangSasFortressRuinsRoute() {
   const articleSchema = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": t('en', 'blogSas.title'),
-    "description": t('en', 'blogSas.description'),
+    "headline": t(lang, 'blogSas.title'),
+    "description": t(lang, 'blogSas.description'),
     "image": "https://www.ulcinjcarhire.com/img/blog-sas-fortress-ruins.webp",
     "datePublished": "2026-04-08",
     "dateModified": "2026-04-08",

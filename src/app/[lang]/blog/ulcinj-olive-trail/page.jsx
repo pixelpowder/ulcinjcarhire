@@ -14,8 +14,8 @@ export default function LangUlcinjOliveTrailRoute() {
   const articleSchema = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": t('en', 'blogOlive.title'),
-    "description": t('en', 'blogOlive.description'),
+    "headline": t(lang, 'blogOlive.title'),
+    "description": t(lang, 'blogOlive.description'),
     "image": "https://www.ulcinjcarhire.com/img/blog-ulcinj-olive-trail.webp",
     "datePublished": "2026-04-08",
     "dateModified": "2026-04-08",

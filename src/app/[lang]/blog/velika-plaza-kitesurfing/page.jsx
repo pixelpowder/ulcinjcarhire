@@ -14,8 +14,8 @@ export default function LangVelikaPlazaKitesurfingRoute() {
   const articleSchema = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": t('en', 'blogVelikaplaza.title'),
-    "description": t('en', 'blogVelikaplaza.description'),
+    "headline": t(lang, 'blogVelikaplaza.title'),
+    "description": t(lang, 'blogVelikaplaza.description'),
     "image": "https://www.ulcinjcarhire.com/img/blog-velika-plaza-kitesurfing.webp",
     "datePublished": "2026-04-08",
     "dateModified": "2026-04-08",

@@ -14,8 +14,8 @@ export default function LangAdaBojanaRiverIslandRoute() {
   const articleSchema = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": t('en', 'blogAdabojana.title'),
-    "description": t('en', 'blogAdabojana.description'),
+    "headline": t(lang, 'blogAdabojana.title'),
+    "description": t(lang, 'blogAdabojana.description'),
     "image": "https://www.ulcinjcarhire.com/img/blog-ada-bojana-river-island.webp",
     "datePublished": "2026-04-08",
     "dateModified": "2026-04-08",

@@ -14,8 +14,8 @@ export default function LangUlcinjToLakeSkadarSouthRoute() {
   const articleSchema = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": t('en', 'blogSkadar.title'),
-    "description": t('en', 'blogSkadar.description'),
+    "headline": t(lang, 'blogSkadar.title'),
+    "description": t(lang, 'blogSkadar.description'),
     "image": "https://www.ulcinjcarhire.com/img/blog-ulcinj-to-lake-skadar-south.webp",
     "datePublished": "2026-04-08",
     "dateModified": "2026-04-08",
