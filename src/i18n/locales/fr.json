@@ -101,10 +101,10 @@
   "book": {
     "title": "Trouvez Votre Voiture",
     "seoTitle": "Réserver une Voiture",
-    "seoDesc": "Recherchez et réservez des voitures de location au Monténégro. Disponibilité en temps réel, confirmation instantanée, annulation gratuite."
+    "seoDesc": "Locations à Ulcinj avec permis de frontière albanaise et flotte adaptée aux plages inclus. Aucun bus ne dessert Velika Plaža, donc une voiture de location est la seule option pratique."
   },
   "footer": {
-    "brandDesc": "Location de voitures premium au Monténégro depuis 2007. Prise en charge à l'aéroport, assurance tous risques et aucun frais caché.",
+    "brandDesc": "Bureau de location à la frontière sud du Monténégro. Accès à Ada Bojana, formalités douanières albanaises, pistes entre oliviers et virées sur plages de sable volcanique intégrées à chaque véhicule.",
     "quickLinks": "Liens Rapides",
     "guides": "Guides",
     "locations": "Nos Agences",
@@ -131,12 +131,12 @@
     "searchCars": "Rechercher"
   },
   "home": {
-    "seoDesc": "Louez une voiture au Monténégro à partir de 13 €/jour. Prise en charge à l'aéroport de Tivat, Podgorica, Kotor, Budva et plus de 28 points. Annulation gratuite, assurance complète, sans frais cachés. Réservez en ligne en quelques minutes."
+    "seoDesc": "Location de voiture à Ulcinj à partir de 13 €/jour. Velika Plaža 13 km de sable, Ada Bojana île fluviale, frontière albanaise 5 km au sud, aéroport de Tivat 120 km, aéroport de Podgorica 85 km."
   },
   "about": {
     "title": "À Propos",
     "subtitle": "Nous aidons les voyageurs à explorer le Monténégro depuis 2007.",
-    "seoDesc": "À propos de Ulcinj Car Hire. Nous aidons les voyageurs à explorer le Monténégro depuis 2007 avec des voitures fiables, la livraison à l'aéroport et une expertise locale."
+    "seoDesc": "Spécialistes de la location à Ulcinj pour le sud monténégrin. Papiers de frontière albanaise réglés, flotte adaptée aux plages pour Velika Plaža et tarifs honnêtes pour le long trajet vers le sud."
   },
   "kotor": {
     "title": "Location de Voiture à Kotor",
@@ -1100,7 +1100,7 @@
   },
   "contact": {
     "title": "Nous contacter",
-    "seoDesc": "Contactez la location de voitures Ulcinj. Email, WhatsApp et formulaire de contact.",
+    "seoDesc": "Questions sur la location à Ulcinj ? Accès à Ada Bojana, permis de frontière albanaise, conseils de stationnement à Velika Plaža. WhatsApp, email ou formulaire, réponses en deux heures en semaine.",
     "heading": "Nous contacter",
     "intro": "Une question sur la location de voiture à Ulcinj ? Contactez-nous, nous vous aiderons à trouver le véhicule idéal pour votre séjour."
   }

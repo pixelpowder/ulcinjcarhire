@@ -101,10 +101,10 @@
   "book": {
     "title": "Find Your Car",
     "seoTitle": "Book — Southern Coast Explorer",
-    "seoDesc": "Vehicles matched to Ulcinj's raw south. Albanian border documents sorted, beach-capable cars, instant confirmation. No bus reaches Velika Plaza — a car is the only option."
+    "seoDesc": "Ulcinj rentals with Albanian border permits and beach capable fleet included. No bus reaches Velika Plaža, so a rental car is the only practical way in."
   },
   "footer": {
-    "brandDesc": "Car hire for Montenegro's wildest stretch of coast. Pirate towers, volcanic sand, Albanian border runs, and olive groves older than Rome.",
+    "brandDesc": "Montenegro's southern frontier rental desk. Ada Bojana access, Albanian border paperwork, olive grove tracks, and volcanic sand beach runs built into every fleet.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "locations": "Locations",
@@ -131,12 +131,12 @@
     "searchCars": "Search Cars"
   },
   "home": {
-    "seoDesc": "Montenegro's southernmost town has no railway, scarce buses, and roads that run out of signs. A car from €13/day unlocks 12 km of grey volcanic beach, a pirate fortress, and Albania in 30 min."
+    "seoDesc": "Ulcinj car hire from €13 per day. Velika Plaža 13 km of sand, Ada Bojana river island, Albanian border 5 km south, Tivat Airport 120 km, Podgorica Airport 85 km."
   },
   "about": {
     "title": "About Us",
     "subtitle": "Helping adventurers rent cars in Ulcinj, Montenegro's forgotten south.",
-    "seoDesc": "An independent affiliate connecting Ulcinj visitors to reliable rental cars. We work with trusted local car hire partners so you can reach the pirate fortress, the grey sand, the Albanian border, and the 2,000-year-old olive groves."
+    "seoDesc": "Ulcinj rental specialists for the Montenegrin south. Albania border paperwork sorted, beach capable fleet for Velika Plaža, and honest rates for the long drive down."
   },
   "velika-plaza": {
     "title": "Car Hire for Velika Plaza",
@@ -1076,7 +1076,7 @@
   },
   "contact": {
     "title": "Contact Us",
-    "seoDesc": "Get in touch with Ulcinj Car Hire. Email, WhatsApp, and contact form.",
+    "seoDesc": "Questions about hiring in Ulcinj? Ada Bojana access, Albania border permits, Velika Plaža parking advice. WhatsApp, email, or form, two hour weekday replies.",
     "heading": "Contact Us",
     "intro": "Have a question about renting a car in Ulcinj? Get in touch and we'll help you find the perfect vehicle for your trip."
   }
