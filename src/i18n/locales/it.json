@@ -59,7 +59,7 @@
   "fleet": {
     "label": "La Nostra Flotta",
     "title": "Scegli la Tua Auto",
-    "subtitle": "Consulta disponibilità e prezzi in tempo reale — prenota direttamente."
+    "subtitle": "Consulta disponibilità e prezzi in tempo reale, prenota direttamente."
   },
   "brands": {
     "label": "Marchi affidabili nella nostra flotta"
@@ -67,7 +67,7 @@
   "destinations": {
     "label": "Destinazioni Principali",
     "title": "Esplora il Montenegro",
-    "subtitle": "Dalle Bocche di Kotor al confine albanese — ogni destinazione è un mondo diverso."
+    "subtitle": "Dalle Bocche di Kotor al confine albanese, ogni destinazione è un mondo diverso."
   },
   "features": {
     "label": "Perché Sceglierci",
@@ -101,7 +101,7 @@
   "book": {
     "title": "Trova la Tua Auto",
     "seoTitle": "Prenota un'Auto",
-    "seoDesc": "Noleggi a Ulcinj con permessi per il confine albanese e flotta adatta alle spiagge inclusi. Nessun autobus raggiunge Velika Plaža, quindi un'auto a noleggio è l'unico modo pratico per arrivarci."
+    "seoDesc": "Noleggi a Ulcinj con permessi per il confine albanese e flotta adatta alle spiagge inclusi. Nessun autobus raggiunge Velika Plaža, quindi un'auto a"
   },
   "footer": {
     "brandDesc": "Banco noleggi alla frontiera meridionale del Montenegro. Accesso ad Ada Bojana, documentazione per il confine albanese, piste tra gli ulivi e corse su spiagge di sabbia vulcanica, tutto incluso nella flotta.",
@@ -126,52 +126,52 @@
   "notFound": {
     "code": "404",
     "title": "Strada Sbagliata",
-    "text": "Sembra che tu abbia preso una deviazione. Questa strada non porta da nessuna parte — ma le migliori rotte del Montenegro sono a un solo clic.",
+    "text": "Sembra che tu abbia preso una deviazione. Questa strada non porta da nessuna parte, ma le migliori rotte del Montenegro sono a un solo clic.",
     "backHome": "Torna alla Home",
     "searchCars": "Cerca Auto"
   },
   "home": {
-    "seoDesc": "Noleggio auto a Ulcinj da €13 al giorno. Velika Plaža 13 km di sabbia, Ada Bojana isola fluviale, confine albanese 5 km a sud, Aeroporto di Tivat 120 km, Aeroporto di Podgorica 85 km."
+    "seoDesc": "Noleggio auto a Ulcinj da €13 al giorno. Velika Plaža 13 km di sabbia, Ada Bojana isola fluviale, confine albanese 5 km a sud, Aeroporto di Tivat 120 km"
   },
   "about": {
     "title": "Chi Siamo",
     "subtitle": "Aiutiamo i viaggiatori a esplorare il Montenegro dal 2007.",
-    "seoDesc": "Specialisti nel noleggio a Ulcinj per il sud montenegrino. Pratiche per il confine con l'Albania risolte, flotta adatta alle spiagge per Velika Plaža e tariffe corrette per il lungo viaggio verso sud."
+    "seoDesc": "Specialisti nel noleggio a Ulcinj per il sud montenegrino. Pratiche per il confine con l'Albania risolte, flotta adatta alle spiagge per Velika Plaža e"
   },
   "kotor": {
     "title": "Noleggio Auto a Kotor",
     "subtitle": "Esplora il gioiello UNESCO del Montenegro al tuo ritmo.",
-    "seoDesc": "Noleggia un'auto a Kotor, Montenegro. Esplora il centro storico UNESCO, le Bocche di Kotor e la vicina Perast con noleggio conveniente e consegna gratuita in aeroporto."
+    "seoDesc": "Noleggia un'auto a Kotor, Montenegro. Esplora il centro storico UNESCO, le Bocche di Kotor e la vicina Perast con noleggio conveniente e consegna gratuita"
   },
   "tivat-airport": {
     "title": "Noleggio Auto Aeroporto Tivat",
     "subtitle": "Ritira la tua auto a noleggio agli arrivi.",
-    "seoDesc": "Ritira la tua auto a noleggio all'aeroporto di Tivat (TIV). Ti aspettiamo agli arrivi con il veicolo pronto. Raggiungi Kotor, Budva o Porto Montenegro in pochi minuti."
+    "seoDesc": "Ritira la tua auto a noleggio all'aeroporto di Tivat (TIV). Ti aspettiamo agli arrivi con il veicolo pronto. Raggiungi Kotor, Budva o Porto Montenegro in"
   },
   "budva": {
     "title": "Noleggio Auto a Budva",
-    "subtitle": "La riviera del Montenegro — spiagge, vita notturna e fascino della città vecchia.",
-    "seoDesc": "Noleggia un'auto a Budva, Montenegro. Raggiungi la spiaggia di Mogren, Sveti Stefan e la migliore vita notturna della riviera. Assicurazione completa, nessun costo nascosto."
+    "subtitle": "La riviera del Montenegro, spiagge, vita notturna e fascino della città vecchia.",
+    "seoDesc": "Noleggia un'auto a Budva, Montenegro. Raggiungi la spiaggia di Mogren, Sveti Stefan e la migliore vita notturna della riviera. Assicurazione completa"
   },
   "perast": {
     "title": "Noleggio Auto a Perast",
     "subtitle": "Un gioiello barocco sulle Bocche di Kotor.",
-    "seoDesc": "Noleggia un'auto e visita Perast, un gioiello barocco sulle Bocche di Kotor. Ammira l'isola della Madonna dello Scalpello e splendidi palazzi sul lungomare al tuo ritmo."
+    "seoDesc": "Noleggia un'auto e visita Perast, un gioiello barocco sulle Bocche di Kotor. Ammira l'isola della Madonna dello Scalpello e splendidi palazzi sul"
   },
   "podgorica": {
     "title": "Noleggio Auto a Podgorica",
-    "subtitle": "La capitale del Montenegro — cultura, fiumi e fascino moderno.",
-    "seoDesc": "Noleggio auto a Podgorica, capitale del Montenegro. Esplora il Lago di Scutari, il Monastero di Ostrog e Durmitor con un'auto a noleggio. Ritiro in aeroporto disponibile."
+    "subtitle": "La capitale del Montenegro, cultura, fiumi e fascino moderno.",
+    "seoDesc": "Noleggio auto a Podgorica, capitale del Montenegro. Esplora il Lago di Scutari, il Monastero di Ostrog e Durmitor con un'auto a noleggio. Ritiro in"
   },
   "podgorica-airport": {
     "title": "Noleggio Auto Aeroporto Podgorica",
     "subtitle": "Il principale gateway internazionale del Montenegro.",
-    "seoDesc": "Ritira la tua auto a noleggio all'aeroporto di Podgorica (TGD). Consegniamo il veicolo agli arrivi. Raggiungi la costa, il Lago di Scutari o il Parco Nazionale Durmitor."
+    "seoDesc": "Ritira la tua auto a noleggio all'aeroporto di Podgorica (TGD). Consegniamo il veicolo agli arrivi. Raggiungi la costa, il Lago di Scutari o il Parco"
   },
   "dubrovnik-airport": {
     "title": "Noleggio Auto Aeroporto Dubrovnik",
     "subtitle": "Vola in Croazia, guida verso il Montenegro.",
-    "seoDesc": "Noleggia un'auto all'aeroporto di Dubrovnik e guida verso il Montenegro. Attraversa il confine in meno di un'ora. Assicurazione completa e carta verde incluse."
+    "seoDesc": "Noleggia un'auto all'aeroporto di Dubrovnik e guida verso il Montenegro. Attraversa il confine in meno di un'ora. Assicurazione completa e carta verde"
   },
   "tivat": {
     "title": "Noleggio Auto a Tivat",
@@ -181,12 +181,12 @@
   "montenegro": {
     "title": "Noleggio Auto e Guida Viaggio Montenegro",
     "subtitle": "Tutto ciò che devi sapere sulla guida in Montenegro.",
-    "seoDesc": "Guida completa alla guida in Montenegro. Regole stradali, limiti di velocità, prezzi del carburante e i migliori percorsi panoramici dalla costa alle montagne."
+    "seoDesc": "Guida completa alla guida in Montenegro. Regole stradali, limiti di velocità, prezzi del carburante e i migliori percorsi panoramici dalla costa alle"
   },
   "border-crossing": {
     "title": "Guida Attraversamento Frontiere Balcani",
     "subtitle": "Tutto sul passaggio delle frontiere con la tua auto a noleggio.",
-    "seoDesc": "Guida all'attraversamento delle frontiere dal Montenegro con auto a noleggio. Assicurazione carta verde, documenti necessari e consigli per Croazia, Bosnia, Albania e Serbia."
+    "seoDesc": "Guida all'attraversamento delle frontiere dal Montenegro con auto a noleggio. Assicurazione carta verde, documenti necessari e consigli per Croazia"
   },
   "privacy": {
     "title": "Informativa sulla Privacy",
@@ -206,7 +206,7 @@
   "featureCards": {
     "airportPickup": {
       "title": "Accesso alle spiagge",
-      "desc": "Velika Plaza, Ada Bojana, Valdanos — ogni spiaggia un mondo diverso, e nessuna raggiungibile con i mezzi pubblici."
+      "desc": "Velika Plaza, Ada Bojana, Valdanos, ogni spiaggia un mondo diverso, e nessuna raggiungibile con i mezzi pubblici."
     },
     "fullInsurance": {
       "title": "Assicurazione completa",
@@ -218,26 +218,26 @@
     },
     "noHiddenFees": {
       "title": "Nessun costo nascosto",
-      "desc": "Tutto incluso nel prezzo — compreso il lungo trasferimento dall'aeroporto di Podgorica (2 h) o Tivat (2 h e 30). Il prezzo che vedi è quello che paghi."
+      "desc": "Tutto incluso nel prezzo, compreso il lungo trasferimento dall'aeroporto di Podgorica (2 h) o Tivat (2 h e 30). Il prezzo che vedi è quello che paghi."
     },
     "freeCancellation": {
       "title": "Cancellazione gratuita",
-      "desc": "Le condizioni del vento cambiano e i piani per il kitesurf pure. Cancellazione gratuita fino a 24 ore prima del ritiro — coperti anche i cambiamenti stagionali."
+      "desc": "Le condizioni del vento cambiano e i piani per il kitesurf pure. Cancellazione gratuita fino a 24 ore prima del ritiro, coperti anche i cambiamenti stagionali."
     },
     "crossBorder": {
       "title": "Viaggi oltre confine",
-      "desc": "L'Albania è a 20 minuti — il valico di Muriqan/Sukobin è il punto d'ingresso più vicino dal Montenegro. Scutari in 45 min, Tirana in 3 ore. Consentiti anche Croazia, Kosovo e Bosnia."
+      "desc": "L'Albania è a 20 minuti, il valico di Muriqan/Sukobin è il punto d'ingresso più vicino dal Montenegro. Scutari in 45 min, Tirana in 3 ore. Consentiti anche Croazia, Kosovo e Bosnia."
     }
   },
   "testimonials": {
     "0": {
-      "text": "Sono venuto per il vento di Ada Bojana — e non ha deluso. Tre giorni di kite con termiche quasi perfette. Con l'auto ho potuto esplorare la spiaggia da entrambi i lati e risalire la costa ogni sera per cenare a Ulcinj. Non avrei fatto altrimenti."
+      "text": "Sono venuto per il vento di Ada Bojana, e non ha deluso. Tre giorni di kite con termiche quasi perfette. Con l'auto ho potuto esplorare la spiaggia da entrambi i lati e risalire la costa ogni sera per cenare a Ulcinj. Non avrei fatto altrimenti."
     },
     "1": {
       "text": "La mattina giravamo tra le mura ottomane dello Stari Grad, la sera guidavamo fino a Velika Plaza per guardare il sole tuffarsi nell'Adriatico. La strada costiera al tramonto è ancora uno dei ricordi più vivi del viaggio. Senza l'auto, niente di tutto questo sarebbe stato possibile."
     },
     "2": {
-      "text": "Il secondo giorno ho varcato il confine albanese — 20 minuti fino al valico, altri 30 fino a Scutari. Un mondo completamente diverso. Ulcinj è già remota e tranquilla rispetto al resto della costa montenegrina, ma con le ruote puoi spingerti ancora più a sud."
+      "text": "Il secondo giorno ho varcato il confine albanese, 20 minuti fino al valico, altri 30 fino a Scutari. Un mondo completamente diverso. Ulcinj è già remota e tranquilla rispetto al resto della costa montenegrina, ma con le ruote puoi spingerti ancora più a sud."
     }
   },
   "faqItems": {
@@ -247,23 +247,23 @@
     },
     "1": {
       "q": "Posso guidare in Albania?",
-      "a": "Assolutamente — e Ulcinj è il miglior punto di partenza in Montenegro per farlo. Il valico di Muriqan/Sukobin è a soli 20 minuti a sud della città e di solito si transita rapidamente. Scutari è a 45 minuti, Tirana a circa 3 ore. Comunicacelo alla prenotazione e prepareremo la Carta Verde e i documenti per il confine. Sono consentiti anche viaggi in Croazia, Bosnia, Kosovo e Serbia."
+      "a": "Assolutamente, e Ulcinj è il miglior punto di partenza in Montenegro per farlo. Il valico di Muriqan/Sukobin è a soli 20 minuti a sud della città e di solito si transita rapidamente. Scutari è a 45 minuti, Tirana a circa 3 ore. Comunicacelo alla prenotazione e prepareremo la Carta Verde e i documenti per il confine. Sono consentiti anche viaggi in Croazia, Bosnia, Kosovo e Serbia."
     },
     "2": {
       "q": "C'è un'età minima?",
-      "a": "L'età minima è 21 anni. I conducenti devono essere in possesso di patente valida da almeno 2 anni. I conducenti tra i 21 e i 24 anni pagano un supplemento per giovani guidatori — la tariffa esatta è indicata per ogni veicolo nei risultati di ricerca."
+      "a": "L'età minima è 21 anni. I conducenti devono essere in possesso di patente valida da almeno 2 anni. I conducenti tra i 21 e i 24 anni pagano un supplemento per giovani guidatori, la tariffa esatta è indicata per ogni veicolo nei risultati di ricerca."
     },
     "3": {
       "q": "Cosa è incluso nel prezzo?",
-      "a": "Tutti i veicoli includono nel prezzo base l'assicurazione di responsabilità civile e la copertura danni da collisione (CDW). IVA, kit di equipaggiamento obbligatorio (pronto soccorso, triangolo, gilet catarifrangente) e politica carburante trasparente sono inclusi. Attenzione: i distributori di carburante si diradano a sud di Bar — fare rifornimento prima di raggiungere Ada Bojana o Valdanos. Chilometraggio illimitato e coperture estese sono disponibili per singolo veicolo."
+      "a": "Tutti i veicoli includono nel prezzo base l'assicurazione di responsabilità civile e la copertura danni da collisione (CDW). IVA, kit di equipaggiamento obbligatorio (pronto soccorso, triangolo, gilet catarifrangente) e politica carburante trasparente sono inclusi. Attenzione: i distributori di carburante si diradano a sud di Bar, fare rifornimento prima di raggiungere Ada Bojana o Valdanos. Chilometraggio illimitato e coperture estese sono disponibili per singolo veicolo."
     },
     "4": {
       "q": "Come funziona il ritiro?",
-      "a": "Ulcinj dista circa 2 ore dall'aeroporto di Podgorica e 2 ore e 30 da Tivat — un lungo viaggio dopo un volo. Consigliamo vivamente un noleggio di sola andata: ritira il veicolo all'aeroporto di arrivo e riconsegnalo a Ulcinj, o viceversa. Orari e punti di incontro vengono concordati con l'agente dopo la prenotazione."
+      "a": "Ulcinj dista circa 2 ore dall'aeroporto di Podgorica e 2 ore e 30 da Tivat, un lungo viaggio dopo un volo. Consigliamo vivamente un noleggio di sola andata: ritira il veicolo all'aeroporto di arrivo e riconsegnalo a Ulcinj, o viceversa. Orari e punti di incontro vengono concordati con l'agente dopo la prenotazione."
     },
     "5": {
       "q": "Posso restituire il veicolo in un luogo diverso?",
-      "a": "Sì — il noleggio con riconsegna in altra sede è disponibile in 28 città e località del Montenegro. Vista la distanza da entrambi gli aeroporti, la combinazione ritiro a Podgorica o Tivat e riconsegna a Ulcinj (o l'inverso) è una delle più richieste."
+      "a": "Sì, il noleggio con riconsegna in altra sede è disponibile in 28 città e località del Montenegro. Vista la distanza da entrambi gli aeroporti, la combinazione ritiro a Podgorica o Tivat e riconsegna a Ulcinj (o l'inverso) è una delle più richieste."
     },
     "6": {
       "q": "Qual è la politica di cancellazione?",
@@ -271,7 +271,7 @@
     },
     "7": {
       "q": "È richiesto un deposito cauzionale?",
-      "a": "L'importo del deposito varia per veicolo — di norma tra 50 e 300 EUR, e alcuni veicoli non lo richiedono affatto. Il deposito deve essere effettuato su una carta di credito fisica (non bancomat né prepagata) intestata al conducente principale. Viene trattenuto al ritiro e svincolato entro pochi giorni lavorativi dalla restituzione del veicolo senza danni."
+      "a": "L'importo del deposito varia per veicolo, di norma tra 50 e 300 EUR, e alcuni veicoli non lo richiedono affatto. Il deposito deve essere effettuato su una carta di credito fisica (non bancomat né prepagata) intestata al conducente principale. Viene trattenuto al ritiro e svincolato entro pochi giorni lavorativi dalla restituzione del veicolo senza danni."
     },
     "8": {
       "q": "Cosa succede se supero il limite di chilometraggio?",
@@ -279,22 +279,22 @@
     },
     "9": {
       "q": "Ci sono costi nascosti?",
-      "a": "Nessuno. Il prezzo mostrato alla prenotazione è il prezzo finale — tasse, IVA e tutti i costi standard sono inclusi. Il trasferimento più lungo da Podgorica o Tivat è già calcolato nel tariffario, non aggiunto in seguito. Non riceverai fatture a sorpresa al momento del ritiro."
+      "a": "Nessuno. Il prezzo mostrato alla prenotazione è il prezzo finale, tasse, IVA e tutti i costi standard sono inclusi. Il trasferimento più lungo da Podgorica o Tivat è già calcolato nel tariffario, non aggiunto in seguito. Non riceverai fatture a sorpresa al momento del ritiro."
     },
     "10": {
       "q": "Quanto pago in anticipo?",
-      "a": "Al momento della prenotazione viene richiesto un acconto del 15–20 % del costo totale per garantire il veicolo. Il saldo viene pagato in contanti o con carta direttamente all'agente di noleggio al ritiro."
+      "a": "Al momento della prenotazione viene richiesto un acconto del 15-20 % del costo totale per garantire il veicolo. Il saldo viene pagato in contanti o con carta direttamente all'agente di noleggio al ritiro."
     },
     "11": {
       "q": "Posso noleggiare senza carta di credito?",
-      "a": "Una piccola selezione di veicoli è disponibile senza carta di credito, chiaramente segnalata nei risultati di ricerca. Per la maggior parte dei veicoli — in particolare quelli senza deposito — è richiesta una carta di credito fisica intestata al conducente principale."
+      "a": "Una piccola selezione di veicoli è disponibile senza carta di credito, chiaramente segnalata nei risultati di ricerca. Per la maggior parte dei veicoli, in particolare quelli senza deposito, è richiesta una carta di credito fisica intestata al conducente principale."
     }
   },
   "destCards": {
     "velika-plaza": {
       "name": "Velika Plaza",
       "tag": "Spiaggia lunga",
-      "desc": "12 km di costa sabbiosa — una delle spiagge più lunghe d'Europa."
+      "desc": "12 km di costa sabbiosa, una delle spiagge più lunghe d'Europa."
     },
     "ada-bojana": {
       "name": "Ada Bojana",
@@ -319,7 +319,7 @@
     "lake-skadar": {
       "name": "Lago di Scutari",
       "tag": "45 minuti",
-      "desc": "Il lago più grande dei Balcani — pellicani, monasteri, vino."
+      "desc": "Il lago più grande dei Balcani, pellicani, monasteri, vino."
     },
     "podgorica-airport": {
       "name": "Aeroporto di Podgorica",
@@ -328,33 +328,33 @@
     },
     "shkodra": {
       "name": "Scutari",
-      "tag": "Albania — 30 min",
+      "tag": "Albania, 30 min",
       "desc": "Attraversa il confine ed esplora il castello di Rozafa."
     }
   },
   "aboutBody": {
     "h1": "Noleggio Auto Montenegro",
-    "p1": "Dal 2007, Ulcinj Car Hire mette in contatto i viaggiatori con auto a noleggio affidabili e convenienti in tutto il Montenegro. Quella che è nata come una semplice idea — rendere più facile per i visitatori esplorare questo splendido angolo dell'Adriatic — è diventata uno dei servizi di autonoleggio più affidabili del Paese.",
+    "p1": "Dal 2007, Ulcinj Car Hire mette in contatto i viaggiatori con auto a noleggio affidabili e convenienti in tutto il Montenegro. Quella che è nata come una semplice idea, rendere più facile per i visitatori esplorare questo splendido angolo dell'Adriatic, è diventata uno dei servizi di autonoleggio più affidabili del Paese.",
     "h2": "Perché abbiamo iniziato",
-    "p2": "Il Montenegro è un Paese che si vive meglio al proprio ritmo. Le tortuose strade costiere, i villaggi di montagna nascosti e le città patrimonio UNESCO sono difficili da raggiungere con i mezzi pubblici. Abbiamo colto l'opportunità di offrire ai viaggiatori la libertà di scoprire il Montenegro alle proprie condizioni — niente orari di pullman turistici, niente panorami persi, nessun compromesso.",
+    "p2": "Il Montenegro è un Paese che si vive meglio al proprio ritmo. Le tortuose strade costiere, i villaggi di montagna nascosti e le città patrimonio UNESCO sono difficili da raggiungere con i mezzi pubblici. Abbiamo colto l'opportunità di offrire ai viaggiatori la libertà di scoprire il Montenegro alle proprie condizioni, niente orari di pullman turistici, niente panorami persi, nessun compromesso.",
     "h3": "Cosa offriamo",
     "p3": "Offriamo servizi di autonoleggio in tutto il Montenegro, con ritiro e riconsegna presso l'aeroporto di Tivat, l'aeroporto di Podgorica e in diverse località lungo la costa e nell'entroterra. La nostra flotta spazia dalle auto compatte per la città ai SUV spaziosi, tutti con assicurazione completa e senza costi nascosti.",
     "promiseTitle": "La nostra promessa",
     "promise1": "Assicurazione completa con opzione franchigia zero",
-    "promise2": "Accoglienza in aeroporto — portiamo l'auto direttamente all'area arrivi",
-    "promise3": "Nessun costo nascosto — il prezzo che vedi è il prezzo che paghi",
+    "promise2": "Accoglienza in aeroporto, portiamo l'auto direttamente all'area arrivi",
+    "promise3": "Nessun costo nascosto, il prezzo che vedi è il prezzo che paghi",
     "promise4": "Viaggi transfrontalieri consentiti verso Croazia, Bosnia, Albania, Serbia e Kosovo",
     "promise5": "Cancellazione gratuita sulla maggior parte delle prenotazioni",
     "promise6": "Assistenza stradale 24/7 per tutta la durata del viaggio",
     "h4": "Conoscenza locale",
     "p4": "Con sede in Montenegro, conosciamo le strade, i percorsi migliori e le perle nascoste che le guide non menzionano. Che stiate guidando dall'aeroporto di Tivat al centro storico medievale di Kotor, percorrendo la strada panoramica attraverso le Bocche di Kotor fino a Perast, o dirigendovi verso l'entroterra fino al Parco Nazionale del Durmitor, possiamo aiutarvi a pianificare il viaggio in auto perfetto.",
     "h5": "Contattaci",
-    "p5": "Hai domande sul noleggio auto in Montenegro? Siamo raggiungibili via telefono, WhatsApp e Viber. Sfoglia la nostra flotta online e prenota in pochi minuti — oppure contattaci e ti aiuteremo a trovare l'auto perfetta per il tuo viaggio."
+    "p5": "Hai domande sul noleggio auto in Montenegro? Siamo raggiungibili via telefono, WhatsApp e Viber. Sfoglia la nostra flotta online e prenota in pochi minuti, oppure contattaci e ti aiuteremo a trovare l'auto perfetta per il tuo viaggio."
   },
   "kotorBody": {
-    "h1": "Kotor — Patrimonio Mondiale dell'UNESCO",
+    "h1": "Kotor, Patrimonio Mondiale dell'UNESCO",
     "p1": "Kotor è una delle città costiere più affascinanti del Montenegro, che offre spiagge magnifiche, il fascino del centro storico e mura medievali che ospitano gallerie d'arte, caffè e ristoranti eccellenti. In quanto Patrimonio Mondiale dell'UNESCO, i monumenti della città sono concentrati nel centro storico splendidamente conservato.",
-    "p2": "Noleggiare un'auto a Kotor vi dà la libertà di esplorare le attrazioni locali e le città e aree naturali montenegrine vicine al vostro ritmo. La disponibilità di parcheggio varia stagionalmente, con il turismo estivo che crea scarsità nel centro — ma ci sono parcheggi più grandi sulle strade di accesso.",
+    "p2": "Noleggiare un'auto a Kotor vi dà la libertà di esplorare le attrazioni locali e le città e aree naturali montenegrine vicine al vostro ritmo. La disponibilità di parcheggio varia stagionalmente, con il turismo estivo che crea scarsità nel centro, ma ci sono parcheggi più grandi sulle strade di accesso.",
     "landmarksTitle": "Monumenti",
     "stJohnTitle": "Fortezza di San Giovanni",
     "stJohnText": "Un'imponente struttura che storicamente proteggeva la città dagli attacchi dei pirati. Caratteristiche degne di nota includono la Torre Contarini e la Chiesa della Madonna della Salute, che offre viste mozzafiato sul centro storico e sulla Baia di Kotor.",
@@ -364,14 +364,14 @@
     "perastTrip": "Situata nella vicina Perast, questa chiesa si trova su un'isola artificiale nella Baia di Kotor. I pescatori vi hanno gettato pietre ogni anno dal 1452, facendo crescere gradualmente l'isola. L'accesso in traghetto costa circa 1 Euro; le barche private costano circa 5 Euro. Il tragitto in auto da Kotor dura meno di 30 minuti percorrendo la E65/E80 verso nord.",
     "cetinjeTrip": "Costruito nel 1701, il monastero custodisce la mano di Giovanni Battista. Presenta decorazioni ornamentali e arte ortodossa. Il tragitto in auto da Kotor dura circa un'ora attraverso panoramiche strade di montagna.",
     "royalCourtText": "Il palazzo reale del Montenegro del 1871, che espone opere d'arte, manufatti e fotografie della storia reale del paese. Situato accanto al monastero nell'antica capitale reale.",
-    "tivatLinkPre": "La maggior parte dei visitatori ",
+    "tivatLinkPre": "La maggior parte dei visitatori",
     "tivatLinkText": "noleggia un'auto all'aeroporto di Tivat",
-    "tivatLinkPost": " per raggiungere Kotor."
+    "tivatLinkPost": "per raggiungere Kotor."
   },
   "budvaBody": {
-    "h1": "Budva — Il Cuore della Riviera Montenegrina",
+    "h1": "Budva, Il Cuore della Riviera Montenegrina",
     "p1": "Budva è la destinazione balneare più popolare del Montenegro, che attira visitatori da tutta Europa con la sua splendida costa, la vivace vita notturna e il centro storico medievale splendidamente conservato. Con un'auto a noleggio, l'intera Riviera di Budva e oltre è a portata di mano.",
-    "p2": "La città si trova a circa 20 minuti a sud dell'Aeroporto di Tivat, rendendola una delle destinazioni costiere più facili da raggiungere dopo l'atterraggio. Budva combina 2.500 anni di storia con un'atmosfera vacanziera completamente moderna — antiche mura cittadine di giorno, vivaci bar sulla spiaggia di notte.",
+    "p2": "La città si trova a circa 20 minuti a sud dell'Aeroporto di Tivat, rendendola una delle destinazioni costiere più facili da raggiungere dopo l'atterraggio. Budva combina 2.500 anni di storia con un'atmosfera vacanziera completamente moderna, antiche mura cittadine di giorno, vivaci bar sulla spiaggia di notte.",
     "beachesTitle": "Spiagge",
     "beachesIntro": "La Riviera di Budva si estende per 21 chilometri, offrendo alcune delle più belle spiagge della costa adriatica:",
     "mogren": "Due spiagge di ciottoli collegate, raggiungibili attraverso un tunnel scavato nelle scogliere, a pochi minuti dal centro storico",
@@ -388,8 +388,8 @@
     "gettingAroundText": "Mentre il centro storico di Budva è meglio esplorarlo a piedi, un'auto a noleggio è essenziale per raggiungere le migliori spiagge, i villaggi vicini e le attrazioni dell'entroterra. Il parcheggio è disponibile vicino alle mura del centro storico e in diversi parcheggi pubblici lungo la strada principale. In piena estate, arrivare presto assicura i posti migliori."
   },
   "perastBody": {
-    "h1": "Perast — Gemma Nascosta sulla Baia",
-    "p1": "Il piccolo villaggio di Perast si trova a breve distanza in auto — meno di 20 minuti — da Kotor. I turisti che noleggiano un'auto per il loro tour del Montenegro vorranno certamente percorrere l'autostrada E65/E80 per trascorrere del tempo in questo incantevole villaggio di pescatori.",
+    "h1": "Perast, Gemma Nascosta sulla Baia",
+    "p1": "Il piccolo villaggio di Perast si trova a breve distanza in auto, meno di 20 minuti, da Kotor. I turisti che noleggiano un'auto per il loro tour del Montenegro vorranno certamente percorrere l'autostrada E65/E80 per trascorrere del tempo in questo incantevole villaggio di pescatori.",
     "p2": "Sebbene abbia solo circa 850 abitanti, la lunga e colorata storia di Perast supera certamente le sue piccole dimensioni. Dal 1420 al 1797, la città appartenne alla Repubblica di Venezia ed era nota per i suoi maestri costruttori navali e marinai. Perast possiede molti splendidi ricordi del passato e alcuni eccellenti esempi di architettura barocca.",
     "islandsTitle": "Le Isole",
     "stGeorgeTitle": "Isola di San Giorgio",
@@ -402,8 +402,8 @@
     "monasteryText": "Situato appena a nord di Perast sulla strada per Risan, il Monastero di Banja presenta molti antichi pezzi religiosi provenienti da dinastie russe, greche e di Boka. Per raggiungere il monastero, continuate verso nord sulla E65/E80 per pochi chilometri."
   },
   "tivatBody": {
-    "h1": "Tivat — Città del Porto Turistico",
-    "p1": "Tivat è una delle città più recenti lungo la costa montenegrina, costruita poco più di un secolo fa. La città ospita uno dei soli due aeroporti pubblici del Montenegro — l'Aeroporto di Tivat — rendendola una base incredibilmente comoda per i visitatori che arrivano in aereo.",
+    "h1": "Tivat, Città del Porto Turistico",
+    "p1": "Tivat è una delle città più recenti lungo la costa montenegrina, costruita poco più di un secolo fa. La città ospita uno dei soli due aeroporti pubblici del Montenegro, l'Aeroporto di Tivat, rendendola una base incredibilmente comoda per i visitatori che arrivano in aereo.",
     "p2": "Questa località balneare ha una popolazione di circa 13.000 abitanti. I visitatori possono godersi le passeggiate sul lungomare, cenare nei bistrot fronte mare ed esplorare i negozi nascosti in stretti vicoli. Durante l'alta stagione, la città bilancia la tranquillità con una vivace attività turistica.",
     "beachesTitle": "Spiagge",
     "beachesText": "Tivat vanta 17 spiagge distribuite su 3 chilometri di costa, riconosciute tra le più belle del Mediterraneo. Le spiagge principali includono:",
@@ -430,11 +430,11 @@
     "facilitiesTitle": "Servizi dell'Aeroporto",
     "facilitiesText": "L'aeroporto offre caffetterie, telefoni pubblici, negozi di souvenir e shopping duty-free. I servizi di autobus collegano a Herceg Novi e Budva, con servizio taxi disponibile anche all'esterno del terminal.",
     "whyTitle": "Perché Noleggiare all'Aeroporto di Tivat?",
-    "whyText": "L'Aeroporto di Tivat è l'aeroporto più vicino alle destinazioni costiere più popolari del Montenegro. Pochi minuti dopo l'atterraggio, potrete guidare lungo la Baia di Kotor verso la città medievale fortificata, o dirigervi a sud verso le spiagge di Budva. Ritirare l'auto a Tivat significa nessun trasferimento, nessuna attesa per gli autobus — direttamente dal terminal alla strada aperta.",
+    "whyText": "L'Aeroporto di Tivat è l'aeroporto più vicino alle destinazioni costiere più popolari del Montenegro. Pochi minuti dopo l'atterraggio, potrete guidare lungo la Baia di Kotor verso la città medievale fortificata, o dirigervi a sud verso le spiagge di Budva. Ritirare l'auto a Tivat significa nessun trasferimento, nessuna attesa per gli autobus, direttamente dal terminal alla strada aperta.",
     "meetText": "Vi accogliamo nella sala arrivi con il vostro nome su un cartello. La vostra auto è parcheggiata proprio fuori. Tempo totale dall'atterraggio alla guida: circa 10 minuti."
   },
   "podgoricaBody": {
-    "h1": "Podgorica — La Capitale",
+    "h1": "Podgorica, La Capitale",
     "p1": "La maggior parte dei turisti che volano in Montenegro inizierà il proprio viaggio all'Aeroporto di Podgorica (TGD), situato a 9 km dal centro città. Essendo sia la capitale che la città più grande del Montenegro, Podgorica ospita circa 170.000 residenti e si trova in posizione unica sulle rive di sei fiumi: la Moraca, la Ribnica, la Zeta, la Sitnica, la Mareza e la Cijevna.",
     "p2": "L'architettura della città riflette diverse influenze storiche. Il dominio ottomano ha lasciato il suo segno, mentre strutture medievali si affiancano a edifici funzionalisti dell'era comunista e moderne torri di vetro. Il Ponte del Millennio è diventato un simbolo dell'estetica moderna della città.",
     "p3": "Podgorica è la capitale culturale del paese. I turisti che si precipitano verso le città balneari o le montagne senza trascorrere del tempo qui perderanno certamente una parte importante del Montenegro.",
@@ -472,26 +472,26 @@
   "dubrovnikAirportBody": {
     "h1": "Noleggio Auto all'Aeroporto di Dubrovnik (DBV)",
     "p1": "Molti turisti che visitano il Montenegro scelgono di volare all'Aeroporto di Dubrovnik e noleggiare un'auto per guidare fino in Montenegro. L'aeroporto si trova a sole due ore di auto dalle località costiere di Budva, Perast e Kotor, ed è meglio collegato con molte compagnie aeree che non offrono ancora un servizio diretto per il Montenegro.",
-    "p2": "Poiché questa è una rotta così comune, attraversare il confine non è un compito difficile — a condizione che i visitatori abbiano tutti i documenti di noleggio e i documenti di viaggio in ordine.",
+    "p2": "Poiché questa è una rotta così comune, attraversare il confine non è un compito difficile, a condizione che i visitatori abbiano tutti i documenti di noleggio e i documenti di viaggio in ordine.",
     "p3": "Noleggiare un'auto per un viaggio in Montenegro è un'ottima idea. Permette ai visitatori di vedere questa parte del mondo alle proprie condizioni, con i propri tempi. Il traffico tra i paesi di questa regione è comune, quindi gli attraversamenti di frontiera sono generalmente semplici.",
     "borderTitle": "Consigli per l'Attraversamento del Confine",
     "borderText": "Durante la stagione turistica, il Montenegro si riempie di visitatori e lunghe attese per attraversare il confine non sono rare. Attraversare la mattina presto o la sera tardi è un modo per evitare la folla. Assicuratevi che la vostra compagnia di noleggio vi abbia fornito una Carta Verde per l'assicurazione transfrontaliera.",
     "facilitiesTitle": "Servizi dell'Aeroporto",
-    "facilitiesText1": "L'Aeroporto di Dubrovnik dispone di un moderno edificio terminale situato a meno di mezz'ora di auto dalla città di Dubrovnik sulla E65. L'aeroporto ha parcheggi limitati disponibili, con macchine che elaborano il pagamento in contanti e con carte di credito. Poiché il parcheggio è limitato — specialmente in alta stagione — i visitatori dovrebbero prenotare i loro posti in anticipo se possibile. È disponibile uno sconto per la prenotazione anticipata.",
+    "facilitiesText1": "L'Aeroporto di Dubrovnik dispone di un moderno edificio terminale situato a meno di mezz'ora di auto dalla città di Dubrovnik sulla E65. L'aeroporto ha parcheggi limitati disponibili, con macchine che elaborano il pagamento in contanti e con carte di credito. Poiché il parcheggio è limitato, specialmente in alta stagione, i visitatori dovrebbero prenotare i loro posti in anticipo se possibile. È disponibile uno sconto per la prenotazione anticipata.",
     "facilitiesText2": "All'interno dell'aeroporto si trovano un ufficio di cambio, una banca e un ufficio postale. Sono disponibili anche piccoli ristoranti, caffetterie, un negozio duty-free e un'edicola.",
     "gettingTitle": "Come Raggiungere il Montenegro",
     "gettingText1": "I trasporti pubblici sono disponibili all'aeroporto sotto forma di taxi situati all'esterno del terminal, oltre a servizi di autobus e navette. Per i viaggiatori diretti alla città di Dubrovnik, assicuratevi di prendere gli autobus che arrivano fino al centro città piuttosto che quelli che si fermano a Cavtat, per risparmiare un trasferimento.",
-    "gettingText2": "Il viaggio dall'Aeroporto di Dubrovnik alla costa montenegrina vi porta lungo una delle strade costiere più panoramiche d'Europa. Entro due ore passerete attraverso il confine e arriverete alla Baia di Kotor — uno degli approcci più spettacolari a qualsiasi destinazione nel Mediterraneo."
+    "gettingText2": "Il viaggio dall'Aeroporto di Dubrovnik alla costa montenegrina vi porta lungo una delle strade costiere più panoramiche d'Europa. Entro due ore passerete attraverso il confine e arriverete alla Baia di Kotor, uno degli approcci più spettacolari a qualsiasi destinazione nel Mediterraneo."
   },
   "montenegroBody": {
     "h1": "Esplorare il Montenegro in Auto",
     "p1": "Il Montenegro si distingue come una delle destinazioni europee più gratificanti per l'esplorazione in auto. Dalle spettacolari strade di montagna e i tranquilli villaggi dell'entroterra alle tortuose strade costiere lungo l'Adriatico, il paese offre paesaggi diversificati a distanze sorprendentemente brevi. Noleggiare un'auto fornisce accesso a luoghi ben oltre la portata dei trasporti pubblici.",
-    "p2": "Sebbene compatto nelle dimensioni, il Montenegro richiede tempi di percorrenza più lunghi di quanto le mappe suggeriscano. I tornanti di montagna, le strette strade costiere e i percorsi panoramici incoraggiano soste frequenti. I viaggiatori ottengono la libertà di vivere sia il viaggio che la destinazione — navigando baie simili a fiordi, città storiche e punti panoramici d'altura al proprio ritmo.",
+    "p2": "Sebbene compatto nelle dimensioni, il Montenegro richiede tempi di percorrenza più lunghi di quanto le mappe suggeriscano. I tornanti di montagna, le strette strade costiere e i percorsi panoramici incoraggiano soste frequenti. I viaggiatori ottengono la libertà di vivere sia il viaggio che la destinazione, navigando baie simili a fiordi, città storiche e punti panoramici d'altura al proprio ritmo.",
     "startTitle": "Come Iniziare",
-    "startText": "Molti visitatori ritirano l'auto a noleggio in uno degli aeroporti del Montenegro o all'Aeroporto di Dubrovnik in Croazia, a seconda della disponibilità dei voli. L'Aeroporto di Tivat è il più vicino alla costa — a soli 10 minuti da Kotor e 20 minuti da Budva. L'Aeroporto di Podgorica serve la capitale e l'interno. L'Aeroporto di Dubrovnik rimane popolare in quanto spesso dispone di più voli internazionali.",
+    "startText": "Molti visitatori ritirano l'auto a noleggio in uno degli aeroporti del Montenegro o all'Aeroporto di Dubrovnik in Croazia, a seconda della disponibilità dei voli. L'Aeroporto di Tivat è il più vicino alla costa, a soli 10 minuti da Kotor e 20 minuti da Budva. L'Aeroporto di Podgorica serve la capitale e l'interno. L'Aeroporto di Dubrovnik rimane popolare in quanto spesso dispone di più voli internazionali.",
     "podgoricaLinkPre": "Per il Montenegro meridionale, l'",
     "podgoricaLinkText": "aeroporto di Podgorica",
-    "podgoricaLinkPost": " è l'opzione più vicina a soli 40 km da Ulcinj.",
+    "podgoricaLinkPost": "è l'opzione più vicina a soli 40 km da Ulcinj.",
     "timesTitle": "Tempi di Percorrenza",
     "timesText1": "I tempi di percorrenza effettivi superano regolarmente quanto indicato dalle mappe. I tornanti di montagna, le strade costiere frastagliate, gli ostacoli rurali (incluso il bestiame) e la neve montana invernale contribuiscono tutti a viaggi più lunghi. L'esperienza panoramica costiera e della campagna giustifica ampiamente il tempo di viaggio prolungato.",
     "timesText2": "Il viaggio tra le città costiere varia tipicamente da trenta minuti a un'ora. Il tragitto da Herceg-Novi a Podgorica attraverso la E65/E80 richiede circa due ore.",
@@ -504,10 +504,10 @@
     "keyRulesTitle": "Regole Principali",
     "keyRule1": "Le cinture di sicurezza sono obbligatorie per tutti i passeggeri",
     "keyRule2": "L'uso del telefono cellulare durante la guida è proibito",
-    "keyRule3": "Bere e guidare è illegale — tolleranza zero",
+    "keyRule3": "Bere e guidare è illegale, tolleranza zero",
     "keyRule4": "I limiti di velocità sono rigorosamente applicati",
     "conditionsTitle": "Condizioni Stradali",
-    "conditionsText": "Le strade cittadine mantengono condizioni discrete. Le strade di montagna possono essere più impegnative, con guardrail minimi in alcuni punti. Alcuni conducenti guidano in modo aggressivo, quindi si consiglia prudenza in tutto il paese — in particolare sui passi di montagna e nei tratti costieri stretti.",
+    "conditionsText": "Le strade cittadine mantengono condizioni discrete. Le strade di montagna possono essere più impegnative, con guardrail minimi in alcuni punti. Alcuni conducenti guidano in modo aggressivo, quindi si consiglia prudenza in tutto il paese, in particolare sui passi di montagna e nei tratti costieri stretti.",
     "routesTitle": "Percorsi Principali",
     "e65Title": "E65/E80",
     "e65Text": "Il principale percorso costiero collega Herceg-Novi a Podgorica, passando per Kotor, Perast, Tivat e Budva. Questo è il percorso di guida più popolare e offre viste mozzafiato sulla Baia di Kotor.",
@@ -524,7 +524,7 @@
     "greenCardTitle": "Cos'è una Carta Verde?",
     "greenCardText": "Una Carta Verde è un certificato internazionale di assicurazione auto che dimostra che il vostro veicolo è assicurato nel paese in cui state entrando. È richiesta ad ogni attraversamento di frontiera nei Balcani.",
     "greenCard1": "Costo: circa 15 Euro per 15 giorni",
-    "greenCard2": "Dove ottenerla: la vostra compagnia di noleggio la organizza — basta confermare al momento della prenotazione",
+    "greenCard2": "Dove ottenerla: la vostra compagnia di noleggio la organizza, basta confermare al momento della prenotazione",
     "greenCard3": "Paesi coperti: Croazia, Bosnia, Albania, Kosovo, Serbia",
     "greenCardWarn": "Senza una Carta Verde, le guardie di frontiera non vi lasceranno passare. Controllate sempre che la carta copra tutti i paesi sul vostro itinerario pianificato prima di partire.",
     "docsTitle": "Documenti Necessari alla Frontiera",
@@ -535,27 +535,27 @@
     "doc5": "Documento di immatricolazione del veicolo (fornito con l'auto)",
     "crossingsTitle": "Attraversamenti di Frontiera dal Montenegro",
     "croatiaTitle": "Montenegro → Croazia",
-    "croatiaText": "L'attraversamento più popolare per i turisti. Il principale posto di blocco si trova a Debeli Brijeg sulla strada costiera (E65) tra Herceg Novi e Dubrovnik. Questo attraversamento diventa estremamente trafficato in estate — aspettatevi code di 1-2 ore durante l'alta stagione (luglio-agosto).",
+    "croatiaText": "L'attraversamento più popolare per i turisti. Il principale posto di blocco si trova a Debeli Brijeg sulla strada costiera (E65) tra Herceg Novi e Dubrovnik. Questo attraversamento diventa estremamente trafficato in estate, aspettatevi code di 1-2 ore durante l'alta stagione (luglio-agosto).",
     "croatiaTip": "Orari migliori per attraversare: la mattina presto (prima delle 8) o la sera tardi (dopo le 20). Le mattine dei giorni feriali sono significativamente più tranquille rispetto ai fine settimana.",
-    "croatiaFerry": "C'è anche la scorciatoia del traghetto Kamenari-Lepetane attraverso la Baia di Kotor che evita di percorrere l'intera baia — fa risparmiare circa 45 minuti.",
+    "croatiaFerry": "C'è anche la scorciatoia del traghetto Kamenari-Lepetane attraverso la Baia di Kotor che evita di percorrere l'intera baia, fa risparmiare circa 45 minuti.",
     "albaniaTitle": "Montenegro → Albania",
     "albaniaText": "Due attraversamenti principali: Sukobin/Muriqan (costiero, vicino a Ulcinj) e Hani i Hotit (interno, vicino al Lago di Skadar). L'attraversamento costiero è più adatto ai viaggiatori e ha tipicamente tempi di attesa più brevi.",
-    "shkodraLinkPre": "Da Ulcinj, la ",
+    "shkodraLinkPre": "Da Ulcinj, la",
     "shkodraLinkText": "gita giornaliera a Shkodra",
-    "shkodraLinkPost": " è il percorso transfrontaliero più semplice in Montenegro.",
+    "shkodraLinkPost": "è il percorso transfrontaliero più semplice in Montenegro.",
     "albaniaNote": "Nota: le strade albanesi differiscono significativamente da quelle montenegrine. Guidate con cautela, specialmente sulle strade rurali.",
     "bosniaTitle": "Montenegro → Bosnia ed Erzegovina",
     "bosniaText": "L'attraversamento principale è a Šćepan Polje (vicino a Foča) se vi dirigete a nord, oppure via Vilusi da Nikšić. Gli attraversamenti sono generalmente tranquilli con tempi di attesa minimi al di fuori dell'estate.",
     "serbiaTitle": "Montenegro → Serbia",
     "serbiaText": "Attraversate a Dobrakovo (sulla E65 a nord di Bijelo Polje). Questo attraversamento si collega direttamente al sistema autostradale serbo verso Belgrado.",
     "kosovoTitle": "Montenegro → Kosovo",
-    "kosovoText": "L'attraversamento a Kula (vicino a Rožaje) si collega a Peja/Peć in Kosovo. Verificate con la vostra compagnia di noleggio che il Kosovo sia incluso nella vostra Carta Verde — alcune polizze lo escludono.",
+    "kosovoText": "L'attraversamento a Kula (vicino a Rožaje) si collega a Peja/Peć in Kosovo. Verificate con la vostra compagnia di noleggio che il Kosovo sia incluso nella vostra Carta Verde, alcune polizze lo escludono.",
     "tipsTitle": "Consigli per Attraversamenti di Frontiera Senza Problemi",
-    "tip1": "Tenete tutti i documenti pronti prima di raggiungere il posto di blocco — non cercateli al finestrino",
+    "tip1": "Tenete tutti i documenti pronti prima di raggiungere il posto di blocco, non cercateli al finestrino",
     "tip2": "Spegnete il motore mentre aspettate in coda (le guardie di frontiera lo apprezzano)",
-    "tip3": "I fine settimana estivi sono i peggiori — pianificate di attraversare nei giorni feriali se possibile",
+    "tip3": "I fine settimana estivi sono i peggiori, pianificate di attraversare nei giorni feriali se possibile",
     "tip4": "L'attraversamento costiero croato (Debeli Brijeg) è il più trafficato; gli attraversamenti interni sono più tranquilli",
-    "tip5": "Tenete del contante in Euro — utile per i pedaggi e piccoli acquisti dall'altra parte",
+    "tip5": "Tenete del contante in Euro, utile per i pedaggi e piccoli acquisti dall'altra parte",
     "tip6": "Roaming dati mobile: verificate che il vostro piano copra il paese in cui state entrando",
     "lawsTitle": "Regole Stradali che Cambiano ai Confini",
     "lawsIntro": "Ogni paese ha leggi sul traffico leggermente diverse. Differenze principali da notare:",
@@ -569,55 +569,55 @@
     "route2": "Kotor → Mostar (Bosnia): 3-4 ore via Trebinje. Visitate il famoso ponte",
     "route3": "Budva → Shkodër (Albania): 2,5 ore via l'attraversamento costiero di Ulcinj",
     "route4": "Podgorica → Belgrado (Serbia): 5-6 ore via la E65 nord",
-    "ctaText": "Avete bisogno di un'auto con documentazione transfrontaliera pronta? Cercate nella nostra flotta — selezionate semplicemente i paesi di destinazione alla prenotazione e organizzeremo la Carta Verde."
+    "ctaText": "Avete bisogno di un'auto con documentazione transfrontaliera pronta? Cercate nella nostra flotta, selezionate semplicemente i paesi di destinazione alla prenotazione e organizzeremo la Carta Verde."
   },
   "velikaPlazaBody": {
-    "adaBojanaLinkPre": "All'estremità meridionale, la ",
+    "adaBojanaLinkPre": "All'estremità meridionale, la",
     "adaBojanaLinkText": "spiaggia per kitesurfisti di Ada Bojana",
-    "adaBojanaLinkPost": " è a soli 5 minuti più avanti.",
-    "h1": "Velika Plaza — 12 chilometri di sabbia vulcanica grigia",
-    "p1": "Pochi turisti conoscono Velika Plaza, e ancora meno ci arrivano. La sabbia non è dorata — è fine, grigia e carica di minerali vulcanici che i locali usano da generazioni per trattamenti terapeutici. La spiaggia inizia circa 5 km a sud di Ulcinj e si estende, ininterrotta e in gran parte deserta, fino al confine albanese.",
-    "p2": "Arrivarci richiede un'auto. Non c'è autobus. Non c'è marciapiede nell'ultimo tratto. I parcheggi sono informali — spiazzi di ghiaia tra le dune. La sabbia entra ovunque: nell'auto, nelle scarpe, nella borsa. Fa parte del pacchetto. La ricompensa è una spiaggia così vasta che anche in agosto si può camminare venti minuti senza incontrare anima viva.",
+    "adaBojanaLinkPost": "è a soli 5 minuti più avanti.",
+    "h1": "Velika Plaza, 12 chilometri di sabbia vulcanica grigia",
+    "p1": "Pochi turisti conoscono Velika Plaza, e ancora meno ci arrivano. La sabbia non è dorata, è fine, grigia e carica di minerali vulcanici che i locali usano da generazioni per trattamenti terapeutici. La spiaggia inizia circa 5 km a sud di Ulcinj e si estende, ininterrotta e in gran parte deserta, fino al confine albanese.",
+    "p2": "Arrivarci richiede un'auto. Non c'è autobus. Non c'è marciapiede nell'ultimo tratto. I parcheggi sono informali, spiazzi di ghiaia tra le dune. La sabbia entra ovunque: nell'auto, nelle scarpe, nella borsa. Fa parte del pacchetto. La ricompensa è una spiaggia così vasta che anche in agosto si può camminare venti minuti senza incontrare anima viva.",
     "activitiesTitle": "Cosa fare sulla sabbia",
-    "activity1": "Kitesurf e windsurf — venti termici 15–25 nodi da giugno a settembre, con acque basse ideali per principianti e avanzati",
+    "activity1": "Kitesurf e windsurf, venti termici 15-25 nodi da giugno a settembre, con acque basse ideali per principianti e avanzati",
     "activity2": "Bar sulla spiaggia vicino agli accessi nord servono birra Nikšićko fredda e pesce alla griglia. Più si va a sud, più è deserto",
-    "activity3": "Trattamenti terapeutici nella sabbia — seppellitevi nella sabbia grigia ricca di minerali. I locali giurano che funziona per dolori articolari e problemi cutanei",
+    "activity3": "Trattamenti terapeutici nella sabbia, seppellitevi nella sabbia grigia ricca di minerali. I locali giurano che funziona per dolori articolari e problemi cutanei",
     "activity4": "Nuoto in acque che restano basse per oltre 50 metri, calde da giugno e sorprendentemente pulite",
     "gettingThereTitle": "Come arrivare",
     "gettingThereText": "Guidate verso sud dal centro di Ulcinj sulla strada costiera. Diversi accessi portano alla spiaggia lungo i 12 km. L'estremità nord vicino al bar Copacabana è la più facile da trovare. Per le sezioni più deserte, continuate verso sud finché la strada diventa una pista."
   },
   "adaBojanaBody": {
-    "shkodraLinkPre": "Da Ada Bojana è possibile ",
+    "shkodraLinkPre": "Da Ada Bojana è possibile",
     "shkodraLinkText": "attraversare il confine con l'Albania e raggiungere Shkodra in 30 minuti",
     "shkodraLinkPost": ".",
-    "h1": "Ada Bojana — L'ultimo delta fluviale selvaggio d'Europa",
-    "p1": "Ada Bojana è un'isola triangolare formata dove il fiume Bojana sfocia nell'Adriatico, proprio al confine albanese. È l'ultimo delta fluviale selvaggio d'Europa — nessun lungomare in cemento, nessun resort, solo sponde sabbiose, un unico ponte e ristoranti su palafitte di legno sopra l'acqua lenta e bruna.",
-    "p2": "Venti termici costanti di 15–25 nodi soffiano da giugno a settembre, rafforzandosi ogni pomeriggio. L'acqua è bassa e calda sul lato del fiume, più profonda e fresca sul lato adriatico. Diverse scuole di kite offrono lezioni e noleggio attrezzatura. I ristoranti su palafitte servono carpa, anguilla e cefalo appena grigliati dal fiume.",
+    "h1": "Ada Bojana, L'ultimo delta fluviale selvaggio d'Europa",
+    "p1": "Ada Bojana è un'isola triangolare formata dove il fiume Bojana sfocia nell'Adriatico, proprio al confine albanese. È l'ultimo delta fluviale selvaggio d'Europa, nessun lungomare in cemento, nessun resort, solo sponde sabbiose, un unico ponte e ristoranti su palafitte di legno sopra l'acqua lenta e bruna.",
+    "p2": "Venti termici costanti di 15-25 nodi soffiano da giugno a settembre, rafforzandosi ogni pomeriggio. L'acqua è bassa e calda sul lato del fiume, più profonda e fresca sul lato adriatico. Diverse scuole di kite offrono lezioni e noleggio attrezzatura. I ristoranti su palafitte servono carpa, anguilla e cefalo appena grigliati dal fiume.",
     "kitesurfTitle": "Condizioni per il kitesurf",
-    "kitesurfText": "Il regime dei venti termici è notevolmente costante: mattinate calme, in aumento da mezzogiorno, picco a 15–25 nodi nel pomeriggio. Il lato fiume offre acqua piatta e bassa per freestyle e principianti. Il lato mare ha piccole onde. Stagione da maggio a settembre, luglio e agosto i mesi più affidabili.",
+    "kitesurfText": "Il regime dei venti termici è notevolmente costante: mattinate calme, in aumento da mezzogiorno, picco a 15-25 nodi nel pomeriggio. Il lato fiume offre acqua piatta e bassa per freestyle e principianti. Il lato mare ha piccole onde. Stagione da maggio a settembre, luglio e agosto i mesi più affidabili.",
     "restaurantsTitle": "Mangiare sul fiume",
-    "restaurantsText": "I ristoranti su palafitte sono il marchio di Ada Bojana. Piattaforme di legno sul fiume, raggiungibili tramite strette passerelle, servono quello che i pescatori hanno catturato quel giorno. Pesce alla griglia, anguilla di fiume e insalata fresca. In alcuni posti niente menù — il cameriere vi dice cosa c'è. Rakija fredda per finire.",
+    "restaurantsText": "I ristoranti su palafitte sono il marchio di Ada Bojana. Piattaforme di legno sul fiume, raggiungibili tramite strette passerelle, servono quello che i pescatori hanno catturato quel giorno. Pesce alla griglia, anguilla di fiume e insalata fresca. In alcuni posti niente menù, il cameriere vi dice cosa c'è. Rakija fredda per finire.",
     "gettingThereTitle": "Come arrivare",
-    "gettingThereText": "Guidate 15 km a sud dal centro di Ulcinj, oltre Velika Plaza, e attraversate l'unico ponte verso l'isola. La strada è asfaltata ma stretta. Non c'è trasporto pubblico per Ada Bojana — l'auto è l'unica opzione realistica."
+    "gettingThereText": "Guidate 15 km a sud dal centro di Ulcinj, oltre Velika Plaza, e attraversate l'unico ponte verso l'isola. La strada è asfaltata ma stretta. Non c'è trasporto pubblico per Ada Bojana, l'auto è l'unica opzione realistica."
   },
   "barBody": {
-    "velikaPlazaLinkPre": "Da Bar, proseguite verso sud lungo la costa fino alla ",
+    "velikaPlazaLinkPre": "Da Bar, proseguite verso sud lungo la costa fino alla",
     "velikaPlazaLinkText": "spiaggia sabbiosa di 12 km di Velika Plaza",
     "velikaPlazaLinkPost": ".",
-    "h1": "Bar — Porto operativo e rovine medievali sulla collina",
-    "p1": "Bar non è una bella città. È un porto adriatico operativo a 30 minuti a nord di Ulcinj, costruito per lo più in cemento post-terremoto dopo il devastante sisma del 1979. Ma il motivo per venire è sopra la città — Stari Bar, la città-fortezza medievale in rovina che si aggrappa alla collina come un fantasma.",
-    "p2": "Stari Bar contiene i resti di oltre 240 edifici — chiese, moschee, palazzi, case e bagni pubblici — distribuiti su una drammatica collina. Un antico ulivo vicino all'ingresso si ritiene abbia oltre 2.000 anni, rendendolo uno degli alberi viventi più antichi d'Europa. Produce ancora frutti.",
+    "h1": "Bar, Porto operativo e rovine medievali sulla collina",
+    "p1": "Bar non è una bella città. È un porto adriatico operativo a 30 minuti a nord di Ulcinj, costruito per lo più in cemento post-terremoto dopo il devastante sisma del 1979. Ma il motivo per venire è sopra la città, Stari Bar, la città-fortezza medievale in rovina che si aggrappa alla collina come un fantasma.",
+    "p2": "Stari Bar contiene i resti di oltre 240 edifici, chiese, moschee, palazzi, case e bagni pubblici, distribuiti su una drammatica collina. Un antico ulivo vicino all'ingresso si ritiene abbia oltre 2.000 anni, rendendolo uno degli alberi viventi più antichi d'Europa. Produce ancora frutti.",
     "dayTripTitle": "Cosa vedere",
-    "stariBar": "Rovine della fortezza di Stari Bar — passeggiate tra 240 strutture fatiscenti con vista fino all'Italia nelle giornate limpide. Almeno 2 ore",
-    "oliveTree": "Il vecchio ulivo di Bar — un monumento nodoso e recintato di oltre 2.000 anni. Ancora vivo. Produce ancora olive",
-    "portArea": "Il lungomare — più funzionale che bello, ma il punto dove controllare gli orari del traghetto per Bari",
+    "stariBar": "Rovine della fortezza di Stari Bar, passeggiate tra 240 strutture fatiscenti con vista fino all'Italia nelle giornate limpide. Almeno 2 ore",
+    "oliveTree": "Il vecchio ulivo di Bar, un monumento nodoso e recintato di oltre 2.000 anni. Ancora vivo. Produce ancora olive",
+    "portArea": "Il lungomare, più funzionale che bello, ma il punto dove controllare gli orari del traghetto per Bari",
     "gettingThereTitle": "Come arrivare",
     "gettingThereText": "Guidate da Ulcinj verso nord sulla costiera E85. Bar dista 30 km, circa 30 minuti. Parcheggiate nella città moderna e salite a Stari Bar (4 km nell'entroterra, con indicazioni)."
   },
   "blogIndex": {
     "breadcrumbBlog": "Blog",
     "heroTitle": "Guide di Viaggio per Ulcinj",
-    "heroSubtitle": "Spiagge, valichi di frontiera, uliveti e fortezze dimenticate — scritte da chi percorre queste strade ogni settimana.",
+    "heroSubtitle": "Spiagge, valichi di frontiera, uliveti e fortezze dimenticate, scritte da chi percorre queste strade ogni settimana.",
     "readGuide": "Leggi la guida",
     "card_oldtown_title": "La Citta Vecchia Ottomana di Ulcinj",
     "card_oldtown_excerpt": "Bastioni in pietra, moschee affacciate sul mare e una fortezza piu antica della conquista ottomana. Una guida a piedi del quartiere murato sopra il porto.",
@@ -630,7 +630,7 @@
     "card_olive_title": "L'Antico Olivo di Ulcinj",
     "card_olive_excerpt": "Un albero di 2.000 anni, uliveti terrazzati fino alla costa e olio spremuto a freddo acquistabile direttamente in azienda.",
     "card_valdanos_title": "Baia di Valdanos: La Cala Nascosta",
-    "card_valdanos_excerpt": "Un'insenatura riparata circondata da 10.000 olivi. Nessun hotel, nessuna folla — solo acqua cristallina e il canto delle cicale.",
+    "card_valdanos_excerpt": "Un'insenatura riparata circondata da 10.000 olivi. Nessun hotel, nessuna folla, solo acqua cristallina e il canto delle cicale.",
     "card_seafood_title": "La Tradizione del Pesce di Ulcinj",
     "card_seafood_excerpt": "I pescatori scaricano ancora il pescato al porto ogni mattina. Dove mangiare il pesce piu fresco della costa meridionale del Montenegro.",
     "card_skadar_title": "Il Lago di Scutari dal Lato Sud",
@@ -640,22 +640,22 @@
   },
   "blogOldtown": {
     "title": "La Citta Vecchia Ottomana di Ulcinj: Mura, Moschee e Vedute sul Mare",
-    "subtitle": "Una guida a piedi del quartiere fortificato sopra il porto — 2.500 anni di storia stratificata dagli Illiri agli Ottomani.",
+    "subtitle": "Una guida a piedi del quartiere fortificato sopra il porto, 2.500 anni di storia stratificata dagli Illiri agli Ottomani.",
     "description": "Esplorate la Citta Vecchia di Ulcinj (Stari Grad). Moschee ottomane, architettura veneziana, mura della fortezza e vedute panoramiche sull'Adriatico. Consigli pratici per la visita in auto.",
     "h2History": "Strati di Pietra, Strati di Tempo",
     "historyP1": "La Citta Vecchia di Ulcinj sorge su un promontorio roccioso che precipita nell'Adriatico su tre lati. Il sito e stato fortificato ininterrottamente per almeno 2.500 anni. Gli Illiri costruirono le prime mura. I Romani le ampliarono. I Veneziani aggiunsero bastioni e una porta sul mare. Gli Ottomani tennero la citta per oltre tre secoli e lasciarono moschee, hammam e le strette vie in pietra che ne definiscono ancora oggi il tracciato.",
     "historyP2": "Cio che rende unica la Citta Vecchia e la densita di questa stratificazione. Si puo stare su un bastione veneziano e guardare le fondamenta romane, poi voltarsi e vedere un minareto ottomano che si erge sopra un profilo di tetti rimasto praticamente immutato dal XVII secolo. In nessun altro luogo della costa montenegrina tanta storia e racchiusa in uno spazio cosi ristretto.",
     "h2Enter": "Come Entrare",
-    "enterP": "Ci sono due porte. L'ingresso principale si trova sul lato terrestre, raggiungibile con una breve salita dal centro citta. La seconda e una porta piu piccola sul lato occidentale che si apre su una scalinata verso gli scogli sottostanti. Parcheggiate nel parcheggio alla base delle mura — gratuito fuori da luglio e agosto — e salite attraverso la porta principale. La salita dura due minuti.",
+    "enterP": "Ci sono due porte. L'ingresso principale si trova sul lato terrestre, raggiungibile con una breve salita dal centro citta. La seconda e una porta piu piccola sul lato occidentale che si apre su una scalinata verso gli scogli sottostanti. Parcheggiate nel parcheggio alla base delle mura, gratuito fuori da luglio e agosto, e salite attraverso la porta principale. La salita dura due minuti.",
     "altInline": "Veduta dalle mura della Citta Vecchia di Ulcinj sull'Adriatico",
     "h2Mosques": "Le Moschee all'Interno delle Mura",
-    "mosquesP1": "La Moschea dei Marinai (Dzamija Namazgjah) si trova appena dentro la porta principale. Fu costruita nel 1719 e serviva la guarnigione ottomana. Il minareto e una delle strutture piu alte all'interno delle mura e offre un utile punto di riferimento durante l'esplorazione. La moschea e generalmente aperta ai visitatori fuori dagli orari di preghiera — togliete le scarpe all'ingresso.",
+    "mosquesP1": "La Moschea dei Marinai (Dzamija Namazgjah) si trova appena dentro la porta principale. Fu costruita nel 1719 e serviva la guarnigione ottomana. Il minareto e una delle strutture piu alte all'interno delle mura e offre un utile punto di riferimento durante l'esplorazione. La moschea e generalmente aperta ai visitatori fuori dagli orari di preghiera, togliete le scarpe all'ingresso.",
     "mosquesP2": "Una seconda moschea piu piccola si trova vicino al bastione meridionale. Dalla sua terrazza, nelle giornate limpide, si vede la costa albanese. Se visitate nei mesi piu tranquilli, abbinate la Citta Vecchia a un'escursione in auto alla",
     "valdanosLink": "Baia di Valdanos",
-    "mosquesP3": "nel pomeriggio stesso — la strada verso nord richiede circa 15 minuti.",
+    "mosquesP3": "nel pomeriggio stesso, la strada verso nord richiede circa 15 minuti.",
     "h2Walls": "Passeggiata sulle Mura",
     "wallsP1": "Il circuito delle fortificazioni non e un percorso formale come quelli di Dubrovnik o Cattaro. Ci si muove lungo tratti dei bastioni dove la pietra e abbastanza stabile da camminare. Il tratto migliore corre lungo la parete occidentale sopra il mare, dove il dislivello e a picco e la vista si estende fino alle isole al largo della costa albanese. Nel tardo pomeriggio la luce tinge la pietra d'oro e l'Adriatico si fa color indaco.",
-    "wallsP2": "Dopo aver esplorato le mura, scendete dalla porta sul mare verso gli scogli sottostanti per un bagno. L'acqua qui e profonda, limpida e riparata dal vento pomeridiano. Poi risalite nei vicoli per cena — consultate la nostra guida ai",
+    "wallsP2": "Dopo aver esplorato le mura, scendete dalla porta sul mare verso gli scogli sottostanti per un bagno. L'acqua qui e profonda, limpida e riparata dal vento pomeridiano. Poi risalite nei vicoli per cena, consultate la nostra guida ai",
     "seafoodLink": "ristoranti di pesce di Ulcinj",
     "h2Museum": "Il Museo Etnografico",
     "museumP": "Un piccolo museo all'interno delle mura ospita reperti dell'epoca ottomana, vecchie fotografie della citta e una collezione di abiti tradizionali della regione di Ulcinj. Le esposizioni sono modeste ma ben curate. Calcolate 20 minuti. Il museo e chiuso il lunedi.",
@@ -663,7 +663,7 @@
     "tipTimeLabel": "Orario migliore:",
     "tipTimeVal": "Tardo pomeriggio per la luce migliore e temperature piu fresche. Le mura occidentali sono rivolte verso il tramonto.",
     "tipShoesLabel": "Calzature:",
-    "tipShoesVal": "I ciottoli sono levigati. Scarpe da ginnastica o sandali con suola antiscivolo — niente infradito.",
+    "tipShoesVal": "I ciottoli sono levigati. Scarpe da ginnastica o sandali con suola antiscivolo, niente infradito.",
     "tipParkingLabel": "Parcheggio:",
     "tipParkingVal": "Parcheggio gratuito alla base delle mura. A pagamento in luglio-agosto (2 EUR/ora).",
     "tipSunsetLabel": "Tramonto:",
@@ -680,30 +680,30 @@
   },
   "blogVelikaplaza": {
     "title": "Velika Plaza: La Spiaggia di Sabbia piu Lunga d'Europa",
-    "subtitle": "12 chilometri di sabbia minerale scura da Ulcinj alla foce della Bojana — kitesurf, fondali bassi e stabilimenti balneari da un capo all'altro.",
+    "subtitle": "12 chilometri di sabbia minerale scura da Ulcinj alla foce della Bojana, kitesurf, fondali bassi e stabilimenti balneari da un capo all'altro.",
     "description": "Guida completa a Velika Plaza (Spiaggia Lunga) vicino a Ulcinj, Montenegro. 12 km di costa sabbiosa, spot per il kitesurf, indicazioni stradali, parcheggio e sezioni della spiaggia spiegate.",
     "h2Beach": "Dodici Chilometri di Sabbia",
-    "beachP1": "Velika Plaza si estende in un arco ininterrotto dalla zona portuale a sud di Ulcinj fino alla foce della Bojana al confine albanese. Con i suoi 12 km e una delle spiagge sabbiose piu lunghe d'Europa. La sabbia e scura — ricca di minerali — e la tradizione locale sostiene che abbia proprieta terapeutiche per articolazioni e pelle. Che sia vero o meno, la consistenza e inconfondibile: fine, leggermente calda sotto i piedi anche al mattino presto, e completamente diversa dalle spiagge di ciottoli bianchi piu a nord sulla costa montenegrina.",
-    "beachP2": "La spiaggia e esposta a sud-ovest, il che significa sole diretto dalla tarda mattinata fino al tramonto. L'acqua e bassa per i primi 30-50 metri, il che la rende una delle spiagge piu sicure del Montenegro per le famiglie con bambini piccoli. Piu al largo, il fondale scende e le correnti del canale della Bojana iniziano a farsi sentire — i bagnanti dovrebbero restare nelle zone segnalate.",
+    "beachP1": "Velika Plaza si estende in un arco ininterrotto dalla zona portuale a sud di Ulcinj fino alla foce della Bojana al confine albanese. Con i suoi 12 km e una delle spiagge sabbiose piu lunghe d'Europa. La sabbia e scura, ricca di minerali, e la tradizione locale sostiene che abbia proprieta terapeutiche per articolazioni e pelle. Che sia vero o meno, la consistenza e inconfondibile: fine, leggermente calda sotto i piedi anche al mattino presto, e completamente diversa dalle spiagge di ciottoli bianchi piu a nord sulla costa montenegrina.",
+    "beachP2": "La spiaggia e esposta a sud-ovest, il che significa sole diretto dalla tarda mattinata fino al tramonto. L'acqua e bassa per i primi 30-50 metri, il che la rende una delle spiagge piu sicure del Montenegro per le famiglie con bambini piccoli. Piu al largo, il fondale scende e le correnti del canale della Bojana iniziano a farsi sentire, i bagnanti dovrebbero restare nelle zone segnalate.",
     "h2Kite": "Kitesurf sulla Spiaggia Lunga",
     "kiteP1": "L'estremita meridionale di Velika Plaza, dove la spiaggia si allarga e i venti termici del delta della Bojana sono piu forti, e diventata uno degli spot di kitesurf piu costanti d'Europa. La stagione va da maggio a settembre, con le condizioni migliori a giugno e luglio quando le termiche cross-shore soffiano costantemente da sud-ovest tra mezzogiorno e le 18.",
-    "kiteP2": "Diverse scuole di kite operano da postazioni fisse lungo gli ultimi due chilometri di spiaggia. Noleggio attrezzatura, deposito e lezioni sono disponibili in loco. Se siete rider esperti, le condizioni qui reggono il confronto con Tarifa e Dakhla — e la spiaggia e molto meno affollata. Per sessioni in acqua piatta, attraversate il ponte verso",
+    "kiteP2": "Diverse scuole di kite operano da postazioni fisse lungo gli ultimi due chilometri di spiaggia. Noleggio attrezzatura, deposito e lezioni sono disponibili in loco. Se siete rider esperti, le condizioni qui reggono il confronto con Tarifa e Dakhla, e la spiaggia e molto meno affollata. Per sessioni in acqua piatta, attraversate il ponte verso",
     "adaLink": "Ada Bojana",
     "kiteP3": "dove la foce del fiume offre acqua liscia come il burro nelle mattine senza vento.",
     "altInline": "Kitesurfisti su Velika Plaza con le montagne albanesi sullo sfondo",
     "h2Sections": "Sezioni della Spiaggia",
     "h3North": "Estremita Nord: Lato Porto",
-    "northP": "I primi due chilometri piu vicini al centro di Ulcinj sono i piu attrezzati. Stabilimenti balneari con lettini, bar e musica si susseguono sulla sabbia. Il parcheggio e disponibile in aree di ghiaia arretrate rispetto alle dune. Questa sezione si riempie rapidamente in luglio e agosto — arrivate prima delle 10 per trovare posto.",
+    "northP": "I primi due chilometri piu vicini al centro di Ulcinj sono i piu attrezzati. Stabilimenti balneari con lettini, bar e musica si susseguono sulla sabbia. Il parcheggio e disponibile in aree di ghiaia arretrate rispetto alle dune. Questa sezione si riempie rapidamente in luglio e agosto, arrivate prima delle 10 per trovare posto.",
     "h3Central": "Tratto Centrale: Da Safari Beach a Copacabana",
-    "centralP": "Il tratto centrale e piu tranquillo. Stabilimenti balneari con nome — Safari, Copacabana, Tropicana — sono distribuiti ogni 500 metri circa, ognuno con il proprio carattere. Tra l'uno e l'altro, distese aperte di sabbia dove potete stendere l'asciugamano senza vedere nessuno in nessuna direzione. Strade di accesso dalla strada costiera principale portano a piccoli parcheggi in ghiaia dietro la linea delle dune.",
+    "centralP": "Il tratto centrale e piu tranquillo. Stabilimenti balneari con nome, Safari, Copacabana, Tropicana, sono distribuiti ogni 500 metri circa, ognuno con il proprio carattere. Tra l'uno e l'altro, distese aperte di sabbia dove potete stendere l'asciugamano senza vedere nessuno in nessuna direzione. Strade di accesso dalla strada costiera principale portano a piccoli parcheggi in ghiaia dietro la linea delle dune.",
     "h3South": "Estremita Sud: Zona Kite",
-    "southP": "Gli ultimi tre chilometri prima di Ada Bojana sono i piu ampi e selvaggi. Scuole di kite, qualche chiosco che serve pesce alla griglia e il vento piu forte. La strada finisce prima della spiaggia — l'ultimo tratto e raggiungibile a piedi o in 4x4 lungo la sabbia con la bassa marea.",
+    "southP": "Gli ultimi tre chilometri prima di Ada Bojana sono i piu ampi e selvaggi. Scuole di kite, qualche chiosco che serve pesce alla griglia e il vento piu forte. La strada finisce prima della spiaggia, l'ultimo tratto e raggiungibile a piedi o in 4x4 lungo la sabbia con la bassa marea.",
     "h2Drive": "Come Arrivare in Auto",
     "driveP": "Dal centro di Ulcinj, seguite le indicazioni per Velika Plaza / Ada Bojana. La strada principale corre parallela alla spiaggia a circa 500 metri nell'entroterra. Le deviazioni a intervalli di circa 1 km portano alle varie sezioni della spiaggia. Il tragitto dalla Citta Vecchia richiede 5-10 minuti a seconda della sezione a cui siete diretti. Se alloggiate nella",
     "oldtownLink": "Citta Vecchia",
     "h2Tips": "Consigli Pratici",
     "tipSandLabel": "Tipo di sabbia:",
-    "tipSandVal": "Sabbia minerale scura — diventa molto calda al sole pomeridiano. Portate scarpe da spiaggia o sandali.",
+    "tipSandVal": "Sabbia minerale scura, diventa molto calda al sole pomeridiano. Portate scarpe da spiaggia o sandali.",
     "tipParkingLabel": "Parcheggio:",
     "tipParkingVal": "Aree in ghiaia gratuite nella maggior parte dei punti di accesso. 3-5 EUR nelle sezioni settentrionali piu attrezzate in estate.",
     "tipSunLabel": "Protezione solare:",
@@ -722,29 +722,29 @@
   },
   "blogAdabojana": {
     "title": "Ada Bojana: In Auto verso l'Isola alla Foce del Fiume",
-    "subtitle": "Un'isola triangolare dove la Bojana incontra l'Adriatico — spiagge sabbiose, ristoranti di pesce di fiume e tra i migliori spot di kitesurf d'Europa.",
+    "subtitle": "Un'isola triangolare dove la Bojana incontra l'Adriatico, spiagge sabbiose, ristoranti di pesce di fiume e tra i migliori spot di kitesurf d'Europa.",
     "description": "Come raggiungere Ada Bojana da Ulcinj in auto. Pedaggio del ponte, accesso alla spiaggia, ristoranti di pesce di fiume, condizioni di kitesurf e consigli pratici per visitare l'isola fluviale del Montenegro.",
     "h2Island": "Un'Isola tra Fiume e Mare",
-    "islandP1": "Ada Bojana e un'isola triangolare formata dai due rami della Bojana poco prima di sfociare nell'Adriatico. L'isola copre circa 5 chilometri quadrati di terreno pianeggiante e sabbioso, bordato da spiagge su tutti e tre i lati. La spiaggia lato mare e esposta a sud-ovest e cattura gli stessi venti termici che rendono Velika Plaza una destinazione per il kitesurf. Le spiagge fluviali sono piu calme — acqua calda, bassa e con una leggera corrente.",
+    "islandP1": "Ada Bojana e un'isola triangolare formata dai due rami della Bojana poco prima di sfociare nell'Adriatico. L'isola copre circa 5 chilometri quadrati di terreno pianeggiante e sabbioso, bordato da spiagge su tutti e tre i lati. La spiaggia lato mare e esposta a sud-ovest e cattura gli stessi venti termici che rendono Velika Plaza una destinazione per il kitesurf. Le spiagge fluviali sono piu calme, acqua calda, bassa e con una leggera corrente.",
     "islandP2": "Per decenni Ada Bojana e stata uno dei piu famosi villaggi naturisti d'Europa. Il complesso alberghiero ha chiuso da tempo, ma il carattere dell'isola resta: tranquillo, leggermente selvaggio e diverso da qualsiasi altro luogo sulla costa montenegrina. Ristoranti di pesce di fiume su palafitte di legno si allineano sulla riva settentrionale, e la spiaggia meridionale si estende ininterrotta fino al confine albanese.",
     "h2Drive": "Raggiungere Ada Bojana in Auto",
-    "driveP1": "Da Ulcinj, seguite la strada costiera verso sud in direzione di Velika Plaza. Dopo circa 12 km raggiungete il ponte di Ada Bojana — una struttura in cemento a corsia unica che attraversa il ramo meridionale della Bojana. C'e un casello sul lato continentale. Il pedaggio e di 3 EUR per auto (solo contanti, possibilmente moneta esatta). Una volta attraversato, una pista sabbiosa conduce alla spiaggia principale e ai ristoranti sul fiume.",
-    "driveP2": "La strada sull'isola non e asfaltata. Qualsiasi auto puo percorrerla con tempo asciutto, ma dopo forti piogge le piste diventano molli. Un veicolo con maggiore altezza da terra e piu confortevole. L'isola dista anche pochi chilometri dal confine albanese — se prevedete una gita giornaliera a Scutari, leggete la nostra guida su",
+    "driveP1": "Da Ulcinj, seguite la strada costiera verso sud in direzione di Velika Plaza. Dopo circa 12 km raggiungete il ponte di Ada Bojana, una struttura in cemento a corsia unica che attraversa il ramo meridionale della Bojana. C'e un casello sul lato continentale. Il pedaggio e di 3 EUR per auto (solo contanti, possibilmente moneta esatta). Una volta attraversato, una pista sabbiosa conduce alla spiaggia principale e ai ristoranti sul fiume.",
+    "driveP2": "La strada sull'isola non e asfaltata. Qualsiasi auto puo percorrerla con tempo asciutto, ma dopo forti piogge le piste diventano molli. Un veicolo con maggiore altezza da terra e piu confortevole. L'isola dista anche pochi chilometri dal confine albanese, se prevedete una gita giornaliera a Scutari, leggete la nostra guida su",
     "albaniaLink": "come attraversare il confine con l'Albania da Ulcinj",
     "driveP3": "prima di partire.",
     "altInline": "Ristorante su palafitte di legno sul fiume Bojana ad Ada Bojana",
     "h2Beach": "Le Spiagge",
-    "beachP": "La spiaggia lato mare sul versante sud e lunga circa 3 km — sabbia fine, entrata bassa e generalmente poco affollata anche in alta stagione. Le spiagge fluviali sui lati nord ed est sono riparate dal vento e piu calde del mare aperto. Le famiglie con bambini piccoli tendono a preferire il lato fiume. Non ci sono servizi di lettini sull'isola — portate tutto il necessario.",
+    "beachP": "La spiaggia lato mare sul versante sud e lunga circa 3 km, sabbia fine, entrata bassa e generalmente poco affollata anche in alta stagione. Le spiagge fluviali sui lati nord ed est sono riparate dal vento e piu calde del mare aperto. Le famiglie con bambini piccoli tendono a preferire il lato fiume. Non ci sono servizi di lettini sull'isola, portate tutto il necessario.",
     "h2Food": "Ristoranti di Pesce di Fiume",
-    "foodP": "I ristoranti su palafitte lungo il canale settentrionale della Bojana servono pesce d'acqua dolce pescato nel fiume quella mattina stessa — carpa, anguilla e trota, grigliata intera su fuoco a legna e servita con blitva (bietola) e patate. Sono tra i pasti piu caratteristici che si possano gustare in Montenegro. I prezzi sono moderati — calcolate 10-15 EUR a persona per un pasto completo di pesce con vino. Per saperne di piu sulla scena gastronomica locale, consultate la nostra",
+    "foodP": "I ristoranti su palafitte lungo il canale settentrionale della Bojana servono pesce d'acqua dolce pescato nel fiume quella mattina stessa, carpa, anguilla e trota, grigliata intera su fuoco a legna e servita con blitva (bietola) e patate. Sono tra i pasti piu caratteristici che si possano gustare in Montenegro. I prezzi sono moderati, calcolate 10-15 EUR a persona per un pasto completo di pesce con vino. Per saperne di piu sulla scena gastronomica locale, consultate la nostra",
     "seafoodLink": "guida al pesce di Ulcinj",
     "h2Wind": "Vento e Kitesurf",
-    "windP": "La spiaggia lato mare di Ada Bojana cattura le stesse termiche da sud-ovest dell'estremita meridionale di Velika Plaza, ma il terreno piatto dell'isola e l'assenza di edifici creano un corridoio di vento ancora piu costante. La foce del fiume offre anche la possibilita di navigare in acqua piatta — cosa rara sulla costa adriatica. Due scuole di kite operano dalla spiaggia tra maggio e settembre. Il noleggio di tavola e kite costa circa 60-80 EUR al giorno.",
+    "windP": "La spiaggia lato mare di Ada Bojana cattura le stesse termiche da sud-ovest dell'estremita meridionale di Velika Plaza, ma il terreno piatto dell'isola e l'assenza di edifici creano un corridoio di vento ancora piu costante. La foce del fiume offre anche la possibilita di navigare in acqua piatta, cosa rara sulla costa adriatica. Due scuole di kite operano dalla spiaggia tra maggio e settembre. Il noleggio di tavola e kite costa circa 60-80 EUR al giorno.",
     "h2Tips": "Consigli Pratici",
     "tipBridgeLabel": "Pedaggio ponte:",
-    "tipBridgeVal": "3 EUR per auto, solo contanti. Il ponte e a corsia unica — attendete che il traffico in senso opposto si sia fermato prima di attraversare.",
+    "tipBridgeVal": "3 EUR per auto, solo contanti. Il ponte e a corsia unica, attendete che il traffico in senso opposto si sia fermato prima di attraversare.",
     "tipCarLabel": "Tipo di auto:",
-    "tipCarVal": "Qualsiasi auto con tempo asciutto. Altezza da terra maggiore consigliata dopo la pioggia — le piste dell'isola sono in sabbia non asfaltata.",
+    "tipCarVal": "Qualsiasi auto con tempo asciutto. Altezza da terra maggiore consigliata dopo la pioggia, le piste dell'isola sono in sabbia non asfaltata.",
     "tipCashLabel": "Contanti:",
     "tipCashVal": "I ristoranti e le attivita balneari sull'isola accettano solo contanti. Portate euro.",
     "tipMosquitoLabel": "Zanzare:",
@@ -764,22 +764,22 @@
     "subtitle": "Il valico di Sukobin e a 20 minuti a sud di Ulcinj. Documentazione della Carta Verde, cosa aspettarsi al controllo e un itinerario giornaliero verso Scutari e ritorno.",
     "description": "Tutto cio che serve sapere per guidare da Ulcinj all'Albania. Procedure al valico di Sukobin, assicurazione Carta Verde, gita giornaliera a Scutari e consigli pratici per un'auto a noleggio.",
     "h2Why": "Perche Attraversare da Ulcinj?",
-    "whyP1": "Ulcinj e la citta montenegrina piu vicina al confine albanese. Il valico di Sukobin/Muriqan si trova a soli 20 minuti a sud del centro citta — piu vicino di quanto molti visitatori si aspettino. La strada scende attraverso uliveti e terreni agricoli prima di raggiungere il posto di controllo sulle rive della Bojana. Dall'altro lato, la citta albanese di Scutari dista altri 30-40 minuti di guida.",
-    "whyP2": "L'attraversamento in se e semplice. Le code sono brevi al di fuori dei fine settimana di luglio e agosto. Entrambi i lati dispongono di strutture di frontiera moderne. L'intera procedura — timbro di uscita montenegrino, timbro di ingresso albanese, controllo dei documenti del veicolo — richiede in genere 10-15 minuti per direzione.",
+    "whyP1": "Ulcinj e la citta montenegrina piu vicina al confine albanese. Il valico di Sukobin/Muriqan si trova a soli 20 minuti a sud del centro citta, piu vicino di quanto molti visitatori si aspettino. La strada scende attraverso uliveti e terreni agricoli prima di raggiungere il posto di controllo sulle rive della Bojana. Dall'altro lato, la citta albanese di Scutari dista altri 30-40 minuti di guida.",
+    "whyP2": "L'attraversamento in se e semplice. Le code sono brevi al di fuori dei fine settimana di luglio e agosto. Entrambi i lati dispongono di strutture di frontiera moderne. L'intera procedura, timbro di uscita montenegrino, timbro di ingresso albanese, controllo dei documenti del veicolo, richiede in genere 10-15 minuti per direzione.",
     "h2Crossing": "Al Confine",
-    "crossingP1": "Servono passaporto, patente di guida, libretto di circolazione del veicolo e una Carta Verde (certificato di assicurazione automobilistica internazionale). La Carta Verde dimostra che l'assicurazione dell'auto a noleggio e valida in Albania. Senza, verrete respinti o dovrete acquistare un'assicurazione albanese contro terzi al confine — un processo che aggiunge tempo e costi.",
+    "crossingP1": "Servono passaporto, patente di guida, libretto di circolazione del veicolo e una Carta Verde (certificato di assicurazione automobilistica internazionale). La Carta Verde dimostra che l'assicurazione dell'auto a noleggio e valida in Albania. Senza, verrete respinti o dovrete acquistare un'assicurazione albanese contro terzi al confine, un processo che aggiunge tempo e costi.",
     "crossingP2": "Se noleggiate tramite noi, comunicateci alla prenotazione che intendete attraversare il confine con l'Albania e ci assicureremo che la Carta Verde sia nel vano portaoggetti. Per tutti i dettagli sui requisiti transfrontalieri, consultate la nostra",
     "borderGuideLink": "guida ai valichi di frontiera",
     "crossingP3": "che copre tutti e sei i paesi raggiungibili in auto dal Montenegro.",
     "altInline": "Strada in avvicinamento al valico di Sukobin tra Montenegro e Albania",
     "h2Shkodra": "Scutari: La Prima Citta Albanese",
-    "shkodraP": "Scutari si trova all'estremita meridionale del Lago di Scutari (Lago Shkodra sul versante albanese). Il Castello di Rozafa domina la citta da una collina — una fortezza con fondamenta illiriche e vedute sul lago fino alle montagne. Il quartiere del vecchio bazar sottostante e compatto e percorribile a piedi, con caffe, botteghe artigiane e alcuni edifici di epoca ottomana. Calcolate 2-3 ore per esplorare il castello e il centro citta.",
+    "shkodraP": "Scutari si trova all'estremita meridionale del Lago di Scutari (Lago Shkodra sul versante albanese). Il Castello di Rozafa domina la citta da una collina, una fortezza con fondamenta illiriche e vedute sul lago fino alle montagne. Il quartiere del vecchio bazar sottostante e compatto e percorribile a piedi, con caffe, botteghe artigiane e alcuni edifici di epoca ottomana. Calcolate 2-3 ore per esplorare il castello e il centro citta.",
     "h2GreenCard": "Carta Verde e Assicurazione",
     "greenCardP": "La Carta Verde e un documento standardizzato riconosciuto in tutta Europa e nei paesi limitrofi. Estende l'assicurazione contro terzi del veicolo al paese in cui state entrando. Per l'Albania e obbligatoria. Se dimenticate di organizzarla in anticipo, alcune compagnie di noleggio applicano un sovrapprezzo per emetterla all'ultimo minuto. Altre non offrono affatto la copertura per l'Albania. Verificate prima di prenotare. Il confine e anche vicino a",
     "adaLink": "Ada Bojana",
-    "greenCardP2": "— alcuni visitatori combinano l'isola con una gita giornaliera in Albania nello stesso giorno.",
+    "greenCardP2": ", alcuni visitatori combinano l'isola con una gita giornaliera in Albania nello stesso giorno.",
     "h2DayTrip": "Itinerario Giornaliero Consigliato",
-    "dayTripP": "Partite da Ulcinj alle 9. Attraversate a Sukobin (calcolate 15 min per il confine). Guidate fino a Scutari (30 min). Visitate il Castello di Rozafa e passeggiate nel centro storico. Pranzo in un ristorante sul lago — trota alla griglia e raki. Rientro dallo stesso valico. Sarete di ritorno a Ulcinj nel primo pomeriggio con tempo per un bagno a Velika Plaza prima del tramonto.",
+    "dayTripP": "Partite da Ulcinj alle 9. Attraversate a Sukobin (calcolate 15 min per il confine). Guidate fino a Scutari (30 min). Visitate il Castello di Rozafa e passeggiate nel centro storico. Pranzo in un ristorante sul lago, trota alla griglia e raki. Rientro dallo stesso valico. Sarete di ritorno a Ulcinj nel primo pomeriggio con tempo per un bagno a Velika Plaza prima del tramonto.",
     "h2Tips": "Consigli Pratici",
     "tipDocsLabel": "Documenti:",
     "tipDocsVal": "Passaporto, patente, libretto di circolazione, Carta Verde. Le fotocopie non sono accettate.",
@@ -788,7 +788,7 @@
     "tipFuelLabel": "Carburante:",
     "tipFuelVal": "Fate il pieno a Ulcinj prima di attraversare. Il carburante albanese e piu economico ma la qualita delle stazioni varia. Il viaggio di andata e ritorno e sotto i 150 km totali.",
     "tipReturnLabel": "Orario di rientro:",
-    "tipReturnVal": "Evitate di rientrare in Montenegro dopo le 18 il venerdi in estate — le code si allungano al punto di ingresso montenegrino.",
+    "tipReturnVal": "Evitate di rientrare in Montenegro dopo le 18 il venerdi in estate, le code si allungano al punto di ingresso montenegrino.",
     "glanceTitle": "In Breve",
     "glanceBorder": "Distanza dal Confine",
     "glanceBorderVal": "20 min da Ulcinj",
@@ -804,18 +804,18 @@
     "subtitle": "Un albero di 2.000 anni, uliveti terrazzati che digradano verso l'Adriatico e olio spremuto a freddo da assaggiare direttamente in azienda.",
     "description": "Visitate l'Antico Olivo di Ulcinj, ritenuto avere piu di 2.000 anni. Percorrete in auto gli uliveti circostanti, assaggiate l'olio d'oliva locale ed esplorate il paesaggio agricolo piu antico del Montenegro.",
     "h2Tree": "L'Albero piu Antico del Montenegro",
-    "treeP1": "L'Antico Olivo (Stara Maslina) si trova nel villaggio di Mirovica, a circa 5 km a nord del centro di Ulcinj. Si ritiene che abbia piu di 2.000 anni — uno degli olivi piu antichi d'Europa e certamente l'essere vivente piu antico del Montenegro. Il tronco e enorme: oltre 10 metri di circonferenza, cavo e nodoso in forme che sembrano piu sculture che biologia.",
-    "treeP2": "L'albero produce ancora frutti. Le famiglie locali ne raccolgono le olive ogni autunno insieme a quelle delle migliaia di alberi piu giovani che lo circondano. Un piccolo recinto lo identifica come monumento naturale protetto e c'e un modesto biglietto di ingresso. Il luogo e tranquillo — niente autobus turistici, niente negozio di souvenir, solo l'albero e una panchina.",
+    "treeP1": "L'Antico Olivo (Stara Maslina) si trova nel villaggio di Mirovica, a circa 5 km a nord del centro di Ulcinj. Si ritiene che abbia piu di 2.000 anni, uno degli olivi piu antichi d'Europa e certamente l'essere vivente piu antico del Montenegro. Il tronco e enorme: oltre 10 metri di circonferenza, cavo e nodoso in forme che sembrano piu sculture che biologia.",
+    "treeP2": "L'albero produce ancora frutti. Le famiglie locali ne raccolgono le olive ogni autunno insieme a quelle delle migliaia di alberi piu giovani che lo circondano. Un piccolo recinto lo identifica come monumento naturale protetto e c'e un modesto biglietto di ingresso. Il luogo e tranquillo, niente autobus turistici, niente negozio di souvenir, solo l'albero e una panchina.",
     "h2Getting": "Come Arrivarci",
     "gettingP": "Guidate verso nord da Ulcinj sulla strada per Bar. Dopo circa 4 km, una deviazione segnalata porta a Mirovica e all'Antico Olivo. La strada e asfaltata e l'albero e ben segnalato. Il parcheggio e gratuito. Sulla via del ritorno, considerate una deviazione verso la",
     "valdanosLink": "Baia di Valdanos",
     "gettingP2": "raggiungibile dallo stesso tratto di strada e che vi porta attraverso alcuni dei piu fitti uliveti della regione.",
     "altInline": "L'antico Olivo di Ulcinj con il suo tronco nodoso",
     "h2Groves": "Gli Uliveti",
-    "grovesP1": "La campagna tra Ulcinj e Bar e coperta di olivi — si stimano 80.000 nell'intero comune. Gli uliveti sono disposti a terrazza sui pendii che digradano verso il mare, creando un paesaggio rimasto praticamente immutato nei secoli. Molti alberi hanno tra i 300 e i 500 anni. I piu antichi si concentrano nei pressi dei villaggi di Mirovica, Kruce e Valdanos.",
-    "grovesP2": "Guidare attraverso gli uliveti e uno dei piaceri piu tranquilli della zona di Ulcinj. Le strade sono strette, ombreggiate e deserte. A novembre, durante la raccolta, le famiglie stendono reti sotto gli alberi e battono i rami con lunghe pertiche — una pratica rimasta invariata dall'epoca romana.",
+    "grovesP1": "La campagna tra Ulcinj e Bar e coperta di olivi, si stimano 80.000 nell'intero comune. Gli uliveti sono disposti a terrazza sui pendii che digradano verso il mare, creando un paesaggio rimasto praticamente immutato nei secoli. Molti alberi hanno tra i 300 e i 500 anni. I piu antichi si concentrano nei pressi dei villaggi di Mirovica, Kruce e Valdanos.",
+    "grovesP2": "Guidare attraverso gli uliveti e uno dei piaceri piu tranquilli della zona di Ulcinj. Le strade sono strette, ombreggiate e deserte. A novembre, durante la raccolta, le famiglie stendono reti sotto gli alberi e battono i rami con lunghe pertiche, una pratica rimasta invariata dall'epoca romana.",
     "h2Oil": "Degustazione e Acquisto dell'Olio",
-    "oilP": "Diverse aziende agricole nella zona di Ulcinj spremono il proprio olio e lo vendono in azienda. L'olio e tipicamente spremuto a freddo, non filtrato e di un verde intenso — pepato e leggermente amaro come deve essere un olio extravergine d'oliva di alta qualita. Le bottiglie costano 8-15 EUR a seconda della dimensione. Chiedete al sito dell'Antico Olivo indicazioni per il frantoio piu vicino. L'olio d'oliva locale si abbina perfettamente al pesce alla griglia nei",
+    "oilP": "Diverse aziende agricole nella zona di Ulcinj spremono il proprio olio e lo vendono in azienda. L'olio e tipicamente spremuto a freddo, non filtrato e di un verde intenso, pepato e leggermente amaro come deve essere un olio extravergine d'oliva di alta qualita. Le bottiglie costano 8-15 EUR a seconda della dimensione. Chiedete al sito dell'Antico Olivo indicazioni per il frantoio piu vicino. L'olio d'oliva locale si abbina perfettamente al pesce alla griglia nei",
     "seafoodLink": "ristoranti sul lungomare di Ulcinj",
     "h2Tips": "Consigli Pratici",
     "tipSeasonLabel": "Stagione migliore:",
@@ -823,7 +823,7 @@
     "tipPhotoLabel": "Fotografia:",
     "tipPhotoVal": "La luce del mattino attraverso la chioma degli olivi e eccezionale. L'Antico Olivo viene meglio in foto con luce morbida e nuvolosa.",
     "tipBuyLabel": "Acquisto olio:",
-    "tipBuyVal": "Portate contanti — le vendite in azienda sono informali. Le bottiglie di vetro viaggiano meglio di quelle in plastica nel bagaglio.",
+    "tipBuyVal": "Portate contanti, le vendite in azienda sono informali. Le bottiglie di vetro viaggiano meglio di quelle in plastica nel bagaglio.",
     "tipCombineLabel": "Da abbinare a:",
     "tipCombineVal": "Baia di Valdanos (15 min) o la guida verso nord fino alle rovine della Citta Vecchia di Bar (25 min).",
     "glanceTitle": "In Breve",
@@ -838,27 +838,27 @@
   },
   "blogValdanos": {
     "title": "Baia di Valdanos: La Cala Nascosta con 10.000 Olivi",
-    "subtitle": "Un'insenatura riparata circondata da antichi uliveti — nessun hotel, nessun sviluppo turistico, solo acqua cristallina e il canto delle cicale in estate.",
+    "subtitle": "Un'insenatura riparata circondata da antichi uliveti, nessun hotel, nessun sviluppo turistico, solo acqua cristallina e il canto delle cicale in estate.",
     "description": "Scoprite la Baia di Valdanos vicino a Ulcinj. Una cala segreta circondata da uliveti, raggiungibile in auto tramite una strada tortuosa. Nuoto, snorkeling e silenzio assoluto sulla costa meridionale del Montenegro.",
     "h2Hidden": "La Baia che Nessuno Menziona",
-    "hiddenP1": "La Baia di Valdanos si trova a circa 5 km a nord di Ulcinj, incastrata tra due promontori e invisibile dalla strada principale. La baia e piccola — forse 300 metri di ampiezza — e racchiusa su tre lati da ripide colline coperte di olivi. L'acqua e profonda, cristallina e riparata dal mare aperto. In una regione che pubblicizza la sua spiaggia di 12 km, Valdanos passa in gran parte inosservata.",
+    "hiddenP1": "La Baia di Valdanos si trova a circa 5 km a nord di Ulcinj, incastrata tra due promontori e invisibile dalla strada principale. La baia e piccola, forse 300 metri di ampiezza, e racchiusa su tre lati da ripide colline coperte di olivi. L'acqua e profonda, cristallina e riparata dal mare aperto. In una regione che pubblicizza la sua spiaggia di 12 km, Valdanos passa in gran parte inosservata.",
     "hiddenP2": "Non ci sono hotel, resort ne stabilimenti balneari. Alcuni edifici abbandonati di un complesso vacanziero dell'epoca socialista giacciono ricoperti di vegetazione tra gli olivi, aggiungendo un'atmosfera vagamente post-apocalittica che alcuni visitatori trovano affascinante e altri inquietante. La spiaggia e di ciottoli, l'acqua e eccellente per lo snorkeling e l'impressione generale e quella di un luogo dimenticato dal turismo.",
     "h2Drive": "Come Arrivarci",
-    "driveP1": "Da Ulcinj, guidate verso nord sulla strada principale per Bar. Dopo circa 3 km, una svolta a sinistra segnalata porta a Valdanos. La strada si restringe subito e scende a tornanti attraverso fitti uliveti per circa 2 km prima di aprirsi sulla baia. Il fondo e asfaltato ma irregolare in alcuni punti — qualsiasi auto puo percorrerla, ma procedete lentamente nelle curve.",
-    "driveP2": "Parcheggiate dove la strada incontra la riva. Non ci sono servizi — ne bagni, ne negozi, ne strutture ombreggianti. Portate tutto il necessario per la giornata. Sulla via del ritorno in salita, svoltate a sinistra verso Mirovica per visitare la",
+    "driveP1": "Da Ulcinj, guidate verso nord sulla strada principale per Bar. Dopo circa 3 km, una svolta a sinistra segnalata porta a Valdanos. La strada si restringe subito e scende a tornanti attraverso fitti uliveti per circa 2 km prima di aprirsi sulla baia. Il fondo e asfaltato ma irregolare in alcuni punti, qualsiasi auto puo percorrerla, ma procedete lentamente nelle curve.",
+    "driveP2": "Parcheggiate dove la strada incontra la riva. Non ci sono servizi, ne bagni, ne negozi, ne strutture ombreggianti. Portate tutto il necessario per la giornata. Sulla via del ritorno in salita, svoltate a sinistra verso Mirovica per visitare la",
     "oldtownLink": "Citta Vecchia",
     "driveP3": "o proseguire fino all'Antico Olivo.",
     "altInline": "La Baia di Valdanos vista dagli uliveti sovrastanti",
     "h2Olives": "Gli Uliveti",
-    "olivesP": "Le colline intorno a Valdanos ospitano circa 10.000 olivi, molti dei quali centenari. Gli uliveti fanno parte della stessa fascia agricola che si estende da Ulcinj a Bar e produce uno dei migliori oli d'oliva dei Balcani occidentali. Camminare tra gli uliveti sopra la baia e un'esperienza quieta e meditativa — gli alberi filtrano la luce e l'aria profuma di resina calda. Per saperne di piu sul patrimonio olivicolo della regione, consultate la nostra guida sull'",
+    "olivesP": "Le colline intorno a Valdanos ospitano circa 10.000 olivi, molti dei quali centenari. Gli uliveti fanno parte della stessa fascia agricola che si estende da Ulcinj a Bar e produce uno dei migliori oli d'oliva dei Balcani occidentali. Camminare tra gli uliveti sopra la baia e un'esperienza quieta e meditativa, gli alberi filtrano la luce e l'aria profuma di resina calda. Per saperne di piu sul patrimonio olivicolo della regione, consultate la nostra guida sull'",
     "oliveLink": "Antico Olivo e il percorso degli uliveti",
     "h2Swim": "Nuoto e Snorkeling",
-    "swimP": "L'acqua di Valdanos e tra le piu limpide della costa montenegrina. Il fondale di ciottoli scende rapidamente, rendendolo ideale per lo snorkeling — ricci di mare, piccoli pesci e occasionalmente polpi sono visibili vicino agli scogli su entrambi i lati della baia. La baia e riparata dal vento prevalente di sud-ovest, quindi l'acqua resta calma anche quando Velika Plaza e mossa.",
+    "swimP": "L'acqua di Valdanos e tra le piu limpide della costa montenegrina. Il fondale di ciottoli scende rapidamente, rendendolo ideale per lo snorkeling, ricci di mare, piccoli pesci e occasionalmente polpi sono visibili vicino agli scogli su entrambi i lati della baia. La baia e riparata dal vento prevalente di sud-ovest, quindi l'acqua resta calma anche quando Velika Plaza e mossa.",
     "h2History": "Il Resort Abbandonato",
-    "historyP": "Negli anni '70 e '80, un complesso vacanziero operava sulla riva orientale della baia. Gli edifici sono rimasti vuoti per decenni e ora sono in parte riconquistati dalla vegetazione. Piani di riqualificazione sono stati annunciati e abbandonati ripetutamente. Per ora, le rovine contribuiscono all'atmosfera di benevolo abbandono della baia — un promemoria del fatto che non ogni luogo bello del Montenegro ha bisogno di un hotel a cinque stelle.",
+    "historyP": "Negli anni '70 e '80, un complesso vacanziero operava sulla riva orientale della baia. Gli edifici sono rimasti vuoti per decenni e ora sono in parte riconquistati dalla vegetazione. Piani di riqualificazione sono stati annunciati e abbandonati ripetutamente. Per ora, le rovine contribuiscono all'atmosfera di benevolo abbandono della baia, un promemoria del fatto che non ogni luogo bello del Montenegro ha bisogno di un hotel a cinque stelle.",
     "h2Tips": "Consigli Pratici",
     "tipRoadLabel": "Strada:",
-    "tipRoadVal": "Asfaltata ma stretta con curve strette. Guidate lentamente e suonate il clacson nelle curve cieche — il traffico in senso opposto non ha spazio per passare.",
+    "tipRoadVal": "Asfaltata ma stretta con curve strette. Guidate lentamente e suonate il clacson nelle curve cieche, il traffico in senso opposto non ha spazio per passare.",
     "tipBringLabel": "Da portare:",
     "tipBringVal": "Acqua, cibo, protezione solare, attrezzatura per lo snorkeling. Non ci sono assolutamente servizi nella baia.",
     "tipTimeLabel": "Orario migliore:",
@@ -877,26 +877,26 @@
   },
   "blogSeafood": {
     "title": "La Tradizione del Pesce di Ulcinj: Dove i Pescatori Pescano Ancora",
-    "subtitle": "Il pescato del mattino arriva al porto prima dell'alba. Pesce intero alla griglia, risotto nero e anguilla di fiume — una guida per mangiare pesce nella citta piu meridionale del Montenegro.",
+    "subtitle": "Il pescato del mattino arriva al porto prima dell'alba. Pesce intero alla griglia, risotto nero e anguilla di fiume, una guida per mangiare pesce nella citta piu meridionale del Montenegro.",
     "description": "Dove mangiare pesce fresco a Ulcinj, Montenegro. Ristoranti della Citta Vecchia, mercato del pesce al porto, ristoranti su palafitte ad Ada Bojana e cosa ordinare in ciascuno.",
     "h2Tradition": "Una Citta che Pesca Ancora",
-    "traditionP1": "Ulcinj e una citta di pescatori da sempre. Il piccolo porto sotto le mura della Citta Vecchia e ancora un porto operativo — pescherecci e barche piu piccole escono prima dell'alba e rientrano con cassette di branzino, orata, cefalo, calamari e polpo. Alle 7 il pescato e in mostra al mercato del porto e a mezzogiorno lo stesso pesce griglia sulla brace nei ristoranti di tutta la citta.",
+    "traditionP1": "Ulcinj e una citta di pescatori da sempre. Il piccolo porto sotto le mura della Citta Vecchia e ancora un porto operativo, pescherecci e barche piu piccole escono prima dell'alba e rientrano con cassette di branzino, orata, cefalo, calamari e polpo. Alle 7 il pescato e in mostra al mercato del porto e a mezzogiorno lo stesso pesce griglia sulla brace nei ristoranti di tutta la citta.",
     "traditionP2": "Questo collegamento diretto tra barca e piatto e sempre piu raro sulla costa adriatica. A Budva o Cattaro, gran parte del pesce servito nei ristoranti e importato o d'allevamento. A Ulcinj, la catena di approvvigionamento e lunga 200 metri. Si sente nel sapore.",
     "h2Where": "Dove Mangiare",
     "h3OldTown": "Dentro le Mura della Citta Vecchia",
-    "oldTownP": "Due o tre ristoranti operano all'interno delle mura della fortezza, ciascuno con terrazze all'aperto affacciate sul mare. L'ambientazione e suggestiva — archi in pietra, lume di candela e il suono delle onde sotto. I menu sono brevi e a base di pesce: branzino intero alla griglia, insalata di polpo e anelli di calamaro sono standard. I prezzi sono leggermente piu alti che al porto, ma l'atmosfera e il richiamo. Per saperne di piu sulla Citta Vecchia, consultate la nostra",
+    "oldTownP": "Due o tre ristoranti operano all'interno delle mura della fortezza, ciascuno con terrazze all'aperto affacciate sul mare. L'ambientazione e suggestiva, archi in pietra, lume di candela e il suono delle onde sotto. I menu sono brevi e a base di pesce: branzino intero alla griglia, insalata di polpo e anelli di calamaro sono standard. I prezzi sono leggermente piu alti che al porto, ma l'atmosfera e il richiamo. Per saperne di piu sulla Citta Vecchia, consultate la nostra",
     "oldtownLink": "guida a piedi",
     "h3Port": "Al Porto",
-    "portP": "I ristoranti lungo il porto sono piu semplici — sedie di plastica, tovaglie di carta e pesce cosi fresco che ha a malapena bisogno di condimento. E qui che mangiano i locali. Ordinate cio che il cameriere vi consiglia — sara il meglio del pescato mattutino. Il risotto nero (crni rizot) a base di inchiostro di seppia e una specialita della casa in diversi locali portuali. Un pasto completo con vino costa 12-18 EUR a persona.",
+    "portP": "I ristoranti lungo il porto sono piu semplici, sedie di plastica, tovaglie di carta e pesce cosi fresco che ha a malapena bisogno di condimento. E qui che mangiano i locali. Ordinate cio che il cameriere vi consiglia, sara il meglio del pescato mattutino. Il risotto nero (crni rizot) a base di inchiostro di seppia e una specialita della casa in diversi locali portuali. Un pasto completo con vino costa 12-18 EUR a persona.",
     "h3Ada": "Ristoranti su Palafitte di Ada Bojana",
-    "adaP": "I ristoranti di pesce di fiume ad Ada Bojana servono un menu completamente diverso: carpa, anguilla e trota d'acqua dolce pescate nella Bojana e grigliate su fuoco a legna su piattaforme di legno costruite sull'acqua. L'esperienza riguarda tanto l'ambientazione quanto il cibo — il fiume scorre sotto i vostri piedi, gli aironi pescano nelle secche e le montagne albanesi si ergono in lontananza. Approfondite nella nostra",
+    "adaP": "I ristoranti di pesce di fiume ad Ada Bojana servono un menu completamente diverso: carpa, anguilla e trota d'acqua dolce pescate nella Bojana e grigliate su fuoco a legna su piattaforme di legno costruite sull'acqua. L'esperienza riguarda tanto l'ambientazione quanto il cibo, il fiume scorre sotto i vostri piedi, gli aironi pescano nelle secche e le montagne albanesi si ergono in lontananza. Approfondite nella nostra",
     "adaLink": "guida ad Ada Bojana",
     "altInline": "Pesce intero alla griglia servito in un ristorante sul porto di Ulcinj",
     "h2Dishes": "Cosa Ordinare",
-    "dishesP1": "Il pesce intero alla griglia e la base della cucina di mare di Ulcinj. Branzino (brancin) e orata (orada) sono i piu comuni — serviti con olio d'oliva, limone e blitva (bietola con patate). Il polpo si prepara in due modi: alla griglia (hobotnica na zaru) o stufato sotto la peka (un coperchio metallico a cupola coperto di braci). Entrambi sono eccellenti.",
-    "dishesP2": "Come antipasto, provate la buzara — gamberi o cozze cotti in vino bianco, aglio e pangrattato. La versione locale usa qualsiasi frutto di mare arrivato quella mattina. Concludete con un bicchierino di loza (grappa d'uva) o un bicchiere di Vranac dalla valle di Crmnica — il vino rosso simbolo del Montenegro.",
+    "dishesP1": "Il pesce intero alla griglia e la base della cucina di mare di Ulcinj. Branzino (brancin) e orata (orada) sono i piu comuni, serviti con olio d'oliva, limone e blitva (bietola con patate). Il polpo si prepara in due modi: alla griglia (hobotnica na zaru) o stufato sotto la peka (un coperchio metallico a cupola coperto di braci). Entrambi sono eccellenti.",
+    "dishesP2": "Come antipasto, provate la buzara, gamberi o cozze cotti in vino bianco, aglio e pangrattato. La versione locale usa qualsiasi frutto di mare arrivato quella mattina. Concludete con un bicchierino di loza (grappa d'uva) o un bicchiere di Vranac dalla valle di Crmnica, il vino rosso simbolo del Montenegro.",
     "h2Market": "Il Mercato del Pesce",
-    "marketP": "Se cucinate in autonomia, il mercato del porto apre alle 6:30 e la migliore selezione finisce entro le 8. I pescatori vendono direttamente dalle barche — indicate cio che volete e concordate un prezzo. Il pesce intero si vende al chilo. Portatelo al vostro alloggio e grigliatelo voi stessi con l'olio d'oliva locale degli",
+    "marketP": "Se cucinate in autonomia, il mercato del porto apre alle 6:30 e la migliore selezione finisce entro le 8. I pescatori vendono direttamente dalle barche, indicate cio che volete e concordate un prezzo. Il pesce intero si vende al chilo. Portatelo al vostro alloggio e grigliatelo voi stessi con l'olio d'oliva locale degli",
     "oliveLink": "uliveti di Ulcinj",
     "h2Tips": "Consigli Pratici",
     "tipTimeLabel": "Orario migliore:",
@@ -923,26 +923,26 @@
     "description": "Guidate da Ulcinj a Murici sulla sponda meridionale del Lago di Scutari. Un'alternativa piu tranquilla a Virpazar con una spiaggia di ciottoli, gite in barca e colonie di pellicani. Itinerario e consigli pratici.",
     "h2Why": "La Sponda Meridionale che Nessuno Percorre",
     "whyP1": "Il Lago di Scutari e il lago piu grande dei Balcani e uno degli habitat per uccelli piu importanti d'Europa. La maggior parte dei turisti vi si avvicina da nord, attraverso la cittadina di Virpazar sull'autostrada Podgorica-Bar. Quel percorso e noto, ben segnalato e affollato di barche turistiche in estate.",
-    "whyP2": "Da Ulcinj c'e un'altra via. La sponda meridionale del lago e raggiungibile tramite una strada di montagna che sale attraverso i villaggi sopra la costa e scende fino alla frazione di Murici — un pugno di case, una spiaggia di ciottoli e operatori nautici che vi porteranno a vedere pellicani e ninfee. L'intera sponda meridionale riceve una frazione del traffico di Virpazar.",
+    "whyP2": "Da Ulcinj c'e un'altra via. La sponda meridionale del lago e raggiungibile tramite una strada di montagna che sale attraverso i villaggi sopra la costa e scende fino alla frazione di Murici, un pugno di case, una spiaggia di ciottoli e operatori nautici che vi porteranno a vedere pellicani e ninfee. L'intera sponda meridionale riceve una frazione del traffico di Virpazar.",
     "h2Route": "Il Tragitto da Ulcinj",
-    "routeP1": "Dirigetevi a nord da Ulcinj sulla strada principale verso Bar. Dopo circa 20 km, svoltate a sinistra a Vladimir — un piccolo paese sulle colline dietro la costa. La strada sale attraverso campi e boschi, supera un basso crinale e poi scende verso la riva del lago. Il tragitto totale e di circa 45 minuti. La strada e asfaltata per tutto il percorso ma stretta in alcuni tratti — prestate attenzione al traffico in senso opposto.",
+    "routeP1": "Dirigetevi a nord da Ulcinj sulla strada principale verso Bar. Dopo circa 20 km, svoltate a sinistra a Vladimir, un piccolo paese sulle colline dietro la costa. La strada sale attraverso campi e boschi, supera un basso crinale e poi scende verso la riva del lago. Il tragitto totale e di circa 45 minuti. La strada e asfaltata per tutto il percorso ma stretta in alcuni tratti, prestate attenzione al traffico in senso opposto.",
     "routeP2": "Lungo il percorso attraversate la valle del fiume Bojana. Una breve deviazione da questa strada conduce alle rovine della",
     "sasLink": "Fortezza di Sas",
-    "routeP3": "— una citta commerciale medievale che un tempo rivaleggiava con Dubrovnik.",
+    "routeP3": ", una citta commerciale medievale che un tempo rivaleggiava con Dubrovnik.",
     "altInline": "Spiaggia di Murici sulla sponda meridionale del Lago di Scutari",
     "h2Murici": "Spiaggia di Murici",
-    "muriciP1": "Murici e un minuscolo insediamento sulla riva del lago con una spiaggia di ciottoli ombreggiata dagli alberi. L'acqua e dolce, pulita e abbastanza calda per nuotare da giugno a settembre. Un paio di ristoranti a conduzione familiare servono pesce alla griglia e birra fredda. Non ci sono hotel — e una meta da gita giornaliera.",
+    "muriciP1": "Murici e un minuscolo insediamento sulla riva del lago con una spiaggia di ciottoli ombreggiata dagli alberi. L'acqua e dolce, pulita e abbastanza calda per nuotare da giugno a settembre. Un paio di ristoranti a conduzione familiare servono pesce alla griglia e birra fredda. Non ci sono hotel, e una meta da gita giornaliera.",
     "muriciP2": "La vista sul lago da Murici e notevole. L'acqua si estende fino al confine albanese e le montagne si innalzano ripide su tutti i lati. Al mattino presto, la foschia si posa sulla superficie e gli unici suoni sono quelli degli uccelli e dell'occasionale motore di un pescatore.",
     "h2Boat": "Gite in Barca per Vedere i Pellicani",
-    "boatP": "Gli operatori nautici locali di Murici offrono escursioni nelle parti piu profonde del lago dove i pellicani dalmati — tra gli uccelli piu rari d'Europa — nidificano tra le isole galleggianti di ninfee. La colonia di pellicani e piu attiva da aprile ad agosto. Un'escursione in barca dura 1-2 ore e costa circa 20-30 EUR a persona. Chiedete ai ristoranti sul lungomare per organizzarne una.",
+    "boatP": "Gli operatori nautici locali di Murici offrono escursioni nelle parti piu profonde del lago dove i pellicani dalmati, tra gli uccelli piu rari d'Europa, nidificano tra le isole galleggianti di ninfee. La colonia di pellicani e piu attiva da aprile ad agosto. Un'escursione in barca dura 1-2 ore e costa circa 20-30 EUR a persona. Chiedete ai ristoranti sul lungomare per organizzarne una.",
     "h2Combine": "Combinare con Altre Tappe",
-    "combineP": "La strada per Murici attraversa le stesse colline che ospitano gli uliveti di Ulcinj. Al ritorno, fermatevi per un pranzo tardivo in un ristorante sul porto di Ulcinj — consultate la nostra",
+    "combineP": "La strada per Murici attraversa le stesse colline che ospitano gli uliveti di Ulcinj. Al ritorno, fermatevi per un pranzo tardivo in un ristorante sul porto di Ulcinj, consultate la nostra",
     "seafoodLink": "guida al pesce",
     "h2Tips": "Consigli Pratici",
     "tipRoadLabel": "Strada:",
-    "tipRoadVal": "Asfaltata ma stretta. A corsia unica in alcuni tratti — usate le piazzole per il traffico in senso opposto.",
+    "tipRoadVal": "Asfaltata ma stretta. A corsia unica in alcuni tratti, usate le piazzole per il traffico in senso opposto.",
     "tipSwimLabel": "Nuoto:",
-    "tipSwimVal": "L'acqua del lago a Murici e pulita e calda. Portate scarpe da acqua — la spiaggia e di ciottoli.",
+    "tipSwimVal": "L'acqua del lago a Murici e pulita e calda. Portate scarpe da acqua, la spiaggia e di ciottoli.",
     "tipBirdsLabel": "Birdwatching:",
     "tipBirdsVal": "Portate un binocolo. Pellicani, aironi, cormorani e aquile si avvistano regolarmente.",
     "tipFuelLabel": "Carburante:",
@@ -962,19 +962,19 @@
     "subtitle": "Una citta commerciale medievale che rivaleggiava con Dubrovnik, inghiottita dalla palude e dimenticata. Le mura si ergono ancora accanto al fiume Bojana.",
     "description": "Visitate le rovine di Sas (Svac), una citta medievale perduta vicino a Ulcinj. Mura della fortezza, una cattedrale in rovina e paesaggi di zone umide. Indicazioni stradali e cosa aspettarsi sul posto.",
     "h2Lost": "Una Citta Cancellata dalla Mappa",
-    "lostP1": "Sas — anche scritto Svac o Svac — era una citta commerciale fortificata che sorgeva su una collina sopra la valle della Bojana, a circa 10 km a est di Ulcinj. Nel XIII e XIV secolo era un prospero insediamento commerciale con chiese, una cattedrale, mura difensive e collegamenti commerciali che si estendevano attraverso l'Adriatico. Alcune fonti medievali la descrivono come rivale di Dubrovnik in ricchezza e influenza.",
-    "lostP2": "La citta fu saccheggiata dagli Ottomani alla fine del XIV secolo. Non fu mai ricostruita. Nel corso dei secoli la popolazione si disperse, gli edifici crollarono e la palude avanzo. Oggi le rovine sorgono in gran parte non scavate su una bassa collina circondata da zone umide e terreni agricoli — visibili dalla strada ma visitate da quasi nessuno.",
+    "lostP1": "Sas, anche scritto Svac o Svac, era una citta commerciale fortificata che sorgeva su una collina sopra la valle della Bojana, a circa 10 km a est di Ulcinj. Nel XIII e XIV secolo era un prospero insediamento commerciale con chiese, una cattedrale, mura difensive e collegamenti commerciali che si estendevano attraverso l'Adriatico. Alcune fonti medievali la descrivono come rivale di Dubrovnik in ricchezza e influenza.",
+    "lostP2": "La citta fu saccheggiata dagli Ottomani alla fine del XIV secolo. Non fu mai ricostruita. Nel corso dei secoli la popolazione si disperse, gli edifici crollarono e la palude avanzo. Oggi le rovine sorgono in gran parte non scavate su una bassa collina circondata da zone umide e terreni agricoli, visibili dalla strada ma visitate da quasi nessuno.",
     "h2Drive": "Raggiungere le Rovine in Auto",
     "driveP1": "Da Ulcinj, prendete la strada verso nord in direzione di Bar. Dopo circa 5 km, svoltate a destra all'incrocio segnalato per Sas/Svac. Una strada a corsia unica attraversa terreni agricoli pianeggianti per circa 3 km prima di raggiungere la base della collina. Parcheggiate dove la strada finisce e camminate in salita per circa 10 minuti fino alle mura della fortezza.",
     "driveP2": "La strada attraversa la stessa valle fluviale usata da chi si dirige al",
     "skadarLink": "Lago di Scutari dalla sponda meridionale",
-    "driveP3": "— i due siti possono essere combinati in un circuito di mezza giornata in auto.",
+    "driveP3": ", i due siti possono essere combinati in un circuito di mezza giornata in auto.",
     "altInline": "Mura in rovina della Fortezza di Sas che si ergono sopra le zone umide della Bojana",
     "h2Ruins": "Cosa Troverete",
-    "ruinsP1": "Le mura della fortezza sopravvivono fino a un'altezza di diversi metri in alcuni punti. All'interno del perimetro, il profilo di una cattedrale e chiaramente visibile — l'abside, la navata e frammenti di stipiti in pietra scolpita. Fondamenta di edifici piu piccoli punteggiano la collina. Fiori selvatici e bassa macchia crescono tra le pietre. Non ci sono pannelli informativi, ne biglietteria, ne guida.",
+    "ruinsP1": "Le mura della fortezza sopravvivono fino a un'altezza di diversi metri in alcuni punti. All'interno del perimetro, il profilo di una cattedrale e chiaramente visibile, l'abside, la navata e frammenti di stipiti in pietra scolpita. Fondamenta di edifici piu piccoli punteggiano la collina. Fiori selvatici e bassa macchia crescono tra le pietre. Non ci sono pannelli informativi, ne biglietteria, ne guida.",
     "ruinsP2": "La vista dalla cima della collina vale la salita da sola. La Bojana serpeggia attraverso le verdi zone umide pianeggianti sottostanti, con le montagne dell'Albania che si innalzano a sud e l'Adriatico che brilla a ovest. In una mattina tranquilla l'unica compagnia sono gli uccelli.",
     "h2Bojana": "La Valle del Fiume Bojana",
-    "bojanaP": "Il paesaggio intorno a Sas fa parte della pianura alluvionale della Bojana — piatta, verde e ricca di avifauna. Aironi, garzette e cormorani lavorano i canali poco profondi. L'area ha un aspetto completamente diverso dalla fascia costiera a pochi chilometri di distanza. Se vi interessa la stratificazione storica della regione di Ulcinj, abbinate Sas a una visita alla",
+    "bojanaP": "Il paesaggio intorno a Sas fa parte della pianura alluvionale della Bojana, piatta, verde e ricca di avifauna. Aironi, garzette e cormorani lavorano i canali poco profondi. L'area ha un aspetto completamente diverso dalla fascia costiera a pochi chilometri di distanza. Se vi interessa la stratificazione storica della regione di Ulcinj, abbinate Sas a una visita alla",
     "oldtownLink": "fortezza della Citta Vecchia",
     "h2Tips": "Consigli Pratici",
     "tipAccessLabel": "Accesso:",
@@ -984,7 +984,7 @@
     "tipTimeLabel": "Durata:",
     "tipTimeVal": "Calcolate 1-1,5 ore inclusa la salita, l'esplorazione e il ritorno.",
     "tipCombineLabel": "Da abbinare a:",
-    "tipCombineVal": "Sponda meridionale del Lago di Scutari (Murici) o l'Antico Olivo — entrambi raggiungibili dalla stessa strada.",
+    "tipCombineVal": "Sponda meridionale del Lago di Scutari (Murici) o l'Antico Olivo, entrambi raggiungibili dalla stessa strada.",
     "glanceTitle": "In Breve",
     "glanceDrive": "Da Ulcinj",
     "glanceDriveVal": "15 minuti + 10 min a piedi",
@@ -998,83 +998,83 @@
   "velika-plaza": {
     "title": "Noleggio auto per Velika Plaza",
     "subtitle": "12 km di sabbia vulcanica grigia, deserta in ogni direzione. Nessun autobus arriva qui.",
-    "seoDesc": "Sabbia grigia ricca di minerali si estende fino al confine albanese — terapeutica, vulcanica e quasi completamente deserta. Nessun trasporto pubblico. L'auto è l'unico modo per raggiungere Velika Plaza."
+    "seoDesc": "Sabbia grigia ricca di minerali si estende fino al confine albanese, terapeutica, vulcanica e quasi completamente deserta. Nessun trasporto pubblico"
   },
   "ada-bojana": {
     "title": "Noleggio auto per Ada Bojana",
     "subtitle": "L'ultimo delta fluviale selvaggio d'Europa. Kitesurf, ristoranti su palafitte e il confine albanese.",
-    "seoDesc": "Un'isola triangolare dove il fiume Bojana incontra l'Adriatico — l'ultimo delta fluviale selvaggio d'Europa. Venti termici 15–25 nodi da giugno a settembre. 15 min a sud di Ulcinj."
+    "seoDesc": "Un'isola triangolare dove il fiume Bojana incontra l'Adriatico, l'ultimo delta fluviale selvaggio d'Europa. Venti termici 15-25 nodi da giugno a"
   },
   "stari-grad": {
     "title": "Città Vecchia di Ulcinj (Stari Grad)",
-    "subtitle": "2.500 anni di mura fortificate. Illiri, Romani, Veneziani, Ottomani — tutti impilati su un promontorio.",
-    "seoDesc": "Roccaforte pirata divenuta cittadella ottomana. Cervantes potrebbe essere stato imprigionato qui. Il richiamo del muezzin si mescola con le campane su 2.500 anni di storia stratificata."
+    "subtitle": "2.500 anni di mura fortificate. Illiri, Romani, Veneziani, Ottomani, tutti impilati su un promontorio.",
+    "seoDesc": "Roccaforte pirata divenuta cittadella ottomana. Cervantes potrebbe essere stato imprigionato qui. Il richiamo del muezzin si mescola con le campane su"
   },
   "valdanos": {
     "title": "Noleggio auto per Valdanos",
-    "subtitle": "Una baia nascosta in fondo a una strada sterrata, custodita da 80.000 ulivi — alcuni più antichi di Cristo.",
-    "seoDesc": "Accessibile solo tramite strada sterrata. 80.000 ulivi, alcuni di oltre 2.000 anni, circondano una baia silenziosa senza alcun servizio. Portate tutto il necessario. Raggiungibile solo in auto."
+    "subtitle": "Una baia nascosta in fondo a una strada sterrata, custodita da 80.000 ulivi, alcuni più antichi di Cristo.",
+    "seoDesc": "Accessibile solo tramite strada sterrata. 80.000 ulivi, alcuni di oltre 2.000 anni, circondano una baia silenziosa senza alcun servizio. Portate tutto il"
   },
   "bar": {
     "title": "Noleggio auto a Bar",
     "subtitle": "Un porto operativo con rovine medievali sulla collina e un ulivo più antico di Roma.",
-    "seoDesc": "30 min a nord di Ulcinj. La fortezza di Stari Bar si sgretola sulla collina sopra un porto operativo. Un ulivo di oltre 2.000 anni si trova nelle vicinanze. Traghetto per Bari se l'Italia chiama."
+    "seoDesc": "30 min a nord di Ulcinj. La fortezza di Stari Bar si sgretola sulla collina sopra un porto operativo. Un ulivo di oltre 2.000 anni si trova nelle"
   },
   "lake-skadar": {
     "title": "Noleggio auto per il Lago di Scutari",
-    "subtitle": "Pellicani, fenicotteri e vino Crmnica — 45 minuti nell'entroterra dalla costa.",
-    "seoDesc": "Il lago più grande dei Balcani a 45 min da Ulcinj. Pellicani dalmati, avvistamenti di fenicotteri alle saline, gite in barca da Virpazar e rosso Crmnica al bicchiere."
+    "subtitle": "Pellicani, fenicotteri e vino Crmnica, 45 minuti nell'entroterra dalla costa.",
+    "seoDesc": "Il lago più grande dei Balcani a 45 min da Ulcinj. Pellicani dalmati, avvistamenti di fenicotteri alle saline, gite in barca da Virpazar e rosso Crmnica"
   },
   "shkodra": {
     "title": "Gita giornaliera a Scutari, Albania",
     "subtitle": "Attraversate a Sukobin e salite al Castello di Rozafa in 30 minuti.",
-    "seoDesc": "Il valico di Sukobin è tranquillo e veloce. Il Castello di Rozafa a Scutari sorveglia il lago dai tempi illirici. Assicurazione carta verde e documenti di frontiera inclusi in ogni noleggio."
+    "seoDesc": "Il valico di Sukobin è tranquillo e veloce. Il Castello di Rozafa a Scutari sorveglia il lago dai tempi illirici. Assicurazione carta verde e documenti di"
   },
   "stariGradBody": {
-    "h1": "Stari Grad — 2.500 anni di mura piratesche e preghiere ottomane",
+    "h1": "Stari Grad, 2.500 anni di mura piratesche e preghiere ottomane",
     "p1": "La Città Vecchia di Ulcinj sorge su un promontorio roccioso sopra l'Adriatico, fortificata da mura costruite, distrutte e ricostruite per due millenni e mezzo. Gli Illiri posero le prime pietre. I Romani le ampliarono. I Veneziani le rinforzarono. Gli Ottomani aggiunsero minareti. I pirati le usarono come base per razziare il naviglio adriatico.",
     "p2": "Oggi la fortezza è un sandwich archeologico stratificato. Una moschea sta accanto a una chiesa. L'albanese si parla più del montenegrino. Il richiamo del muezzin dal minareto si mescola con le campane la domenica. Il mercato della città vecchia vende fichi freschi, miele locale e olio d'oliva dai millenari uliveti di Valdanos.",
     "historyTitle": "La roccaforte dei pirati",
     "historyText": "Ulcinj fu uno dei porti pirata più famigerati dell'Adriatico dal XVI al XVIII secolo. La Torre dei Balšić avrebbe tenuto prigioniero Cervantes per cinque anni dopo la cattura nella Battaglia di Lepanto nel 1571. Il mercato degli schiavi nella piazza principale è ora una tranquilla piazza con tavolini, ma gli anelli di ferro nei muri sono ancora visibili.",
     "whatToSeeTitle": "Dentro le mura",
-    "museum": "Museo di Ulcinj nella fortezza — monete illiriche, armi ottomane e un modello del vecchio porto pirata",
-    "mosque": "Le moschee storiche e le rovine dell'hammam — l'Ulcinj ottomana aveva 12 moschee e 4 hammam dentro le mura",
+    "museum": "Museo di Ulcinj nella fortezza, monete illiriche, armi ottomane e un modello del vecchio porto pirata",
+    "mosque": "Le moschee storiche e le rovine dell'hammam, l'Ulcinj ottomana aveva 12 moschee e 4 hammam dentro le mura",
     "walls": "Percorrete l'intero circuito dei bastioni. Nelle giornate limpide si vede fino all'Italia. Il tramonto dai bastioni occidentali vale da solo la salita.",
     "gettingThereTitle": "Come arrivare",
-    "gettingThereText": "Stari Grad è nel centro di Ulcinj. Parcheggiate nei parcheggi a pagamento sotto le mura della fortezza — le strade all'interno sono troppo strette per le auto. Salite attraverso la porta principale."
+    "gettingThereText": "Stari Grad è nel centro di Ulcinj. Parcheggiate nei parcheggi a pagamento sotto le mura della fortezza, le strade all'interno sono troppo strette per le auto. Salite attraverso la porta principale."
   },
   "valdanosBody": {
-    "h1": "Valdanos — Una baia nascosta dietro 80.000 ulivi",
-    "p1": "Valdanos è il tipo di posto che non compare nelle guide, e questo è esattamente il punto. Una strada sterrata si stacca dalla costiera circa 4 km a nord di Ulcinj e scende attraverso fitti uliveti — circa 80.000 alberi, alcuni confermati di oltre 2.000 anni — fino a una baia silenziosa con acqua cristallina e una spiaggia di ciottoli. Niente lettini. Niente bar. Nessun servizio.",
-    "p2": "La baia ha una qualità selvaggia, leggermente inquietante. Bungalow abbandonati dell'era socialista punteggiano la collina sopra la spiaggia, invasi da edera e fichi. Gli uliveti sono abbastanza fitti da bloccare il vento. L'acqua è incredibilmente limpida — si vede il fondo a 5 metri.",
+    "h1": "Valdanos, Una baia nascosta dietro 80.000 ulivi",
+    "p1": "Valdanos è il tipo di posto che non compare nelle guide, e questo è esattamente il punto. Una strada sterrata si stacca dalla costiera circa 4 km a nord di Ulcinj e scende attraverso fitti uliveti, circa 80.000 alberi, alcuni confermati di oltre 2.000 anni, fino a una baia silenziosa con acqua cristallina e una spiaggia di ciottoli. Niente lettini. Niente bar. Nessun servizio.",
+    "p2": "La baia ha una qualità selvaggia, leggermente inquietante. Bungalow abbandonati dell'era socialista punteggiano la collina sopra la spiaggia, invasi da edera e fichi. Gli uliveti sono abbastanza fitti da bloccare il vento. L'acqua è incredibilmente limpida, si vede il fondo a 5 metri.",
     "olivesTitle": "Gli antichi uliveti",
     "olivesText": "Gli uliveti di Valdanos sono tra i più antichi coltivati dell'intero bacino mediterraneo. Alcuni alberi sono stati datati a oltre 2.000 anni. I contadini locali producono ancora olio da questi alberi, e si possono comprare bottiglie direttamente dalle case lungo la strada. L'olio è denso, verde, piccante e niente a che vedere con quello del supermercato.",
     "gettingThereTitle": "Come arrivare",
     "gettingThereText": "Dal centro di Ulcinj, guidate verso nord sulla costiera in direzione Bar. Dopo circa 4 km, cercate una svolta a sinistra non segnalata. La strada è sterrata e stretta nell'ultimo chilometro. Un'auto normale ce la fa con tempo asciutto, ma piano. Un SUV passa comodamente. Non c'è trasporto pubblico né taxi."
   },
   "lakeSkadarBody": {
-    "h1": "Lago di Scutari — Pellicani, fenicotteri e vino Crmnica",
-    "p1": "Il Lago di Scutari è il più grande dei Balcani, condiviso tra Montenegro e Albania, a soli 45 minuti nell'entroterra da Ulcinj. È un parco nazionale, un paradiso per birdwatcher e ospita una delle ultime colonie nidificanti di pellicano dalmata in Europa. Nella stagione giusta — tardo autunno a primavera — i fenicotteri compaiono alle saline sul bordo occidentale.",
+    "h1": "Lago di Scutari, Pellicani, fenicotteri e vino Crmnica",
+    "p1": "Il Lago di Scutari è il più grande dei Balcani, condiviso tra Montenegro e Albania, a soli 45 minuti nell'entroterra da Ulcinj. È un parco nazionale, un paradiso per birdwatcher e ospita una delle ultime colonie nidificanti di pellicano dalmata in Europa. Nella stagione giusta, tardo autunno a primavera, i fenicotteri compaiono alle saline sul bordo occidentale.",
     "p2": "La sponda montenegrina è punteggiata di minuscoli villaggi di pescatori, monasteri su isole raggiungibili solo in barca, e la regione vinicola di Crmnica dove vigneti su pendii ripidi producono un Vranac rosso scuro e tannico che si abbina perfettamente alla carpa affumicata del lago.",
     "activitiesTitle": "Cosa fare",
-    "boatTour": "Gite in barca da Virpazar o Rijeka Crnojevića — attraverso canali di ninfee fino a monasteri insulari e colonie di pellicani. Almeno mezza giornata",
-    "wine": "Degustazione di vini nelle cantine Crmnica sulla sponda sud — rossi Vranac corposi, terrazze sul lago e piatti di pesce affumicato",
+    "boatTour": "Gite in barca da Virpazar o Rijeka Crnojevića, attraverso canali di ninfee fino a monasteri insulari e colonie di pellicani. Almeno mezza giornata",
+    "wine": "Degustazione di vini nelle cantine Crmnica sulla sponda sud, rossi Vranac corposi, terrazze sul lago e piatti di pesce affumicato",
     "kayak": "Kayak nei canali tranquilli all'alba quando gli uccelli sono più attivi. Noleggio disponibile a Virpazar",
     "gettingThereTitle": "Come arrivare",
     "gettingThereText": "Guidate da Ulcinj verso nord in direzione Podgorica e seguite le indicazioni per Virpazar (punto di partenza principale delle gite in barca). Il viaggio totale è di circa 45 minuti. In alternativa, prendete la strada interna attraverso Krute per un percorso più panoramico."
   },
   "shkodraBody": {
-    "h1": "Scutari — Albania in 30 minuti",
-    "p1": "Scutari è una delle città più antiche dei Balcani, situata all'estremità meridionale del Lago di Scutari oltre il confine albanese. Il valico di Sukobin/Muriqan è a 15 minuti a sud di Ulcinj ed è il checkpoint albanese più tranquillo del Montenegro — spesso superato in meno di 20 minuti.",
-    "p2": "Il Castello di Rozafa domina l'avvicinamento — una fortezza illirica su una collina drammatica con vista sul lago, i fiumi e l'intera pianura di Scutari. La leggenda narra che una donna fu murata nelle fondamenta come sacrificio.",
+    "h1": "Scutari, Albania in 30 minuti",
+    "p1": "Scutari è una delle città più antiche dei Balcani, situata all'estremità meridionale del Lago di Scutari oltre il confine albanese. Il valico di Sukobin/Muriqan è a 15 minuti a sud di Ulcinj ed è il checkpoint albanese più tranquillo del Montenegro, spesso superato in meno di 20 minuti.",
+    "p2": "Il Castello di Rozafa domina l'avvicinamento, una fortezza illirica su una collina drammatica con vista sul lago, i fiumi e l'intera pianura di Scutari. La leggenda narra che una donna fu murata nelle fondamenta come sacrificio.",
     "whatToSeeTitle": "Cosa vedere",
-    "castle": "Castello di Rozafa — salite sulle mura illiriche per viste panoramiche sul Lago di Scutari e le Alpi Albanesi in lontananza",
-    "pedestrian": "Il centro pedonale rinnovato — vicoli del bazar ottomano, boulevard italiani, espresso forte in tazzine e panetterie con byrek caldo",
-    "lake": "La sponda albanese del Lago di Scutari — una prospettiva completamente diversa, più tranquilla e meno visitata del lato montenegrino",
+    "castle": "Castello di Rozafa, salite sulle mura illiriche per viste panoramiche sul Lago di Scutari e le Alpi Albanesi in lontananza",
+    "pedestrian": "Il centro pedonale rinnovato, vicoli del bazar ottomano, boulevard italiani, espresso forte in tazzine e panetterie con byrek caldo",
+    "lake": "La sponda albanese del Lago di Scutari, una prospettiva completamente diversa, più tranquilla e meno visitata del lato montenegrino",
     "borderTitle": "Attraversamento a Sukobin",
     "borderText": "Il checkpoint Sukobin/Muriqan è piccolo e di solito veloce. Tenete pronti passaporto, contratto di noleggio e Carta Verde. Tempi di attesa in genere sotto i 20 minuti. Portate lek o prelevate ai bancomat di Scutari.",
     "gettingThereTitle": "Come arrivare",
-    "gettingThereText": "Da Ulcinj guidate verso sud attraverso Krute fino al confine albanese a Sukobin. Dopo il checkpoint, seguite la strada principale per Scutari — tempo totale 30–40 minuti. Prevedete una giornata intera per una visita comoda."
+    "gettingThereText": "Da Ulcinj guidate verso sud attraverso Krute fino al confine albanese a Sukobin. Dopo il checkpoint, seguite la strada principale per Scutari, tempo totale 30-40 minuti. Prevedete una giornata intera per una visita comoda."
   },
   "contentPage": {
     "youMightAlsoLike": "Potrebbe piacerti anche",
@@ -1100,7 +1100,7 @@
   },
   "contact": {
     "title": "Contattaci",
-    "seoDesc": "Domande sul noleggio a Ulcinj? Accesso ad Ada Bojana, permessi per il confine albanese, consigli parcheggio per Velika Plaža. WhatsApp, email o modulo, risposte entro due ore nei giorni feriali.",
+    "seoDesc": "Domande sul noleggio a Ulcinj? Accesso ad Ada Bojana, permessi per il confine albanese, consigli parcheggio per Velika Plaža. WhatsApp, email o modulo",
     "heading": "Contattaci",
     "intro": "Hai una domanda sul noleggio auto a Ulcinj? Contattaci e ti aiuteremo a trovare il veicolo perfetto per il tuo viaggio."
   }

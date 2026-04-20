@@ -59,7 +59,7 @@
   "fleet": {
     "label": "Naša Flota",
     "title": "Izaberite Vaše Vozilo",
-    "subtitle": "Pregledajte dostupnost i cijene u realnom vremenu — rezervišite direktno."
+    "subtitle": "Pregledajte dostupnost i cijene u realnom vremenu, rezervišite direktno."
   },
   "brands": {
     "label": "Provjereni brendovi u našoj floti"
@@ -67,7 +67,7 @@
   "destinations": {
     "label": "Top Destinacije",
     "title": "Istražite Crnu Goru",
-    "subtitle": "Od Bokokotorskog zaliva do albanske granice — svaka destinacija je drugi svijet."
+    "subtitle": "Od Bokokotorskog zaliva do albanske granice, svaka destinacija je drugi svijet."
   },
   "features": {
     "label": "Zašto Mi",
@@ -101,7 +101,7 @@
   "book": {
     "title": "Pronađite Vaš Auto",
     "seoTitle": "Rezervišite Auto",
-    "seoDesc": "Iznajmljivanje u Ulcinju sa dozvolama za albanski granicu i voznim parkom prikladnim za plažu uključeni. Autobus ne dolazi do Velike Plaže, pa je iznajmljen automobil jedini praktičan način da stignete."
+    "seoDesc": "Iznajmljivanje u Ulcinju sa dozvolama za albanski granicu i voznim parkom prikladnim za plažu uključeni. Autobus ne dolazi do Velike Plaže, pa je"
   },
   "footer": {
     "brandDesc": "Pult za iznajmljivanje na južnoj granici Crne Gore. Pristup Ada Bojani, papirologija albanske granice, staze kroz maslinike, i trčanje plažom vulkanskog pijeska uključeni u svanom voznom parku.",
@@ -126,17 +126,17 @@
   "notFound": {
     "code": "404",
     "title": "Pogrešno Skretanje",
-    "text": "Izgleda da ste skrenuli s puta. Ova cesta ne vodi nikuda — ali najbolje rute Crne Gore su na jedan klik.",
+    "text": "Izgleda da ste skrenuli s puta. Ova cesta ne vodi nikuda, ali najbolje rute Crne Gore su na jedan klik.",
     "backHome": "Nazad na Početnu",
     "searchCars": "Pretraži Auta"
   },
   "home": {
-    "seoDesc": "Iznajmljivanje automobila u Ulcinju od €13 dnevno. Velika Plaža sa 13 km pijeska, Ada Bojana riječna ostrva, albanska granica 5 km južno, Aerodrom Tivat 120 km, Aerodrom Podgorica 85 km."
+    "seoDesc": "Iznajmljivanje automobila u Ulcinju od €13 dnevno. Velika Plaža sa 13 km pijeska, Ada Bojana riječna ostrva, albanska granica 5 km južno, Aerodrom Tivat"
   },
   "about": {
     "title": "O Nama",
     "subtitle": "Pomažemo putnicima da istraže Crnu Goru od 2007.",
-    "seoDesc": "Specijalisti za iznajmljivanje u Ulcinju za crnogorski jug. Dokumentacija za albanski granicu rješena, vozni park prikladan za plažu Velike Plaže, i pošteni cijene za dugu vožnju na юг."
+    "seoDesc": "Specijalisti za iznajmljivanje u Ulcinju za crnogorski jug. Dokumentacija za albanski granicu rješena, vozni park prikladan za plažu Velike Plaže, i"
   },
   "kotor": {
     "title": "Rent a Car Kotor",
@@ -150,23 +150,23 @@
   },
   "budva": {
     "title": "Rent a Car Budva",
-    "subtitle": "Rivijera Crne Gore — plaže, noćni život i šarm starog grada.",
-    "seoDesc": "Iznajmite auto u Budvi, Crna Gora. Odvezite se na plažu Mogren, Sveti Stefan i do najboljeg noćnog života rivijere. Puno osiguranje, bez skrivenih troškova."
+    "subtitle": "Rivijera Crne Gore, plaže, noćni život i šarm starog grada.",
+    "seoDesc": "Iznajmite auto u Budvi, Crna Gora. Odvezite se na plažu Mogren, Sveti Stefan i do najboljeg noćnog života rivijere. Puno osiguranje, bez skrivenih"
   },
   "perast": {
     "title": "Rent a Car Perast",
     "subtitle": "Barokni dragulj na Bokokotorskom zalivu.",
-    "seoDesc": "Iznajmite auto i posjetite Perast, barokni dragulj na Bokokotorskom zalivu. Pogledajte ostrvo Gospa od Škrpjela i veličanstvene palate uz obalu sopstvenim tempom."
+    "seoDesc": "Iznajmite auto i posjetite Perast, barokni dragulj na Bokokotorskom zalivu. Pogledajte ostrvo Gospa od Škrpjela i veličanstvene palate uz obalu sopstvenim"
   },
   "podgorica": {
     "title": "Rent a Car Podgorica",
-    "subtitle": "Glavni grad Crne Gore — kultura, rijeke i moderni šarm.",
-    "seoDesc": "Rent a car u Podgorici, glavnom gradu Crne Gore. Istražite Skadarsko jezero, manastir Ostrog i Durmitor iznajmljenim autom. Preuzimanje na aerodromu dostupno."
+    "subtitle": "Glavni grad Crne Gore, kultura, rijeke i moderni šarm.",
+    "seoDesc": "Rent a car u Podgorici, glavnom gradu Crne Gore. Istražite Skadarsko jezero, manastir Ostrog i Durmitor iznajmljenim autom. Preuzimanje na aerodromu"
   },
   "podgorica-airport": {
     "title": "Rent a Car Aerodrom Podgorica",
     "subtitle": "Glavna međunarodna kapija Crne Gore.",
-    "seoDesc": "Preuzmite rent a car na aerodromu Podgorica (TGD). Isporučujemo vozilo do zone dolaska. Stignite do obale, Skadarskog jezera ili Nacionalnog parka Durmitor."
+    "seoDesc": "Preuzmite rent a car na aerodromu Podgorica (TGD). Isporučujemo vozilo do zone dolaska. Stignite do obale, Skadarskog jezera ili Nacionalnog parka"
   },
   "dubrovnik-airport": {
     "title": "Rent a Car Aerodrom Dubrovnik",
@@ -206,7 +206,7 @@
   "featureCards": {
     "airportPickup": {
       "title": "Pristup plažama",
-      "desc": "Velika plaža, Ada Bojana, Valdanos — svaka plaža je poseban svijet, i nijedna nije na autobuskoj liniji."
+      "desc": "Velika plaža, Ada Bojana, Valdanos, svaka plaža je poseban svijet, i nijedna nije na autobuskoj liniji."
     },
     "fullInsurance": {
       "title": "Potpuno osiguranje",
@@ -218,26 +218,26 @@
     },
     "noHiddenFees": {
       "title": "Bez skrivenih troškova",
-      "desc": "Sve uračunato u cijenu — uključujući duži transfer od aerodroma Podgorica (2 h) ili Tivat (2,5 h). Ono što vidite, to plaćate."
+      "desc": "Sve uračunato u cijenu, uključujući duži transfer od aerodroma Podgorica (2 h) ili Tivat (2,5 h). Ono što vidite, to plaćate."
     },
     "freeCancellation": {
       "title": "Besplatno otkazivanje",
-      "desc": "Vjetar mijenja smjer, a planovi za kajtserfing s njim. Besplatno otkazivanje do 24 sata prije preuzimanja — sezonske izmjene su takođe pokrivene."
+      "desc": "Vjetar mijenja smjer, a planovi za kajtserfing s njim. Besplatno otkazivanje do 24 sata prije preuzimanja, sezonske izmjene su takođe pokrivene."
     },
     "crossBorder": {
       "title": "Prelazak granice",
-      "desc": "Albanija je 20 minuta od Ulcinja — granični prelaz Muriqan/Sukobin je najbliža tačka ulaska iz Crne Gore. Skadar za 45 min, Tirana za 3 h. Dozvoljena su i putovanja u Hrvatsku, Kosovo i Bosnu."
+      "desc": "Albanija je 20 minuta od Ulcinja, granični prelaz Muriqan/Sukobin je najbliža tačka ulaska iz Crne Gore. Skadar za 45 min, Tirana za 3 h. Dozvoljena su i putovanja u Hrvatsku, Kosovo i Bosnu."
     }
   },
   "testimonials": {
     "0": {
-      "text": "Došao sam zbog vjetra na Adi Bojani — i nije me razočarao. Tri dana kajtinga u gotovo savršenim termičkim uslovima. Auto mi je omogućio da istražim plažu s oba kraja i da svake večeri prođem obalom do Ulcinja na večeru. Ne bih to promijenio."
+      "text": "Došao sam zbog vjetra na Adi Bojani, i nije me razočarao. Tri dana kajtinga u gotovo savršenim termičkim uslovima. Auto mi je omogućio da istražim plažu s oba kraja i da svake večeri prođem obalom do Ulcinja na večeru. Ne bih to promijenio."
     },
     "1": {
       "text": "Ujutru smo šetali osmanskim bedemima Starog grada, a uveče vozili do Velike plaže da gledamo kako sunce tone u Jadran. Obalna cesta u zalasku sunca je nešto o čemu i danas pričamo. Bez auta, taj ritam putovanja ne bi bio moguć."
     },
     "2": {
-      "text": "Drugog dana sam prešao albansku granicu — 20 minuta do prelaza, još 30 do Skadra. Osjećaj potpuno drugog svijeta. Ulcinj i sam djeluje odmaknutim i mirnim u poređenju s ostatkom crnogorske obale, ali s autom možete da idete još dalje na jug."
+      "text": "Drugog dana sam prešao albansku granicu, 20 minuta do prelaza, još 30 do Skadra. Osjećaj potpuno drugog svijeta. Ulcinj i sam djeluje odmaknutim i mirnim u poređenju s ostatkom crnogorske obale, ali s autom možete da idete još dalje na jug."
     }
   },
   "faqItems": {
@@ -247,23 +247,23 @@
     },
     "1": {
       "q": "Mogu li voziti u Albaniju?",
-      "a": "Svakako — i Ulcinj je za to najbolje polazište u Crnoj Gori. Granični prelaz Muriqan/Sukobin je svega 20 minuta južno od grada i obično se brzo prolazi. Skadar je 45 minuta, Tirana oko 3 sata. Javite nam pri rezervaciji i pripremićemo Zelenu kartu i graničnu dokumentaciju. Dozvoljena su i putovanja u Hrvatsku, Bosnu, Kosovo i Srbiju."
+      "a": "Svakako, i Ulcinj je za to najbolje polazište u Crnoj Gori. Granični prelaz Muriqan/Sukobin je svega 20 minuta južno od grada i obično se brzo prolazi. Skadar je 45 minuta, Tirana oko 3 sata. Javite nam pri rezervaciji i pripremićemo Zelenu kartu i graničnu dokumentaciju. Dozvoljena su i putovanja u Hrvatsku, Bosnu, Kosovo i Srbiju."
     },
     "2": {
       "q": "Postoji li minimalna starosna granica?",
-      "a": "Minimalna starost je 21 godina. Vozači moraju imati vozačku dozvolu najmanje 2 godine. Vozači od 21 do 24 godine plaćaju doplatu za mlađeg vozača — tačan iznos prikazan je uz svako vozilo u rezultatima pretrage."
+      "a": "Minimalna starost je 21 godina. Vozači moraju imati vozačku dozvolu najmanje 2 godine. Vozači od 21 do 24 godine plaćaju doplatu za mlađeg vozača, tačan iznos prikazan je uz svako vozilo u rezultatima pretrage."
     },
     "3": {
       "q": "Šta je uključeno u cijenu?",
-      "a": "Sva vozila u osnovnoj cijeni uključuju osiguranje od odgovornosti prema trećim licima i zaštitu od oštećenja pri sudaru (CDW). PDV, obavezna oprema (prva pomoć, trougao upozorenja, reflektujući prsluk) i transparentna politika goriva su uključeni. Napomena: benzinskih pumpi je malo južno od Bara — napunite rezervoar prije puta prema Adi Bojani ili Valdanosu. Neograničena kilometraža i proširena pokrića dostupni su po vozilu."
+      "a": "Sva vozila u osnovnoj cijeni uključuju osiguranje od odgovornosti prema trećim licima i zaštitu od oštećenja pri sudaru (CDW). PDV, obavezna oprema (prva pomoć, trougao upozorenja, reflektujući prsluk) i transparentna politika goriva su uključeni. Napomena: benzinskih pumpi je malo južno od Bara, napunite rezervoar prije puta prema Adi Bojani ili Valdanosu. Neograničena kilometraža i proširena pokrića dostupni su po vozilu."
     },
     "4": {
       "q": "Kako funkcioniše preuzimanje vozila?",
-      "a": "Ulcinj je oko 2 sata od aerodroma Podgorica i 2,5 sata od Tivta — duga vožnja nakon leta. Preporučujemo jednosmjerno iznajmljivanje: preuzmite vozilo na aerodromu dolaska i predajte ga u Ulcinju, ili obrnuto. Tačno vrijeme i mjesto preuzimanja se dogovaraju s agentom nakon rezervacije."
+      "a": "Ulcinj je oko 2 sata od aerodroma Podgorica i 2,5 sata od Tivta, duga vožnja nakon leta. Preporučujemo jednosmjerno iznajmljivanje: preuzmite vozilo na aerodromu dolaska i predajte ga u Ulcinju, ili obrnuto. Tačno vrijeme i mjesto preuzimanja se dogovaraju s agentom nakon rezervacije."
     },
     "5": {
       "q": "Mogu li vratiti vozilo na drugoj lokaciji?",
-      "a": "Da — jednosmjerno iznajmljivanje dostupno je u 28 gradova i mjesta u Crnoj Gori. S obzirom na udaljenost od oba aerodroma, kombinacija preuzimanja u Podgorici ili Tivtu i vraćanja u Ulcinju (ili obrnuto) jedna je od naših najpopularnijih opcija."
+      "a": "Da, jednosmjerno iznajmljivanje dostupno je u 28 gradova i mjesta u Crnoj Gori. S obzirom na udaljenost od oba aerodroma, kombinacija preuzimanja u Podgorici ili Tivtu i vraćanja u Ulcinju (ili obrnuto) jedna je od naših najpopularnijih opcija."
     },
     "6": {
       "q": "Koja je politika otkazivanja?",
@@ -271,7 +271,7 @@
     },
     "7": {
       "q": "Da li je potreban depozit?",
-      "a": "Iznos depozita varira po vozilu — obično između 50 i 300 EUR, a neka vozila ne zahtijevaju depozit uopšte. Depozit mora biti na fizičkoj kreditnoj kartici (ne debitnoj ni prepaid) na ime glavnog vozača. Blokira se pri preuzimanju i oslobađa u roku od nekoliko radnih dana po vraćanju vozila bez oštećenja."
+      "a": "Iznos depozita varira po vozilu, obično između 50 i 300 EUR, a neka vozila ne zahtijevaju depozit uopšte. Depozit mora biti na fizičkoj kreditnoj kartici (ne debitnoj ni prepaid) na ime glavnog vozača. Blokira se pri preuzimanju i oslobađa u roku od nekoliko radnih dana po vraćanju vozila bez oštećenja."
     },
     "8": {
       "q": "Šta se dešava ako prekoračim limit kilometraže?",
@@ -279,22 +279,22 @@
     },
     "9": {
       "q": "Ima li skrivenih naknada?",
-      "a": "Nema. Cijena prikazana pri rezervaciji je konačna — porezi, PDV i sve standardne naknade su uključeni. Duži transfer od Podgorice ili Tivta je već uračunat u cijenu, nije dodatan. Ne čeka vas neočekivani račun pri preuzimanju."
+      "a": "Nema. Cijena prikazana pri rezervaciji je konačna, porezi, PDV i sve standardne naknade su uključeni. Duži transfer od Podgorice ili Tivta je već uračunat u cijenu, nije dodatan. Ne čeka vas neočekivani račun pri preuzimanju."
     },
     "10": {
       "q": "Koliko plaćam unaprijed?",
-      "a": "Pri rezervaciji se uzima akontacija od 15–20 % ukupnih troškova najma kao garancija za vozilo. Ostatak se plaća gotovinom ili karticom direktno agentu za iznajmljivanje pri preuzimanju ključeva."
+      "a": "Pri rezervaciji se uzima akontacija od 15-20 % ukupnih troškova najma kao garancija za vozilo. Ostatak se plaća gotovinom ili karticom direktno agentu za iznajmljivanje pri preuzimanju ključeva."
     },
     "11": {
       "q": "Mogu li iznajmiti bez kreditne kartice?",
-      "a": "Mali broj vozila dostupan je bez kreditne kartice — jasno označen u rezultatima pretrage. Za većinu vozila, posebno ona bez depozita, neophodna je fizička kreditna kartica na ime glavnog vozača."
+      "a": "Mali broj vozila dostupan je bez kreditne kartice, jasno označen u rezultatima pretrage. Za većinu vozila, posebno ona bez depozita, neophodna je fizička kreditna kartica na ime glavnog vozača."
     }
   },
   "destCards": {
     "velika-plaza": {
       "name": "Velika plaža",
       "tag": "Duga plaža",
-      "desc": "12 km pješčane obale — jedna od najdužih plaža u Evropi."
+      "desc": "12 km pješčane obale, jedna od najdužih plaža u Evropi."
     },
     "ada-bojana": {
       "name": "Ada Bojana",
@@ -319,7 +319,7 @@
     "lake-skadar": {
       "name": "Skadarsko jezero",
       "tag": "45 minuta",
-      "desc": "Najveće jezero Balkana — pelikani, manastiri, vino."
+      "desc": "Najveće jezero Balkana, pelikani, manastiri, vino."
     },
     "podgorica-airport": {
       "name": "Aerodrom Podgorica",
@@ -328,33 +328,33 @@
     },
     "shkodra": {
       "name": "Skadar",
-      "tag": "Albanija — 30 min",
+      "tag": "Albanija, 30 min",
       "desc": "Pređite granicu i istražite tvrđavu Rozafa."
     }
   },
   "aboutBody": {
     "h1": "Rent a car Crna Gora",
-    "p1": "Od 2007. godine, Crna Gora Car Hire povezuje putnike sa pouzdanim i pristupačnim rent-a-car vozilima širom Crna Gora. Ono što je počelo kao jednostavna ideja — olakšati posjetiocima istraživanje ovog zadivljujućeg kutka Adriatic — izraslo je u jednu od najpouzdanijih usluga iznajmljivanja vozila u zemlji.",
+    "p1": "Od 2007. godine, Crna Gora Car Hire povezuje putnike sa pouzdanim i pristupačnim rent-a-car vozilima širom Crna Gora. Ono što je počelo kao jednostavna ideja, olakšati posjetiocima istraživanje ovog zadivljujućeg kutka Adriatic, izraslo je u jednu od najpouzdanijih usluga iznajmljivanja vozila u zemlji.",
     "h2": "Zašto smo počeli",
-    "p2": "Crna Gora je zemlja koja se najbolje doživljava sopstvenim tempom. Vijugavi obalni putevi, skrivena planinska sela i gradovi pod zaštitom UNESCO-a teško su dostupni javnim prevozom. Prepoznali smo priliku da putnicima pružimo slobodu da otkriju Crna Gora na svoj način — bez rasporeda turističkih autobusa, bez propuštenih vidikovaca, bez kompromisa.",
+    "p2": "Crna Gora je zemlja koja se najbolje doživljava sopstvenim tempom. Vijugavi obalni putevi, skrivena planinska sela i gradovi pod zaštitom UNESCO-a teško su dostupni javnim prevozom. Prepoznali smo priliku da putnicima pružimo slobodu da otkriju Crna Gora na svoj način, bez rasporeda turističkih autobusa, bez propuštenih vidikovaca, bez kompromisa.",
     "h3": "Šta nudimo",
     "p3": "Pružamo usluge iznajmljivanja vozila širom Crna Gora, sa preuzimanjem i vraćanjem na aerodromu Tivat, aerodromu Podgorica, kao i na lokacijama duž obale i u unutrašnjosti. Naša flota obuhvata sve, od kompaktnih gradskih automobila do prostranih SUV vozila, sa potpunim osiguranjem i bez skrivenih troškova.",
     "promiseTitle": "Naše obećanje",
     "promise1": "Potpuno osiguranje sa opcijom nulte franšize",
-    "promise2": "Doček na aerodromu — donosimo automobil direktno do sale za dolaske",
-    "promise3": "Bez skrivenih troškova — cijena koju vidite je cijena koju plaćate",
+    "promise2": "Doček na aerodromu, donosimo automobil direktno do sale za dolaske",
+    "promise3": "Bez skrivenih troškova, cijena koju vidite je cijena koju plaćate",
     "promise4": "Dozvoljena prekogranična putovanja u Hrvatsku, Bosnu, Albaniju, Srbiju i Kosovo",
     "promise5": "Besplatno otkazivanje za većinu rezervacija",
     "promise6": "Pomoć na putu 24/7 tokom cijelog putovanja",
     "h4": "Lokalno znanje",
     "p4": "Sa sjedištem u Crna Gora, poznajemo puteve, najbolje rute i skrivene dragulje koje turistički vodiči ne pominju. Bilo da vozite sa aerodroma Tivat do srednjovjekovnog starog grada Kotor, idete slikovitom rutom kroz Boku Kotorsku do Perast, ili se upućujete u unutrašnjost ka Nacionalnom parku Durmitor, možemo vam pomoći da isplanirate savršeno putovanje.",
     "h5": "Kontaktirajte nas",
-    "p5": "Imate pitanje o iznajmljivanju automobila u Crna Gora? Dostupni smo putem telefona, WhatsApp i Viber. Pregledajte našu flotu online i rezervišite za nekoliko minuta — ili nam se javite i pomoći ćemo vam da pronađete savršen automobil za vaše putovanje."
+    "p5": "Imate pitanje o iznajmljivanju automobila u Crna Gora? Dostupni smo putem telefona, WhatsApp i Viber. Pregledajte našu flotu online i rezervišite za nekoliko minuta, ili nam se javite i pomoći ćemo vam da pronađete savršen automobil za vaše putovanje."
   },
   "kotorBody": {
     "h1": "Kotor -- Lokalitet pod Zastitom UNESCO-a",
     "p1": "Kotor je jedan od najljepših primorskih gradova Crne Gore, koji nudi prekrasne plaže, šarm istorijskog Starog grada i srednjovjekovne zidine unutar kojih se nalaze umjetničke galerije, kafići i odlični restorani. Kao lokalitet pod zaštitom UNESCO-a, znamenitosti grada su koncentrisane u predivno očuvanom Starom gradu.",
-    "p2": "Iznajmljivanje automobila u Kotoru daje vam slobodu da istražujete lokalne atrakcije i obližnje crnogorske gradove i prirodna područja sopstvenim tempom. Dostupnost parkinga varira sezonski, jer ljetnji turizam stvara nestašicu u centru — ali postoje veća parkirališta na prilaznim putevima.",
+    "p2": "Iznajmljivanje automobila u Kotoru daje vam slobodu da istražujete lokalne atrakcije i obližnje crnogorske gradove i prirodna područja sopstvenim tempom. Dostupnost parkinga varira sezonski, jer ljetnji turizam stvara nestašicu u centru, ali postoje veća parkirališta na prilaznim putevima.",
     "landmarksTitle": "Znamenitosti",
     "stJohnTitle": "Tvrđava Sv. Ivana",
     "stJohnText": "Impozantna građevina koja je istorijski štitila grad od gusarskih napada. Značajne karakteristike uključuju Kulu Contarini i Crkvu Gospe od Zdravlja, koja pruža zapanjujuće poglede na Stari grad i Bokokotorski zaliv.",
@@ -364,14 +364,14 @@
     "perastTrip": "Smještena u obližnjem Perastu, ova crkva se nalazi na vještačkom ostrvu u Bokokotorskom zalivu. Ribari tamo bacaju kamenje svake godine od 1452., postepeno proširujući ostrvo. Prevoz trajektom košta oko 1 Euro; privatni čamci koštaju oko 5 Eura. Vožnja iz Kotora traje manje od 30 minuta putem E65/E80 na sjever.",
     "cetinjeTrip": "Sagrađen 1701. godine, manastir čuva ruku Jovana Krstitelja. Odlikuje se bogatom dekoracijom i pravoslavnom umjetnošću. Vožnja iz Kotora traje približno jedan sat kroz slikovite planinske puteve.",
     "royalCourtText": "Crnogorska kraljevska palata iz 1871. godine, u kojoj su izloženi umjetnički predmeti, artefakti i fotografije iz kraljevske istorije zemlje. Nalazi se pored manastira u nekadašnjoj kraljevskoj prijestonici.",
-    "tivatLinkPre": "Većina posjetilaca ",
+    "tivatLinkPre": "Većina posjetilaca",
     "tivatLinkText": "iznajmi automobil na aerodromu Tivat",
-    "tivatLinkPost": " da bi stigli do Kotora."
+    "tivatLinkPost": "da bi stigli do Kotora."
   },
   "budvaBody": {
     "h1": "Budva -- Srce Crnogorske Rivijere",
     "p1": "Budva je najpopularnija plažna destinacija u Crnoj Gori, koja privlači posjetioce iz čitave Evrope svojom zapanjujućom obalom, živahnim noćnim životom i predivno očuvanim srednjovjekovnim Starim gradom. Sa iznajmljenim automobilom, čitava Budvanska rivijera i šire su vam nadohvat ruke.",
-    "p2": "Grad se nalazi otprilike 20 minuta južno od aerodroma Tivat, što ga čini jednom od najlakše dostupnih primorskih destinacija nakon slijetanja. Budva kombinuje 2.500 godina istorije sa potpuno modernom atmosferom za odmor — drevne gradske zidine danju, živahni plažni barovi noću.",
+    "p2": "Grad se nalazi otprilike 20 minuta južno od aerodroma Tivat, što ga čini jednom od najlakše dostupnih primorskih destinacija nakon slijetanja. Budva kombinuje 2.500 godina istorije sa potpuno modernom atmosferom za odmor, drevne gradske zidine danju, živahni plažni barovi noću.",
     "beachesTitle": "Plaže",
     "beachesIntro": "Budvanska rivijera se proteže na 21 kilometar, nudeći neke od najljepših plaža na jadranskoj obali:",
     "mogren": "Dvije povezane šljunčane plaže do kojih se stiže kroz tunel usječen u stijene, svega nekoliko minuta od Starog grada",
@@ -389,7 +389,7 @@
   },
   "perastBody": {
     "h1": "Perast -- Skriveni Dragulj na Zalivu",
-    "p1": "Malo selo Perast se nalazi na kratkoj vožnji — manje od 20 minuta — od Kotora. Turisti koji iznajme automobil za obilazak Crne Gore sigurno će poželjeti da se provezaju autoputem E65/E80 kako bi proveli vrijeme u ovom ljupkom ribarskom selu.",
+    "p1": "Malo selo Perast se nalazi na kratkoj vožnji, manje od 20 minuta, od Kotora. Turisti koji iznajme automobil za obilazak Crne Gore sigurno će poželjeti da se provezaju autoputem E65/E80 kako bi proveli vrijeme u ovom ljupkom ribarskom selu.",
     "p2": "Iako je dom za samo oko 850 ljudi, duga i šarena istorija Perasta svakako nadmašuje njegovu malu veličinu. Od 1420. do 1797. godine, grad je pripadao Republici Veneciji i bio je poznat po svojim majstorima brodogradnje i mornarima. Perast ima mnogo prekrasnih podsjetnika na prošlost i neke odlične primjere barokne arhitekture.",
     "islandsTitle": "Ostrva",
     "stGeorgeTitle": "Ostrvo Sv. Đorđa",
@@ -403,7 +403,7 @@
   },
   "tivatBody": {
     "h1": "Tivat -- Grad Marine",
-    "p1": "Tivat je jedan od novijih gradova duž crnogorske obale, izgrađen prije nešto više od jednog vijeka. Grad ima jedan od samo dva javna aerodroma u Crnoj Gori — aerodrom Tivat — što ga čini izuzetno pogodnom bazom za posjetioce koji dolaze avionom.",
+    "p1": "Tivat je jedan od novijih gradova duž crnogorske obale, izgrađen prije nešto više od jednog vijeka. Grad ima jedan od samo dva javna aerodroma u Crnoj Gori, aerodrom Tivat, što ga čini izuzetno pogodnom bazom za posjetioce koji dolaze avionom.",
     "p2": "Ovo primorsko odmaralište ima populaciju od oko 13.000 stanovnika. Posjetioci mogu uživati u šetnjama uz more, jesti u restoranima na obali i istraživati prodavnice skrivene u uskim uličicama. Tokom vrhunca sezone, grad balansira između mira i živahne turističke aktivnosti.",
     "beachesTitle": "Plaže",
     "beachesText": "Tivat se može pohvaliti sa 17 plaža koje se prostiru na 3 kilometra obale, priznatih među najljepšima na Mediteranu. Među najboljim plažama su:",
@@ -430,7 +430,7 @@
     "facilitiesTitle": "Sadržaji Aerodroma",
     "facilitiesText": "Aerodrom nudi kafiće, javne telefone, suvenirnice i bescarinsku kupovinu. Autobuske linije povezuju Herceg Novi i Budvu, a taksi usluge su takođe dostupne ispred terminala.",
     "whyTitle": "Zašto Iznajmiti na Aerodromu Tivat?",
-    "whyText": "Aerodrom Tivat je najbliži aerodrom najpopularnijim primorskim destinacijama u Crnoj Gori. U roku od nekoliko minuta nakon slijetanja, možete voziti duž Bokokotorskog zaliva prema srednjovjekovnom utvrđenom gradu, ili se uputiti na jug prema plažama Budve. Preuzimanje automobila na Tivtu znači bez transfera, bez čekanja na autobuse — direktno od terminala do otvorenog puta.",
+    "whyText": "Aerodrom Tivat je najbliži aerodrom najpopularnijim primorskim destinacijama u Crnoj Gori. U roku od nekoliko minuta nakon slijetanja, možete voziti duž Bokokotorskog zaliva prema srednjovjekovnom utvrđenom gradu, ili se uputiti na jug prema plažama Budve. Preuzimanje automobila na Tivtu znači bez transfera, bez čekanja na autobuse, direktno od terminala do otvorenog puta.",
     "meetText": "Dočekujemo vas u hali za dolaske sa vašim imenom na tabli. Vaš automobil je parkiran odmah ispred. Ukupno vrijeme od slijetanja do vožnje: oko 10 minuta."
   },
   "podgoricaBody": {
@@ -472,26 +472,26 @@
   "dubrovnikAirportBody": {
     "h1": "Iznajmljivanje Automobila na Aerodromu Dubrovnik (DBV)",
     "p1": "Mnogi turisti koji posjećuju Crnu Goru biraju da dolete na aerodrom Dubrovnik i iznajme automobil za vožnju do Crne Gore. Aerodrom se nalazi na kratkoj dvosatnoj vožnji od primorskih odmarališta Budve, Perasta i Kotora, te je bolje povezan sa mnogim avio-kompanijama koje još nemaju direktne letove za Crnu Goru.",
-    "p2": "Budući da je ovo toliko uobičajena ruta, prelazak granice nije težak zadatak — pod uslovom da posjetioci imaju sve ugovore o iznajmljivanju i putne dokumente u redu.",
+    "p2": "Budući da je ovo toliko uobičajena ruta, prelazak granice nije težak zadatak, pod uslovom da posjetioci imaju sve ugovore o iznajmljivanju i putne dokumente u redu.",
     "p3": "Iznajmljivanje automobila za putovanje u Crnu Goru je odlična ideja. Omogućava posjetiocima da vide ovaj dio svijeta pod sopstvenim uslovima, u sopstvenom tempu. Saobraćaj između zemalja u ovom regionu je uobičajen, pa su granični prelazi generalno jednostavni.",
     "borderTitle": "Savjeti za Prelazak Granice",
     "borderText": "Tokom turističke sezone, Crna Gora biva preplavljena posjetiocima i dugo čekanje na prelazak granice nije neuobičajeno. Prelazak rano ujutru ili kasno noću je jedan od načina da izbjegnete gužve. Obavezno provjerite da vam je kompanija za iznajmljivanje obezbijedila Zelenu kartu za prekogranično osiguranje.",
     "facilitiesTitle": "Sadržaji Aerodroma",
-    "facilitiesText1": "Aerodrom Dubrovnik ima modernu terminalnu zgradu smještenu na manje od pola sata vožnje od grada Dubrovnika na E65. Aerodrom ima ograničen parking, sa automatima koji primaju plaćanje gotovinom i kreditnim karticama. Budući da je parking ograničen — posebno u sezoni — posjetioci bi trebali unaprijed rezervisati svoja mjesta ako je moguće. Postoji popust za unaprijed rezervisanje.",
+    "facilitiesText1": "Aerodrom Dubrovnik ima modernu terminalnu zgradu smještenu na manje od pola sata vožnje od grada Dubrovnika na E65. Aerodrom ima ograničen parking, sa automatima koji primaju plaćanje gotovinom i kreditnim karticama. Budući da je parking ograničen, posebno u sezoni, posjetioci bi trebali unaprijed rezervisati svoja mjesta ako je moguće. Postoji popust za unaprijed rezervisanje.",
     "facilitiesText2": "Unutar aerodroma nalazi se mjenjačnica, banka i pošta. Takođe su dostupni mali restorani, kafići, bescarinska prodavnica i kiosk sa novinama.",
     "gettingTitle": "Kako Stići do Crne Gore",
     "gettingText1": "Javni prevoz je dostupan na aerodromu u vidu taksija ispred terminala, te autobuskih linija i shuttle prevoza. Za putnika koji se upućuju prema gradu Dubrovniku, obavezno uzmite autobuse koji idu do samog centra grada, umjesto onih koji staju u Cavtatu, kako biste izbjegli presjedanje.",
-    "gettingText2": "Vožnja od aerodroma Dubrovnik do crnogorske obale vodi vas duž jednog od najslikovitijih obalnih puteva u Evropi. U roku od dva sata proći ćete granicu i stići do Bokokotorskog zaliva — jednog od najdramatičnijih prilaza bilo kojoj destinaciji na Mediteranu."
+    "gettingText2": "Vožnja od aerodroma Dubrovnik do crnogorske obale vodi vas duž jednog od najslikovitijih obalnih puteva u Evropi. U roku od dva sata proći ćete granicu i stići do Bokokotorskog zaliva, jednog od najdramatičnijih prilaza bilo kojoj destinaciji na Mediteranu."
   },
   "montenegroBody": {
     "h1": "Istraživanje Crne Gore Automobilom",
     "p1": "Crna Gora je jedna od najnagrađivanijih destinacija u Evropi za samostalno istraživanje automobilom. Od dramatičnih planinskih puteva i mirnih sela u unutrašnjosti do vijugavih obalnih vožnji duž Jadrana, zemlja nudi raznolike pejzaže na iznenađujuće kratkim udaljenostima. Iznajmljivanje automobila pruža pristup lokacijama daleko van dometa javnog prevoza.",
-    "p2": "Iako kompaktna po veličini, Crna Gora zahtijeva duža vremena vožnje nego što mape sugerišu. Planinske serpentine, uske obalne ceste i slikovite rute ohrabruju česte zaustavljanja. Putnici dobijaju slobodu da dožive i putovanje i odredište — krstarenje zaljevima nalik fjordovima, istorijskim gradovima i planinskim vidikovcima sopstvenim tempom.",
+    "p2": "Iako kompaktna po veličini, Crna Gora zahtijeva duža vremena vožnje nego što mape sugerišu. Planinske serpentine, uske obalne ceste i slikovite rute ohrabruju česte zaustavljanja. Putnici dobijaju slobodu da dožive i putovanje i odredište, krstarenje zaljevima nalik fjordovima, istorijskim gradovima i planinskim vidikovcima sopstvenim tempom.",
     "startTitle": "Početak Putovanja",
-    "startText": "Mnogi posjetioci preuzimaju svoj iznajmljeni automobil na jednom od crnogorskih aerodroma ili na aerodromu Dubrovnik u Hrvatskoj, u zavisnosti od dostupnosti letova. Aerodrom Tivat je najbliži obali — samo 10 minuta od Kotora i 20 minuta od Budve. Aerodrom Podgorica opslužuje glavni grad i unutrašnjost. Aerodrom Dubrovnik ostaje popularan jer često ima više dostupnih međunarodnih letova.",
-    "podgoricaLinkPre": "Za južnu Crnu Goru, ",
+    "startText": "Mnogi posjetioci preuzimaju svoj iznajmljeni automobil na jednom od crnogorskih aerodroma ili na aerodromu Dubrovnik u Hrvatskoj, u zavisnosti od dostupnosti letova. Aerodrom Tivat je najbliži obali, samo 10 minuta od Kotora i 20 minuta od Budve. Aerodrom Podgorica opslužuje glavni grad i unutrašnjost. Aerodrom Dubrovnik ostaje popularan jer često ima više dostupnih međunarodnih letova.",
+    "podgoricaLinkPre": "Za južnu Crnu Goru,",
     "podgoricaLinkText": "aerodrom Podgorica",
-    "podgoricaLinkPost": " je najbliža opcija na samo 40 km od Ulcinja.",
+    "podgoricaLinkPost": "je najbliža opcija na samo 40 km od Ulcinja.",
     "timesTitle": "Vremena Vožnje",
     "timesText1": "Stvarna vremena vožnje redovno premašuju ono što mape pokazuju. Planinske serpentine, nazubljene obalne ceste, ruralne prepreke (uključujući stoku) i zimski snijeg na planinama doprinose dužim putovanjima. Slikovito obalno i pejzažno iskustvo više nego opravdava produženo vrijeme putovanja.",
     "timesText2": "Putovanje između primorskih gradova obično traje od trideset minuta do jednog sata. Vožnja od Herceg-Novog do Podgorice putem E65/E80 traje približno dva sata.",
@@ -504,10 +504,10 @@
     "keyRulesTitle": "Ključna Pravila",
     "keyRule1": "Pojasevi su obavezni za sve putnike",
     "keyRule2": "Korišćenje mobilnog telefona tokom vožnje je zabranjeno",
-    "keyRule3": "Bilo kakva vožnja pod uticajem alkohola je ilegalna — nulta tolerancija",
+    "keyRule3": "Bilo kakva vožnja pod uticajem alkohola je ilegalna, nulta tolerancija",
     "keyRule4": "Ograničenja brzine se strogo sprovode",
     "conditionsTitle": "Stanje Puteva",
-    "conditionsText": "Gradski putevi su u zadovoljavajućem stanju. Planinski putevi mogu biti zahtjevniji, sa minimalnim zaštitnim ogradama na nekim mjestima. Neki vozači voze agresivno, pa se preporučuje oprez širom zemlje — posebno na planinskim prevlakama i uskim obalnim dionicama.",
+    "conditionsText": "Gradski putevi su u zadovoljavajućem stanju. Planinski putevi mogu biti zahtjevniji, sa minimalnim zaštitnim ogradama na nekim mjestima. Neki vozači voze agresivno, pa se preporučuje oprez širom zemlje, posebno na planinskim prevlakama i uskim obalnim dionicama.",
     "routesTitle": "Glavne Rute",
     "e65Title": "E65/E80",
     "e65Text": "Glavna obalna ruta povezuje Herceg-Novi sa Podgoricom, prolazeći kroz Kotor, Perast, Tivat i Budvu. Ovo je najpopularnija ruta za vožnju i nudi zapanjujuće poglede na Bokokotorski zaliv.",
@@ -524,38 +524,38 @@
     "greenCardTitle": "Šta je Zelena Karta?",
     "greenCardText": "Zelena karta je međunarodni sertifikat o osiguranju motornog vozila koji dokazuje da je vaše vozilo osigurano u zemlji u koju ulazite. Obavezna je na svakom graničnom prelazu na Balkanu.",
     "greenCard1": "Cijena: približno 15 Eura za 15 dana",
-    "greenCard2": "Gdje je nabaviti: vaša kompanija za iznajmljivanje to uređuje — samo potvrdite pri rezervaciji",
+    "greenCard2": "Gdje je nabaviti: vaša kompanija za iznajmljivanje to uređuje, samo potvrdite pri rezervaciji",
     "greenCard3": "Zemlje koje pokriva: Hrvatska, Bosna, Albanija, Kosovo, Srbija",
     "greenCardWarn": "Bez Zelene karte, granični službenici vas neće propustiti. Uvijek provjerite da karta pokriva sve zemlje na vašoj planiranoj ruti prije nego što krenete.",
     "docsTitle": "Dokumenti Koji Su Vam Potrebni na Granici",
     "doc1": "Važeći pasoš ili EU lična karta",
     "doc2": "Vozačka dozvola (međunarodna dozvola se prihvata)",
     "doc3": "Ugovor o iznajmljivanju (original, ne fotokopija)",
-    "doc4": "Sertifikat o osiguranju — Zelena karta",
+    "doc4": "Sertifikat o osiguranju, Zelena karta",
     "doc5": "Saobraćajna dozvola vozila (obezbijeđena uz automobil)",
     "crossingsTitle": "Granični Prelazi iz Crne Gore",
     "croatiaTitle": "Crna Gora → Hrvatska",
-    "croatiaText": "Najpopularniji prelaz za turiste. Glavni kontrolni punkt je na Debelom Brijegu na obalnom putu (E65) između Herceg Novog i Dubrovnika. Ovaj prelaz postaje izuzetno prometan ljeti — očekujte redove od 1-2 sata tokom sezone (jul-avgust).",
+    "croatiaText": "Najpopularniji prelaz za turiste. Glavni kontrolni punkt je na Debelom Brijegu na obalnom putu (E65) između Herceg Novog i Dubrovnika. Ovaj prelaz postaje izuzetno prometan ljeti, očekujte redove od 1-2 sata tokom sezone (jul-avgust).",
     "croatiaTip": "Najbolja vremena za prelazak: rano ujutru (prije 8h) ili kasno uveče (poslije 20h). Radnim danima ujutru je znatno mirnije nego vikendom.",
-    "croatiaFerry": "Postoji i trajektna prečica Kamenari-Lepetane preko Bokokotorskog zaliva koja izbjegava vožnju oko čitavog zaliva — štedi oko 45 minuta.",
+    "croatiaFerry": "Postoji i trajektna prečica Kamenari-Lepetane preko Bokokotorskog zaliva koja izbjegava vožnju oko čitavog zaliva, štedi oko 45 minuta.",
     "albaniaTitle": "Crna Gora → Albanija",
     "albaniaText": "Dva glavna prelaza: Sukobin/Muriqan (obalni, blizu Ulcinja) i Hani i Hotit (kopneni, blizu Skadarskog jezera). Obalni prelaz je pogodniji za putnike i obično ima kraća vremena čekanja.",
-    "shkodraLinkPre": "Iz Ulcinja, ",
+    "shkodraLinkPre": "Iz Ulcinja,",
     "shkodraLinkText": "jednodnevni izlet u Skadar",
-    "shkodraLinkPost": " je najlakša prekogranična vožnja u Crnoj Gori.",
+    "shkodraLinkPost": "je najlakša prekogranična vožnja u Crnoj Gori.",
     "albaniaNote": "Napomena: Albanski putevi se značajno razlikuju od crnogorskih. Vozite oprezno, posebno na ruralnim putevima.",
     "bosniaTitle": "Crna Gora → Bosna i Hercegovina",
     "bosniaText": "Glavni prelaz je kod Šćepan Polja (blizu Foče) ako idete na sjever, ili preko Viluša iz Nikšića. Prelazi su generalno mirni sa minimalnim vremenom čekanja van ljeta.",
     "serbiaTitle": "Crna Gora → Srbija",
     "serbiaText": "Prelazite kod Dobrakova (na E65 sjeverno od Bijelog Polja). Ovaj prelaz se direktno povezuje sa srpskim autoputnim sistemom prema Beogradu.",
     "kosovoTitle": "Crna Gora → Kosovo",
-    "kosovoText": "Prelaz kod Kule (blizu Rožaja) povezuje se sa Pejom/Peći na Kosovu. Provjerite sa kompanijom za iznajmljivanje da li je Kosovo uključeno u vašu Zelenu kartu — neke polise ga isključuju.",
+    "kosovoText": "Prelaz kod Kule (blizu Rožaja) povezuje se sa Pejom/Peći na Kosovu. Provjerite sa kompanijom za iznajmljivanje da li je Kosovo uključeno u vašu Zelenu kartu, neke polise ga isključuju.",
     "tipsTitle": "Savjeti za Nesmetane Granične Prelaze",
-    "tip1": "Pripremite sve dokumente prije nego što stignete do kontrolnog punkta — ne tražite ih na prozoru",
+    "tip1": "Pripremite sve dokumente prije nego što stignete do kontrolnog punkta, ne tražite ih na prozoru",
     "tip2": "Ugasite motor dok čekate u redu (granični službenici to cijene)",
-    "tip3": "Ljetnji vikendi su najgori — planirajte da prelazite radnim danima ako je moguće",
+    "tip3": "Ljetnji vikendi su najgori, planirajte da prelazite radnim danima ako je moguće",
     "tip4": "Hrvatski obalni prelaz (Debeli Brijeg) je najprometiniji; kopneni prelazi su mirniji",
-    "tip5": "Imajte pri ruci nešto gotovine u Eurima — korisno za putarine i manje kupovine s druge strane",
+    "tip5": "Imajte pri ruci nešto gotovine u Eurima, korisno za putarine i manje kupovine s druge strane",
     "tip6": "Mobilni podaci u romingu: provjerite da vaš plan pokriva zemlju u koju ulazite",
     "lawsTitle": "Pravila Vožnje Koja Se Mijenjaju na Granicama",
     "lawsIntro": "Svaka zemlja ima nešto drugačije saobraćajne zakone. Ključne razlike na koje treba obratiti pažnju:",
@@ -569,55 +569,55 @@
     "route2": "Kotor → Mostar (Bosna): 3-4 sata preko Trebinja. Posjetite čuveni most",
     "route3": "Budva → Skadar (Albanija): 2,5 sata preko obalnog prelaza kod Ulcinja",
     "route4": "Podgorica → Beograd (Srbija): 5-6 sati putem E65 na sjever",
-    "ctaText": "Trebate automobil sa prekograničnom dokumentacijom? Pretražite našu flotu — samo odaberite odredišne zemlje pri rezervaciji i mi ćemo urediti Zelenu kartu."
+    "ctaText": "Trebate automobil sa prekograničnom dokumentacijom? Pretražite našu flotu, samo odaberite odredišne zemlje pri rezervaciji i mi ćemo urediti Zelenu kartu."
   },
   "velikaPlazaBody": {
-    "adaBojanaLinkPre": "Na južnom kraju, ",
+    "adaBojanaLinkPre": "Na južnom kraju,",
     "adaBojanaLinkText": "kajt plaža Ada Bojana",
-    "adaBojanaLinkPost": " je samo 5 minuta dalje.",
-    "h1": "Velika Plaža — 12 kilometara sivog vulkanskog pijeska",
-    "p1": "Malo turista zna za Veliku Plažu, a još manje ih stigne ovdje. Pijesak nije zlatni — fin je, siv i pun vulkanskih minerala koje mještani generacijama koriste za terapeutske tretmane. Plaža počinje oko 5 km južno od grada Ulcinja i proteže se, neprekinuta i uglavnom prazna, sve do albanske granice.",
-    "p2": "Da biste stigli ovdje, potreban je automobil. Nema autobusa. Nema trotoara na poslednjem dijelu. Parkinzi su neformalni — šljunčane čistine između dina. Pijesak prodire svuda: u auto, cipele, torbu. To je dio ugovora. Nagrada je plaža toliko ogromna da čak i u avgustu možete hodati dvadeset minuta a da ne sretnete živu dušu.",
+    "adaBojanaLinkPost": "je samo 5 minuta dalje.",
+    "h1": "Velika Plaža, 12 kilometara sivog vulkanskog pijeska",
+    "p1": "Malo turista zna za Veliku Plažu, a još manje ih stigne ovdje. Pijesak nije zlatni, fin je, siv i pun vulkanskih minerala koje mještani generacijama koriste za terapeutske tretmane. Plaža počinje oko 5 km južno od grada Ulcinja i proteže se, neprekinuta i uglavnom prazna, sve do albanske granice.",
+    "p2": "Da biste stigli ovdje, potreban je automobil. Nema autobusa. Nema trotoara na poslednjem dijelu. Parkinzi su neformalni, šljunčane čistine između dina. Pijesak prodire svuda: u auto, cipele, torbu. To je dio ugovora. Nagrada je plaža toliko ogromna da čak i u avgustu možete hodati dvadeset minuta a da ne sretnete živu dušu.",
     "activitiesTitle": "Šta se dešava na pijesku",
-    "activity1": "Kajtanje i jedričarstvo — termički vjetrovi 15–25 čvorova od juna do septembra, plitka voda idealna za početnike i napredne",
+    "activity1": "Kajtanje i jedričarstvo, termički vjetrovi 15-25 čvorova od juna do septembra, plitka voda idealna za početnike i napredne",
     "activity2": "Barovi na plaži kod sjevernih pristupa služe hladno pivo Nikšićko i ribu na žaru. Što dalje idete na jug, to je praznije",
-    "activity3": "Terapeutski tretmani pijeskom — zakopajte se u mineralni sivi pijesak. Mještani se kunu da pomaže kod bolova u zglobovima i kožnih problema",
+    "activity3": "Terapeutski tretmani pijeskom, zakopajte se u mineralni sivi pijesak. Mještani se kunu da pomaže kod bolova u zglobovima i kožnih problema",
     "activity4": "Kupanje u vodi koja ostaje plitka na 50+ metara, topla od juna i iznenađujuće čista",
     "gettingThereTitle": "Kako stići",
     "gettingThereText": "Vozite na jug od centra Ulcinja obalnim putem. Više pristupnih staza vodi ka plaži duž 12 km. Sjeverni kraj kod bara Copacabana je najlakše naći. Za najpraznije dijelove nastavite na jug dok put ne postane staza i dine se ne zatvore s obje strane."
   },
   "adaBojanaBody": {
-    "shkodraLinkPre": "Sa Ade Bojane možete ",
+    "shkodraLinkPre": "Sa Ade Bojane možete",
     "shkodraLinkText": "preći u Albaniju i stići do Skadra za 30 minuta",
     "shkodraLinkPost": ".",
-    "h1": "Ada Bojana — Posljednja divlja riječna delta Evrope",
-    "p1": "Ada Bojana je trougaono ostrvo nastalo na ušću rijeke Bojane u Jadransko more, tačno na albanskoj granici. To je posljednja divlja riječna delta Evrope — bez betonske šetnice, bez hotelskog kompleksa, samo pješčane obale, jedan jedini most i drveni restorani na stubovima iznad spore smeđe vode.",
+    "h1": "Ada Bojana, Posljednja divlja riječna delta Evrope",
+    "p1": "Ada Bojana je trougaono ostrvo nastalo na ušću rijeke Bojane u Jadransko more, tačno na albanskoj granici. To je posljednja divlja riječna delta Evrope, bez betonske šetnice, bez hotelskog kompleksa, samo pješčane obale, jedan jedini most i drveni restorani na stubovima iznad spore smeđe vode.",
     "p2": "Konstantni termički vjetrovi od 15 do 25 čvorova duvaju od juna do septembra, pojačavajući se svakog popodneva. Voda je na riječnoj strani plitka i topla, na jadranskoj dublja i hladnija. Nekoliko kajt škola nudi časove i opremu za iznajmljivanje. Restorani na stubovima služe svježe grilovani šaran, jegulje i kefal pravo iz rijeke.",
     "kitesurfTitle": "Uslovi za kajtanje",
-    "kitesurfText": "Obrazac termičkog vjetra je izuzetno konzistentan: mirna jutra, jačanje od podneva, vrhunac 15–25 čvorova popodne. Riječna strana nudi ravnu plitku vodu za freestyle i početnike. Morska strana ima male talase. Sezona od maja do septembra, jul i avgust najpouzdaniji.",
+    "kitesurfText": "Obrazac termičkog vjetra je izuzetno konzistentan: mirna jutra, jačanje od podneva, vrhunac 15-25 čvorova popodne. Riječna strana nudi ravnu plitku vodu za freestyle i početnike. Morska strana ima male talase. Sezona od maja do septembra, jul i avgust najpouzdaniji.",
     "restaurantsTitle": "Jelo na rijeci",
-    "restaurantsText": "Restorani na stubovima su zaštitni znak Ade Bojane. Drvene platforme iznad rijeke, do kojih se dolazi uskim stazama, služe ono što su ribari uhvatili tog dana. Riba na žaru, riječna jegulja i svježa salata. U nekim mjestima nema menija — konobar vam kaže šta ima. Hladna rakija za kraj.",
+    "restaurantsText": "Restorani na stubovima su zaštitni znak Ade Bojane. Drvene platforme iznad rijeke, do kojih se dolazi uskim stazama, služe ono što su ribari uhvatili tog dana. Riba na žaru, riječna jegulja i svježa salata. U nekim mjestima nema menija, konobar vam kaže šta ima. Hladna rakija za kraj.",
     "gettingThereTitle": "Kako stići",
-    "gettingThereText": "Vozite 15 km na jug od centra Ulcinja, prođite Veliku Plažu i pređite jedini most na ostrvo. Put je asfaltiran ali uzak. Nema javnog prevoza do Ade Bojane — automobil je jedina realna opcija."
+    "gettingThereText": "Vozite 15 km na jug od centra Ulcinja, prođite Veliku Plažu i pređite jedini most na ostrvo. Put je asfaltiran ali uzak. Nema javnog prevoza do Ade Bojane, automobil je jedina realna opcija."
   },
   "barBody": {
-    "velikaPlazaLinkPre": "Iz Bara nastavite na jug duž obale do ",
+    "velikaPlazaLinkPre": "Iz Bara nastavite na jug duž obale do",
     "velikaPlazaLinkText": "12 km dugačke pješčane plaže Velika plaža",
     "velikaPlazaLinkPost": ".",
-    "h1": "Bar — Radna luka i srednjovjekovne ruševine na brdu",
-    "p1": "Bar nije lijep grad. To je radna jadranska luka 30 minuta sjeverno od Ulcinja, većinom izgrađena od betona poslije razornog zemljotresa 1979. godine. Ali razlog da dođete je iznad grada — Stari Bar, ruševine srednjovjekovnog utvrđenog grada koji se drži padine kao duh.",
-    "p2": "Stari Bar sadrži ostatke preko 240 objekata — crkve, džamije, palate, kuće i javna kupatila — raspoređenih na dramatičnom brdu. Drevna maslina kod ulaza se smatra starom preko 2.000 godina, što je čini jednim od najstarijih živih stabala u Evropi. Još uvijek rađa.",
+    "h1": "Bar, Radna luka i srednjovjekovne ruševine na brdu",
+    "p1": "Bar nije lijep grad. To je radna jadranska luka 30 minuta sjeverno od Ulcinja, većinom izgrađena od betona poslije razornog zemljotresa 1979. godine. Ali razlog da dođete je iznad grada, Stari Bar, ruševine srednjovjekovnog utvrđenog grada koji se drži padine kao duh.",
+    "p2": "Stari Bar sadrži ostatke preko 240 objekata, crkve, džamije, palate, kuće i javna kupatila, raspoređenih na dramatičnom brdu. Drevna maslina kod ulaza se smatra starom preko 2.000 godina, što je čini jednim od najstarijih živih stabala u Evropi. Još uvijek rađa.",
     "dayTripTitle": "Šta vidjeti",
-    "stariBar": "Ruševine tvrđave Stari Bar — prošetajte kroz 240 ruševnih struktura sa pogledom do Italije u vedrim danima. Minimum 2 sata",
-    "oliveTree": "Stara maslina Bara — kvrgnavi, ograđeni spomenik star preko 2.000 godina. Još živa. Još rađa masline",
-    "portArea": "Šetalište uz obalu — više funkcionalno nego lijepo, ali mjesto za provjeru reda vožnje trajekta za Bari",
+    "stariBar": "Ruševine tvrđave Stari Bar, prošetajte kroz 240 ruševnih struktura sa pogledom do Italije u vedrim danima. Minimum 2 sata",
+    "oliveTree": "Stara maslina Bara, kvrgnavi, ograđeni spomenik star preko 2.000 godina. Još živa. Još rađa masline",
+    "portArea": "Šetalište uz obalu, više funkcionalno nego lijepo, ali mjesto za provjeru reda vožnje trajekta za Bari",
     "gettingThereTitle": "Kako stići",
     "gettingThereText": "Vozite iz Ulcinja na sjever obalnim putem E85. Bar je udaljen 30 km, oko 30 minuta. Parkirajte u modernom gradu i vozite ili idite pješke do Starog Bara (4 km u unutrašnjost, obilježeno)."
   },
   "blogIndex": {
     "breadcrumbBlog": "Blog",
     "heroTitle": "Vodiči za putovanja po Ulcinju",
-    "heroSubtitle": "Plaže, granični prelazi, maslinici i zaboravljene tvrđave — napisano od ljudi koji voze ovim putevima svake sedmice.",
+    "heroSubtitle": "Plaže, granični prelazi, maslinici i zaboravljene tvrđave, napisano od ljudi koji voze ovim putevima svake sedmice.",
     "readGuide": "Pročitaj vodič",
     "card_oldtown_title": "Osmanski Stari grad Ulcinja",
     "card_oldtown_excerpt": "Kameni bedemi, džamije okrenute moru i tvrđava starija od osmanskog osvajanja. Vodič za šetnju utvrđenim kvartom iznad luke.",
@@ -630,7 +630,7 @@
     "card_olive_title": "Stara maslina Ulcinja",
     "card_olive_excerpt": "Drvo staro 2.000 godina, terasasti maslinici koji se spuštaju ka obali i hladno ceđeno ulje koje možete kupiti na kapiji farme.",
     "card_valdanos_title": "Valdanos: skriveni zaliv",
-    "card_valdanos_excerpt": "Zaklonjeni zaliv okružen sa 10.000 maslina. Bez hotela, bez gužve — samo čista voda i zvuk cvrčaka.",
+    "card_valdanos_excerpt": "Zaklonjeni zaliv okružen sa 10.000 maslina. Bez hotela, bez gužve, samo čista voda i zvuk cvrčaka.",
     "card_seafood_title": "Ribarska tradicija Ulcinja",
     "card_seafood_excerpt": "Ribari i dalje iskrcavaju ulov u luku svakog jutra. Đe probati najsvježiju ribu na južnoj obali Crne Gore.",
     "card_skadar_title": "Skadarsko jezero s juga",
@@ -640,22 +640,22 @@
   },
   "blogOldtown": {
     "title": "Osmanski Stari grad Ulcinja: zidine, džamije i pogled na more",
-    "subtitle": "Vodič za šetnju utvrđenim kvartom iznad luke — 2.500 godina slojevite istorije od Ilira do Osmanlija.",
+    "subtitle": "Vodič za šetnju utvrđenim kvartom iznad luke, 2.500 godina slojevite istorije od Ilira do Osmanlija.",
     "description": "Istražite utvrđeni Stari grad Ulcinja (Stari Grad). Osmanske džamije, mletačka arhitektura, fortifikacioni zidovi i panoramski pogledi na Jadran. Praktični savjeti za posjetioce autom.",
     "h2History": "Slojevi kamena, slojevi vremena",
     "historyP1": "Stari grad Ulcinja stoji na stjenovitom rtu koji s tri strane pada pravo u Jadransko more. Lokacija je neprekidno utvrđivana najmanje 2.500 godina. Iliri su podigli prve zidine. Rimljani su ih proširili. Mlečani su dodali bastione i morska vrata. Osmanlije su držale grad više od tri vijeka i ostavile za sobom džamije, hamame i uske kamene ulice koje i danas definišu raspored.",
     "historyP2": "Ono što Stari grad čini neobičnim jeste gustina ovih slojeva. Možete stajati na mletačkom bastionu i gledati rimske temelje, a onda se okrenuti i viđeti osmanski minaret koji se uzdiže iznad krovova gotovo nepromijenjenih od XVII vijeka. Nigđe drugo na crnogorskoj obali toliko istorije ne staje u tako mali prostor.",
     "h2Enter": "Kako ući",
-    "enterP": "Postoje dvoja vrata. Glavni ulaz je na kopnenoj strani, do njega vodi kratak uspon iz centra grada. Druga su manja morska vrata u zapadnom zidu, odakle stepenice silaze do stijena ispod. Parkirajte na parkingu u podnožju zidina — besplatan je van jula i avgusta — i popnite se kroz glavna vrata. Uspon traje dva minuta.",
+    "enterP": "Postoje dvoja vrata. Glavni ulaz je na kopnenoj strani, do njega vodi kratak uspon iz centra grada. Druga su manja morska vrata u zapadnom zidu, odakle stepenice silaze do stijena ispod. Parkirajte na parkingu u podnožju zidina, besplatan je van jula i avgusta, i popnite se kroz glavna vrata. Uspon traje dva minuta.",
     "altInline": "Pogled sa zidina Starog grada Ulcinja na Jadransko more",
     "h2Mosques": "Džamije unutar zidina",
-    "mosquesP1": "Pomorska džamija (Džamija Namazđah) nalazi se odmah unutar glavnih vrata. Izgrađena je 1719. godine i služila je osmanskom garnizonu. Minaret je jedna od najviših struktura unutar zidina i služi kao korisna tačka orijentacije. Džamija je uglavnom otvorena za posjetioce van vremena molitve — izujte cipele na ulazu.",
+    "mosquesP1": "Pomorska džamija (Džamija Namazđah) nalazi se odmah unutar glavnih vrata. Izgrađena je 1719. godine i služila je osmanskom garnizonu. Minaret je jedna od najviših struktura unutar zidina i služi kao korisna tačka orijentacije. Džamija je uglavnom otvorena za posjetioce van vremena molitve, izujte cipele na ulazu.",
     "mosquesP2": "Druga, manja džamija stoji blizu južnog bastiona. Sa njene terase po vedrom vremenu može se viđeti obala Albanije. Ako posjećujete u mirnijem periodu, kombinujte Stari grad s izletom u",
     "valdanosLink": "zaliv Valdanos",
-    "mosquesP3": "istog popodneva — put na sjever traje oko 15 minuta.",
+    "mosquesP3": "istog popodneva, put na sjever traje oko 15 minuta.",
     "h2Walls": "Šetnja zidinama",
     "wallsP1": "Obilazak utvrđenja nije uređena staza kao u Dubrovniku ili Kotoru. Umjesto toga, probijate se duž dionica bedema đe je kamen dovoljno stabilan za hodanje. Najbolji dio ide duž zapadnog zida iznad mora, đe je padina okomita i pogled seže do ostrva uz albansku obalu. Kasno popodne svjetlost pozlaćuje kamen, a Jadran poprima boju indiga.",
-    "wallsP2": "Poslije obilaska zidina, siđite kroz morska vrata do stijena ispod da se okupate. Voda je ovđe duboka, čista i zaštićena od popodnevnog vjetra. Zatim se vratite u uličice na večeru — naš vodič po",
+    "wallsP2": "Poslije obilaska zidina, siđite kroz morska vrata do stijena ispod da se okupate. Voda je ovđe duboka, čista i zaštićena od popodnevnog vjetra. Zatim se vratite u uličice na večeru, naš vodič po",
     "seafoodLink": "ribarskim restoranima Ulcinja",
     "h2Museum": "Etnografski muzej",
     "museumP": "Mali muzej unutar zidina čuva artefakte iz osmanskog perioda, stare fotografije grada i kolekciju tradicionalne odjeće ulcinjskog kraja. Postavka je skromna, ali pažljivo osmišljena. Odvojite 20 minuta. Muzej je zatvoren ponedeljkom.",
@@ -663,7 +663,7 @@
     "tipTimeLabel": "Najbolje vrijeme:",
     "tipTimeVal": "Kasno popodne za najbolje svjetlo i nižu temperaturu. Zapadne zidine su okrenute zalasku sunca.",
     "tipShoesLabel": "Obuća:",
-    "tipShoesVal": "Kaldrma je uglačana. Patike ili sandale s gripom — ne japanke.",
+    "tipShoesVal": "Kaldrma je uglačana. Patike ili sandale s gripom, ne japanke.",
     "tipParkingLabel": "Parking:",
     "tipParkingVal": "Besplatan parking u podnožju zidina. Plaća se u julu-avgustu (2 EUR/sat).",
     "tipSunsetLabel": "Zalazak sunca:",
@@ -672,40 +672,40 @@
     "glanceEntry": "Ulaz",
     "glanceEntryVal": "Besplatno (muzej 2 EUR)",
     "glanceDuration": "Trajanje",
-    "glanceDurationVal": "1–2 sata",
+    "glanceDurationVal": "1-2 sata",
     "glanceParking": "Parking",
-    "glanceParkingVal": "Besplatno (plaća se jul.–avg.)",
+    "glanceParkingVal": "Besplatno (plaća se jul., avg.)",
     "glanceBest": "Najbolje vrijeme",
     "glanceBestVal": "Kasno popodne"
   },
   "blogVelikaplaza": {
     "title": "Velika plaža: najduža pješčana plaža Evrope",
-    "subtitle": "12 kilometara tamnog mineralnog pijeska od Ulcinja do rijeke Bojane — kajtanje, toplo plićak i bičevi od kraja do kraja.",
+    "subtitle": "12 kilometara tamnog mineralnog pijeska od Ulcinja do rijeke Bojane, kajtanje, toplo plićak i bičevi od kraja do kraja.",
     "description": "Kompletan vodič za Veliku plažu kod Ulcinja, Crna Gora. 12 km pješčane obale, kajtanje, upute za vožnju, parking i objašnjeni djelovi plaže.",
     "h2Beach": "Dvanaest kilometara pijeska",
-    "beachP1": "Velika plaža se pruža u neprekidnom luku od lučkog područja južno od Ulcinja do ušća rijeke Bojane na granici s Albanijom. Sa 12 km, jedna je od najdužih pješčanih plaža u Evropi. Pijesak je taman — bogat mineralima — a lokalna tradicija mu pripisuje ljekovita svojstva za zglobove i kožu. Bilo to istina ili ne, tekstura je karakteristična: sitan, blago topao pod nogama čak i rano ujutro, i potpuno drugačiji od bijelo-šljunčanih plaža sjevernije na crnogorskoj obali.",
-    "beachP2": "Plaža je okrenuta jugozapadu, što znači direktno sunce od sredine jutra do zalaska. Voda je plitka na prvih 30–50 metara, čineći je jednom od najbezbjednijih plaža u Crnoj Gori za porodice s malom đecom. Dalje, morsko dno se produbljuje i struje iz Bojanskog kanala počinju da vuku — kupači treba da ostanu u obilježenim zonama.",
+    "beachP1": "Velika plaža se pruža u neprekidnom luku od lučkog područja južno od Ulcinja do ušća rijeke Bojane na granici s Albanijom. Sa 12 km, jedna je od najdužih pješčanih plaža u Evropi. Pijesak je taman, bogat mineralima, a lokalna tradicija mu pripisuje ljekovita svojstva za zglobove i kožu. Bilo to istina ili ne, tekstura je karakteristična: sitan, blago topao pod nogama čak i rano ujutro, i potpuno drugačiji od bijelo-šljunčanih plaža sjevernije na crnogorskoj obali.",
+    "beachP2": "Plaža je okrenuta jugozapadu, što znači direktno sunce od sredine jutra do zalaska. Voda je plitka na prvih 30-50 metara, čineći je jednom od najbezbjednijih plaža u Crnoj Gori za porodice s malom đecom. Dalje, morsko dno se produbljuje i struje iz Bojanskog kanala počinju da vuku, kupači treba da ostanu u obilježenim zonama.",
     "h2Kite": "Kajtanje na Dugoj plaži",
     "kiteP1": "Južni kraj Velike plaže, đe se plaža širi i termalni vjetrovi iz delte Bojane su najjači, postao je jedan od najkonstantnijih spotova za kajtanje u Evropi. Sezona traje od maja do septembra, a najbolji uslovi su u junu i julu kada bura konstantno duva sa jugozapada od podneva do 18h.",
-    "kiteP2": "Na posljednja dva kilometra plaže radi nekoliko škola kajtanja. Iznajmljivanje opreme, skladištenje i časovi su dostupni na licu mjesta. Za ozbiljne vozače, uslovi ovđe se mogu uporediti sa Tarifom i Dahlom — a plaža je daleko manje zakrčena. Za sesije na ravnoj vodi, pređite most na",
+    "kiteP2": "Na posljednja dva kilometra plaže radi nekoliko škola kajtanja. Iznajmljivanje opreme, skladištenje i časovi su dostupni na licu mjesta. Za ozbiljne vozače, uslovi ovđe se mogu uporediti sa Tarifom i Dahlom, a plaža je daleko manje zakrčena. Za sesije na ravnoj vodi, pređite most na",
     "adaLink": "Adu Bojanu",
     "kiteP3": "đe ušće rijeke nudi glatku vodu mirnih jutara.",
     "altInline": "Kajtaši na Velikoj plaži s albanskim planinama u pozadini",
     "h2Sections": "Dijelovi plaže",
     "h3North": "Śeverni kraj: lučka strana",
-    "northP": "Prva dva kilometra najbliža gradu Ulcinju su najrazvijenija. Bičevi s ležaljkama, barovi i muzika duž pijeska. Parking je na šljunčanim površinama iza dina. Ovaj dio se brzo popuni u julu-avgustu — dođite prije 10h da zauzmeete mjesto.",
+    "northP": "Prva dva kilometra najbliža gradu Ulcinju su najrazvijenija. Bičevi s ležaljkama, barovi i muzika duž pijeska. Parking je na šljunčanim površinama iza dina. Ovaj dio se brzo popuni u julu-avgustu, dođite prije 10h da zauzmeete mjesto.",
     "h3Central": "Centralni dio: od Safarija do Copacabane",
-    "centralP": "Srednji dio je mirniji. Imenovani bičevi — Safari, Copacabana, Tropicana — raspoređeni su na otprilike svakih 500 metara, svaki sa svojim karakterom. Između njih, otvoreni prostori pijeska đe možete raširiti peškir i ne viđeti nikoga ni u jednom pravcu. Prilazni putevi sa obalne magistrale vode do malih šljunčanih parkinga iza linije dina.",
+    "centralP": "Srednji dio je mirniji. Imenovani bičevi, Safari, Copacabana, Tropicana, raspoređeni su na otprilike svakih 500 metara, svaki sa svojim karakterom. Između njih, otvoreni prostori pijeska đe možete raširiti peškir i ne viđeti nikoga ni u jednom pravcu. Prilazni putevi sa obalne magistrale vode do malih šljunčanih parkinga iza linije dina.",
     "h3South": "Južni kraj: zona kajtanja",
-    "southP": "Posljednja tri kilometra prije Ade Bojane su najšira i najdivljija. Škole kajtanja, nekoliko plažnih koliba s pečenom ribom i najjači vjetar. Put se završava prije plaže — posljednji dio je dostupan pješke ili terencem po pijesku u oseci.",
+    "southP": "Posljednja tri kilometra prije Ade Bojane su najšira i najdivljija. Škole kajtanja, nekoliko plažnih koliba s pečenom ribom i najjači vjetar. Put se završava prije plaže, posljednji dio je dostupan pješke ili terencem po pijesku u oseci.",
     "h2Drive": "Kako stići autom",
-    "driveP": "Iz centra Ulcinja pratite oznake za Veliku plažu / Adu Bojanu. Glavni put ide paralelno s plažom oko 500 metara u unutrašnjosti. Skretanja na otprilike svakih 1 km vode do različitih dijelova plaže. Vožnja iz Starog grada traje 5–10 minuta zavisno od dijela na koji idete. Ako ste smješteni u",
+    "driveP": "Iz centra Ulcinja pratite oznake za Veliku plažu / Adu Bojanu. Glavni put ide paralelno s plažom oko 500 metara u unutrašnjosti. Skretanja na otprilike svakih 1 km vode do različitih dijelova plaže. Vožnja iz Starog grada traje 5-10 minuta zavisno od dijela na koji idete. Ako ste smješteni u",
     "oldtownLink": "Starom gradu",
     "h2Tips": "Praktični savjeti",
     "tipSandLabel": "Vrsta pijeska:",
-    "tipSandVal": "Tamni mineralni pijesak — jako se zagrije na popodnevnom suncu. Ponesite plažne cipele ili sandale.",
+    "tipSandVal": "Tamni mineralni pijesak, jako se zagrije na popodnevnom suncu. Ponesite plažne cipele ili sandale.",
     "tipParkingLabel": "Parking:",
-    "tipParkingVal": "Besplatni šljunčani parkovi kod većine pristupa. 3–5 EUR na razvijenijim śevernim dijelovima ljeti.",
+    "tipParkingVal": "Besplatni šljunčani parkovi kod većine pristupa. 3-5 EUR na razvijenijim śevernim dijelovima ljeti.",
     "tipSunLabel": "Zaštita od sunca:",
     "tipSunVal": "Na većem dijelu plaže nema prirodnog hlada. Ponesite sopstveni suncobran ili iznajmite u biču.",
     "tipFoodLabel": "Hrana:",
@@ -716,35 +716,35 @@
     "glanceSand": "Vrsta pijeska",
     "glanceSandVal": "Tamni mineralni pijesak",
     "glanceDrive": "Iz Ulcinja",
-    "glanceDriveVal": "5–10 minuta",
+    "glanceDriveVal": "5-10 minuta",
     "glanceBest": "Najbolji mjeseci",
-    "glanceBestVal": "Jun–sep."
+    "glanceBestVal": "Jun, sep."
   },
   "blogAdabojana": {
     "title": "Ada Bojana: vožnja do riječnog ostrva Crne Gore",
-    "subtitle": "Trouglasto ostrvo đe se rijeka Bojana susreće sa Jadranom — pješčane plaže, riblji restorani na rijeci i neki od najboljih uslova za kajtanje u Evropi.",
+    "subtitle": "Trouglasto ostrvo đe se rijeka Bojana susreće sa Jadranom, pješčane plaže, riblji restorani na rijeci i neki od najboljih uslova za kajtanje u Evropi.",
     "description": "Kako doći do Ade Bojane iz Ulcinja. Mostarina, pristup plaži, riblji restorani na rijeci, uslovi za kajtanje i praktični savjeti za posjetu jedinstvenom riječnom ostrvu Crne Gore.",
     "h2Island": "Ostrvo između rijeke i mora",
-    "islandP1": "Ada Bojana je trouglasto ostrvo formirano dvama kracima rijeke Bojane neposredno prije njenog ušća u Jadransko more. Ostrvo zauzima oko 5 kvadratnih kilometara ravnog, pješčanog terena obrubljenog plažama s tri strane. Morska plaža je okrenuta jugozapadu i hvata iste termalne vjetrove koji čine Veliku plažu kajtaškim spotom. Riječne plaže su mirnije — topla, plitka voda s blagom strujom.",
+    "islandP1": "Ada Bojana je trouglasto ostrvo formirano dvama kracima rijeke Bojane neposredno prije njenog ušća u Jadransko more. Ostrvo zauzima oko 5 kvadratnih kilometara ravnog, pješčanog terena obrubljenog plažama s tri strane. Morska plaža je okrenuta jugozapadu i hvata iste termalne vjetrove koji čine Veliku plažu kajtaškim spotom. Riječne plaže su mirnije, topla, plitka voda s blagom strujom.",
     "islandP2": "Decenijama je Ada Bojana bila jedan od najpoznatijih naturističkih odmarališta u Evropi. Hotelski kompleks je davno zatvoren, ali karakter ostrva je ostao: opušten, pomalo divlji i drugačiji od svega na crnogorskoj obali. Riblji restorani na drvenim stubovima nižu se duž śevernog obale, a južna plaža se pruža bez prekida do albanske granice.",
     "h2Drive": "Kako stići autom",
-    "driveP1": "Iz Ulcinja pratite obalni put na jug ka Velikoj plaži. Poslije otprilike 12 km stižete do mosta za Adu Bojanu — jednopolosna betonska konstrukcija koja prelazi južni krak Bojane. Na kopnenoj strani je naplatna rampa. Cijena je 3 EUR po automobilu (samo keš, poželjno bez vraćanja kusura). Kada pređete, pješčani put vodi do glavne plaže i restorana na rijeci.",
-    "driveP2": "Put na ostrvu je makadamski. Bilo koji automobil može proći po suvom vremenu, ali poslije jakih kiša kolotragovi se razmekšaju. Automobil s višim klirensom je udobniji. Ostrvo je takođe na samo nekoliko kilometara od albanske granice — ako planirate jednodnevni izlet u Skadar, pročitajte naš vodič o",
+    "driveP1": "Iz Ulcinja pratite obalni put na jug ka Velikoj plaži. Poslije otprilike 12 km stižete do mosta za Adu Bojanu, jednopolosna betonska konstrukcija koja prelazi južni krak Bojane. Na kopnenoj strani je naplatna rampa. Cijena je 3 EUR po automobilu (samo keš, poželjno bez vraćanja kusura). Kada pređete, pješčani put vodi do glavne plaže i restorana na rijeci.",
+    "driveP2": "Put na ostrvu je makadamski. Bilo koji automobil može proći po suvom vremenu, ali poslije jakih kiša kolotragovi se razmekšaju. Automobil s višim klirensom je udobniji. Ostrvo je takođe na samo nekoliko kilometara od albanske granice, ako planirate jednodnevni izlet u Skadar, pročitajte naš vodič o",
     "albaniaLink": "prelazu u Albaniju iz Ulcinja",
     "driveP3": "prije nego krenete.",
     "altInline": "Drveni restoran na stubovima na rijeci Bojani kod Ade Bojane",
     "h2Beach": "Plaže",
-    "beachP": "Morska plaža na južnoj strani duga je oko 3 km — sitan pijesak, blag ulaz u vodu i obično nenaseljeno čak i u špicu sezone. Riječne plaže na śevernoj i istočnoj strani zaštićene su od vjetra i toplije od otvorenog mora. Porodice s malom đecom preferiraju riječnu stranu. Na ostrvu nema iznajmljivanja ležaljki — ponesite sve što vam treba.",
+    "beachP": "Morska plaža na južnoj strani duga je oko 3 km, sitan pijesak, blag ulaz u vodu i obično nenaseljeno čak i u špicu sezone. Riječne plaže na śevernoj i istočnoj strani zaštićene su od vjetra i toplije od otvorenog mora. Porodice s malom đecom preferiraju riječnu stranu. Na ostrvu nema iznajmljivanja ležaljki, ponesite sve što vam treba.",
     "h2Food": "Riblji restorani na rijeci",
-    "foodP": "Restorani na stubovima duž śevernog korita Bojane služe slatkovodnu ribu ulovljenu iz rijeke tog istog jutra — šarana, jegulju i pastrmku, pečene na ražnju nad otvorenom vatrom i poslužene sa blitviom i krompirom. To su neka od najosebujnijih jela koja možete probati u Crnoj Gori. Cijene su umjerene — oko 10–15 EUR po osobi za pun riblji obrok s vinom. Više o lokalnoj kuhinji u našem",
+    "foodP": "Restorani na stubovima duž śevernog korita Bojane služe slatkovodnu ribu ulovljenu iz rijeke tog istog jutra, šarana, jegulju i pastrmku, pečene na ražnju nad otvorenom vatrom i poslužene sa blitviom i krompirom. To su neka od najosebujnijih jela koja možete probati u Crnoj Gori. Cijene su umjerene, oko 10-15 EUR po osobi za pun riblji obrok s vinom. Više o lokalnoj kuhinji u našem",
     "seafoodLink": "vodiču za plodove mora Ulcinja",
     "h2Wind": "Vjetar i kajtanje",
-    "windP": "Morska plaža Ade Bojane hvata iste jugozapadne termale kao i južni kraj Velike plaže, ali ravan teren i nedostatak objekata na ostrvu stvaraju još konstantniji vjetroviti koridor. Ušće rijeke takođe nudi vožnju po ravnoj vodi — rijetko na Jadranu. Dvije škole kajtanja rade na plaži od maja do septembra. Iznajmljivanje daske i kajta košta oko 60–80 EUR dnevno.",
+    "windP": "Morska plaža Ade Bojane hvata iste jugozapadne termale kao i južni kraj Velike plaže, ali ravan teren i nedostatak objekata na ostrvu stvaraju još konstantniji vjetroviti koridor. Ušće rijeke takođe nudi vožnju po ravnoj vodi, rijetko na Jadranu. Dvije škole kajtanja rade na plaži od maja do septembra. Iznajmljivanje daske i kajta košta oko 60-80 EUR dnevno.",
     "h2Tips": "Praktični savjeti",
     "tipBridgeLabel": "Mostarina:",
-    "tipBridgeVal": "3 EUR po automobilu, samo keš. Most je jednopolosan — sačekajte da protivsaobraćaj prođe prije prelaska.",
+    "tipBridgeVal": "3 EUR po automobilu, samo keš. Most je jednopolosan, sačekajte da protivsaobraćaj prođe prije prelaska.",
     "tipCarLabel": "Tip automobila:",
-    "tipCarVal": "Bilo koji automobil po suvom vremenu. Viši klirens preporučen poslije kiše — ostrvski putevi su od pijeska.",
+    "tipCarVal": "Bilo koji automobil po suvom vremenu. Viši klirens preporučen poslije kiše, ostrvski putevi su od pijeska.",
     "tipCashLabel": "Keš:",
     "tipCashVal": "Restorani i plažni objekti na ostrvu primaju samo keš. Ponesite eure.",
     "tipMosquitoLabel": "Komarci:",
@@ -755,31 +755,31 @@
     "glanceBridge": "Mostarina",
     "glanceBridgeVal": "3 EUR (keš)",
     "glanceBest": "Najbolji mjeseci",
-    "glanceBestVal": "Maj–sep.",
+    "glanceBestVal": "Maj, sep.",
     "glanceWind": "Sezona vjetrova",
-    "glanceWindVal": "Jun–avg. (najjači)"
+    "glanceWindVal": "Jun, avg. (najjači)"
   },
   "blogAlbania": {
     "title": "Prelazak u Albaniju iz Ulcinja: šta treba znati",
     "subtitle": "Granični prelaz Sukobin je 20 minuta južno od Ulcinja. Dokumentacija za Zelenu kartu, šta očekivati na kontrolnom punktu i jednodnevni izlet u Skadar i nazad.",
     "description": "Sve što treba znati o vožnji iz Ulcinja u Albaniju. Procedure na graničnom prelazu Sukobin, osiguranje Zelena karta, jednodnevni izlet u Skadar i praktični savjeti za rent-a-kar.",
     "h2Why": "Zašto prelaziti iz Ulcinja?",
-    "whyP1": "Ulcinj je najbliži crnogorski grad albanskoj granici. Prelaz Sukobin/Muričan je samo 20 minuta južno od centra grada — bliže nego što većina posjetilaca očekuje. Put se spušta kroz maslinike i poljoprivredno zemljište do kontrolnog punkta na obalama rijeke Bojane. Na drugoj strani, albanski grad Skadar je dodatnih 30–40 minuta vožnje.",
-    "whyP2": "Sam prelaz je jednostavan. Redovi su kratki van vikenda u julu i avgustu. Obje strane imaju moderne granične objekte. Cjelokupan proces — crnogorski izlazni pečat, albanski ulazni pečat, provjera dokumenata vozila — obično traje 10–15 minuta u svakom smjeru.",
+    "whyP1": "Ulcinj je najbliži crnogorski grad albanskoj granici. Prelaz Sukobin/Muričan je samo 20 minuta južno od centra grada, bliže nego što većina posjetilaca očekuje. Put se spušta kroz maslinike i poljoprivredno zemljište do kontrolnog punkta na obalama rijeke Bojane. Na drugoj strani, albanski grad Skadar je dodatnih 30-40 minuta vožnje.",
+    "whyP2": "Sam prelaz je jednostavan. Redovi su kratki van vikenda u julu i avgustu. Obje strane imaju moderne granične objekte. Cjelokupan proces, crnogorski izlazni pečat, albanski ulazni pečat, provjera dokumenata vozila, obično traje 10-15 minuta u svakom smjeru.",
     "h2Crossing": "Na granici",
-    "crossingP1": "Trebaće vam: pasoš, vozačka dozvola, saobraćajna dozvola i Zelena karta (međunarodni sertifikat o osiguranju motornog vozila). Zelena karta dokazuje da je osiguranje vašeg rent-a-kar automobila važeće u Albaniji. Bez nje ćete biti vraćeni ili ćete morati kupiti albansko osiguranje od odgovornosti na granici — proces koji oduzima vrijeme i novac.",
+    "crossingP1": "Trebaće vam: pasoš, vozačka dozvola, saobraćajna dozvola i Zelena karta (međunarodni sertifikat o osiguranju motornog vozila). Zelena karta dokazuje da je osiguranje vašeg rent-a-kar automobila važeće u Albaniji. Bez nje ćete biti vraćeni ili ćete morati kupiti albansko osiguranje od odgovornosti na granici, proces koji oduzima vrijeme i novac.",
     "crossingP2": "Ako iznajmljujete preko nas, recite nam pri rezervaciji da planirate prelazak u Albaniju i mi ćemo obezbijediti Zelenu kartu u pretincu za rukavice. Za potpune detalje o prekograničnim zahtjevima, pogledajte naš",
     "borderGuideLink": "vodič za granične prelaze",
     "crossingP3": "koji pokriva svih šest zemalja do kojih se može doći autom iz Crne Gore.",
     "altInline": "Put ka graničnom prelazu Sukobin između Crne Gore i Albanije",
     "h2Shkodra": "Skadar: prvi albanski grad",
-    "shkodraP": "Skadar leži na južnom vrhu Skadarskog jezera (jezero Škodra na albanskoj strani). Tvrđava Rozafa dominira gradom sa brda — utvrđenje sa ilirskim temeljima i pogledom na jezero i planine. Stari bazarski kvart ispod je kompaktan i pogodan za šetnju: kafići, zanatske radnje i nekoliko građevina iz osmanskog perioda. Odvojite 2–3 sata za obilazak tvrđave i centra grada.",
+    "shkodraP": "Skadar leži na južnom vrhu Skadarskog jezera (jezero Škodra na albanskoj strani). Tvrđava Rozafa dominira gradom sa brda, utvrđenje sa ilirskim temeljima i pogledom na jezero i planine. Stari bazarski kvart ispod je kompaktan i pogodan za šetnju: kafići, zanatske radnje i nekoliko građevina iz osmanskog perioda. Odvojite 2-3 sata za obilazak tvrđave i centra grada.",
     "h2GreenCard": "Zelena karta i osiguranje",
     "greenCardP": "Zelena karta je standardizovani dokument priznat širom Evrope i susjednih zemalja. Ona proširuje osiguranje od odgovornosti vašeg vozila na zemlju u koju ulazite. Za Albaniju je obavezna. Ako zaboravite da je organizujete unaprijed, neke rent-a-kar firme naplaćuju doplatu za hitno izdavanje. Druge uopšte ne pokrivaju Albaniju. Potvrdite prije rezervacije. Granica je takođe blizu",
     "adaLink": "Ade Bojane",
-    "greenCardP2": "— neki posjetioci kombinuju ostrvo sa jednodnevnim izletom u Albaniju.",
+    "greenCardP2": ", neki posjetioci kombinuju ostrvo sa jednodnevnim izletom u Albaniju.",
     "h2DayTrip": "Predloženi jednodnevni izlet",
-    "dayTripP": "Krenite iz Ulcinja u 9h. Pređite granicu na Sukobinu (ostavite 15 min). Vozite do Skadra (30 min). Posjetite tvrđavu Rozafa i prošetajte starim gradom. Ručak u restoranu na obali jezera — pečena pastrmka i rakija. Povratak istim prelazom. Bićete nazad u Ulcinju do sredine popodneva s dovoljno vremena za kupanje na Velikoj plaži prije zalaska sunca.",
+    "dayTripP": "Krenite iz Ulcinja u 9h. Pređite granicu na Sukobinu (ostavite 15 min). Vozite do Skadra (30 min). Posjetite tvrđavu Rozafa i prošetajte starim gradom. Ručak u restoranu na obali jezera, pečena pastrmka i rakija. Povratak istim prelazom. Bićete nazad u Ulcinju do sredine popodneva s dovoljno vremena za kupanje na Velikoj plaži prije zalaska sunca.",
     "h2Tips": "Praktični savjeti",
     "tipDocsLabel": "Dokumenta:",
     "tipDocsVal": "Pasoš, vozačka dozvola, saobraćajna dozvola, Zelena karta. Fotokopije se ne prihvataju.",
@@ -788,7 +788,7 @@
     "tipFuelLabel": "Gorivo:",
     "tipFuelVal": "Natočite u Ulcinju prije granice. Albansko gorivo je jeftinije, ali kvalitet benzinskih stanica varira. Ukupan put tamo-nazad je ispod 150 km.",
     "tipReturnLabel": "Vrijeme povratka:",
-    "tipReturnVal": "Izbjegavajte prelazak nazad u Crnu Goru poslije 18h petkom ljeti — redovi se stvaraju na crnogorskom ulaznom punktu.",
+    "tipReturnVal": "Izbjegavajte prelazak nazad u Crnu Goru poslije 18h petkom ljeti, redovi se stvaraju na crnogorskom ulaznom punktu.",
     "glanceTitle": "Ukratko",
     "glanceBorder": "Udaljenost do granice",
     "glanceBorderVal": "20 min od Ulcinja",
@@ -804,26 +804,26 @@
     "subtitle": "Drvo staro 2.000 godina, terasasti maslinici koji se spuštaju ka Jadranu i hladno ceđeno ulje koje možete probati na kapiji farme.",
     "description": "Posjetite Staru maslinu Ulcinja, za koju se procjenjuje da ima više od 2.000 godina. Provozajte se kroz okolne maslinike, probajte lokalno maslinovo ulje i istražite najstariji poljoprivredni pejzaž Crne Gore.",
     "h2Tree": "Najstarije drvo Crne Gore",
-    "treeP1": "Stara maslina (Stara Maslina) stoji u selu Mirovica, oko 5 km śeverno od centra Ulcinja. Procjenjuje se da ima više od 2.000 godina — jedna od najstarijih maslina u Evropi i svakako najstarije živo biće u Crnoj Gori. Stablo je ogromno: više od 10 metara u obimi, šuplje i čvornovato u oblike koji više liče na skulpturu nego na biologiju.",
-    "treeP2": "Drvo i dalje rađa. Lokalne porodice beru plodove svake jeseni zajedno sa hiljadama mlađih stabala oko njega. Mali ograđeni prostor označava drvo kao zaštićeni prirodni spomenik, a postoji i simbolična ulaznica. Mjesto je mirno — bez turističkih autobusa, bez suvenirnice, samo drvo i klupa.",
+    "treeP1": "Stara maslina (Stara Maslina) stoji u selu Mirovica, oko 5 km śeverno od centra Ulcinja. Procjenjuje se da ima više od 2.000 godina, jedna od najstarijih maslina u Evropi i svakako najstarije živo biće u Crnoj Gori. Stablo je ogromno: više od 10 metara u obimi, šuplje i čvornovato u oblike koji više liče na skulpturu nego na biologiju.",
+    "treeP2": "Drvo i dalje rađa. Lokalne porodice beru plodove svake jeseni zajedno sa hiljadama mlađih stabala oko njega. Mali ograđeni prostor označava drvo kao zaštićeni prirodni spomenik, a postoji i simbolična ulaznica. Mjesto je mirno, bez turističkih autobusa, bez suvenirnice, samo drvo i klupa.",
     "h2Getting": "Kako stići",
     "gettingP": "Vozite na sjever iz Ulcinja putem ka Baru. Poslije oko 4 km, označeno skretanje vodi ka Mirovici i Staroj maslini. Put je asfaltiran, a drvo je jasno označeno. Parking je besplatan. Na povratku razmislite o zaobilaznom putu do",
     "valdanosLink": "zaliva Valdanos",
     "gettingP2": "koji je dostupan s istog dijela puta i vodi vas kroz neke od najgušćih maslinika u regionu.",
     "altInline": "Drevna Stara maslina Ulcinja sa čvornovatim stablom",
     "h2Groves": "Maslinici",
-    "grovesP1": "Ruralni predio između Ulcinja i Bara prekriven je maslinama — procjenjuje se oko 80.000 u cijeloj opštini. Maslinici su terasasti na padinama brda koja se spuštaju ka moru, stvarajući pejzaž koji se malo promijenio tokom vjekova. Mnoga stabla su stara 300–500 godina. Najstariji maslinici grupisani su oko sela Mirovica, Kruče i Valdanos.",
-    "grovesP2": "Vožnja kroz maslinike jedno je od tihih zadovoljstava ulcinjskog kraja. Putevi su uski, zasjenčani i prazni. U novembru, tokom sezone berbe, porodice šire mreže ispod drveća i tuku grane dugim motikama — praksa nepromijenjena od rimskog perioda.",
+    "grovesP1": "Ruralni predio između Ulcinja i Bara prekriven je maslinama, procjenjuje se oko 80.000 u cijeloj opštini. Maslinici su terasasti na padinama brda koja se spuštaju ka moru, stvarajući pejzaž koji se malo promijenio tokom vjekova. Mnoga stabla su stara 300-500 godina. Najstariji maslinici grupisani su oko sela Mirovica, Kruče i Valdanos.",
+    "grovesP2": "Vožnja kroz maslinike jedno je od tihih zadovoljstava ulcinjskog kraja. Putevi su uski, zasjenčani i prazni. U novembru, tokom sezone berbe, porodice šire mreže ispod drveća i tuku grane dugim motikama, praksa nepromijenjena od rimskog perioda.",
     "h2Oil": "Degustacija i kupovina ulja",
-    "oilP": "Nekoliko farmi u ulcinjskom kraju ceđi sopstveno ulje i prodaje ga na kapiji. Ulje je obično hladno ceđeno, nefiltrirano i intenzivno zeleno — ljuto i lagano gorko, kako i treba da bude kvalitetno ekstra djevičansko maslinovo ulje. Boce koštaju 8–15 EUR zavisno od veličine. Pitajte na lokaciji Stare masline za upute do najbliže uljare. Lokalno maslinovo ulje savršeno ide uz pečenu ribu u",
+    "oilP": "Nekoliko farmi u ulcinjskom kraju ceđi sopstveno ulje i prodaje ga na kapiji. Ulje je obično hladno ceđeno, nefiltrirano i intenzivno zeleno, ljuto i lagano gorko, kako i treba da bude kvalitetno ekstra djevičansko maslinovo ulje. Boce koštaju 8-15 EUR zavisno od veličine. Pitajte na lokaciji Stare masline za upute do najbliže uljare. Lokalno maslinovo ulje savršeno ide uz pečenu ribu u",
     "seafoodLink": "restoranima na obali Ulcinja",
     "h2Tips": "Praktični savjeti",
     "tipSeasonLabel": "Najbolja sezona:",
-    "tipSeasonVal": "Proljeće (april–maj) kada su maslinici u cvatu, ili kasna jesen (novembar) tokom berbe.",
+    "tipSeasonVal": "Proljeće (april, maj) kada su maslinici u cvatu, ili kasna jesen (novembar) tokom berbe.",
     "tipPhotoLabel": "Fotografija:",
     "tipPhotoVal": "Jutarnje svjetlo kroz krošnju maslina je izuzetno. Stara maslina se najbolje fotografiše po mekom, oblačnom vremenu.",
     "tipBuyLabel": "Kupovina ulja:",
-    "tipBuyVal": "Ponesite keš — prodaja na kapiji farme je neformalna. Staklene boce bolje podnose transport u prtljagu.",
+    "tipBuyVal": "Ponesite keš, prodaja na kapiji farme je neformalna. Staklene boce bolje podnose transport u prtljagu.",
     "tipCombineLabel": "Kombinujte sa:",
     "tipCombineVal": "Zalivom Valdanos (15 min) ili vožnjom na sjever do ruševina Starog Bara (25 min).",
     "glanceTitle": "Ukratko",
@@ -834,31 +834,31 @@
     "glanceFee": "Ulaz",
     "glanceFeeVal": "1 EUR",
     "glanceBest": "Najbolja sezona",
-    "glanceBestVal": "Apr.–maj ili nov."
+    "glanceBestVal": "Apr., maj ili nov."
   },
   "blogValdanos": {
     "title": "Zaliv Valdanos: skriveni zaliv sa 10.000 maslina",
-    "subtitle": "Zaklonjeni zaliv okružen drevnim maslinicima — bez hotela, bez razvoja, samo čista voda i zvuk cvrčaka ljeti.",
+    "subtitle": "Zaklonjeni zaliv okružen drevnim maslinicima, bez hotela, bez razvoja, samo čista voda i zvuk cvrčaka ljeti.",
     "description": "Otkrijte zaliv Valdanos kod Ulcinja. Tajni zaliv okružen maslinicima, dostupan autom vijugavim putem. Kupanje, ronjenje i apsolutni mir na južnoj obali Crne Gore.",
     "h2Hidden": "Zaliv o kojem niko ne govori",
-    "hiddenP1": "Zaliv Valdanos leži oko 5 km śeverno od Ulcinja, skriven između dva rta i nevidljiv sa glavnog puta. Zaliv je mali — oko 300 metara širok — i zatvoren s tri strane strmim brdima prekrivenim maslinama. Voda je duboka, čista i zaštićena od otvorenog mora. U regionu koji reklamira svoju 12-kilometarsku plažu, Valdanos ostaje gotovo neprimijećen.",
+    "hiddenP1": "Zaliv Valdanos leži oko 5 km śeverno od Ulcinja, skriven između dva rta i nevidljiv sa glavnog puta. Zaliv je mali, oko 300 metara širok, i zatvoren s tri strane strmim brdima prekrivenim maslinama. Voda je duboka, čista i zaštićena od otvorenog mora. U regionu koji reklamira svoju 12-kilometarsku plažu, Valdanos ostaje gotovo neprimijećen.",
     "hiddenP2": "Nema ni hotela, ni odmarališta, ni biča. Nekoliko napuštenih zgrada bivšeg socijalističkog odmarališta stoji zaraslo u maslinama, dajući lagano postapokaliptičnu atmosferu koju jedni nalaze lijepom, a drugi jezivom. Sama plaža je šljunčana, voda je odlična za ronjenje, a opšti utisak je mjesta zaboravljenog od turizma.",
     "h2Drive": "Kako stići",
-    "driveP1": "Iz Ulcinja vozite na sjever glavnim putem ka Baru. Poslije oko 3 km, označeno skretanje lijevo vodi ka Valdanosu. Put se odmah sužava i vijuga nizbrdice kroz guste maslinike oko 2 km prije nego što izađe na zaliv. Površina je asfaltirana, ali mjestimično neravna — svaki automobil može proći, ali polako na krivinama.",
-    "driveP2": "Parkirajte na kraju puta đe asfalt dotiče obalu. Nema infrastrukture — ni toaleta, ni prodavnica, ni nadstrešnica. Ponesite sve što vam treba za dan. Na povratku uzbrdo, skrenite lijevo ka Mirovici da posjetite",
+    "driveP1": "Iz Ulcinja vozite na sjever glavnim putem ka Baru. Poslije oko 3 km, označeno skretanje lijevo vodi ka Valdanosu. Put se odmah sužava i vijuga nizbrdice kroz guste maslinike oko 2 km prije nego što izađe na zaliv. Površina je asfaltirana, ali mjestimično neravna, svaki automobil može proći, ali polako na krivinama.",
+    "driveP2": "Parkirajte na kraju puta đe asfalt dotiče obalu. Nema infrastrukture, ni toaleta, ni prodavnica, ni nadstrešnica. Ponesite sve što vam treba za dan. Na povratku uzbrdo, skrenite lijevo ka Mirovici da posjetite",
     "oldtownLink": "Stari grad",
     "driveP3": "ili nastavite do Stare masline.",
     "altInline": "Zaliv Valdanos viđen iz maslinika odozgo",
     "h2Olives": "Maslinici",
-    "olivesP": "Na brdima oko Valdanosa raste oko 10.000 maslina, od kojih su mnoge vjekovima stare. Maslinici su dio istog agrarnog pojasa koji se pruža od Ulcinja do Bara i proizvodi neko od najboljeg maslinovog ulja na zapadnom Balkanu. Šetnja kroz maslinike iznad zaliva je tiho, meditativno iskustvo — drveće filtrira svjetlo, a vazduh miriše na toplu smolu. Više o maslinarskom nasljeđu regiona u našem vodiču o",
+    "olivesP": "Na brdima oko Valdanosa raste oko 10.000 maslina, od kojih su mnoge vjekovima stare. Maslinici su dio istog agrarnog pojasa koji se pruža od Ulcinja do Bara i proizvodi neko od najboljeg maslinovog ulja na zapadnom Balkanu. Šetnja kroz maslinike iznad zaliva je tiho, meditativno iskustvo, drveće filtrira svjetlo, a vazduh miriše na toplu smolu. Više o maslinarskom nasljeđu regiona u našem vodiču o",
     "oliveLink": "Staroj maslini i maslinarskoj stazi",
     "h2Swim": "Kupanje i ronjenje",
-    "swimP": "Voda u Valdanosu je među najčistijim na crnogorskoj obali. Šljunčano dno brzo pada u dubinu, što je idealno za ronjenje — morski ježevi, sitna riba i ponekad hobotnice vidljivi su uz stijene s obje strane zaliva. Zaliv je zaštićen od preovlađujućeg jugozapadnog vjetra, pa voda ostaje mirna čak i kad je na Velikoj plaži nemirno.",
+    "swimP": "Voda u Valdanosu je među najčistijim na crnogorskoj obali. Šljunčano dno brzo pada u dubinu, što je idealno za ronjenje, morski ježevi, sitna riba i ponekad hobotnice vidljivi su uz stijene s obje strane zaliva. Zaliv je zaštićen od preovlađujućeg jugozapadnog vjetra, pa voda ostaje mirna čak i kad je na Velikoj plaži nemirno.",
     "h2History": "Napušteno odmaralište",
-    "historyP": "Tokom 1970-ih i 1980-ih na istočnoj obali zaliva radio je odmarališni kompleks. Zgrade stoje prazne decenijama i djelimično su prerasle vegetacijom. Planovi za rekonstrukciju su više puta najavljeni i napušteni. Za sada, ruševine dodaju atmosferu blagog zapuštanja — podśetnik da ne treba svako lijepo mjesto u Crnoj Gori petogwjezdičani hotel.",
+    "historyP": "Tokom 1970-ih i 1980-ih na istočnoj obali zaliva radio je odmarališni kompleks. Zgrade stoje prazne decenijama i djelimično su prerasle vegetacijom. Planovi za rekonstrukciju su više puta najavljeni i napušteni. Za sada, ruševine dodaju atmosferu blagog zapuštanja, podśetnik da ne treba svako lijepo mjesto u Crnoj Gori petogwjezdičani hotel.",
     "h2Tips": "Praktični savjeti",
     "tipRoadLabel": "Put:",
-    "tipRoadVal": "Asfaltiran, ali uzak s oštrim krivinama. Vozite polako i trubite na slijepim krivinama — protivsaobraćaj nema mjesta za mimoilaženje.",
+    "tipRoadVal": "Asfaltiran, ali uzak s oštrim krivinama. Vozite polako i trubite na slijepim krivinama, protivsaobraćaj nema mjesta za mimoilaženje.",
     "tipBringLabel": "Ponesite:",
     "tipBringVal": "Vodu, hranu, zaštitu od sunca, opremu za ronjenje. U zalivu nema nikakve infrastrukture.",
     "tipTimeLabel": "Najbolje vrijeme:",
@@ -873,30 +873,30 @@
     "glanceRoad": "Tip puta",
     "glanceRoadVal": "Asfalt, uzak",
     "glanceBest": "Najbolji mjeseci",
-    "glanceBestVal": "Maj–okt."
+    "glanceBestVal": "Maj, okt."
   },
   "blogSeafood": {
     "title": "Ribarska tradicija Ulcinja: đe ribari još uvijek love",
-    "subtitle": "Jutarnji ulov stiže u luku prije zore. Riba na žaru, crni rižoto i riječna jegulja — vodič za plodove mora u najjužnijem gradu Crne Gore.",
+    "subtitle": "Jutarnji ulov stiže u luku prije zore. Riba na žaru, crni rižoto i riječna jegulja, vodič za plodove mora u najjužnijem gradu Crne Gore.",
     "description": "Đe jesti svježe plodove mora u Ulcinju, Crna Gora. Restorani Starog grada, riblja pijaca u luci, riblji restorani na stubovima Ade Bojane i šta naručiti u svakom.",
     "h2Tradition": "Grad koji još uvijek riba",
-    "traditionP1": "Ulcinj je ribarski grad koliko god se može ući u trag. Mala luka ispod zidina Starog grada je i dalje radna luka — koće i manji čamci izlaze prije zore i vraćaju se sa sanducima brancina, orade, cipla, liganja i hobotnica. Do 7h ulov je izložen na lučkoj pijaci, a do podneva ista riba se peče na ugljevima u restoranima širom grada.",
+    "traditionP1": "Ulcinj je ribarski grad koliko god se može ući u trag. Mala luka ispod zidina Starog grada je i dalje radna luka, koće i manji čamci izlaze prije zore i vraćaju se sa sanducima brancina, orade, cipla, liganja i hobotnica. Do 7h ulov je izložen na lučkoj pijaci, a do podneva ista riba se peče na ugljevima u restoranima širom grada.",
     "traditionP2": "Ova direktna veza između čamca i tanjira postaje sve rjeđa na jadranskoj obali. U Budvi ili Kotoru, veliki dio ribe u restoranima je uvezena ili uzgojena. U Ulcinju, lanac snabdijevanja ima 200 metara. To se osjeti u ukusu.",
     "h2Where": "Đe jesti",
     "h3OldTown": "Unutar zidina Starog grada",
-    "oldTownP": "Dva-tri restorana rade unutar zidina tvrđave, svaki s terasama na otvorenom s pogledom na more. Ambijent je impresivan — kameni lukovi, svijeće i zvuk talasa ispod. Meniji su kratki i orijentisani na ribu: brancin na žaru cijeli, salata od hobotnice i kalamari su standard. Cijene su nešto više nego u luci, ali privlači atmosfera. Više o samom Starom gradu u našem",
+    "oldTownP": "Dva-tri restorana rade unutar zidina tvrđave, svaki s terasama na otvorenom s pogledom na more. Ambijent je impresivan, kameni lukovi, svijeće i zvuk talasa ispod. Meniji su kratki i orijentisani na ribu: brancin na žaru cijeli, salata od hobotnice i kalamari su standard. Cijene su nešto više nego u luci, ali privlači atmosfera. Više o samom Starom gradu u našem",
     "oldtownLink": "vodiču za šetnju",
     "h3Port": "U luci",
-    "portP": "Restorani duž luke su jednostavniji — plastične stolice, papirni stolnjaci i riba toliko svježa da joj gotovo ne treba začin. Tu jedu mještani. Naručite šta konobar preporuči — biće ono najbolje iz jutarnjeg ulova. Crni rižoto (crni rižot) od sepijine tinte je specijalitet kuće u nekoliko lučkih lokala. Pun obrok s vinom košta 12–18 EUR po osobi.",
+    "portP": "Restorani duž luke su jednostavniji, plastične stolice, papirni stolnjaci i riba toliko svježa da joj gotovo ne treba začin. Tu jedu mještani. Naručite šta konobar preporuči, biće ono najbolje iz jutarnjeg ulova. Crni rižoto (crni rižot) od sepijine tinte je specijalitet kuće u nekoliko lučkih lokala. Pun obrok s vinom košta 12-18 EUR po osobi.",
     "h3Ada": "Restorani na stubovima Ade Bojane",
-    "adaP": "Riblji restorani na Adi Bojani služe sasvim drugačiji meni: slatkovodnog šarana, jegulju i pastrmku iz rijeke Bojane, pečene na otvorenom ognju na drvenim platformama iznad vode. Doživljaj je podjednako u ambijentu kao i u hrani — rijeka teče ispod nogu, čaplje love u plićaku, a albanske planine se uzdižu u daljini. Više u našem",
+    "adaP": "Riblji restorani na Adi Bojani služe sasvim drugačiji meni: slatkovodnog šarana, jegulju i pastrmku iz rijeke Bojane, pečene na otvorenom ognju na drvenim platformama iznad vode. Doživljaj je podjednako u ambijentu kao i u hrani, rijeka teče ispod nogu, čaplje love u plićaku, a albanske planine se uzdižu u daljini. Više u našem",
     "adaLink": "vodiču za Adu Bojanu",
     "altInline": "Pečena riba na žaru servirana u lučkom restoranu u Ulcinju",
     "h2Dishes": "Šta naručiti",
-    "dishesP1": "Riba na žaru cijela je temelj ulcinjske riblje kuhinje. Brancin i orada su najčešći — služe se s maslinovim uljem, limunom i blitviom (blitva sa krompirom). Hobotnica se priprema na dva načina: na žaru (hobotnica na žaru) ili dinstana pod pekom (kupolasti metalni poklopac zatrpan žeravicama). Oba su odlična.",
-    "dishesP2": "Za predjelo, probajte buzaru — škampe ili dagnje kuvane u bijelom vinu, bijelom luku i prezlama. Lokalna verzija koristi školjke koje su stigle tog jutra. Završite čašicom loze (rakije od grožđa) ili čašom Vranca iz Crmničke doline — zaštitnim crvenim vinom Crne Gore.",
+    "dishesP1": "Riba na žaru cijela je temelj ulcinjske riblje kuhinje. Brancin i orada su najčešći, služe se s maslinovim uljem, limunom i blitviom (blitva sa krompirom). Hobotnica se priprema na dva načina: na žaru (hobotnica na žaru) ili dinstana pod pekom (kupolasti metalni poklopac zatrpan žeravicama). Oba su odlična.",
+    "dishesP2": "Za predjelo, probajte buzaru, škampe ili dagnje kuvane u bijelom vinu, bijelom luku i prezlama. Lokalna verzija koristi školjke koje su stigle tog jutra. Završite čašicom loze (rakije od grožđa) ili čašom Vranca iz Crmničke doline, zaštitnim crvenim vinom Crne Gore.",
     "h2Market": "Riblja pijaca",
-    "marketP": "Ako sami kuvate, lučka pijaca se otvara u 6:30 i najbolji izbor nestane do 8h. Ribari prodaju direktno sa čamaca — pokažite šta želite i dogovorite cijenu. Riba se prodaje cijela na kilogram. Odnijete je kući i ispečete s lokalnim maslinovim uljem iz",
+    "marketP": "Ako sami kuvate, lučka pijaca se otvara u 6:30 i najbolji izbor nestane do 8h. Ribari prodaju direktno sa čamaca, pokažite šta želite i dogovorite cijenu. Riba se prodaje cijela na kilogram. Odnijete je kući i ispečete s lokalnim maslinovim uljem iz",
     "oliveLink": "maslinika Ulcinja",
     "h2Tips": "Praktični savjeti",
     "tipTimeLabel": "Najbolje vrijeme:",
@@ -909,7 +909,7 @@
     "tipBookVal": "U luci nije potrebno. Preporučuje se za terase Starog grada u julu-avgustu.",
     "glanceTitle": "Ukratko",
     "glanceBudget": "Budžet",
-    "glanceBudgetVal": "12–18 EUR po osobi",
+    "glanceBudgetVal": "12-18 EUR po osobi",
     "glanceBest": "Najbolje vrijeme",
     "glanceBestVal": "Ručak (najsvježiji ulov)",
     "glanceMust": "Obavezno probati",
@@ -922,27 +922,27 @@
     "subtitle": "Većina posjetilaca stiže do jezera iz Virpazara. Iz Ulcinja, južna obala kod Muričija je bliža, tiša i jednako lijepa.",
     "description": "Vožnja iz Ulcinja do Muričija na južnoj obali Skadarskog jezera. Mirnija alternativa Virpazaru sa šljunčanom plažom, izletima čamcem i kolonijama pelikana. Ruta i praktični savjeti.",
     "h2Why": "Južna obala kojom niko ne ide",
-    "whyP1": "Skadarsko jezero je najveće jezero na Balkanu i jedno od najvažnijih staništa ptica u Evropi. Većina turista mu prilazi sa śevera, kroz gradić Virpazar na autoputu Podgorica–Bar. Ta ruta je poznata, dobro označena i ljeti puna turističkih čamaca.",
-    "whyP2": "Iz Ulcinja postoji drugi put. Južnoj obali jezera pristupa se planinskim putem koji se penje kroz sela iznad obale i spušta do zaseoka Murići — šaka kuća, šljunčana plaža i čamđije koji vas vode da vidite pelikane i lokvanje. Cijela južna obala prima djelić saobraćaja koji dobija Virpazar.",
+    "whyP1": "Skadarsko jezero je najveće jezero na Balkanu i jedno od najvažnijih staništa ptica u Evropi. Većina turista mu prilazi sa śevera, kroz gradić Virpazar na autoputu Podgorica, Bar. Ta ruta je poznata, dobro označena i ljeti puna turističkih čamaca.",
+    "whyP2": "Iz Ulcinja postoji drugi put. Južnoj obali jezera pristupa se planinskim putem koji se penje kroz sela iznad obale i spušta do zaseoka Murići, šaka kuća, šljunčana plaža i čamđije koji vas vode da vidite pelikane i lokvanje. Cijela južna obala prima djelić saobraćaja koji dobija Virpazar.",
     "h2Route": "Vožnja iz Ulcinja",
-    "routeP1": "Iz Ulcinja krenite na sjever glavnim putem ka Baru. Poslije oko 20 km, skrenite lijevo kod Vladimira — malog grada u brdima iza obale. Put se penje kroz poljoprivredno zemljište i šumu, prelazi niski greben i spušta se do obale jezera. Ukupna vožnja je oko 45 minuta. Put je asfaltiran cijelom dužinom, ali mjestimično uzak — pažljivo se mimoilazite sa protivdolaznim saobraćajem.",
+    "routeP1": "Iz Ulcinja krenite na sjever glavnim putem ka Baru. Poslije oko 20 km, skrenite lijevo kod Vladimira, malog grada u brdima iza obale. Put se penje kroz poljoprivredno zemljište i šumu, prelazi niski greben i spušta se do obale jezera. Ukupna vožnja je oko 45 minuta. Put je asfaltiran cijelom dužinom, ali mjestimično uzak, pažljivo se mimoilazite sa protivdolaznim saobraćajem.",
     "routeP2": "Usput prolazite kroz dolinu rijeke Bojane. Kratak zaobilazni put s ove ceste vodi do ruševina",
     "sasLink": "tvrđave Sas",
-    "routeP3": "— średnjovjekovnog trgovačkog grada koji je nekad bio rival Dubrovniku.",
+    "routeP3": ", średnjovjekovnog trgovačkog grada koji je nekad bio rival Dubrovniku.",
     "altInline": "Plaža Murići na južnoj obali Skadarskog jezera",
     "h2Murici": "Plaža Murići",
-    "muriciP1": "Murići su sićušno naselje na obali vode sa šljunčanom plažom u sjenci drveća. Voda je slatka, čista i dovoljno topla za kupanje od juna do septembra. Par porodičnih restorana služi pečenu ribu i hladno pivo. Nema hotela — ovo je odredište za jednodnevne izlete.",
+    "muriciP1": "Murići su sićušno naselje na obali vode sa šljunčanom plažom u sjenci drveća. Voda je slatka, čista i dovoljno topla za kupanje od juna do septembra. Par porodičnih restorana služi pečenu ribu i hladno pivo. Nema hotela, ovo je odredište za jednodnevne izlete.",
     "muriciP2": "Pogled na jezero iz Muričija je izvanredan. Vodena površina se pruža do albanske granice, a planine se strmo uzdižu sa svih strana. Rano ujutro magla leži na površini i jedini zvukovi su ptice i ponekad motor ribarskog čamca.",
     "h2Boat": "Izleti čamcem do pelikana",
-    "boatP": "Lokalni čamđije u Muričiju nude izlete u dublje dijelove jezera đe kudravi pelikani — jedna od najrjeđih ptica Evrope — gnijezde među plutajućim ostrvima lokvanja. Kolonija je najaktivnija od aprila do avgusta. Izlet čamcem traje 1–2 sata i košta oko 20–30 EUR po osobi. Raspitajte se u restoranima na obali.",
+    "boatP": "Lokalni čamđije u Muričiju nude izlete u dublje dijelove jezera đe kudravi pelikani, jedna od najrjeđih ptica Evrope, gnijezde među plutajućim ostrvima lokvanja. Kolonija je najaktivnija od aprila do avgusta. Izlet čamcem traje 1-2 sata i košta oko 20-30 EUR po osobi. Raspitajte se u restoranima na obali.",
     "h2Combine": "Kombinovanje s drugim stanicama",
-    "combineP": "Put do Muričija prolazi kroz ista brda u kojima se nalaze maslinici Ulcinja. Na povratku se zaustavite na kasni ručak u lučkom restoranu Ulcinja — pogledajte naš",
+    "combineP": "Put do Muričija prolazi kroz ista brda u kojima se nalaze maslinici Ulcinja. Na povratku se zaustavite na kasni ručak u lučkom restoranu Ulcinja, pogledajte naš",
     "seafoodLink": "vodič za plodove mora",
     "h2Tips": "Praktični savjeti",
     "tipRoadLabel": "Put:",
-    "tipRoadVal": "Asfaltiran, ali uzak. Jedna traka na nekim dijelovima — koristite ugibalice za protivsaobraćaj.",
+    "tipRoadVal": "Asfaltiran, ali uzak. Jedna traka na nekim dijelovima, koristite ugibalice za protivsaobraćaj.",
     "tipSwimLabel": "Kupanje:",
-    "tipSwimVal": "Voda u jezeru kod Muričija je čista i topla. Ponesite cipele za vodu — plaža je šljunčana.",
+    "tipSwimVal": "Voda u jezeru kod Muričija je čista i topla. Ponesite cipele za vodu, plaža je šljunčana.",
     "tipBirdsLabel": "Posmatranje ptica:",
     "tipBirdsVal": "Ponesite dvogled. Pelikani, čaplje, kormorani i orlovi se redovno viđaju.",
     "tipFuelLabel": "Gorivo:",
@@ -953,28 +953,28 @@
     "glanceMurici": "Plaža Murići",
     "glanceMuriciVal": "Šljunčana, pod drvećem",
     "glanceBoat": "Izlet čamcem",
-    "glanceBoatVal": "20–30 EUR, 1–2 h",
+    "glanceBoatVal": "20-30 EUR, 1-2 h",
     "glanceBest": "Najbolji mjeseci",
-    "glanceBestVal": "Apr.–sep."
+    "glanceBestVal": "Apr., sep."
   },
   "blogSas": {
     "title": "Ruševine tvrđave Sas: vožnja do izgubljenog grada Ulcinja",
     "subtitle": "Średnjovjekovni trgovački grad koji je rivalizovao sa Dubrovnikom, progutan močvarama i zaboravljen. Zidine još uvijek stoje pored rijeke Bojane.",
     "description": "Posjetite ruševine Sasa (Svača), izgubljeni średnjovjekovni grad blizu Ulcinja. Zidine tvrđave, porušena katedrala i pejzaži močvara. Upute za vožnju i šta očekivati na terenu.",
     "h2Lost": "Grad izbrisan s karte",
-    "lostP1": "Sas — takođe pisan Svač ili Svače — bio je utvrđeni trgovački grad na brdu iznad doline rijeke Bojane, oko 10 km istočno od Ulcinja. U XIII i XIV vijeku bio je prosperitetno trgovačko naselje sa crkvama, katedralom, odbrambenim zidinama i trgovačkim vezama preko Jadrana. Neki średnjovjekovni izvori ga opisuju kao rivala Dubrovniku po bogatstvu i uticaju.",
-    "lostP2": "Grad je opljačkan od strane Osmanlija krajem XIV vijeka. Nikad nije obnovljen. Tokom vjekova stanovništvo se raspršilo, zgrade su se srušile i močvare su napredovale. Danas ruševine stoje uglavnom neiskopane na niskom brdu okruženom močvarama i poljoprivrednim zemljištem — vidljive sa puta, ali gotovo da ih niko ne posjećuje.",
+    "lostP1": "Sas, takođe pisan Svač ili Svače, bio je utvrđeni trgovački grad na brdu iznad doline rijeke Bojane, oko 10 km istočno od Ulcinja. U XIII i XIV vijeku bio je prosperitetno trgovačko naselje sa crkvama, katedralom, odbrambenim zidinama i trgovačkim vezama preko Jadrana. Neki średnjovjekovni izvori ga opisuju kao rivala Dubrovniku po bogatstvu i uticaju.",
+    "lostP2": "Grad je opljačkan od strane Osmanlija krajem XIV vijeka. Nikad nije obnovljen. Tokom vjekova stanovništvo se raspršilo, zgrade su se srušile i močvare su napredovale. Danas ruševine stoje uglavnom neiskopane na niskom brdu okruženom močvarama i poljoprivrednim zemljištem, vidljive sa puta, ali gotovo da ih niko ne posjećuje.",
     "h2Drive": "Kako stići autom",
     "driveP1": "Iz Ulcinja krenite na sjever putem ka Baru. Poslije oko 5 km, skrenite desno na označenoj raskrsnici za Sas/Svač. Jednopolosni put vodi kroz ravno poljoprivredno zemljište oko 3 km do podnožja brda. Parkirajte đe se put završava i penjite se pješke oko 10 minuta do zidina tvrđave.",
     "driveP2": "Put prolazi istom riječnom dolinom kojom idu vozači ka",
     "skadarLink": "Skadarskom jezeru preko južne obale",
-    "driveP3": "— obje lokacije se mogu kombinovati u poludnevnu turu.",
+    "driveP3": ", obje lokacije se mogu kombinovati u poludnevnu turu.",
     "altInline": "Ruševine zidina tvrđave Sas iznad močvara Bojane",
     "h2Ruins": "Šta ćete naći",
-    "ruinsP1": "Zidine tvrđave su mjestimično očuvane do visine od nekoliko metara. Unutar obima jasno je vidljiv obris katedrale — apsida, brod i fragmenti kamenih portala s rezbarijama. Manji temelji zgrada rasuti su po padini brda. Divlje cvijeće i nisko šiblje raste između kamenja. Nema informativnih tabli, nema blagajne, nema vodiča.",
+    "ruinsP1": "Zidine tvrđave su mjestimično očuvane do visine od nekoliko metara. Unutar obima jasno je vidljiv obris katedrale, apsida, brod i fragmenti kamenih portala s rezbarijama. Manji temelji zgrada rasuti su po padini brda. Divlje cvijeće i nisko šiblje raste između kamenja. Nema informativnih tabli, nema blagajne, nema vodiča.",
     "ruinsP2": "Pogled s vrha brda sam po sebi vrijedi uspona. Rijeka Bojana vijuga kroz ravne zelene močvare ispod, planine Albanije se uzdižu na jugu, a Jadran blistaje na zapadu. Mirnog jutra jedino društvo su ptice.",
     "h2Bojana": "Dolina rijeke Bojane",
-    "bojanaP": "Pejzaž oko Sasa dio je poplavne ravnice rijeke Bojane — ravan, zelen i bogat pticama. Čaplje, bijele čaplje i kormorani love po plitkim kanalima. Područje je potpuno drugačije od priobalnog pojasa nekoliko kilometara dalje. Ako vas zanima istorijsko slojevanje ulcinjskog regiona, kombinujte Sas s posjetom",
+    "bojanaP": "Pejzaž oko Sasa dio je poplavne ravnice rijeke Bojane, ravan, zelen i bogat pticama. Čaplje, bijele čaplje i kormorani love po plitkim kanalima. Područje je potpuno drugačije od priobalnog pojasa nekoliko kilometara dalje. Ako vas zanima istorijsko slojevanje ulcinjskog regiona, kombinujte Sas s posjetom",
     "oldtownLink": "tvrđavi Starog grada",
     "h2Tips": "Praktični savjeti",
     "tipAccessLabel": "Pristup:",
@@ -982,14 +982,14 @@
     "tipShoesLabel": "Obuća:",
     "tipShoesVal": "Patike ili planinarke. Teren je neravan, a staza može biti blatnjava poslije kiše.",
     "tipTimeLabel": "Trajanje:",
-    "tipTimeVal": "Odvojite 1–1,5 sat uključujući uspon, obilazak i povratak.",
+    "tipTimeVal": "Odvojite 1-1,5 sat uključujući uspon, obilazak i povratak.",
     "tipCombineLabel": "Kombinujte sa:",
-    "tipCombineVal": "Južna obala Skadarskog jezera (Murići) ili Stara maslina — oboje dostupno sa istog puta.",
+    "tipCombineVal": "Južna obala Skadarskog jezera (Murići) ili Stara maslina, oboje dostupno sa istog puta.",
     "glanceTitle": "Ukratko",
     "glanceDrive": "Iz Ulcinja",
     "glanceDriveVal": "15 min + 10 min pješke",
     "glanceEra": "Epoha",
-    "glanceEraVal": "XIII–XIV vijek",
+    "glanceEraVal": "XIII, XIV vijek",
     "glanceFee": "Ulaz",
     "glanceFeeVal": "Besplatno (neuređen lokalitet)",
     "glanceBest": "Najbolje vrijeme",
@@ -998,31 +998,31 @@
   "velika-plaza": {
     "title": "Rent a car za Veliku Plažu",
     "subtitle": "12 km sivog vulkanskog pijeska, prazno u svim pravcima. Nijedan autobus ne dolazi ovdje.",
-    "seoDesc": "Sivi pijesak bogat mineralima proteže se do albanske granice — terapeutski, vulkanski i gotovo potpuno napušten. Nema javnog prevoza. Automobil je jedini način da stignete do Velike Plaže."
+    "seoDesc": "Sivi pijesak bogat mineralima proteže se do albanske granice, terapeutski, vulkanski i gotovo potpuno napušten. Nema javnog prevoza. Automobil je jedini"
   },
   "ada-bojana": {
     "title": "Rent a car za Adu Bojanu",
     "subtitle": "Posljednja divlja riječna delta Evrope. Kajtanje, restorani na stubovima i albanska granica.",
-    "seoDesc": "Trougaono ostrvo gdje rijeka Bojana utiče u Jadran — posljednja divlja riječna delta Evrope. Termički vjetrovi 15–25 čvorova od juna do septembra. 15 min južno od Ulcinja."
+    "seoDesc": "Trougaono ostrvo gdje rijeka Bojana utiče u Jadran, posljednja divlja riječna delta Evrope. Termički vjetrovi 15-25 čvorova od juna do septembra. 15 min"
   },
   "stari-grad": {
     "title": "Ulcinjski Stari Grad",
-    "subtitle": "2.500 godina zidina. Iliri, Rimljani, Mlečani, Osmanlije — sve naslagano na jednom rtu.",
-    "seoDesc": "Piratsko uporište koje je postalo osmanska citadela. Servantes je možda bio zarobljen ovdje. Poziv muezina miješa se sa crkvenim zvonima kroz 2.500 godina slojevite istorije."
+    "subtitle": "2.500 godina zidina. Iliri, Rimljani, Mlečani, Osmanlije, sve naslagano na jednom rtu.",
+    "seoDesc": "Piratsko uporište koje je postalo osmanska citadela. Servantes je možda bio zarobljen ovdje. Poziv muezina miješa se sa crkvenim zvonima kroz 2.500 godina"
   },
   "valdanos": {
     "title": "Rent a car za Valdanos",
-    "subtitle": "Skriveni zaliv na kraju makadamskog puta, čuvan od 80.000 maslina — neke starije od Hrista.",
-    "seoDesc": "Pristupačan samo makadamskim putem. 80.000 maslina, nekim više od 2.000 godina, okružuje tihi zaliv bez ikakvih sadržaja. Ponesite sve sa sobom. Moguće stići samo automobilom."
+    "subtitle": "Skriveni zaliv na kraju makadamskog puta, čuvan od 80.000 maslina, neke starije od Hrista.",
+    "seoDesc": "Pristupačan samo makadamskim putem. 80.000 maslina, nekim više od 2.000 godina, okružuje tihi zaliv bez ikakvih sadržaja. Ponesite sve sa sobom. Moguće"
   },
   "bar": {
     "title": "Rent a car u Baru",
     "subtitle": "Luka sa srednjovjekovnim ruševinama na brdu i maslinom starijim od Rima.",
-    "seoDesc": "30 min sjeverno od Ulcinja. Tvrđava Stari Bar se ruši na padini iznad luke. Maslina za koju se vjeruje da ima preko 2.000 godina stoji u blizini. Trajekt za Bari ako vas Italija zove."
+    "seoDesc": "30 min sjeverno od Ulcinja. Tvrđava Stari Bar se ruši na padini iznad luke. Maslina za koju se vjeruje da ima preko 2.000 godina stoji u blizini. Trajekt"
   },
   "lake-skadar": {
     "title": "Rent a car za Skadarsko jezero",
-    "subtitle": "Pelikani, flamingosi i crm nička vina — 45 minuta u unutrašnjost od obale.",
+    "subtitle": "Pelikani, flamingosi i crm nička vina, 45 minuta u unutrašnjost od obale.",
     "seoDesc": "Najveće jezero Balkana na 45 min od Ulcinja. Kudravi pelikani, flamingosi na solanama, izleti brodom iz Virpazara i crm nički Vranac na čašu."
   },
   "shkodra": {
@@ -1031,50 +1031,50 @@
     "seoDesc": "Granični prelaz Sukobin je tih i brz. Tvrđava Rozafa u Skadru čuva jezero od ilirskog doba. Zelena karta i granična dokumenta uključeni u svaki najam."
   },
   "stariGradBody": {
-    "h1": "Stari Grad — 2.500 godina piratskih zidina i osmanskih molitvi",
+    "h1": "Stari Grad, 2.500 godina piratskih zidina i osmanskih molitvi",
     "p1": "Stari grad Ulcinja stoji na stijenovitom rtu iznad Jadrana, utvrđen zidinama koje su gradili, rušili i ponovo gradili dva i po milenijuma. Iliri su postavili prve kamene. Rimljani su ih proširili. Mlečani pojačali. Osmanlije dodale minarete. Pirati su ih koristili kao bazu za pljačkanje jadranskog brodovlja.",
     "p2": "Danas je tvrđava slojeviti arheološki sendvič. Džamija stoji pored crkve. Albanski se čuje češće od crnogorskog. Poziv muezina sa minareta se miješa sa crkvenim zvonima nedjeljom. Starogradska pijaca prodaje svježe smokve, domaći med i maslinovo ulje iz drevnih maslinika u Valdanosu.",
     "historyTitle": "Piratsko uporište",
     "historyText": "Ulcinj je bio jedna od najozloglašenijih piratskih luka Jadrana od 16. do 18. vijeka. Za kulu Balšića se tvrdi da je pet godina držala Servantesa u zatočeništvu nakon zarobljavanja u bici kod Lepanta 1571. Pijaca robova na glavnom trgu je danas mirna pjaceta sa kafanskim stolovima, ali željezni prstenovi u zidovima su još vidljivi.",
     "whatToSeeTitle": "Unutar zidina",
-    "museum": "Muzej Ulcinja u tvrđavi — ilirski novčići, osmansko oružje i maketa starog piratskog pristaništa",
-    "mosque": "Istorijske džamije i ruševine hamama — osmanski Ulcinj je imao 12 džamija i 4 hamama unutar zidina",
+    "museum": "Muzej Ulcinja u tvrđavi, ilirski novčići, osmansko oružje i maketa starog piratskog pristaništa",
+    "mosque": "Istorijske džamije i ruševine hamama, osmanski Ulcinj je imao 12 džamija i 4 hamama unutar zidina",
     "walls": "Obiđite puni krug bedema. U vedrim danima vidi se Italija. Zalazak sunca sa zapadnih bedema vrijedi uspona sam po sebi.",
     "gettingThereTitle": "Kako stići",
-    "gettingThereText": "Stari Grad je u centru grada Ulcinja. Parkirajte na plaćenim parkinzima ispod zidina tvrđave — ulice unutra su preuske za automobile. Popnite se kroz glavna vrata."
+    "gettingThereText": "Stari Grad je u centru grada Ulcinja. Parkirajte na plaćenim parkinzima ispod zidina tvrđave, ulice unutra su preuske za automobile. Popnite se kroz glavna vrata."
   },
   "valdanosBody": {
-    "h1": "Valdanos — Skriveni zaliv iza 80.000 maslina",
-    "p1": "Valdanos je onaj tip mjesta koji se ne pojavljuje u vodičima, i to je upravo poenta. Makadamski put skreće sa obalnog puta oko 4 km sjeverno od Ulcinja i spušta se kroz guste maslinike — procijenjenih 80.000 stabala, nekim potvrđeno više od 2.000 godina — do tihog zaliva sa kristalno čistom vodom i šljunkovitom plažom. Nema ležaljki. Nema bara. Nikakvih sadržaja.",
-    "p2": "Zaliv ima divlji, pomalo jezivi karakter. Napušteni socijalistički bungalovi na padini iznad plaže, obrasli bršljanom i smokvama. Maslinici su dovoljno gusti da blokiraju vjetar. Voda je zapanjujuće bistra — dno se vidi na 5 metara.",
+    "h1": "Valdanos, Skriveni zaliv iza 80.000 maslina",
+    "p1": "Valdanos je onaj tip mjesta koji se ne pojavljuje u vodičima, i to je upravo poenta. Makadamski put skreće sa obalnog puta oko 4 km sjeverno od Ulcinja i spušta se kroz guste maslinike, procijenjenih 80.000 stabala, nekim potvrđeno više od 2.000 godina, do tihog zaliva sa kristalno čistom vodom i šljunkovitom plažom. Nema ležaljki. Nema bara. Nikakvih sadržaja.",
+    "p2": "Zaliv ima divlji, pomalo jezivi karakter. Napušteni socijalistički bungalovi na padini iznad plaže, obrasli bršljanom i smokvama. Maslinici su dovoljno gusti da blokiraju vjetar. Voda je zapanjujuće bistra, dno se vidi na 5 metara.",
     "olivesTitle": "Drevni maslinici",
     "olivesText": "Maslinici Valdanosa spadaju u najstarije kultivisane maslinike u cijelom Sredozemlju. Pojedina stabla su datirana na preko 2.000 godina. Lokalni zemljoradnici i dalje cijedu ulje iz ovih stabala, a boce se mogu kupiti direktno kod kuća duž puta. Ulje je gusto, zeleno, paprenasto i nema nikakve veze sa onim iz marketa.",
     "gettingThereTitle": "Kako stići",
     "gettingThereText": "Od centra Ulcinja vozite na sjever obalnim putem prema Baru. Nakon oko 4 km tražite neoznačeno skretanje lijevo. Put je neasfaltiran i uzak na poslednjem kilometru. Obični auto može proći po suvom, ali polako. SUV prolazi lagano. Nema javnog prevoza ni taksija."
   },
   "lakeSkadarBody": {
-    "h1": "Skadarsko jezero — Pelikani, flamingosi i crmnička vina",
-    "p1": "Skadarsko jezero je najveće jezero Balkana, podijeljeno između Crne Gore i Albanije, samo 45 minuta u unutrašnjost od Ulcinja. To je nacionalni park, raj za posmatrače ptica i dom jedne od poslednjih gnijezdećih kolonija kudravog pelikana u Evropi. U pravo doba — od kasne jeseni do ranog proljeća — flamingosi se pojavljuju na solanama Salina.",
+    "h1": "Skadarsko jezero, Pelikani, flamingosi i crmnička vina",
+    "p1": "Skadarsko jezero je najveće jezero Balkana, podijeljeno između Crne Gore i Albanije, samo 45 minuta u unutrašnjost od Ulcinja. To je nacionalni park, raj za posmatrače ptica i dom jedne od poslednjih gnijezdećih kolonija kudravog pelikana u Evropi. U pravo doba, od kasne jeseni do ranog proljeća, flamingosi se pojavljuju na solanama Salina.",
     "p2": "Crnogorska obala je posuta sitnim ribarskim selima, ostrvskim manastirima dostupnim samo brodom i crmničkim vinskim krajem gdje strmi vinogradi na padinama daju tamni, taninski Vranac koji se savršeno slaže sa dimljenim šaranom iz jezera.",
     "activitiesTitle": "Šta raditi",
-    "boatTour": "Izleti brodom iz Virpazara ili Rijeke Crnojevića — kroz kanale sa lopočima do ostrvskih manastira i kolonija pelikana. Minimum pola dana",
-    "wine": "Degustacija vina u crmničkim vinogradima na južnoj obali — gust Vranac, terase s pogledom na jezero i dimljeni ribljii tanjiri",
+    "boatTour": "Izleti brodom iz Virpazara ili Rijeke Crnojevića, kroz kanale sa lopočima do ostrvskih manastira i kolonija pelikana. Minimum pola dana",
+    "wine": "Degustacija vina u crmničkim vinogradima na južnoj obali, gust Vranac, terase s pogledom na jezero i dimljeni ribljii tanjiri",
     "kayak": "Kajak kroz tihe kanale u zoru kad su ptice najaktivnije. Iznajmljivanje dostupno u Virpazaru",
     "gettingThereTitle": "Kako stići",
     "gettingThereText": "Vozite iz Ulcinja na sjever prema Podgorici i pratite znakove za Virpazar (glavno polazište za izlete brodom). Ukupno vrijeme vožnje je oko 45 minuta. Alternativno, uzmite unutrašnji put kroz Krute za slikovitiju rutu."
   },
   "shkodraBody": {
-    "h1": "Skadar — Albanija za 30 minuta",
-    "p1": "Skadar je jedan od najstarijih gradova Balkana, smješten na južnom kraju Skadarskog jezera odmah preko albanske granice. Granični prelaz Sukobin/Muriqan je 15 minuta južno od Ulcinja i najtiši je albanski prelaz Crne Gore — često pređen za manje od 20 minuta.",
-    "p2": "Tvrđava Rozafa dominira prilazom — ilirska utvrda na dramatičnom brdu sa pogledom na jezero, rijeke i cijelu skadarsku ravnicu. Legenda kaže da je žena uzidana u temelje kao žrtva.",
+    "h1": "Skadar, Albanija za 30 minuta",
+    "p1": "Skadar je jedan od najstarijih gradova Balkana, smješten na južnom kraju Skadarskog jezera odmah preko albanske granice. Granični prelaz Sukobin/Muriqan je 15 minuta južno od Ulcinja i najtiši je albanski prelaz Crne Gore, često pređen za manje od 20 minuta.",
+    "p2": "Tvrđava Rozafa dominira prilazom, ilirska utvrda na dramatičnom brdu sa pogledom na jezero, rijeke i cijelu skadarsku ravnicu. Legenda kaže da je žena uzidana u temelje kao žrtva.",
     "whatToSeeTitle": "Šta vidjeti",
-    "castle": "Tvrđava Rozafa — popnite se na ilirske zidine za panoramski pogled na Skadarsko jezero i Albanske Alpe u daljini",
-    "pedestrian": "Renovirani pješački centar — osmanske bazarske ulice, italijanski bulevari, jaki espreso u malim šoljicama i pekare sa vrućim burekom",
-    "lake": "Albanska obala Skadarskog jezera — potpuno drugačija perspektiva, tiša i manje posjećena od crnogorske strane",
+    "castle": "Tvrđava Rozafa, popnite se na ilirske zidine za panoramski pogled na Skadarsko jezero i Albanske Alpe u daljini",
+    "pedestrian": "Renovirani pješački centar, osmanske bazarske ulice, italijanski bulevari, jaki espreso u malim šoljicama i pekare sa vrućim burekom",
+    "lake": "Albanska obala Skadarskog jezera, potpuno drugačija perspektiva, tiša i manje posjećena od crnogorske strane",
     "borderTitle": "Prelaz na Sukobinu",
     "borderText": "Granični prelaz Sukobin/Muriqan je mali i obično brz. Imajte spremne pasoš, ugovor o najmu i Zelenu kartu. Vrijeme čekanja obično manje od 20 minuta. Ponesite leke ili podignite na bankomatima u Skadru.",
     "gettingThereTitle": "Kako stići",
-    "gettingThereText": "Iz Ulcinja vozite na jug kroz Krute do albanske granice na Sukobinu. Nakon prelaza pratite glavni put do Skadra — ukupno vrijeme vožnje 30–40 minuta. Planirajte cijeli dan za udoban obilazak."
+    "gettingThereText": "Iz Ulcinja vozite na jug kroz Krute do albanske granice na Sukobinu. Nakon prelaza pratite glavni put do Skadra, ukupno vrijeme vožnje 30-40 minuta. Planirajte cijeli dan za udoban obilazak."
   },
   "contentPage": {
     "youMightAlsoLike": "Možda će vas zanimati",
@@ -1100,7 +1100,7 @@
   },
   "contact": {
     "title": "Kontaktirajte nas",
-    "seoDesc": "Pitanja o iznajmljivanju u Ulcinju? Pristup Ada Bojani, dozvole albanske granice, savjeti za parkiranje na Velikoj Plaži. WhatsApp, email, ili forma, odgovori u roku od dva sata radnim danima.",
+    "seoDesc": "Pitanja o iznajmljivanju u Ulcinju? Pristup Ada Bojani, dozvole albanske granice, savjeti za parkiranje na Velikoj Plaži. WhatsApp, email, ili forma",
     "heading": "Kontaktirajte nas",
     "intro": "Imate pitanje o iznajmljivanju automobila u Ulcinju? Javite nam se i pomoći ćemo vam pronaći savršeno vozilo za vaše putovanje."
   }
