@@ -131,42 +131,42 @@
     "searchCars": "Search Cars"
   },
   "home": {
-    "seoDesc": "Ulcinj car hire from €13 per day. Velika Plaža 13 km of sand, Ada Bojana river island, Albanian border 5 km south, Tivat Airport 120 km, Podgorica Airport"
+    "seoDesc": "Ulcinj car hire from €13 per day. Velika Plaža 13 km of sand, Ada Bojana river island, Albanian border 5 km south, Tivat Airport 120 km, Podgorica."
   },
   "about": {
     "title": "About Us",
     "subtitle": "Helping adventurers rent cars in Ulcinj, Montenegro's forgotten south.",
-    "seoDesc": "Ulcinj rental specialists for the Montenegrin south. Albania border paperwork sorted, beach capable fleet for Velika Plaža, and honest rates for the long"
+    "seoDesc": "Ulcinj rental specialists for the Montenegrin south. Albania border paperwork sorted, beach capable fleet for Velika Plaža, and honest rates for the."
   },
   "velika-plaza": {
     "title": "Car Hire for Velika Plaza",
     "subtitle": "12 km of grey volcanic sand, empty in every direction. No bus comes here.",
-    "seoDesc": "Grey mineral-rich sand stretches to the Albanian border, therapeutic, volcanic, and almost entirely deserted. No public transport. A car is the only way"
+    "seoDesc": "Grey mineral-rich sand stretches to the Albanian border, therapeutic, volcanic, and almost entirely deserted. No public transport."
   },
   "ada-bojana": {
     "title": "Car Hire for Ada Bojana",
     "subtitle": "Europe's last wild river delta. Kitesurfing, stilt restaurants, and the Albanian border.",
-    "seoDesc": "A triangular island where the Bojana river meets the Adriatic, the last wild river delta in Europe. Thermal winds 15-25 knots June through September"
+    "seoDesc": "A triangular island where the Bojana river meets the Adriatic, the last wild river delta in Europe."
   },
   "stari-grad": {
     "title": "Ulcinj Old Town (Stari Grad)",
     "subtitle": "2,500 years of fortress walls. Illyrian, Roman, Venetian, Ottoman, all stacked on one headland.",
-    "seoDesc": "Pirate stronghold turned Ottoman citadel. Cervantes may have been imprisoned here. The muezzin call mixes with church bells over 2,500 years of layered"
+    "seoDesc": "Pirate stronghold turned Ottoman citadel. Cervantes may have been imprisoned here."
   },
   "valdanos": {
     "title": "Car Hire for Valdanos",
     "subtitle": "A hidden bay down a rough track, guarded by 80,000 olive trees, some older than Christ.",
-    "seoDesc": "Accessible only by a rutted dirt road. 80,000 olive trees, some 2,000+ years old, ring a silent bay with zero facilities. Bring everything you need. Only"
+    "seoDesc": "Accessible only by a rutted dirt road. 80,000 olive trees, some 2,000+ years old, ring a silent bay with zero facilities. Bring everything you need."
   },
   "bar": {
     "title": "Car Hire in Bar",
     "subtitle": "A working port with medieval ruins on the hill and an olive tree older than Rome.",
-    "seoDesc": "30 min north of Ulcinj. Stari Bar fortress crumbles on the hillside above a working port. An olive tree believed to be 2,000+ years old stands nearby"
+    "seoDesc": "30 min north of Ulcinj. Stari Bar fortress crumbles on the hillside above a working port."
   },
   "lake-skadar": {
     "title": "Car Hire for Lake Skadar",
     "subtitle": "Pelicans, flamingos, and Crmnica wine, 45 minutes inland from the coast.",
-    "seoDesc": "The Balkans' largest lake sits 45 min from Ulcinj. Dalmatian pelicans, flamingo sightings at the Salina salt pans, boat trips from Virpazar, and Crmnica"
+    "seoDesc": "The Balkans' largest lake sits 45 min from Ulcinj. Dalmatian pelicans, flamingo sightings at the Salina salt pans, boat trips from Virpazar, and."
   },
   "podgorica-airport": {
     "title": "Podgorica Airport Car Hire",
@@ -176,17 +176,17 @@
   "shkodra": {
     "title": "Day Trip to Shkodra, Albania",
     "subtitle": "Cross at Sukobin and stand on Rozafa Castle in 30 minutes flat.",
-    "seoDesc": "The Sukobin border crossing is quiet and fast. Shkodra's Rozafa Castle has guarded the lake since Illyrian times. Green card insurance and border docs"
+    "seoDesc": "The Sukobin border crossing is quiet and fast. Shkodra's Rozafa Castle has guarded the lake since Illyrian times."
   },
   "montenegro": {
     "title": "Southern Montenegro Driving Guide",
     "subtitle": "Unmarked turns, livestock on the road, and the best drive you'll take all year.",
-    "seoDesc": "Southern Montenegro driving intel: single-lane roads with no markings, unsigned dirt tracks to hidden beaches, the Sukobin border procedure, and the last"
+    "seoDesc": "Southern Montenegro driving intel: single-lane roads with no markings, unsigned dirt tracks to hidden beaches, the Sukobin border procedure, and the."
   },
   "border-crossing": {
     "title": "Sukobin Border Crossing to Albania",
     "subtitle": "Ulcinj to Shkodra in 30 min, the quietest Albanian crossing.",
-    "seoDesc": "The Sukobin checkpoint is Montenegro's most relaxed Albanian border. Green card documents, typical wait times under 20 min, and what to expect on the"
+    "seoDesc": "The Sukobin checkpoint is Montenegro's most relaxed Albanian border."
   },
   "privacy": {
     "title": "Privacy Policy",
@@ -1076,7 +1076,7 @@
   },
   "contact": {
     "title": "Contact Us",
-    "seoDesc": "Questions about hiring in Ulcinj? Ada Bojana access, Albania border permits, Velika Plaža parking advice. WhatsApp, email, or form, two hour weekday",
+    "seoDesc": "Questions about hiring in Ulcinj? Ada Bojana access, Albania border permits, Velika Plaža parking advice.",
     "heading": "Contact Us",
     "intro": "Have a question about renting a car in Ulcinj? Get in touch and we'll help you find the perfect vehicle for your trip."
   }

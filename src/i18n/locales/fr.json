@@ -101,7 +101,7 @@
   "book": {
     "title": "Trouvez Votre Voiture",
     "seoTitle": "Réserver une Voiture",
-    "seoDesc": "Locations à Ulcinj avec permis de frontière albanaise et flotte adaptée aux plages inclus. Aucun bus ne dessert Velika Plaža, donc une voiture de location"
+    "seoDesc": "Locations à Ulcinj avec permis de frontière albanaise et flotte adaptée aux plages inclus."
   },
   "footer": {
     "brandDesc": "Bureau de location à la frontière sud du Monténégro. Accès à Ada Bojana, formalités douanières albanaises, pistes entre oliviers et virées sur plages de sable volcanique intégrées à chaque véhicule.",
@@ -131,47 +131,47 @@
     "searchCars": "Rechercher"
   },
   "home": {
-    "seoDesc": "Location de voiture à Ulcinj à partir de 13 €/jour. Velika Plaža 13 km de sable, Ada Bojana île fluviale, frontière albanaise 5 km au sud, aéroport de"
+    "seoDesc": "Location de voiture à Ulcinj à partir de 13 €/jour. Velika Plaža 13 km de sable, Ada Bojana île fluviale, frontière albanaise 5 km au sud, aéroport."
   },
   "about": {
     "title": "À Propos",
     "subtitle": "Nous aidons les voyageurs à explorer le Monténégro depuis 2007.",
-    "seoDesc": "Spécialistes de la location à Ulcinj pour le sud monténégrin. Papiers de frontière albanaise réglés, flotte adaptée aux plages pour Velika Plaža et tarifs"
+    "seoDesc": "Spécialistes de la location à Ulcinj pour le sud monténégrin. Papiers de frontière albanaise réglés, flotte adaptée aux plages pour Velika Plaža et."
   },
   "kotor": {
     "title": "Location de Voiture à Kotor",
     "subtitle": "Explorez le joyau UNESCO du Monténégro à votre rythme.",
-    "seoDesc": "Louez une voiture à Kotor, Monténégro. Explorez la vieille ville UNESCO, la baie de Kotor et Perast avec une location abordable et livraison gratuite à"
+    "seoDesc": "Louez une voiture à Kotor, Monténégro. Explorez la vieille ville UNESCO, la baie de Kotor et Perast avec une location abordable et livraison gratuite."
   },
   "tivat-airport": {
     "title": "Location de Voiture Aéroport Tivat",
     "subtitle": "Récupérez votre voiture aux arrivées.",
-    "seoDesc": "Récupérez votre voiture de location à l'aéroport de Tivat (TIV). Nous vous attendons aux arrivées avec votre véhicule. Rejoignez Kotor, Budva ou Porto"
+    "seoDesc": "Récupérez votre voiture de location à l'aéroport de Tivat (TIV). Nous vous attendons aux arrivées avec votre véhicule."
   },
   "budva": {
     "title": "Location de Voiture à Budva",
     "subtitle": "La riviera du Monténégro, plages, vie nocturne et charme de la vieille ville.",
-    "seoDesc": "Louez une voiture à Budva, Monténégro. Rejoignez la plage de Mogren, Sveti Stefan et la meilleure vie nocturne de la riviera. Assurance complète, sans"
+    "seoDesc": "Louez une voiture à Budva, Monténégro. Rejoignez la plage de Mogren, Sveti Stefan et la meilleure vie nocturne de la riviera."
   },
   "perast": {
     "title": "Location de Voiture à Perast",
     "subtitle": "Un joyau baroque sur la baie de Kotor.",
-    "seoDesc": "Louez une voiture et visitez Perast, un joyau baroque sur la baie de Kotor. Découvrez l'île Notre-Dame du Rocher et de superbes palais en bord de mer à"
+    "seoDesc": "Louez une voiture et visitez Perast, un joyau baroque sur la baie de Kotor."
   },
   "podgorica": {
     "title": "Location de Voiture à Podgorica",
     "subtitle": "La capitale du Monténégro, culture, rivières et charme moderne.",
-    "seoDesc": "Location de voiture à Podgorica, capitale du Monténégro. Explorez le lac Skadar, le monastère d'Ostrog et Durmitor en voiture. Prise en charge à"
+    "seoDesc": "Location de voiture à Podgorica, capitale du Monténégro. Explorez le lac Skadar, le monastère d'Ostrog et Durmitor en voiture."
   },
   "podgorica-airport": {
     "title": "Location de Voiture Aéroport Podgorica",
     "subtitle": "La principale porte internationale du Monténégro.",
-    "seoDesc": "Récupérez votre voiture à l'aéroport de Podgorica (TGD). Nous livrons votre véhicule aux arrivées. Rejoignez la côte, le lac Skadar ou le parc national de"
+    "seoDesc": "Récupérez votre voiture à l'aéroport de Podgorica (TGD). Nous livrons votre véhicule aux arrivées."
   },
   "dubrovnik-airport": {
     "title": "Location de Voiture Aéroport Dubrovnik",
     "subtitle": "Envolez-vous vers la Croatie, conduisez vers le Monténégro.",
-    "seoDesc": "Louez une voiture à l'aéroport de Dubrovnik et rejoignez le Monténégro. Passage de frontière en moins d'une heure. Assurance complète et carte verte"
+    "seoDesc": "Louez une voiture à l'aéroport de Dubrovnik et rejoignez le Monténégro. Passage de frontière en moins d'une heure."
   },
   "tivat": {
     "title": "Location de Voiture à Tivat",
@@ -181,17 +181,17 @@
   "montenegro": {
     "title": "Location de Voiture et Guide du Monténégro",
     "subtitle": "Tout ce que vous devez savoir sur la conduite au Monténégro.",
-    "seoDesc": "Guide complet de la conduite au Monténégro. Code de la route, limitations de vitesse, prix du carburant et les plus beaux itinéraires de la côte aux"
+    "seoDesc": "Guide complet de la conduite au Monténégro. Code de la route, limitations de vitesse, prix du carburant et les plus beaux itinéraires de la côte."
   },
   "border-crossing": {
     "title": "Guide Passage des Frontières Balkans",
     "subtitle": "Tout sur le passage des frontières avec votre voiture de location.",
-    "seoDesc": "Guide pour traverser les frontières depuis le Monténégro en voiture de location. Assurance carte verte, documents requis et conseils pour la Croatie, la"
+    "seoDesc": "Guide pour traverser les frontières depuis le Monténégro en voiture de location."
   },
   "privacy": {
     "title": "Politique de Confidentialité",
     "subtitle": "Comment nous traitons vos informations.",
-    "seoDesc": "Politique de confidentialité de Ulcinj Car Hire. Comment nous collectons, utilisons et protégeons vos données personnelles lors de la recherche de"
+    "seoDesc": "Politique de confidentialité de Ulcinj Car Hire. Comment nous collectons, utilisons et protégeons vos données personnelles lors de la recherche."
   },
   "terms": {
     "title": "Conditions Générales",
@@ -201,7 +201,7 @@
   "cookie-policy": {
     "title": "Politique de Cookies",
     "subtitle": "Comment nous utilisons les cookies sur ce site.",
-    "seoDesc": "Politique de cookies de Ulcinj Car Hire. Découvrez quels cookies nous utilisons, comment le widget de réservation stocke vos préférences et comment les"
+    "seoDesc": "Politique de cookies de Ulcinj Car Hire. Découvrez quels cookies nous utilisons, comment le widget de réservation stocke vos préférences et comment."
   },
   "featureCards": {
     "airportPickup": {
@@ -998,37 +998,37 @@
   "velika-plaza": {
     "title": "Location de voiture pour Velika Plaza",
     "subtitle": "12 km de sable volcanique gris, désert dans toutes les directions. Aucun bus ne vient ici.",
-    "seoDesc": "Du sable gris riche en minéraux s'étend jusqu'à la frontière albanaise, thérapeutique, volcanique et presque entièrement désert. Pas de transport en"
+    "seoDesc": "Du sable gris riche en minéraux s'étend jusqu'à la frontière albanaise, thérapeutique, volcanique et presque entièrement désert."
   },
   "ada-bojana": {
     "title": "Location de voiture pour Ada Bojana",
     "subtitle": "Le dernier delta fluvial sauvage d'Europe. Kitesurf, restaurants sur pilotis et la frontière albanaise.",
-    "seoDesc": "Une île triangulaire où la rivière Bojana rencontre l'Adriatique, le dernier delta fluvial sauvage d'Europe. Vents thermiques 15-25 nœuds de juin à"
+    "seoDesc": "Une île triangulaire où la rivière Bojana rencontre l'Adriatique, le dernier delta fluvial sauvage d'Europe."
   },
   "stari-grad": {
     "title": "Vieille Ville d'Ulcinj (Stari Grad)",
     "subtitle": "2 500 ans de murailles. Illyriens, Romains, Vénitiens, Ottomans, tout empilé sur un promontoire.",
-    "seoDesc": "Repaire de pirates devenu citadelle ottomane. Cervantès aurait été emprisonné ici. L'appel du muezzin se mêle aux cloches sur 2 500 ans d'histoire"
+    "seoDesc": "Repaire de pirates devenu citadelle ottomane. Cervantès aurait été emprisonné ici."
   },
   "valdanos": {
     "title": "Location de voiture pour Valdanos",
     "subtitle": "Une baie cachée au bout d'un chemin cahoteux, gardée par 80 000 oliviers, certains plus vieux que le Christ.",
-    "seoDesc": "Accessible uniquement par un chemin de terre. 80 000 oliviers, certains de plus de 2 000 ans, entourent une baie silencieuse sans aucun aménagement"
+    "seoDesc": "Accessible uniquement par un chemin de terre. 80 000 oliviers, certains de plus de 2 000 ans, entourent une baie silencieuse sans aucun."
   },
   "bar": {
     "title": "Location de voiture à Bar",
     "subtitle": "Un port actif avec des ruines médiévales sur la colline et un olivier plus ancien que Rome.",
-    "seoDesc": "30 min au nord d'Ulcinj. La forteresse de Stari Bar s'effrite sur la colline au-dessus d'un port actif. Un olivier de plus de 2 000 ans se dresse à"
+    "seoDesc": "30 min au nord d'Ulcinj. La forteresse de Stari Bar s'effrite sur la colline au-dessus d'un port actif."
   },
   "lake-skadar": {
     "title": "Location de voiture pour le lac Skadar",
     "subtitle": "Pélicans, flamants roses et vin de Crmnica, 45 minutes dans les terres depuis la côte.",
-    "seoDesc": "Le plus grand lac des Balkans à 45 min d'Ulcinj. Pélicans dalmates, observations de flamants aux marais salants de Salina, excursions en bateau depuis"
+    "seoDesc": "Le plus grand lac des Balkans à 45 min d'Ulcinj. Pélicans dalmates, observations de flamants aux marais salants de Salina, excursions en bateau."
   },
   "shkodra": {
     "title": "Excursion d'une journée à Shkodra, Albanie",
     "subtitle": "Traversez à Sukobin et montez au château de Rozafa en 30 minutes.",
-    "seoDesc": "Le poste-frontière de Sukobin est calme et rapide. Le château de Rozafa à Shkodra garde le lac depuis l'époque illyrienne. Assurance carte verte et"
+    "seoDesc": "Le poste-frontière de Sukobin est calme et rapide. Le château de Rozafa à Shkodra garde le lac depuis l'époque illyrienne."
   },
   "stariGradBody": {
     "h1": "Stari Grad, 2 500 ans de murs pirates et de prières ottomanes",
@@ -1100,7 +1100,7 @@
   },
   "contact": {
     "title": "Nous contacter",
-    "seoDesc": "Questions sur la location à Ulcinj ? Accès à Ada Bojana, permis de frontière albanaise, conseils de stationnement à Velika Plaža. WhatsApp, email ou",
+    "seoDesc": "Questions sur la location à Ulcinj ? Accès à Ada Bojana, permis de frontière albanaise, conseils de stationnement à Velika Plaža.",
     "heading": "Nous contacter",
     "intro": "Une question sur la location de voiture à Ulcinj ? Contactez-nous, nous vous aiderons à trouver le véhicule idéal pour votre séjour."
   }
