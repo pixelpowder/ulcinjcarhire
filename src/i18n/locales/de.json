@@ -48,13 +48,13 @@
   "howItWorks": {
     "label": "So funktioniert's",
     "title": "In 3 Schritten unterwegs",
-    "subtitle": "Einfache Buchung. Sofortige Bestätigung. Kein Anstehen am Flughafen.",
+    "subtitle": "Keine Bahn hat jemals Ulcinj erreicht. Busse fahren nach eigenem Fahrplan. Ein Auto ist hier wirklich der einzige Weg in den Süden.",
     "step1Title": "Wählen Sie Ihren Abholort",
-    "step1Desc": "Wählen Sie aus Flughäfen, Kotor, Budva, Perast und weiteren Abholpunkten in ganz Montenegro und darüber hinaus.",
+    "step1Desc": "Flughafen Podgorica, Flughafen Tivat oder über 28 Standorte in ganz Montenegro. Wo auch immer Sie landen, wir empfangen Sie.",
     "step2Title": "Wählen Sie Ihr Auto",
-    "step2Desc": "Entdecken Sie unsere Flotte von sparsamen Kleinwagen bis zu Premium-SUVs. Filtern Sie nach Größe, Getriebe oder Budget.",
+    "step2Desc": "Stadt-Hatchbacks für Kopfsteinpflaster, SUVs für die Schotterpiste nach Valdanos, strandtaugliche Kombis für den windigen Sand der Velika Plaža.",
     "step3Title": "Fahren Sie durch Montenegro",
-    "step3Desc": "Wir empfangen Sie am Ankunftsbereich. Ihr Auto steht bereit. Entdecken Sie Küste, Berge und historische Städte."
+    "step3Desc": "Vorbei an der letzten Tankstelle, vorbei am letzten Wegweiser, hinein in den Teil Montenegros, den die meisten Touristen nie erreichen."
   },
   "fleet": {
     "label": "Unsere Flotte",
@@ -67,7 +67,7 @@
   "destinations": {
     "label": "Top-Reiseziele",
     "title": "Montenegro entdecken",
-    "subtitle": "Von der Bay of Kotor bis zur albanischen Grenze, jedes Reiseziel eine andere Welt."
+    "subtitle": "Moscheen und Kirchenglocken. Piratentürme und römische Mauern. Grauer vulkanischer Sand und 2,000 Jahre alte Olivenhaine. Jede Station hier wirkt wie ein anderes Land."
   },
   "features": {
     "label": "Warum wir",
@@ -77,7 +77,7 @@
   "reviews": {
     "label": "Bewertungen",
     "title": "Von Reisenden geliebt",
-    "subtitle": "Echte Erfahrungen von echten Kunden in ganz Montenegro."
+    "subtitle": "Ehrliche Berichte von Reisenden, die sich jenseits des Touristenpfads in den wilden Süden von Ulcinj gewagt haben."
   },
   "faq": {
     "label": "FAQ",
@@ -86,7 +86,7 @@
   },
   "cta": {
     "title": "Bereit, Ulcinj zu entdecken?",
-    "subtitle": "In wenigen Minuten buchen. Am Flughafen abholen. Die gesamte Adriatic-Küste in Ihrem eigenen Tempo erkunden.",
+    "subtitle": "Der Ruf des Muezzins schwebt über der Altstadt. Grauer Sand zieht sich bis zur albanischen Grenze. Piratenruinen bewachen das Kap. Holen Sie sich ein Fahrzeug und entdecken Sie es.",
     "browseFleet": "Flotte ansehen"
   },
   "sidebar": {
@@ -126,7 +126,7 @@
   "notFound": {
     "code": "404",
     "title": "Falsch abgebogen",
-    "text": "Es sieht so aus, als hätten Sie einen Umweg genommen. Diese Straße führt nirgendwohin, aber Montenegros beste Routen sind nur einen Klick entfernt.",
+    "text": "Selbst in Ulcinj führt nicht jede Spur irgendwohin. Diese nicht, aber die guten Straßen sind nur einen Klick entfernt.",
     "backHome": "Zurück zur Startseite",
     "searchCars": "Autos suchen"
   },
@@ -336,20 +336,20 @@
     "h1": "Montenegro Autovermietung",
     "p1": "Seit 2007 verbindet Ulcinj Car Hire Reisende mit zuverlässigen und erschwinglichen Mietwagen in ganz Montenegro. Was als einfache Idee begann, Besuchern die Erkundung dieser atemberaubenden Ecke der Adriatic zu erleichtern, hat sich zu einem der vertrauenswürdigsten Mietwagenservices des Landes entwickelt.",
     "h2": "Warum wir angefangen haben",
-    "p2": "Montenegro ist ein Land, das man am besten in eigenem Tempo erlebt. Die kurvigen Küstenstraßen, versteckten Bergdörfer und UNESCO-Welterbestätten sind mit öffentlichen Verkehrsmitteln nur schwer erreichbar. Wir sahen die Möglichkeit, Reisenden die Freiheit zu geben, Montenegro auf eigene Faust zu entdecken, keine Reisebusfahrpläne, keine verpassten Aussichtspunkte, keine Kompromisse.",
+    "p2": "Es wurde nie eine Bahn nach Ulcinj gebaut. Der Bus aus Podgorica fährt nur wenige Male täglich, lässt die meisten Strände komplett aus und hält nirgendwo in der Nähe von Ada Bojana oder Valdanos. Velika Plaža erstreckt sich 12 km entlang der albanischen Grenze, ohne Gehweg, ohne Bushaltestelle, ohne Taxistand. Der Schotterweg zur Bucht von Valdanos hat kein Schild. Der Grenzübergang Sukobin nach Albanien ist 15 Minuten südlich, aber nur wenn Sie Räder haben. Ein Auto ist hier kein Luxus. Es ist der Unterschied zwischen Ulcinj sehen und Ulcinj wirklich erleben.",
     "h3": "Was wir anbieten",
-    "p3": "Wir bieten Mietwagenservices in ganz Montenegro an, mit Abholung und Rückgabe am Tivat Airport, Podgorica Airport sowie an Standorten entlang der Küste und im Landesinneren. Unsere Flotte reicht von kompakten Stadtwagen bis zu geräumigen SUVs, alle vollversichert und ohne versteckte Gebühren.",
+    "p3": "Abholung am Flughafen Podgorica (40 km), am Flughafen Tivat (75 km) oder überall in Montenegro. Kompakte Fahrzeuge für die engen Gassen des Stari Grad, SUVs für die unbefestigte Straße nach Valdanos, strandtaugliche Kombis, die mit Sand umgehen können. Alle vollständig versichert, mit albanischen Grenzpapieren, die bei der Buchung vorbereitet werden.",
     "promiseTitle": "Unser Versprechen",
-    "promise1": "Vollkaskoversicherung mit Option auf null Selbstbeteiligung",
-    "promise2": "Persönliche Begrüßung am Flughafen, wir bringen das Auto direkt zur Ankunftshalle",
-    "promise3": "Keine versteckten Gebühren, der angezeigte Preis ist der Endpreis",
-    "promise4": "Grenzüberschreitende Fahrten nach Kroatien, Bosnien, Albanien, Serbien und Kosovo erlaubt",
+    "promise1": "Vollversicherung mit Null-Selbstbeteiligung-Upgrade, Schotterwege und unbeschilderte Pisten inbegriffen",
+    "promise2": "Meet-and-Greet am Flughafen Podgorica oder Tivat, Ihr Fahrzeug steht bei der Ankunft, nicht auf einem Parkplatz drei Shuttles entfernt",
+    "promise3": "Transparente Preise, keine Überraschungen, wenn Sie 40 km vom nächsten Geldautomaten entfernt sind",
+    "promise4": "Grenzüberschreitende Fahrten nach Albanien, Kroatien, Bosnien, Serbien und Kosovo, Grüne Karte bei der Buchung organisiert",
     "promise5": "Kostenlose Stornierung bei den meisten Buchungen",
     "promise6": "24/7 Pannenhilfe während Ihrer gesamten Reise",
     "h4": "Lokales Wissen",
-    "p4": "Wir sind in Montenegro ansässig und kennen die Straßen, die besten Routen und die versteckten Schätze, die in keinem Reiseführer stehen. Ob Sie vom Tivat Airport zur mittelalterlichen Altstadt von Kotor fahren, die malerische Route durch die Bucht von Kotor nach Perast nehmen oder ins Landesinnere zum Durmitor-Nationalpark aufbrechen, wir helfen Ihnen, den perfekten Roadtrip zu planen.",
+    "p4": "Die Abkürzung durch Tuzi, die 20 Minuten Flughafenfahrt spart. Die unbeschilderte Linkskurve nach Valdanos, die Google Maps übersieht. Das Gezeitenfenster an der Ada Bojana, das entscheidet, ob Sie im Sand oder im Fluss parken. Der Markt in der Altstadt, auf dem Sie frische Feigen, lokalen Honig und Olivenöl von Bäumen kaufen können, die schon zu Zeiten des alten Rom uralt waren. Wir fahren diese Straßen täglich und helfen Ihnen, Ihre eigenen zu planen. Mirëdita, willkommen im Süden.",
     "h5": "Kontaktieren Sie uns",
-    "p5": "Haben Sie Fragen zur Autovermietung in Montenegro? Wir sind per Telefon, WhatsApp und Viber erreichbar. Durchsuchen Sie unsere Flotte online und buchen Sie in wenigen Minuten, oder kontaktieren Sie uns und wir finden das perfekte Auto für Ihre Reise."
+    "p5": "Fragen zur Automiete in Ulcinj? Wir sind per Telefon, WhatsApp und Viber erreichbar. Durchsuchen Sie die Flotte online und buchen Sie in wenigen Minuten, oder melden Sie sich, und wir stellen Ihnen das passende Fahrzeug für Ihr Ziel zusammen. Faleminderit."
   },
   "kotorBody": {
     "h1": "Kotor, UNESCO-Weltkulturerbe",
@@ -1094,7 +1094,7 @@
   },
   "cookieBanner": {
     "title": "Cookie-Richtlinie",
-    "text": "Wir verwenden Cookies, um Ihr Erlebnis zu verbessern. Wenn Sie diese Website weiter nutzen, stimmen Sie unserer Richtlinie zu.",
+    "text": "Wir verwenden Cookies, um Ihr Erlebnis zu verbessern. Durch die weitere Nutzung dieser Website stimmen Sie unserer",
     "accept": "Akzeptieren",
     "decline": "Ablehnen"
   },

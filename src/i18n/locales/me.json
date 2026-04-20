@@ -48,18 +48,18 @@
   "howItWorks": {
     "label": "Kako Funkcioniše",
     "title": "Na Putu u 3 Koraka",
-    "subtitle": "Jednostavna rezervacija. Trenutna potvrda. Bez čekanja na aerodromu.",
+    "subtitle": "Željeznica nikad nije stigla do Ulcinja. Autobusi voze po sopstvenom rasporedu. Automobil je zaista jedini način da krenete na jug.",
     "step1Title": "Izaberite Lokaciju",
-    "step1Desc": "Birajte između aerodroma, Kotora, Budve, Perasta i drugih tačaka za preuzimanje širom Crne Gore i šire.",
+    "step1Desc": "Aerodrom Podgorica, aerodrom Tivat ili bilo koje od više od 28 mjesta širom Crne Gore. Gdje god sletite, tu smo Vas dočekati.",
     "step2Title": "Izaberite Auto",
-    "step2Desc": "Pregledajte našu flotu od ekonomičnih gradskih automobila do premium SUV-ova. Filtrirajte po veličini, mjenjaču ili budžetu.",
+    "step2Desc": "Gradski hečbek modeli za kaldrmisane ulice, SUV vozila za makadamski put do Valdanosa, karavani pogodni za plažu za pješčanu Veliku Plažu na vjetru.",
     "step3Title": "Vozite Crnom Gorom",
-    "step3Desc": "Dočekujemo vas na izlazu. Vaš auto je spreman. Istražite obalu, planine i istorijske gradove."
+    "step3Desc": "Iza posljednje benzinske pumpe, iza posljednjeg putokaza, u dio Crne Gore koji većina turista nikad ne dosegne."
   },
   "fleet": {
     "label": "Naša Flota",
     "title": "Izaberite Vaše Vozilo",
-    "subtitle": "Pregledajte dostupnost i cijene u realnom vremenu, rezervišite direktno."
+    "subtitle": "Dostupnost i cijene u realnom vremenu, rezervišite direktno, bez posrednika."
   },
   "brands": {
     "label": "Provjereni brendovi u našoj floti"
@@ -67,7 +67,7 @@
   "destinations": {
     "label": "Top Destinacije",
     "title": "Istražite Crnu Goru",
-    "subtitle": "Od Bokokotorskog zaliva do albanske granice, svaka destinacija je drugi svijet."
+    "subtitle": "Džamije i crkvena zvona. Gusarske kule i rimski zidovi. Sivi vulkanski pijesak i maslinjaci stari 2,000 godina. Svaka stanica ovdje djeluje kao druga zemlja."
   },
   "features": {
     "label": "Zašto Mi",
@@ -77,7 +77,7 @@
   "reviews": {
     "label": "Recenzije",
     "title": "Omiljeni Među Putnicima",
-    "subtitle": "Stvarna iskustva stvarnih korisnika širom Crne Gore."
+    "subtitle": "Iskrene priče putnika koji su se odvažili van turističke staze u neukroćeni jug Ulcinja."
   },
   "faq": {
     "label": "FAQ",
@@ -86,7 +86,7 @@
   },
   "cta": {
     "title": "Spremni da Istražite Crnu Goru?",
-    "subtitle": "Rezervišite za nekoliko minuta. Preuzmite na aerodromu. Vozite cijelom jadranskom obalom sopstvenim tempom.",
+    "subtitle": "Poziv mujezina lebdi nad starim gradom. Sivi pijesak se proteže do albanske granice. Gusarske ruševine čuvaju rt. Uzmite automobil i pođite da ga otkrijete.",
     "browseFleet": "Pregledaj Flotu"
   },
   "sidebar": {
@@ -126,7 +126,7 @@
   "notFound": {
     "code": "404",
     "title": "Pogrešno Skretanje",
-    "text": "Izgleda da ste skrenuli s puta. Ova cesta ne vodi nikuda, ali najbolje rute Crne Gore su na jedan klik.",
+    "text": "Čak ni u Ulcinju, ne vodi svaka staza nekud. Ova ne vodi, ali dobri putevi su jedan klik daleko.",
     "backHome": "Nazad na Početnu",
     "searchCars": "Pretraži Auta"
   },
@@ -334,22 +334,22 @@
   },
   "aboutBody": {
     "h1": "Rent a car Crna Gora",
-    "p1": "Od 2007. godine, Crna Gora Car Hire povezuje putnike sa pouzdanim i pristupačnim rent-a-car vozilima širom Crna Gora. Ono što je počelo kao jednostavna ideja, olakšati posjetiocima istraživanje ovog zadivljujućeg kutka Adriatic, izraslo je u jednu od najpouzdanijih usluga iznajmljivanja vozila u zemlji.",
+    "p1": "Ulcinj Car Hire je nezavisni afilijat koji putnicima pomaže da iznajme automobile u zapostavljenom crnogorskom jugu. Turistička staza se završava u Budvi. Vodiči Ulcinju posvete jedan pasus. Red vožnje autobusa je više prijedlog nego raspored. Ali tu dolje, iza posljednje benzinske pumpe na priobalnom putu, gdje poziv mujezina lebdi nad osmanskim zidinama, a pijesak postaje siv od vulkanskih minerala, tu Crna Gora postaje zanimljiva. Sarađujemo sa pouzdanim lokalnim iznajmljivačima kako bi posjetioci zapravo mogli stići dovde.",
     "h2": "Zašto smo počeli",
-    "p2": "Crna Gora je zemlja koja se najbolje doživljava sopstvenim tempom. Vijugavi obalni putevi, skrivena planinska sela i gradovi pod zaštitom UNESCO-a teško su dostupni javnim prevozom. Prepoznali smo priliku da putnicima pružimo slobodu da otkriju Crna Gora na svoj način, bez rasporeda turističkih autobusa, bez propuštenih vidikovaca, bez kompromisa.",
+    "p2": "Nijedna pruga nikada nije sagrađena do Ulcinja. Autobus iz Podgorice vozi nekoliko puta dnevno, preskače većinu plaža u potpunosti i nigdje ne staje u blizini Ade Bojane ili Valdanosa. Velika Plaža se proteže 12 km duž albanske granice, bez pločnika, bez autobuske stanice, bez taksi stajališta. Makadamski put do zaliva Valdanos nema putokaza. Granični prelaz Sukobin prema Albaniji je 15 minuta južno, ali samo ako imate točkove. Automobil ovdje nije pogodnost. On je razlika između toga da vidite Ulcinj i da ga zaista doživite.",
     "h3": "Šta nudimo",
-    "p3": "Pružamo usluge iznajmljivanja vozila širom Crna Gora, sa preuzimanjem i vraćanjem na aerodromu Tivat, aerodromu Podgorica, kao i na lokacijama duž obale i u unutrašnjosti. Naša flota obuhvata sve, od kompaktnih gradskih automobila do prostranih SUV vozila, sa potpunim osiguranjem i bez skrivenih troškova.",
+    "p3": "Preuzimanje na aerodromu Podgorica (40 km), aerodromu Tivat (75 km) ili bilo gdje u Crnoj Gori. Kompaktna vozila za uske uličice Starog grada, SUV modeli za neasfaltirani put do Valdanosa, karavani pogodni za plažu koji se nose sa pijeskom. Sva su u potpunosti osigurana, a papiri za albansku granicu uređuju se prilikom rezervacije.",
     "promiseTitle": "Naše obećanje",
     "promise1": "Potpuno osiguranje sa opcijom nulte franšize",
-    "promise2": "Doček na aerodromu, donosimo automobil direktno do sale za dolaske",
-    "promise3": "Bez skrivenih troškova, cijena koju vidite je cijena koju plaćate",
-    "promise4": "Dozvoljena prekogranična putovanja u Hrvatsku, Bosnu, Albaniju, Srbiju i Kosovo",
+    "promise2": "Dočekivanje na aerodromu Podgorica ili Tivat, Vaš automobil je na dolascima, a ne na parkingu tri šatla daleko",
+    "promise3": "Transparentne cijene, bez iznenađenja kada ste 40 km od najbližeg bankomata",
+    "promise4": "Prekogranična putovanja u Albaniju, Hrvatsku, Bosnu, Srbiju i Kosovo, zelena karta uređena prilikom rezervacije",
     "promise5": "Besplatno otkazivanje za većinu rezervacija",
     "promise6": "Pomoć na putu 24/7 tokom cijelog putovanja",
     "h4": "Lokalno znanje",
-    "p4": "Sa sjedištem u Crna Gora, poznajemo puteve, najbolje rute i skrivene dragulje koje turistički vodiči ne pominju. Bilo da vozite sa aerodroma Tivat do srednjovjekovnog starog grada Kotor, idete slikovitom rutom kroz Boku Kotorsku do Perast, ili se upućujete u unutrašnjost ka Nacionalnom parku Durmitor, možemo vam pomoći da isplanirate savršeno putovanje.",
+    "p4": "Prečica kroz Tuzi koja štedi 20 minuta od aerodroma. Neoznačeno skretanje lijevo prema Valdanosu koje Google Maps propušta. Vrijeme plime na Adi Bojani koje odlučuje hoćete li parkirati na pijesku ili u rijeci. Pijaca u starom gradu gdje možete kupiti svježe smokve, lokalni med i maslinovo ulje sa stabala koja su bila drevna dok je Rim bio mlad. Mi ove puteve vozimo svakodnevno i pomoći ćemo Vam da isplanirate svoje. Mirëdita, dobro došli na jug.",
     "h5": "Kontaktirajte nas",
-    "p5": "Imate pitanje o iznajmljivanju automobila u Crna Gora? Dostupni smo putem telefona, WhatsApp i Viber. Pregledajte našu flotu online i rezervišite za nekoliko minuta, ili nam se javite i pomoći ćemo vam da pronađete savršen automobil za vaše putovanje."
+    "p5": "Imate pitanje o iznajmljivanju automobila u Ulcinju? Dostupni smo putem telefona, WhatsApp i Viber aplikacije. Pretražite flotu na sajtu i rezervišite za nekoliko minuta ili nam se javite i uparićemo Vas sa pravim vozilom za odredište koje želite. Faleminderit."
   },
   "kotorBody": {
     "h1": "Kotor -- Lokalitet pod Zastitom UNESCO-a",

@@ -48,18 +48,18 @@
   "howItWorks": {
     "label": "Comment Ça Marche",
     "title": "Sur la Route en 3 Étapes",
-    "subtitle": "Réservation simple. Confirmation instantanée. Aucune file d'attente à l'aéroport.",
+    "subtitle": "Aucun train n'a jamais atteint Ulcinj. Les bus suivent leur propre horaire. Une voiture est vraiment le seul moyen d'aller dans le sud.",
     "step1Title": "Choisissez Votre Lieu",
-    "step1Desc": "Sélectionnez parmi les aéroports, Kotor, Budva, Perast et d'autres points de prise en charge à travers le Monténégro et au-delà.",
+    "step1Desc": "Aéroport de Podgorica, aéroport de Tivat ou plus de 28 points au Monténégro. Où que vous atterrissiez, nous vous accueillons.",
     "step2Title": "Choisissez Votre Voiture",
-    "step2Desc": "Parcourez notre flotte, des citadines économiques aux SUV premium. Filtrez par taille, transmission ou budget.",
+    "step2Desc": "Citadines pour les rues pavées, SUV pour la piste en terre vers Valdanos, breaks adaptés à la plage pour le sable de Velika Plaža balayé par le vent.",
     "step3Title": "Conduisez au Monténégro",
-    "step3Desc": "Nous vous accueillons aux arrivées. Votre voiture est prête. Explorez la côte, les montagnes et les villes historiques."
+    "step3Desc": "Au delà de la dernière station service, au delà du dernier panneau, dans la partie du Monténégro que la plupart des touristes n'atteignent jamais."
   },
   "fleet": {
     "label": "Notre Flotte",
     "title": "Choisissez Votre Véhicule",
-    "subtitle": "Consultez la disponibilité et les prix en temps réel, réservez directement."
+    "subtitle": "Disponibilité et tarifs en direct, réservez directement, sans intermédiaire."
   },
   "brands": {
     "label": "Marques de confiance dans notre flotte"
@@ -67,7 +67,7 @@
   "destinations": {
     "label": "Destinations Phares",
     "title": "Explorez le Monténégro",
-    "subtitle": "De la baie de Kotor à la frontière albanaise, chaque destination est un monde différent."
+    "subtitle": "Mosquées et cloches d'église. Tours de pirates et murs romains. Sable volcanique gris et oliveraies vieilles de 2,000 ans. Chaque étape donne l'impression d'être dans un pays différent."
   },
   "features": {
     "label": "Pourquoi Nous Choisir",
@@ -77,7 +77,7 @@
   "reviews": {
     "label": "Avis",
     "title": "Plébiscité par les Voyageurs",
-    "subtitle": "Des expériences authentiques de vrais clients à travers le Monténégro."
+    "subtitle": "Récits sincères de voyageurs qui se sont aventurés au delà du sentier touristique dans le sud indompté d'Ulcinj."
   },
   "faq": {
     "label": "FAQ",
@@ -86,7 +86,7 @@
   },
   "cta": {
     "title": "Prêt à Explorer le Monténégro ?",
-    "subtitle": "Réservez en quelques minutes. Récupérez à l'aéroport. Parcourez toute la côte adriatique à votre rythme.",
+    "subtitle": "L'appel du muezzin plane sur la vieille ville. Le sable gris s'étend jusqu'à la frontière albanaise. Des ruines de pirates gardent le cap. Prenez une voiture et partez à la rencontre de tout cela.",
     "browseFleet": "Parcourir la Flotte"
   },
   "sidebar": {
@@ -126,7 +126,7 @@
   "notFound": {
     "code": "404",
     "title": "Mauvais Virage",
-    "text": "On dirait que vous avez fait un détour. Cette route ne mène nulle part, mais les plus belles routes du Monténégro sont à un clic.",
+    "text": "Même à Ulcinj, toutes les pistes ne mènent pas quelque part. Celle ci ne mène nulle part, mais les bonnes routes sont à un clic de distance.",
     "backHome": "Retour à l'Accueil",
     "searchCars": "Rechercher"
   },
@@ -336,20 +336,20 @@
     "h1": "Location de Voitures au Montenegro",
     "p1": "Depuis 2007, Ulcinj Car Hire met en relation les voyageurs avec des voitures de location fiables et abordables à travers tout le Montenegro. Ce qui a commencé comme une idée simple, faciliter l'exploration de ce magnifique coin de l'Adriatic pour les visiteurs, est devenu l'un des services de location de voitures les plus fiables du pays.",
     "h2": "Pourquoi nous avons commencé",
-    "p2": "Le Montenegro est un pays qui se découvre à son propre rythme. Les routes côtières sinueuses, les villages de montagne cachés et les villes classées au patrimoine de l'UNESCO sont difficilement accessibles en transports en commun. Nous avons vu l'opportunité d'offrir aux voyageurs la liberté de découvrir le Montenegro à leur façon, pas d'horaires de bus touristiques, pas de points de vue manqués, aucun compromis.",
+    "p2": "Aucune ligne de chemin de fer n'a jamais été construite jusqu'à Ulcinj. Le bus depuis Podgorica circule quelques fois par jour, saute la plupart des plages et ne s'arrête nulle part près d'Ada Bojana ou de Valdanos. Velika Plaža s'étend sur 12 km le long de la frontière albanaise, sans trottoir, sans arrêt de bus, sans station de taxi. La piste en terre vers la baie de Valdanos n'est pas signalée. Le passage frontalier de Sukobin vers l'Albanie est à 15 minutes au sud, mais seulement si vous avez des roues. Une voiture n'est pas un confort ici. C'est la différence entre voir Ulcinj et la vivre pour de vrai.",
     "h3": "Ce que nous proposons",
-    "p3": "Nous proposons des services de location de voitures dans tout le Montenegro, avec prise en charge et restitution à l'aéroport de Tivat, à l'aéroport de Podgorica, ainsi que dans plusieurs points le long de la côte et à l'intérieur du pays. Notre flotte va des citadines compactes aux SUV spacieux, tous entièrement assurés et sans frais cachés.",
+    "p3": "Prise en charge à l'aéroport de Podgorica (40 km), à l'aéroport de Tivat (75 km) ou partout au Monténégro. Citadines compactes pour les ruelles étroites de Stari Grad, SUV pour la route non goudronnée vers Valdanos, breaks adaptés à la plage capables de rouler sur le sable. Tous entièrement assurés avec les papiers frontaliers pour l'Albanie préparés à la réservation.",
     "promiseTitle": "Notre engagement",
     "promise1": "Assurance tous risques avec option zéro franchise",
-    "promise2": "Accueil personnalisé à l'aéroport, nous amenons la voiture directement aux arrivées",
+    "promise2": "Accueil à l'aéroport de Podgorica ou de Tivat, votre voiture vous attend aux arrivées, pas sur un parking à trois navettes de distance",
     "promise3": "Aucun frais caché, le prix affiché est le prix final",
-    "promise4": "Voyages transfrontaliers autorisés vers la Croatie, la Bosnie, l'Albanie, la Serbie et le Kosovo",
-    "promise5": "Annulation gratuite sur la plupart des réservations",
-    "promise6": "Assistance routière 24h/24 et 7j/7 pendant toute la durée de votre voyage",
+    "promise4": "Déplacements transfrontaliers vers l'Albanie, la Croatie, la Bosnie, la Serbie et le Kosovo, Carte Verte préparée à la réservation",
+    "promise5": "Annulation gratuite sur la plupart des réservations, les plans balkaniques changent, nous le savons",
+    "promise6": "Assistance routière 24h/24 et 7j/7, même sur le tronçon sans piste entre Velika Plaža et la frontière albanaise",
     "h4": "Connaissance locale",
-    "p4": "Basés au Montenegro, nous connaissons les routes, les meilleurs itinéraires et les trésors cachés que les guides touristiques ne mentionnent pas. Que vous conduisiez de l'aéroport de Tivat jusqu'à la vieille ville médiévale de Kotor, que vous empruntiez la route panoramique à travers les bouches de Kotor jusqu'à Perast, ou que vous vous dirigiez vers l'intérieur des terres jusqu'au parc national du Durmitor, nous pouvons vous aider à planifier le road trip parfait.",
+    "p4": "Le raccourci par Tuzi qui fait gagner 20 minutes depuis l'aéroport. Le virage à gauche non signalé vers Valdanos que Google Maps rate. L'horaire des marées à Ada Bojana qui décide si vous vous garez sur le sable ou dans la rivière. Le marché de la vieille ville où vous pouvez acheter des figues fraîches, du miel local et de l'huile d'olive pressée sur des arbres déjà anciens quand Rome était jeune. Nous parcourons ces routes chaque jour et nous vous aiderons à tracer les vôtres. Mirëdita, bienvenue dans le sud.",
     "h5": "Contactez-nous",
-    "p5": "Vous avez une question sur la location de voiture au Montenegro ? Nous sommes joignables par téléphone, WhatsApp et Viber. Parcourez notre flotte en ligne et réservez en quelques minutes, ou contactez-nous et nous vous aiderons à trouver la voiture idéale pour votre voyage."
+    "p5": "Des questions sur la location d'une voiture à Ulcinj? Nous sommes joignables par téléphone, WhatsApp et Viber. Parcourez la flotte en ligne et réservez en quelques minutes, ou contactez-nous et nous vous trouverons le véhicule qui correspond à votre destination. Faleminderit."
   },
   "kotorBody": {
     "h1": "Kotor, Site du patrimoine mondial de l'UNESCO",
