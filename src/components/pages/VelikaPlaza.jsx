@@ -25,7 +25,7 @@ export default function VelikaPlaza() {
       </ul>
 
       <h3>{t('velikaPlazaBody.gettingThereTitle')}</h3>
-      <p>{t('velikaPlazaBody.gettingThereText')} {t('velikaPlazaBody.adaBojanaLinkPre')}<a href={localePath('/ada-bojana')}>{t('velikaPlazaBody.adaBojanaLinkText')}</a>{t('velikaPlazaBody.adaBojanaLinkPost')}</p>
+      <p>{t('velikaPlazaBody.gettingThereText')} {t('velikaPlazaBody.adaBojanaLinkPre')} <a href={localePath('/ada-bojana')}>{t('velikaPlazaBody.adaBojanaLinkText')}</a> {t('velikaPlazaBody.adaBojanaLinkPost')}</p>
     </ContentPage>
   );
 }

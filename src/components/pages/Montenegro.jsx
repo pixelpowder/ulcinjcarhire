@@ -9,7 +9,7 @@ export default function Montenegro() {
       <p>{t('montenegroBody.p1')}</p>
       <p>{t('montenegroBody.p2')}</p>
       <h2>{t('montenegroBody.startTitle')}</h2>
-      <p>{t('montenegroBody.startText')} {t('montenegroBody.podgoricaLinkPre')}<a href={localePath('/podgorica-airport')}>{t('montenegroBody.podgoricaLinkText')}</a>{t('montenegroBody.podgoricaLinkPost')}</p>
+      <p>{t('montenegroBody.startText')} {t('montenegroBody.podgoricaLinkPre')} <a href={localePath('/podgorica-airport')}>{t('montenegroBody.podgoricaLinkText')}</a> {t('montenegroBody.podgoricaLinkPost')}</p>
       <h2>{t('montenegroBody.timesTitle')}</h2>
       <p>{t('montenegroBody.timesText1')}</p>
       <p>{t('montenegroBody.timesText2')}</p>

@@ -23,7 +23,7 @@ export default function AdaBojana() {
       <p>{t('adaBojanaBody.restaurantsText')}</p>
 
       <h3>{t('adaBojanaBody.gettingThereTitle')}</h3>
-      <p>{t('adaBojanaBody.gettingThereText')} {t('adaBojanaBody.shkodraLinkPre')}<a href={localePath('/shkodra')}>{t('adaBojanaBody.shkodraLinkText')}</a>{t('adaBojanaBody.shkodraLinkPost')}</p>
+      <p>{t('adaBojanaBody.gettingThereText')} {t('adaBojanaBody.shkodraLinkPre')} <a href={localePath('/shkodra')}>{t('adaBojanaBody.shkodraLinkText')}</a> {t('adaBojanaBody.shkodraLinkPost')}</p>
     </ContentPage>
   );
 }

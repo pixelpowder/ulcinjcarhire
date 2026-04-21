@@ -24,7 +24,7 @@ export default function Bar() {
       </ul>
 
       <h3>{t('barBody.gettingThereTitle')}</h3>
-      <p>{t('barBody.gettingThereText')} {t('barBody.velikaPlazaLinkPre')}<a href={localePath('/velika-plaza')}>{t('barBody.velikaPlazaLinkText')}</a>{t('barBody.velikaPlazaLinkPost')}</p>
+      <p>{t('barBody.gettingThereText')} {t('barBody.velikaPlazaLinkPre')} <a href={localePath('/velika-plaza')}>{t('barBody.velikaPlazaLinkText')}</a> {t('barBody.velikaPlazaLinkPost')}</p>
     </ContentPage>
   );
 }
