@@ -4,7 +4,8 @@
     "blog": "Vodič",
     "destinations": "Destinacije",
     "about": "O Nama",
-    "contact": "Kontakt"
+    "contact": "Kontakt",
+    "fleet": "Flota"
   },
   "common": {
     "home": "Početna",
@@ -1103,5 +1104,30 @@
     "seoDesc": "Pitanja o iznajmljivanju u Ulcinju? Pristup Ada Bojani, dozvole albanske granice, savjeti za parkiranje na Velikoj Plaži.",
     "heading": "Kontaktirajte nas",
     "intro": "Imate pitanje o iznajmljivanju automobila u Ulcinju? Javite nam se i pomoći ćemo vam pronaći savršeno vozilo za vaše putovanje."
+  },
+  "cars": {
+    "readGuide": "Pročitaj vodič"
+  },
+  "fleetShowcase": {
+    "label": "Odaberite auto",
+    "title": "Vodiči za svaki automobil u ulcinjskoj floti",
+    "subtitle": "Tehnika, potrošnja, prtljažnik i za šta je svaki auto stvarno predviđen na južnoj obali Crne Gore — Velika Plaža, Ada Bojana i albanska granica.",
+    "viewAll": "Pogledaj sve vodiče flote",
+    "tabs": {
+      "all": "Sve",
+      "economy": "Ekonomi",
+      "midsize": "Srednja",
+      "premium": "Premium",
+      "suv": "Krosover",
+      "van": "Kombi"
+    }
+  },
+  "fleetIndex": {
+    "title": "Naša flota",
+    "subtitle": "Sedam automobila odabranih za Ulcinj — starogradski parking, izleti do Velike Plaže, puteljci ka Adi Bojani, prelazi granice ka Albaniji.",
+    "seoDesc": "Pregledajte flotu Ulcinj Car Hirea — tehnika, potrošnja, prtljažnik i za šta je svaki auto stvarno koristan na južnoj obali Crne Gore.",
+    "intro1": "Ulcinj je na krajnjem jugu crnogorske obale, a vožnja ovdje razlikuje se od ostatka zemlje. Ujutro — uske uličice ispod otomanskih zidina Kalaje; popodne — trinaest kilometara otvorene pješčane plaže na Velikoj Plaži s albanskim planinama na horizontu; uveče — most preko Bojane i pečena jegulja u restoranu na stubovima na Adi Bojani. Automobili koje iznajmljujemo pokrivaju upravo taj raspon.",
+    "intro2": "Dvije stvari znače više od cijene. Ljetna vrućina — Ulcinj drži rekorde u Crnoj Gori, često iznad 35 °C u julu i avgustu, pa klima znači više nego brojke iz kataloga. I stanje puteva: obalna magistrala je glatka, ali servisni putevi do Velike Plaže, spust do Valdanosa i posljednja dva kilometra do kajt škola Ade Bojane su iskrpljeni ili neasfaltirani. Povišen krosover ili meko oslonjen mali auto tu opravdava cijenu.",
+    "intro3": "Ako sedmica miješa plaže i dan u Skadru, prelaz Sukobin je dvadeset minuta južno i obično brzo propušta — provjerite da najam uključuje albansku Zelenu kartu. Za dužu unutrašnju petlju do Podgorice preko Šaskog jezera ili obalni put do aerodroma Tivat, srednji dizel je najugodniji. Za goste u apartmanu iznad Male Plaže, najmanji hečbeci staju tamo gdje veći auti odustaju."
   }
 }

@@ -4,7 +4,8 @@
     "blog": "Blog",
     "destinations": "Destinations",
     "about": "About",
-    "contact": "Contact"
+    "contact": "Contact",
+    "fleet": "Fleet"
   },
   "common": {
     "home": "Home",
@@ -1079,5 +1080,30 @@
     "seoDesc": "Questions about hiring in Ulcinj? Ada Bojana access, Albania border permits, Velika Plaža parking advice.",
     "heading": "Contact Us",
     "intro": "Have a question about renting a car in Ulcinj? Get in touch and we'll help you find the perfect vehicle for your trip."
+  },
+  "cars": {
+    "readGuide": "Read guide"
+  },
+  "fleetShowcase": {
+    "label": "Know your car",
+    "title": "Guides to every car in the Ulcinj fleet",
+    "subtitle": "Specs, fuel use, boot size and what each car is really good at on Montenegro’s southern coast — Velika Plaža, Ada Bojana and the Albanian border.",
+    "viewAll": "See all fleet guides",
+    "tabs": {
+      "all": "All",
+      "economy": "Economy",
+      "midsize": "Mid-Size",
+      "premium": "Premium",
+      "suv": "Crossover",
+      "van": "Van"
+    }
+  },
+  "fleetIndex": {
+    "title": "Our Fleet",
+    "subtitle": "Seven cars picked for Ulcinj — old-town parking, Velika Plaža runs, Ada Bojana tracks, Albanian border hops.",
+    "seoDesc": "Browse the Ulcinj Car Hire fleet — specs, fuel use, boot size, and what each car is really good at on Montenegro’s southern coast.",
+    "intro1": "Ulcinj sits at the far south of Montenegro’s coast, and driving here is unlike anywhere else in the country. Mornings thread narrow lanes below the Ottoman walls of Kalaja; afternoons roll along thirteen kilometres of open sand at Velika Plaža with the Albanian mountains on the horizon; evenings cross the Bojana bridge to eat grilled eels at a stilt restaurant on Ada Bojana. The cars we rent are chosen to cover exactly that range.",
+    "intro2": "Two things shape the right choice more than price. First, summer heat — Ulcinj records Montenegro’s hottest averages, regularly above 35°C in July and August, so the AC compressor matters more than brochure figures suggest. Second, road surface: the coastal trunk is smooth, but the service tracks onto Velika Plaža, the approach to Valdanos and the last two kilometres to Ada Bojana’s kite schools are patched or unsealed. A raised crossover or a soft-sprung small car earns its money there.",
+    "intro3": "If your week splits between beaches and a cross-border day to Shkodra, the Sukobin crossing is twenty minutes south and usually clears fast — make sure your rental includes the Albanian Green Card. For a longer inland loop via Šasko Lake to Podgorica, or the full coast haul to Tivat Airport, a diesel mid-size is the easiest car to live with. And for anyone anchored in an apartment above Mala Plaža, the smallest hatches slip into kerbside lots where larger cars simply give up."
   }
 }

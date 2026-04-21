@@ -36,12 +36,18 @@ export default function Nav({ logoHref }) {
     return () => document.removeEventListener('mousedown', handleClickOutside);
   }, [langOpen]);
 
+  const tf = (key, fb) => {
+    const v = t(key);
+    return v && v !== key ? v : fb;
+  };
+
   const navLinks = [
-    { label: t('nav.book'), href: localePath('/book') },
-    { label: t('nav.blog') || 'Blog', href: localePath('/blog') },
-    { label: t('nav.destinations'), href: localePath('/#destinations') },
-    { label: t('nav.about'), href: localePath('/about') },
-    { label: t('nav.contact'), href: localePath('/contact') },
+    { label: tf('nav.book', 'Book'), href: localePath('/book') },
+    { label: tf('nav.fleet', 'Fleet'), href: localePath('/cars') },
+    { label: tf('nav.blog', 'Blog'), href: localePath('/blog') },
+    { label: tf('nav.destinations', 'Destinations'), href: localePath('/#destinations') },
+    { label: tf('nav.about', 'About'), href: localePath('/about') },
+    { label: tf('nav.contact', 'Contact'), href: localePath('/contact') },
   ];
 
   function switchLang(newLang) {

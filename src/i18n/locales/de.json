@@ -4,7 +4,8 @@
     "blog": "Ratgeber",
     "destinations": "Reiseziele",
     "about": "Über uns",
-    "contact": "Kontakt"
+    "contact": "Kontakt",
+    "fleet": "Flotte"
   },
   "common": {
     "home": "Startseite",
@@ -1103,5 +1104,30 @@
     "seoDesc": "Fragen zur Autovermietung in Ulcinj? Ada Bojana Zugang, Grenzgenehmigungen mit Albanien, Parkplatzberatung für Velika Plaža.",
     "heading": "Kontaktieren Sie uns",
     "intro": "Haben Sie eine Frage zur Automiete in Ulcinj? Kontaktieren Sie uns, und wir helfen Ihnen, das passende Fahrzeug für Ihre Reise zu finden."
+  },
+  "cars": {
+    "readGuide": "Anleitung lesen"
+  },
+  "fleetShowcase": {
+    "label": "Das passende Auto",
+    "title": "Fahrzeugratgeber für jede Mietklasse in Ulcinj",
+    "subtitle": "Technik, Verbrauch, Kofferraumvolumen und wofür jedes Auto an Montenegros Südküste tatsächlich taugt — Velika Plaža, Ada Bojana und die albanische Grenze.",
+    "viewAll": "Alle Flottenratgeber ansehen",
+    "tabs": {
+      "all": "Alle",
+      "economy": "Economy",
+      "midsize": "Mittelklasse",
+      "premium": "Premium",
+      "suv": "Crossover",
+      "van": "Transporter"
+    }
+  },
+  "fleetIndex": {
+    "title": "Unsere Flotte",
+    "subtitle": "Sieben Autos für Ulcinj — Altstadt-Parkplätze, Velika-Plaža-Ausflüge, Ada-Bojana-Pisten, Albanien-Grenzfahrten.",
+    "seoDesc": "Die Flotte von Ulcinj Car Hire — Technik, Verbrauch, Kofferraumvolumen und wofür jedes Auto an Montenegros Südküste wirklich taugt.",
+    "intro1": "Ulcinj liegt am äußersten Süden der Küste Montenegros, und die Straßen unterscheiden sich spürbar vom Rest des Landes. Morgens enge Gassen unter den osmanischen Mauern von Kalaja; nachmittags dreizehn Kilometer Sandstrand auf Velika Plaža mit den albanischen Bergen am Horizont; abends die Brücke über die Bojana zum Grillfisch-Stelzenrestaurant auf Ada Bojana. Unsere Autos sind genau dafür ausgesucht.",
+    "intro2": "Zwei Dinge zählen mehr als der Preis. Erstens die Sommerhitze — Ulcinj hält Montenegros Temperaturrekord, im Juli und August regelmäßig über 35 °C, sodass die Klimaanlage wichtiger ist als die Prospektzahlen suggerieren. Zweitens die Straßenqualität: die Hauptstraße ist glatt, aber die Zufahrten zur Velika Plaža, der Weg nach Valdanos und die letzten zwei Kilometer zu den Kite-Schulen von Ada Bojana sind geflickt oder unbefestigt. Ein erhöhter Crossover oder ein weich gefedertes Auto zahlt sich hier aus.",
+    "intro3": "Wenn die Woche Strände mit einem Tagesausflug nach Shkodra kombiniert, liegt der Grenzübergang Sukobin zwanzig Minuten südlich und wird meist schnell abgewickelt — achten Sie auf die albanische Grüne Karte. Für die lange Schleife über Šasko-See nach Podgorica oder den Küstenweg zum Flughafen Tivat ist ein mittelgroßer Diesel die bequemste Wahl. Wer in einer Wohnung über Mala Plaža wohnt, findet mit den kleinsten Hatchbacks Parkplätze, an denen größere Autos scheitern."
   }
 }

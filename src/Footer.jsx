@@ -34,8 +34,16 @@ function FooterColumn({ title, children }) {
   );
 }
 
+const FOOTER_FLEET_SLUGS = ['vw-polo', 'fiat-500', 'renault-clio', 'toyota-yaris', 'peugeot-308'];
+
 export default function Footer() {
   const { t, localePath } = useTranslation();
+  const tf = (key, fb) => {
+    const v = t(key);
+    return v && v !== key ? v : fb;
+  };
+
+  const fleetCars = config.cars.filter(c => FOOTER_FLEET_SLUGS.includes(c.slug));
 
   return (
     <footer className="footer">
@@ -58,21 +66,36 @@ export default function Footer() {
           </div>
         </div>
 
-        <FooterColumn title={t('footer.quickLinks')}>
-          <a href={localePath('/book')} className="footer__link"><ChevronRight size={12} /> {t('footer.carHireBooking')}</a>
-          <a href={localePath('/about')} className="footer__link"><ChevronRight size={12} /> {t('footer.aboutUs')}</a>
-          <a href={localePath('/#faq')} className="footer__link"><ChevronRight size={12} /> {t('footer.faqLink')}</a>
-          <a href={localePath('/#reviews')} className="footer__link"><ChevronRight size={12} />{t('footer.testimonials')}</a>
+        <FooterColumn title={tf('footer.quickLinks', 'Quick Links')}>
+          <a href={localePath('/book')} className="footer__link"><ChevronRight size={12} /> {tf('footer.carHireBooking', 'Car Hire Booking')}</a>
+          <a href={localePath('/cars')} className="footer__link"><ChevronRight size={12} /> {tf('nav.fleet', 'Our Fleet')}</a>
+          <a href={localePath('/about')} className="footer__link"><ChevronRight size={12} /> {tf('footer.aboutUs', 'About Us')}</a>
+          <a href={localePath('/#faq')} className="footer__link"><ChevronRight size={12} /> {tf('footer.faqLink', 'FAQ')}</a>
+          <a href={localePath('/#reviews')} className="footer__link"><ChevronRight size={12} /> {tf('footer.testimonials', 'Testimonials')}</a>
         </FooterColumn>
 
-        <FooterColumn title={t('footer.guides')}>
-          <a href={localePath('/blog')} className="footer__link"><ChevronRight size={12} /> {t('nav.blog') || 'Blog'}</a>
-          <a href={localePath('/montenegro')} className="footer__link"><ChevronRight size={12} /> {t('footer.montenegroGuide')}</a>
-          <a href={localePath('/border-crossing-guide')} className="footer__link"><ChevronRight size={12} /> {t('footer.borderGuide')}</a>
-          <a href={localePath('/#destinations')} className="footer__link"><ChevronRight size={12} /> {t('footer.destinations')}</a>
+        <FooterColumn title={tf('footer.ourFleet', 'Our Fleet')}>
+          {fleetCars.map(car => {
+            const carName = (() => {
+              const val = t(`cars.${car.slug}.name`);
+              return val && val !== `cars.${car.slug}.name` ? val : car.name;
+            })();
+            return (
+              <a key={car.slug} href={localePath(`/cars/${car.slug}`)} className="footer__link">
+                <ChevronRight size={12} /> {carName}
+              </a>
+            );
+          })}
         </FooterColumn>
 
-        <FooterColumn title={t('footer.locations')}>
+        <FooterColumn title={tf('footer.guides', 'Guides')}>
+          <a href={localePath('/blog')} className="footer__link"><ChevronRight size={12} /> {tf('nav.blog', 'Blog')}</a>
+          <a href={localePath('/montenegro')} className="footer__link"><ChevronRight size={12} /> {tf('footer.montenegroGuide', 'Montenegro Guide')}</a>
+          <a href={localePath('/border-crossing-guide')} className="footer__link"><ChevronRight size={12} /> {tf('footer.borderGuide', 'Border Crossing Guide')}</a>
+          <a href={localePath('/#destinations')} className="footer__link"><ChevronRight size={12} /> {tf('footer.destinations', 'Destinations')}</a>
+        </FooterColumn>
+
+        <FooterColumn title={tf('footer.locations', 'Locations')}>
           {[
             { name: 'Velika Plaza', slug: 'velika-plaza' },
             { name: 'Ada Bojana', slug: 'ada-bojana' },
