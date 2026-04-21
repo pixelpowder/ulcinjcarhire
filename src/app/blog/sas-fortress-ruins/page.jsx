@@ -2,10 +2,13 @@ import { t, buildAlternates } from '../../metadata';
 import SasFortressRuins from '@/src/components/pages/blog/SasFortressRuins';
 
 export async function generateMetadata() {
+  const title = t('en', 'blogSas.title') + ' | Ulcinj Car Hire';
+  const description = t('en', 'blogSas.description');
   return {
-    title: t('en', 'blogSas.title') + ' | Ulcinj Car Hire',
-    description: t('en', 'blogSas.description'),
+    title: title,
+    description: description,
     alternates: buildAlternates('blog/sas-fortress-ruins'),
+    openGraph: { title, description, type: 'website' },
   };
 }
 

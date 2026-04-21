@@ -2,10 +2,13 @@ import { t, buildAlternates } from '../../metadata';
 import UlcinjToLakeSkadarSouth from '@/src/components/pages/blog/UlcinjToLakeSkadarSouth';
 
 export async function generateMetadata() {
+  const title = t('en', 'blogSkadar.title') + ' | Ulcinj Car Hire';
+  const description = t('en', 'blogSkadar.description');
   return {
-    title: t('en', 'blogSkadar.title') + ' | Ulcinj Car Hire',
-    description: t('en', 'blogSkadar.description'),
+    title: title,
+    description: description,
     alternates: buildAlternates('blog/ulcinj-to-lake-skadar-south'),
+    openGraph: { title, description, type: 'website' },
   };
 }
 

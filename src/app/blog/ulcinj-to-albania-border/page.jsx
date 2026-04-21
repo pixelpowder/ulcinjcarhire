@@ -2,10 +2,13 @@ import { t, buildAlternates } from '../../metadata';
 import UlcinjToAlbaniaBorder from '@/src/components/pages/blog/UlcinjToAlbaniaBorder';
 
 export async function generateMetadata() {
+  const title = t('en', 'blogAlbania.title') + ' | Ulcinj Car Hire';
+  const description = t('en', 'blogAlbania.description');
   return {
-    title: t('en', 'blogAlbania.title') + ' | Ulcinj Car Hire',
-    description: t('en', 'blogAlbania.description'),
+    title: title,
+    description: description,
     alternates: buildAlternates('blog/ulcinj-to-albania-border'),
+    openGraph: { title, description, type: 'website' },
   };
 }
 

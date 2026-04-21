@@ -2,10 +2,13 @@ import { t, buildAlternates } from '../../metadata';
 import UlcinjSeafoodGuide from '@/src/components/pages/blog/UlcinjSeafoodGuide';
 
 export async function generateMetadata() {
+  const title = t('en', 'blogSeafood.title') + ' | Ulcinj Car Hire';
+  const description = t('en', 'blogSeafood.description');
   return {
-    title: t('en', 'blogSeafood.title') + ' | Ulcinj Car Hire',
-    description: t('en', 'blogSeafood.description'),
+    title: title,
+    description: description,
     alternates: buildAlternates('blog/ulcinj-seafood-guide'),
+    openGraph: { title, description, type: 'website' },
   };
 }
 

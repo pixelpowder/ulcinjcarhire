@@ -2,10 +2,13 @@ import { t, buildAlternates } from '../../metadata';
 import AdaBojanaRiverIsland from '@/src/components/pages/blog/AdaBojanaRiverIsland';
 
 export async function generateMetadata() {
+  const title = t('en', 'blogAdabojana.title') + ' | Ulcinj Car Hire';
+  const description = t('en', 'blogAdabojana.description');
   return {
-    title: t('en', 'blogAdabojana.title') + ' | Ulcinj Car Hire',
-    description: t('en', 'blogAdabojana.description'),
+    title: title,
+    description: description,
     alternates: buildAlternates('blog/ada-bojana-river-island'),
+    openGraph: { title, description, type: 'website' },
   };
 }
 

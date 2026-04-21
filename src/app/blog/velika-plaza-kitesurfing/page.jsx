@@ -2,10 +2,13 @@ import { t, buildAlternates } from '../../metadata';
 import VelikaPlazaKitesurfing from '@/src/components/pages/blog/VelikaPlazaKitesurfing';
 
 export async function generateMetadata() {
+  const title = t('en', 'blogVelikaplaza.title') + ' | Ulcinj Car Hire';
+  const description = t('en', 'blogVelikaplaza.description');
   return {
-    title: t('en', 'blogVelikaplaza.title') + ' | Ulcinj Car Hire',
-    description: t('en', 'blogVelikaplaza.description'),
+    title: title,
+    description: description,
     alternates: buildAlternates('blog/velika-plaza-kitesurfing'),
+    openGraph: { title, description, type: 'website' },
   };
 }
 

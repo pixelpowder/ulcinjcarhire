@@ -2,10 +2,13 @@ import { t, buildAlternates } from '../../metadata';
 import ValdanosBaySecret from '@/src/components/pages/blog/ValdanosBaySecret';
 
 export async function generateMetadata() {
+  const title = t('en', 'blogValdanos.title') + ' | Ulcinj Car Hire';
+  const description = t('en', 'blogValdanos.description');
   return {
-    title: t('en', 'blogValdanos.title') + ' | Ulcinj Car Hire',
-    description: t('en', 'blogValdanos.description'),
+    title: title,
+    description: description,
     alternates: buildAlternates('blog/valdanos-bay-secret'),
+    openGraph: { title, description, type: 'website' },
   };
 }
 
