@@ -4,7 +4,7 @@ const siteConfig = {
   domain: "ulcinjcarhire.com",
   phone: "",
   email: "info@ulcinjcarhire.com",
-  address: "Ulcinj, Montenegro",
+  address: "Tabacina BB, Kotor, 85330",
 
   hero: {
     headline: "Explore Ulcinj at Your Own Pace",
