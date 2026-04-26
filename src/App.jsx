@@ -396,7 +396,7 @@ function AdventureHub() {
         <div className="adventure-grid">
           {[
             { icon: <Globe size={24} />, title: 'Kitesurfing Capital', desc: 'Ada Bojana\'s thermal winds blow May to September. Flat warm water, schools on-site, gear hire included. Europe\'s best-kept kite secret.' },
-            { icon: <MapPin size={24} />, title: 'Albania in 30 Minutes', desc: 'Cross at Sukobin, reach Shkodra\'s Rozafa Castle in half an hour. Green Card included with every booking — just tell us at checkout.' },
+            { icon: <MapPin size={24} />, title: 'Albania in 30 Minutes', desc: 'Cross at Sukobin, reach Shkodra\'s Rozafa Castle in half an hour. Green Card included with every booking, just tell us at checkout.' },
             { icon: <Star size={24} fill="currentColor" />, title: 'Europe\'s Longest Beach', desc: 'Velika Plaza stretches 12 km of dark mineral sand. Therapeutic properties, warm shallows, and beach bars from end to end.' },
             { icon: <ShieldCheck size={24} />, title: 'Ottoman Fortress', desc: 'Stari Grad\'s 2,500-year-old walls overlook the Adriatic. Legend says Cervantes was held captive within these ramparts.' },
           ].map((item) => (
@@ -857,7 +857,7 @@ function FleetShowcase() {
         <div className="section-header">
           <span className="section-label">{tf('fleetShowcase.label', 'Know your car')}</span>
           <h2 className="section-title">{tf('fleetShowcase.title', 'Guides to every car in the Ulcinj fleet')}</h2>
-          <p className="section-subtitle">{tf('fleetShowcase.subtitle', 'Specs, fuel use, boot size and what each car is really good at on Montenegro\u2019s southern coast — Velika Plaža, Ada Bojana, the Albanian border.')}</p>
+          <p className="section-subtitle">{tf('fleetShowcase.subtitle', 'Specs, fuel use, boot size and what each car is really good at on Montenegro\u2019s southern coast, Velika Plaža, Ada Bojana, the Albanian border.')}</p>
         </div>
 
         <div className="fleet-showcase__tabs" role="tablist">

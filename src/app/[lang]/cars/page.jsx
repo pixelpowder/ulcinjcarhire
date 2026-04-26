@@ -9,7 +9,7 @@ export async function generateMetadata({ params }) {
   const descTranslated = t(lang, descKey);
   const description = descTranslated !== descKey
     ? descTranslated
-    : 'Browse the Ulcinj Car Hire fleet — economy hatches for Stari Grad parking, crossovers for Ada Bojana, a diesel Golf for Tivat Airport transfers.';
+    : 'Browse the Ulcinj Car Hire fleet, economy hatches for Stari Grad parking, crossovers for Ada Bojana, a diesel Golf for Tivat Airport transfers.';
   const titleTranslated = t(lang, 'fleetIndex.title');
   const baseTitle = titleTranslated !== 'fleetIndex.title' ? titleTranslated : 'Our Fleet';
   const title = `${baseTitle} | Ulcinj Car Hire`;

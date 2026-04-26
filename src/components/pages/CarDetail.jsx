@@ -26,13 +26,13 @@ import {
 
 // One inline photo per car, chosen for the Ulcinj-specific character of each.
 const INLINE_PHOTOS = {
-  'vw-polo':        { src: '/img/fleet-inline/village-trees.jpg',     alt: 'Stone village road in southern Montenegro',        caption: 'Back streets climbing up toward Kalaja — narrow, single-lane, measured in centimetres. The Polo slips through.' },
-  'fiat-500':       { src: '/img/fleet-inline/seashore-hills.jpg',    alt: 'Coastal road along the Adriatic',                  caption: 'The Mala Plaža promenade at golden hour — short hops, a sunroof, and somewhere tight to park at the end.' },
-  'renault-clio':   { src: '/img/fleet-inline/seaside-road.jpg',      alt: 'Coastal road beside the Adriatic',                 caption: 'The coast road north through Sutomore and Bar — the Clio covers it in quiet sixth-gear cruise.' },
-  'renault-megane': { src: '/img/fleet-inline/mountain-highway.jpg',  alt: 'Mountain highway with empty lanes',                caption: 'The Sozina motorway toward Podgorica — where the Megane\u2019s diesel torque and rear vents justify the size-up.' },
-  'toyota-yaris':   { src: '/img/fleet-inline/aerial-mountains.jpg',  alt: 'Aerial view of south-coast Montenegro',            caption: 'Two weeks of this — beach, border, Šasko Lake, back — for under €80 of fuel in the Yaris Hybrid.' },
-  'kia-stonic':     { src: '/img/fleet-inline/rocky-road.jpg',        alt: 'Empty asphalt road between scrub and rocks',       caption: 'The last kilometres onto Ada Bojana — loose surface, ruts, and the Stonic\u2019s ride height making short work of it.' },
-  'peugeot-308':    { src: '/img/fleet-inline/forest-road.jpg',       alt: 'Tree-lined road in coastal Montenegro',            caption: 'The coastal road north through Bar and Petrovac — EAT8 + BlueHDi, set and forget toward Tivat Airport.' },
+  'vw-polo':        { src: '/img/fleet-inline/village-trees.jpg',     alt: 'Stone village road in southern Montenegro',        caption: 'Back streets climbing up toward Kalaja, narrow, single-lane, measured in centimetres. The Polo slips through.' },
+  'fiat-500':       { src: '/img/fleet-inline/seashore-hills.jpg',    alt: 'Coastal road along the Adriatic',                  caption: 'The Mala Plaža promenade at golden hour, short hops, a sunroof, and somewhere tight to park at the end.' },
+  'renault-clio':   { src: '/img/fleet-inline/seaside-road.jpg',      alt: 'Coastal road beside the Adriatic',                 caption: 'The coast road north through Sutomore and Bar, the Clio covers it in quiet sixth-gear cruise.' },
+  'renault-megane': { src: '/img/fleet-inline/mountain-highway.jpg',  alt: 'Mountain highway with empty lanes',                caption: 'The Sozina motorway toward Podgorica, where the Megane\u2019s diesel torque and rear vents justify the size-up.' },
+  'toyota-yaris':   { src: '/img/fleet-inline/aerial-mountains.jpg',  alt: 'Aerial view of south-coast Montenegro',            caption: 'Two weeks of this, beach, border, Šasko Lake, back, for under €80 of fuel in the Yaris Hybrid.' },
+  'kia-stonic':     { src: '/img/fleet-inline/rocky-road.jpg',        alt: 'Empty asphalt road between scrub and rocks',       caption: 'The last kilometres onto Ada Bojana, loose surface, ruts, and the Stonic\u2019s ride height making short work of it.' },
+  'peugeot-308':    { src: '/img/fleet-inline/forest-road.jpg',       alt: 'Tree-lined road in coastal Montenegro',            caption: 'The coastal road north through Bar and Petrovac, EAT8 + BlueHDi, set and forget toward Tivat Airport.' },
   _default:         { src: '/img/fleet-inline/sunset-montenegro.jpg', alt: 'Southern Montenegro coast at sunset',              caption: 'Ulcinj\u2019s coast stitches beach, border and lake into one long drive south.' },
 };
 

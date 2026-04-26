@@ -11,7 +11,7 @@ import { SUPPORTED_LANGS, DEFAULT_LANG, LANG_HREFLANG } from '@/src/i18n/languag
 import LocaleAwareSchema from '@/src/components/LocaleAwareSchema';
 
 export const metadata = {
-  title: 'Ulcinj Car Hire — 12 km Beach, Albania Border',
+  title: 'Ulcinj Car Hire, 12 km Beach, Albania Border',
   description:
     'Montenegro\'s hidden south needs a car. 12 km Long Beach, Ada Bojana kitesurfing, and Albania 30 min away. From \u20AC13/day with Albanian border docs included.',
   metadataBase: new URL('https://www.ulcinjcarhire.com'),
