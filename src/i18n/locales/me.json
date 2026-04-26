@@ -259,34 +259,26 @@
       "a": "Sva vozila u osnovnoj cijeni uključuju osiguranje od odgovornosti prema trećim licima i zaštitu od oštećenja pri sudaru (CDW). PDV, obavezna oprema (prva pomoć, trougao upozorenja, reflektujući prsluk) i transparentna politika goriva su uključeni. Napomena: benzinskih pumpi je malo južno od Bara, napunite rezervoar prije puta prema Adi Bojani ili Valdanosu. Neograničena kilometraža i proširena pokrića dostupni su po vozilu."
     },
     "4": {
-      "q": "Kako funkcioniše preuzimanje vozila?",
-      "a": "Ulcinj je oko 2 sata od aerodroma Podgorica i 2,5 sata od Tivta, duga vožnja nakon leta. Preporučujemo jednosmjerno iznajmljivanje: preuzmite vozilo na aerodromu dolaska i predajte ga u Ulcinju, ili obrnuto. Tačno vrijeme i mjesto preuzimanja se dogovaraju s agentom nakon rezervacije."
-    },
-    "5": {
-      "q": "Mogu li vratiti vozilo na drugoj lokaciji?",
-      "a": "Da, jednosmjerno iznajmljivanje dostupno je u 28 gradova i mjesta u Crnoj Gori. S obzirom na udaljenost od oba aerodroma, kombinacija preuzimanja u Podgorici ili Tivtu i vraćanja u Ulcinju (ili obrnuto) jedna je od naših najpopularnijih opcija."
-    },
-    "6": {
       "q": "Koja je politika otkazivanja?",
       "a": "Standardni najam: besplatno otkazivanje do 7 dana prije početka. Premium vozila i kabrioleti: besplatno otkazivanje do 30 dana unaprijed. Na sva otkazivanja primjenjuje se naknada za obradu plaćanja od 6 %, bez obzira na rok. Ako planirate put prema uslovima vjetra na Adi Bojani, imajte na umu fleksibilan prozor za otkazivanje."
     },
-    "7": {
+    "5": {
       "q": "Da li je potreban depozit?",
       "a": "Iznos depozita varira po vozilu, obično između 50 i 300 EUR, a neka vozila ne zahtijevaju depozit uopšte. Depozit mora biti na fizičkoj kreditnoj kartici (ne debitnoj ni prepaid) na ime glavnog vozača. Blokira se pri preuzimanju i oslobađa u roku od nekoliko radnih dana po vraćanju vozila bez oštećenja."
     },
-    "8": {
+    "6": {
       "q": "Šta se dešava ako prekoračim limit kilometraže?",
       "a": "Vozila s ograničenjem kilometraže naplaćuju svaki kilometar iznad dogovorenog limita. Cijena po kilometru navedena je u detaljima vozila prije potvrde rezervacije. Ako planirate vožnju u Albaniju ili obilaskom crnogorske obale, potražite opcije s neograničenom kilometražom."
     },
-    "9": {
+    "7": {
       "q": "Ima li skrivenih naknada?",
       "a": "Nema. Cijena prikazana pri rezervaciji je konačna, porezi, PDV i sve standardne naknade su uključeni. Duži transfer od Podgorice ili Tivta je već uračunat u cijenu, nije dodatan. Ne čeka vas neočekivani račun pri preuzimanju."
     },
-    "10": {
+    "8": {
       "q": "Koliko plaćam unaprijed?",
       "a": "Pri rezervaciji se uzima akontacija od 15-20 % ukupnih troškova najma kao garancija za vozilo. Ostatak se plaća gotovinom ili karticom direktno agentu za iznajmljivanje pri preuzimanju ključeva."
     },
-    "11": {
+    "9": {
       "q": "Mogu li iznajmiti bez kreditne kartice?",
       "a": "Mali broj vozila dostupan je bez kreditne kartice, jasno označen u rezultatima pretrage. Za većinu vozila, posebno ona bez depozita, neophodna je fizička kreditna kartica na ime glavnog vozača."
     }
@@ -1106,7 +1098,157 @@
     "intro": "Imate pitanje o iznajmljivanju automobila u Ulcinju? Javite nam se i pomoći ćemo vam pronaći savršeno vozilo za vaše putovanje."
   },
   "cars": {
-    "readGuide": "Pročitaj vodič"
+    "readGuide": "Pročitaj vodič",
+    "overviewTitle": "Ukratko",
+    "specsTitle": "Potpune specifikacije",
+    "whoForTitle": "Kome odgovara ovo vozilo?",
+    "regionalTitle": "Najbolja regionalna upotreba",
+    "articleTitle": "Na ulcinjskim putevima",
+    "sections": {
+      "behindWheel": "Za volanom",
+      "onRoads": "Na ulcinjskim putevima",
+      "spaceLoad": "Prostor i prtljag",
+      "bestFor": "Najbolje rute za ovo vozilo",
+      "practical": "Praktične napomene",
+      "verdict": "Zaključak"
+    },
+    "featuresTitle": "Unutrašnjost vozila",
+    "relatedTitle": "Gdje vas ovo vozilo vodi",
+    "checkAvailability": "Provjerite dostupnost i aktuelne cijene",
+    "nextBtn": "Sljedeće vozilo",
+    "vw-polo": {
+      "name": "VW Polo",
+      "category": "Ekonomična",
+      "tagline": "Jednostavan hečbek koji se parkira bilo gdje izvan Kalaje i troši malo goriva do Ade Bojane",
+      "lede": "Pet sjedišta, prtljažnik od 351 litre i krug okretanja stvoren za uske ulice ispod osmanlijskih zidina.",
+      "suitability": "Dva putnika s kabinskim prtljagom smještena u blizini Male Plaže, lako se parkira izvan zidina Starog Grada i jeftin je za vožnju do Sukobina i nazad.",
+      "regional": "Stane uz uske ivičnjake duž Bulevara Teuta u Ulcinju i na improvizovanim parkinzima pored servisnih puteva ka Velikoj Plaži. Okretan u uskim uličicama koje se penju ka Kalaji i smiren na obalskom putu na sjever ka Baru.",
+      "bestFor": [
+        "Parovi koji posjećuju Veliku Plažu",
+        "Kratke vožnje do albanske granice",
+        "Solo putnici za produženi vikend"
+      ],
+      "features": [
+        "Klima uređaj",
+        "Bluetooth audio",
+        "USB punjenje",
+        "Centralno zaključavanje"
+      ]
+    },
+    "fiat-500": {
+      "name": "Fiat 500",
+      "category": "Gradska",
+      "tagline": "Sićušni gradski auto koji stane između limunova na prilazu Maloj Plaži",
+      "lede": "Parkira se tamo gdje ništa drugo ne stane, savršen kad se uličice starog grada napune ljetnjim saobraćajem.",
+      "suitability": "Jedan ili dva putnika sa bazom blizu Male Plaže koji žele najmanji auto koji još može ponijeti dnevnu torbu do Ade Bojane, razdaljine su kratke, parking je rijedak, 500 se snalazi.",
+      "regional": "Uvuče se u uglovne parking pozicije duž šetališta Pristan i u kompaktne parkinge u podnožju Kalaje. Krovni prozor sam vrijedi iznajmljivanja na obalskom putu prema sjeveru kroz maslinjake Valdanosa u zlatnom času.",
+      "bestFor": [
+        "Solo skakači po plažama",
+        "Fotografi na zidinama Starog Grada",
+        "Kratki sunčani boravci"
+      ],
+      "features": [
+        "Kompaktna veličina",
+        "Lako parkiranje",
+        "Krovni prozor",
+        "Bluetooth"
+      ]
+    },
+    "renault-clio": {
+      "name": "Renault Clio",
+      "category": "Ekonomična",
+      "tagline": "Mekano amortizovani francuski hečbek koji guta obalski put od Ulcinja do Bara",
+      "lede": "Prtljažnik od 391 litre, meka amortizacija, niska potrošnja, standardni izbor za sedmodnevni najam u Ulcinju.",
+      "suitability": "Dva putnika sa bazom blizu šetališta Pristan koji žele najveći prtljažnik u klasi malih hečbekova i kabinu koja krstari obalskim putem prema sjeveru bez napora.",
+      "regional": "Upija pokrpani asfalt oko Sutomora na putu prema sjeveru ka Baru i savladava granični prelaz Sukobin prema Albaniji sa staloženošću koju želite na nepoznatom putu. Krug okretanja dovoljno uzak za ugaone parking pozicije Male Plaže.",
+      "bestFor": [
+        "Parovi na sedmodnevnom boravku",
+        "Dnevni posjetioci Velike Plaže",
+        "Putnici ka granici Skadra"
+      ],
+      "features": [
+        "Apple CarPlay",
+        "Zadnji parking senzori",
+        "Tempomat",
+        "USB punjenje"
+      ]
+    },
+    "renault-megane": {
+      "name": "Renault Megane",
+      "category": "Srednja klasa",
+      "tagline": "Porodični dizel hečbek s najtišom kabinom na vožnji Ulcinj–Tivat",
+      "lede": "Prtljažnik od 434 litre, dizel 4,3 L/100 km, meke amortizacije za duge vožnje, auto za sedmicu u više gradova.",
+      "suitability": "Četiri putnika koji planiraju tri noći u Ulcinju i tri negdje drugdje, Budva, Kotor ili preko granice u Skadru, koji žele jedan tih dizel za svaku dionicu i prtljažnik koji stvarno prima porodicu.",
+      "regional": "EDC automatik i dizel obrtni moment lako savladavaju uspon preko Sozine na putu ka Podgorici, a dugohodne amortizacije gutaju polomljene rubove servisnog puta ka Velikoj Plaži. Zadnji ventili klime su važni na avgustovskom danu sa četiri putnika u Adi Bojani.",
+      "bestFor": [
+        "Porodice od četvoro sa prtljagom",
+        "Povratne dionice transfera s aerodroma",
+        "Duge obalske rute"
+      ],
+      "features": [
+        "EDC automatik",
+        "Adaptivni tempomat",
+        "Vertikalni ekran osjetljiv na dodir",
+        "Zadnji ventili klime"
+      ]
+    },
+    "toyota-yaris": {
+      "name": "Toyota Yaris",
+      "category": "Ekonomična",
+      "tagline": "Hibrid koji ekonomično troši benzin u ulcinjskom ljetnjem saobraćaju na 35 °C",
+      "lede": "Realna potrošnja 3,8 L/100 km, najjeftiniji auto za duge dane između Sukobina i Valdanosa.",
+      "suitability": "Putnici koji žele dvije sedmice vožnje uz budžet od četvrtine rezervoara. Hibrid se isplati na ponovljenim vožnjama između grada, Velike Plaže i granice u Sukobinu.",
+      "regional": "Električni kompresor održava kabinu hladnom u julu bez opterećenja benzinskog motora, prednost komfora u najtoplijem gradu Crne Gore. Čista električna vožnja pored kafića na Pristanu u sumrak, zatim tiha krstarica obalskim putem prema Baru.",
+      "bestFor": [
+        "Putnici koji vode računa o potrošnji",
+        "Plažni dani sa čestim zaustavljanjima",
+        "Duži obalski boravci"
+      ],
+      "features": [
+        "Hibridni pogon",
+        "Kamera za vožnju unazad",
+        "Apple CarPlay",
+        "Adaptivni tempomat"
+      ]
+    },
+    "kia-stonic": {
+      "name": "Kia Stonic",
+      "category": "Kompaktni kroser",
+      "tagline": "Povišeno vozilo za neravnu kolovoznu traku prema restoranima na stubovima Ade Bojane",
+      "lede": "Prtljažnik od 352 litre, viši od hečbeka, umjerena potrošnja benzina, razuman kroser za južno primorje.",
+      "suitability": "Iznajmljivači koji žele viši položaj vozača i nešto više osobina od asfalta bez plaćanja premium SUV cijene, savršeno ako vaša sedmica uključuje Adu Bojanu, Šasko jezero i maslinovu kolovoznu traku u Valdanosu.",
+      "regional": "Povišena visina vozila savladava neasfaltirane servisne puteve između pristupa Velikoj Plaži i grublji prilaz Adi Bojani. Samo prednji pogon, izaberite ga u odnosu na hečbek za rastresite podloge, ne u odnosu na pravi 4x4 za zimska putovanja u unutrašnjost.",
+      "bestFor": [
+        "Kajtseri sa opremom",
+        "Parovi koji idu u unutrašnjost",
+        "Budžetski iznajmljivači krosera"
+      ],
+      "features": [
+        "Povišeno vozilo",
+        "Apple CarPlay",
+        "Kamera za vožnju unazad",
+        "Asistent vožnje u traci"
+      ]
+    },
+    "peugeot-308": {
+      "name": "Peugeot 308",
+      "category": "Srednja klasa",
+      "tagline": "Zategnuti francuski srednjeklasni dizel za dvostruki posao transfera s aerodroma i sedmice na plaži",
+      "lede": "Prtljažnik od 412 litara, dizel BlueHDi 4,4 L/100 km, kabina i-Cockpit, sabran izbor za duge dionice.",
+      "suitability": "Izbor kada je sedmica u Ulcinju zapravo regionalna tura, tri noći u gradu, dan u Skadru, dug povratak do aerodroma Tivat, a vi želite jedan auto koji savlada svaku dionicu bez prigovora.",
+      "regional": "Dizel obrtni moment i 8-stepena automatika gutaju uspon preko Sozine na prilazu Podgorici, a adaptivni tempomat održava korektan tempo na obalskom putu prema Budvi u sporom kamionskom saobraćaju Bara. i-Cockpit pristaje visokim vozačima koji žele gledati preko volana, a ne kroz njega.",
+      "bestFor": [
+        "Vožnje transfera s aerodroma",
+        "Prekogranični jednodnevni izleti",
+        "Porodice koje prelaze cijelo južno primorje"
+      ],
+      "features": [
+        "EAT8 automatik",
+        "Adaptivni tempomat",
+        "i-Cockpit",
+        "Apple CarPlay"
+      ]
+    }
   },
   "fleetShowcase": {
     "label": "Odaberite auto",
@@ -1129,5 +1271,270 @@
     "intro1": "Ulcinj je na krajnjem jugu crnogorske obale, a vožnja ovdje razlikuje se od ostatka zemlje. Ujutro, uske uličice ispod otomanskih zidina Kalaje; popodne, trinaest kilometara otvorene pješčane plaže na Velikoj Plaži s albanskim planinama na horizontu; uveče, most preko Bojane i pečena jegulja u restoranu na stubovima na Adi Bojani. Automobili koje iznajmljujemo pokrivaju upravo taj raspon.",
     "intro2": "Dvije stvari znače više od cijene. Ljetna vrućina, Ulcinj drži rekorde u Crnoj Gori, često iznad 35 °C u julu i avgustu, pa klima znači više nego brojke iz kataloga. I stanje puteva: obalna magistrala je glatka, ali servisni putevi do Velike Plaže, spust do Valdanosa i posljednja dva kilometra do kajt škola Ade Bojane su iskrpljeni ili neasfaltirani. Povišen krosover ili meko oslonjen mali auto tu opravdava cijenu.",
     "intro3": "Ako sedmica miješa plaže i dan u Skadru, prelaz Sukobin je dvadeset minuta južno i obično brzo propušta, provjerite da najam uključuje albansku Zelenu kartu. Za dužu unutrašnju petlju do Podgorice preko Šaskog jezera ili obalni put do aerodroma Tivat, srednji dizel je najugodniji. Za goste u apartmanu iznad Male Plaže, najmanji hečbeci staju tamo gdje veći auti odustaju."
+  },
+  "blogHome": {
+    "sectionLabel": "Vodiči za putovanja",
+    "sectionTitle": "Otkrijte Ulcinj",
+    "sectionSubtitle": "Lokalni vodiči o plažama, starom gradu i prekograničnim vožnjama.",
+    "viewAll": "Pogledajte sve vodiče"
+  },
+  "carSpecs": {
+    "seats": "Sjedišta",
+    "transmission": "Mjenjač",
+    "fuel": "Gorivo",
+    "luggage": "Prtljag",
+    "bootSize": "Prtljažnik",
+    "mpg": "Potrošnja"
+  },
+  "privacyBody": [
+    {
+      "p": "__lastUpdated__"
+    },
+    {
+      "h2": "Ko smo mi"
+    },
+    {
+      "p": "Ulcinj Car Hire posluje kao affiliate partner koji povezuje putnike sa pružaocima usluga rent-a-car u Crnoj Gori. Naš sajt nalazi se na ulcinjcarhire.com. Kada koristite naš sajt, možemo prikupljati određene informacije kako je opisano u nastavku."
+    },
+    {
+      "h2": "Koje informacije prikupljamo"
+    },
+    {
+      "h3": "Informacije koje vi pružate"
+    },
+    {
+      "p": "Kada koristite naš formular za pretragu, prikupljamo mjesto preuzimanja, datume i vrijeme koje unesete kako bismo pronašli dostupna vozila. Ove informacije se prosljeđuju našem partneru (LocalRent) radi generisanja rezultata pretrage. Ne prikupljamo niti čuvamo platežne podatke, sve uplate obrađuje direktno davalac iznajmljivanja."
+    },
+    {
+      "h3": "Informacije prikupljene automatski"
+    },
+    {
+      "ulBold": [
+        {
+          "b": "Podaci o korišćenju:",
+          "t": "posjećene stranice, vrijeme provedeno na sajtu, referentni sajt"
+        },
+        {
+          "b": "Informacije o uređaju:",
+          "t": "tip pretraživača, operativni sistem, rezolucija ekrana"
+        },
+        {
+          "b": "IP adresa:",
+          "t": "koristi se za približnu lokaciju i sigurnosne svrhe"
+        }
+      ]
+    },
+    {
+      "h2": "Kako koristimo vaše informacije"
+    },
+    {
+      "ul": [
+        "Da vas povežemo sa dostupnošću i cijenama iznajmljivanja",
+        "Za poboljšanje sajta i korisničkog iskustva",
+        "Da razumijemo kako posjetioci koriste naš sajt (analitika)",
+        "Da odgovorimo na upite putem WhatsApp, Viber ili e-pošte"
+      ]
+    },
+    {
+      "h2": "Servisi trećih strana"
+    },
+    {
+      "p": "Naš sajt koristi sljedeće servise trećih strana:"
+    },
+    {
+      "ulBold": [
+        {
+          "b": "LocalRent:",
+          "t": "vidžet za rezervaciju iznajmljivanja, obrađuje pretrage i sve rezervacije i plaćanja"
+        }
+      ]
+    },
+    {
+      "p": "Svaki od ovih servisa ima sopstvenu politiku privatnosti koja reguliše rukovanje podacima."
+    },
+    {
+      "h2": "Kolačići"
+    },
+    {
+      "p": "Koristimo minimalne kolačiće potrebne za funkcionisanje sajta. LocalRent vidžet za rezervaciju može postavljati sopstvene kolačiće za upravljanje sesijom i preferencijama.",
+      "linkPath": "/cookie-policy",
+      "linkLabel": "Pogledajte našu Politiku kolačića za detalje."
+    },
+    {
+      "h2": "Vaša prava"
+    },
+    {
+      "p": "Imate pravo da:"
+    },
+    {
+      "ul": [
+        "Zatražite pristup ličnim podacima koje čuvamo o vama",
+        "Zatražite ispravku ili brisanje vaših podataka",
+        "Povučete saglasnost za obradu podataka",
+        "Podnesete prigovor organu za zaštitu podataka"
+      ]
+    },
+    {
+      "h2": "Kontakt"
+    },
+    {
+      "p": "Za sva pitanja o privatnosti, kontaktirajte nas putem e-pošte na info@ulcinjcarhire.com."
+    }
+  ],
+  "termsBody": [
+    {
+      "p": "__lastUpdated__"
+    },
+    {
+      "h2": "O ovom sajtu"
+    },
+    {
+      "p": "Ulcinj Car Hire (ulcinjcarhire.com) je affiliate sajt koji povezuje putnike sa uslugama iznajmljivanja vozila u Crnoj Gori. Mi nismo rent-a-car kompanija, sarađujemo sa LocalRent kako bismo pružili dostupnost u realnom vremenu i usluge rezervacije."
+    },
+    {
+      "h2": "Uslovi rezervacije i iznajmljivanja"
+    },
+    {
+      "p": "Sve rezervacije izvršene preko našeg sajta obrađuje i ispunjava naš partner LocalRent. Kada izvršite rezervaciju, sklapate ugovor o iznajmljivanju direktno sa dobavljačem vozila, a ne sa Ulcinj Car Hire."
+    },
+    {
+      "p": "Uslovi iznajmljivanja, uključujući politike otkazivanja, osiguranje, starosna ograničenja i uslove plaćanja, postavlja dobavljač vozila i prikazuju se tokom procesa rezervacije. Preporučujemo pažljivo čitanje ovih uslova prije potvrde rezervacije."
+    },
+    {
+      "h2": "Naša uloga"
+    },
+    {
+      "p": "Pružamo:"
+    },
+    {
+      "ul": [
+        "Interfejs za pretragu dostupnih vozila",
+        "Informacije o destinacijama i putovanjima u Crnoj Gori",
+        "Korisničku podršku za upite prije rezervacije"
+      ]
+    },
+    {
+      "p": "Ne radimo:"
+    },
+    {
+      "ul": [
+        "Ne posjedujemo, ne upravljamo niti održavamo vozila",
+        "Ne obrađujemo plaćanja niti povraćaje",
+        "Ne određujemo cijene, uslove osiguranja niti politike otkazivanja"
+      ]
+    },
+    {
+      "h2": "Cijene"
+    },
+    {
+      "p": "Cijene prikazane na sajtu pruža naš partner za rezervaciju u realnom vremenu i podložne su promjenama. Konačna cijena se potvrđuje u trenutku rezervacije. Sve cijene uključuju PDV i obavezno osiguranje osim ako nije drugačije navedeno."
+    },
+    {
+      "h2": "Sadržaj sajta"
+    },
+    {
+      "p": "Trudimo se da informacije na sajtu budu tačne i aktuelne. Međutim, informacije o putovanju, saobraćajni propisi i zahtjevi za prelazak granica mogu se mijenjati. Preporučujemo provjeru ključnih detalja (posebno dokumenata za prelazak granica i saobraćajnih pravila) iz zvaničnih izvora prije putovanja."
+    },
+    {
+      "h2": "Ograničenje odgovornosti"
+    },
+    {
+      "p": "Ulcinj Car Hire djeluje kao posrednik i ne snosi odgovornost za:"
+    },
+    {
+      "ul": [
+        "Stanje ili dostupnost vozila",
+        "Postupke ili propuste dobavljača iznajmljivanja",
+        "Gubitke nastale problemima na granici ili dokumentacijom",
+        "Promjene cijena nakon potvrde rezervacije"
+      ]
+    },
+    {
+      "h2": "Intelektualno vlasništvo"
+    },
+    {
+      "p": "Sav sadržaj na ovom sajtu, uključujući tekst, dizajn i grafiku, vlasništvo je Ulcinj Car Hire osim ako nije drugačije navedeno."
+    },
+    {
+      "h2": "Kontakt"
+    },
+    {
+      "p": "Pitanja o ovim uslovima? Kontaktirajte nas na info@ulcinjcarhire.com."
+    }
+  ],
+  "cookiePolicyBody": [
+    {
+      "p": "__lastUpdated__"
+    },
+    {
+      "h2": "Šta su kolačići?"
+    },
+    {
+      "p": "Kolačići su mali tekstualni fajlovi koji se čuvaju na vašem uređaju kada posjetite veb-sajt. Pomažu sajtu da zapamti vaše preferencije i razumije kako ga koristite."
+    },
+    {
+      "h2": "Kolačići koje koristimo"
+    },
+    {
+      "h3": "Neophodni kolačići"
+    },
+    {
+      "p": "Neophodni su za funkcionisanje sajta. Ne mogu se isključiti."
+    },
+    {
+      "ulBold": [
+        {
+          "b": "Sesijski kolačići:",
+          "t": "održavaju vašu sesiju tokom navigacije sajtom"
+        },
+        {
+          "b": "Kolačići preferencija:",
+          "t": "pamte vaš izbor jezika i lokacije"
+        }
+      ]
+    },
+    {
+      "h3": "Kolačići trećih strana"
+    },
+    {
+      "p": "Naš vidžet za rezervaciju (pruža ga LocalRent) može postavljati kolačiće za:"
+    },
+    {
+      "ul": [
+        "Pamćenje vaših preferencija pretrage (datumi, lokacija)",
+        "Održavanje sesije tokom procesa rezervacije",
+        "Praćenje partnerskih dolazaka"
+      ]
+    },
+    {
+      "p": "Ove kolačiće postavlja LocalRent i regulisani su njihovom politikom privatnosti."
+    },
+    {
+      "h2": "Upravljanje kolačićima"
+    },
+    {
+      "p": "Možete upravljati kolačićima preko podešavanja pretraživača. Većina pretraživača vam omogućava da:"
+    },
+    {
+      "ul": [
+        "Vidite sačuvane kolačiće",
+        "Obrišete pojedinačne ili sve kolačiće",
+        "Blokirate kolačiće sa određenih sajtova",
+        "Blokirate sve kolačiće trećih strana"
+      ]
+    },
+    {
+      "p": "Imajte na umu da blokiranje neophodnih kolačića može uticati na funkcionalnost vidžeta za rezervaciju."
+    },
+    {
+      "h2": "Kontakt"
+    },
+    {
+      "p": "Pitanja o korišćenju kolačića? Kontaktirajte nas na info@ulcinjcarhire.com."
+    }
+  ],
+  "legalCommon": {
+    "lastUpdated": "Posljednje ažuriranje:",
+    "lastUpdatedDate": "april 2026"
   }
 }

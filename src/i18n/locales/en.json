@@ -202,7 +202,7 @@
   "cookie-policy": {
     "title": "Cookie Policy",
     "subtitle": "How we use cookies on this website.",
-    "seoDesc": "What cookies ulcinjcarhire.com sets: booking widget session data, Vercel analytics, and options to disable non-essential tracking."
+    "seoDesc": "What cookies ulcinjcarhire.com sets: booking widget session data, anonymised analytics, and options to disable non-essential tracking."
   },
   "featureCards": {
     "airportPickup": {
@@ -255,22 +255,14 @@
       "a": "All vehicles include Third Party Liability insurance and Collision Damage Waiver (CDW) in the base price. VAT, mandatory equipment kit (first aid, warning triangle, visibility vest), and a transparent fuel policy are all included. Note that fuel stations become sparse south of Bar, tank up before heading to Ada Bojana or Valdanos. Unlimited mileage and extended coverage upgrades are available per vehicle."
     },
     "3": {
-      "q": "How does pickup work?",
-      "a": "Ulcinj is around 2 hours from Podgorica Airport and 2.5 hours from Tivat, both are long drives after a flight. We strongly recommend a one-way rental: pick up at whichever airport you land at and drop off in Ulcinj, or vice versa. Pick up times and meeting points are confirmed with the rental agent after booking."
-    },
-    "4": {
-      "q": "Does the rental return to the pickup location?",
-      "a": "Yes, one-way rentals are available across 28 towns and cities throughout Montenegro. Given the distance from both airports, picking up at Podgorica or Tivat and returning the car in Ulcinj (or the reverse) is one of the most popular combinations we arrange."
-    },
-    "5": {
       "q": "What is the cancellation policy?",
       "a": "Standard rentals: free cancellation up to 7 days before the start date. Premium and convertible vehicles: free cancellation up to 30 days before. A 6% payment processing fee applies to all cancellations regardless of timing. If you're planning around kitesurfing conditions at Ada Bojana, the flexible cancellation window is worth keeping in mind."
     },
-    "6": {
+    "4": {
       "q": "Is a deposit required?",
       "a": "Deposit requirements vary by vehicle, typically between EUR 50 and EUR 300, and some cars carry no deposit at all. The deposit must be on a physical credit card (not debit or prepaid) in the main driver's name. It is held at pickup and released within a few business days of returning the vehicle undamaged."
     },
-    "7": {
+    "5": {
       "q": "How do I get to Ada Bojana for kitesurfing?",
       "a": "Ada Bojana is about 20 km south of Ulcinj centre. Cross the bridge from the mainland onto the river island. There is no public transport to Ada Bojana, so a rental car is essential. The wind season runs May to September, with schools and gear hire available on the island."
     }
@@ -1082,7 +1074,157 @@
     "intro": "Have a question about renting a car in Ulcinj? Get in touch and we'll help you find the perfect vehicle for your trip."
   },
   "cars": {
-    "readGuide": "Read guide"
+    "readGuide": "Read guide",
+    "overviewTitle": "At a glance",
+    "specsTitle": "Full specification",
+    "whoForTitle": "Who is this car for?",
+    "regionalTitle": "Best regional use",
+    "featuresTitle": "Inside the car",
+    "relatedTitle": "Where this car takes you",
+    "articleTitle": "On Ulcinj roads",
+    "checkAvailability": "Check availability and live pricing",
+    "nextBtn": "Next in fleet",
+    "sections": {
+      "behindWheel": "Behind the wheel",
+      "onRoads": "On Ulcinj roads",
+      "spaceLoad": "Space and load",
+      "bestFor": "Best journeys for this car",
+      "practical": "Practical notes",
+      "verdict": "The verdict"
+    },
+    "vw-polo": {
+      "name": "VW Polo",
+      "tagline": "Simple hatch that parks anywhere outside Kalaja and sips petrol all the way to Ada Bojana",
+      "lede": "Five seats, 351-litre boot and a turning circle made for narrow lanes beneath the Ottoman walls.",
+      "category": "Economy",
+      "suitability": "Two travellers with cabin bags staying a short walk from Mala Plaža, easy to park outside the Stari Grad walls and cheap to run down to Sukobin and back.",
+      "regional": "Slots into the tight kerbs along Ulcinj's Boulevard Teuta and the makeshift parking beside Velika Plaža service roads. Nimble through the narrow alleys climbing up to Kalaja and composed on the coastal road north to Bar.",
+      "bestFor": [
+        "Couples visiting Velika Plaža",
+        "Short Albanian border hops",
+        "Solo long-weekenders"
+      ],
+      "features": [
+        "Air Conditioning",
+        "Bluetooth Audio",
+        "USB Charging",
+        "Central Locking"
+      ]
+    },
+    "fiat-500": {
+      "name": "Fiat 500",
+      "tagline": "Tiny city car that fits between the lemon trees on the approach to Mala Plaža",
+      "lede": "Parks where nothing else fits, perfect when the old-town lanes fill up with summer traffic.",
+      "category": "City",
+      "suitability": "One or two travellers based near Mala Plaža who want the smallest car that will still take a day bag to Ada Bojana, distances are short, parking is scarce, the 500 thrives.",
+      "regional": "Slips into the angled bays along the Pristan promenade and the compact lots at the foot of Kalaja. The sunroof is worth the rental alone on the coast road north through the Valdanos olive groves at golden hour.",
+      "bestFor": [
+        "Solo beach-hoppers",
+        "Photographers on the Stari Grad walls",
+        "Short sunny stays"
+      ],
+      "features": [
+        "Compact Size",
+        "Easy Parking",
+        "Sunroof",
+        "Bluetooth"
+      ]
+    },
+    "renault-clio": {
+      "name": "Renault Clio",
+      "tagline": "Soft-riding French hatch that eats the coastal road from Ulcinj to Bar",
+      "lede": "391-litre boot, supple damping, cheap to fuel, the default Ulcinj week-long small car.",
+      "category": "Economy",
+      "suitability": "Two travellers basing near the Pristan promenade who want the biggest boot in the small-hatch class and a cabin that cruises the coast road north without feeling overmatched.",
+      "regional": "Soaks up the patched tarmac around Sutomore on the run north to Bar and handles the Sukobin border crossing into Albania with the composure you want on an unfamiliar road. Turning circle tight enough for Mala Plaža's angled bays.",
+      "bestFor": [
+        "Couples on a one-week stay",
+        "Velika Plaža day-trippers",
+        "Shkodër border-hoppers"
+      ],
+      "features": [
+        "Apple CarPlay",
+        "Rear Parking Sensors",
+        "Cruise Control",
+        "USB Charging"
+      ]
+    },
+    "renault-megane": {
+      "name": "Renault Megane",
+      "tagline": "Family-size diesel hatch with the quietest cabin on the Ulcinj–Tivat haul",
+      "lede": "434-litre boot, 4.3 L/100 km diesel, soft long-distance ride, the car for the multi-city week.",
+      "category": "Mid-Size",
+      "suitability": "Four travellers planning three nights in Ulcinj and three elsewhere, Budva, Kotor, or across the border in Shkodër, who want one quiet diesel for every leg and a boot that actually fits the family.",
+      "regional": "The EDC auto and diesel torque make short work of the inland climb over Sozina on the Podgorica run, and the long-travel damping smothers the broken edges on the service road to Velika Plaža. Rear vents matter on a four-up Ada Bojana day in August.",
+      "bestFor": [
+        "Families of four with luggage",
+        "Airport transfer return legs",
+        "Long coast itineraries"
+      ],
+      "features": [
+        "EDC Auto",
+        "Adaptive Cruise",
+        "Portrait Touchscreen",
+        "Rear Climate Vents"
+      ]
+    },
+    "toyota-yaris": {
+      "name": "Toyota Yaris",
+      "tagline": "Hybrid that sips petrol through Ulcinj's 35°C summer traffic",
+      "lede": "Real-world 3.8 L/100 km, the cheapest car to run on long days between Sukobin and Valdanos.",
+      "category": "Economy",
+      "suitability": "Travellers who want two weeks of driving on a quarter-tank budget. The hybrid pays for itself on repeat trips between town, Velika Plaža and the Sukobin border.",
+      "regional": "The electric compressor keeps the cabin cold in July without loading the petrol engine, a quality-of-life advantage in Montenegro's hottest town. Pure-electric crawl past the Pristan cafés at dusk, then silent cruising along the Bar coastal road.",
+      "bestFor": [
+        "Fuel-conscious travellers",
+        "Stop-start beach days",
+        "Longer coastal stays"
+      ],
+      "features": [
+        "Hybrid Drivetrain",
+        "Reversing Camera",
+        "Apple CarPlay",
+        "Adaptive Cruise"
+      ]
+    },
+    "kia-stonic": {
+      "name": "Kia Stonic",
+      "tagline": "Raised ride height for the bumpy track down to Ada Bojana's stilt restaurants",
+      "lede": "352-litre boot, higher ride than a hatch, modest petrol, the sensible crossover for the south coast.",
+      "category": "Compact Crossover",
+      "suitability": "Renters who want a taller driving position and a bit more clearance without paying premium-SUV money, perfect if your week includes Ada Bojana, Šasko Lake and the Valdanos olive track.",
+      "regional": "The extra ride height handles the unpaved service roads between Velika Plaža access points and the rougher approach to Ada Bojana. Front-wheel drive only, pick this over a hatch for loose surfaces, not over a proper 4x4 for winter trips inland.",
+      "bestFor": [
+        "Kitesurfers with gear",
+        "Couples heading inland",
+        "Budget crossover renters"
+      ],
+      "features": [
+        "Raised Ride Height",
+        "Apple CarPlay",
+        "Reversing Camera",
+        "Lane Keep Assist"
+      ]
+    },
+    "peugeot-308": {
+      "name": "Peugeot 308",
+      "tagline": "Taut French mid-size diesel for the airport-run-plus-beach-week double duty",
+      "lede": "412-litre boot, 4.4 L/100 km BlueHDi, i-Cockpit cabin, the composed pick for the long legs.",
+      "category": "Mid-Size",
+      "suitability": "The pick when the Ulcinj week is really a regional tour, three nights in town, a day in Shkodër, a long return up to Tivat Airport, and you want one car that handles every leg without complaint.",
+      "regional": "The diesel torque and 8-speed auto eat the climb over Sozina on the Podgorica approach and the adaptive cruise keeps the coastal run to Budva honest in slow Bar truck traffic. i-Cockpit suits tall drivers who want to look over rather than through the steering wheel.",
+      "bestFor": [
+        "Airport transfer runs",
+        "Cross-border day trips",
+        "Families doing the full south coast"
+      ],
+      "features": [
+        "EAT8 Auto",
+        "Adaptive Cruise",
+        "i-Cockpit",
+        "Apple CarPlay"
+      ]
+    }
   },
   "fleetShowcase": {
     "label": "Know your car",
@@ -1105,5 +1247,270 @@
     "intro1": "Ulcinj sits at the far south of Montenegro’s coast, and driving here is unlike anywhere else in the country. Mornings thread narrow lanes below the Ottoman walls of Kalaja; afternoons roll along thirteen kilometres of open sand at Velika Plaža with the Albanian mountains on the horizon; evenings cross the Bojana bridge to eat grilled eels at a stilt restaurant on Ada Bojana. The cars we rent are chosen to cover exactly that range.",
     "intro2": "Two things shape the right choice more than price. First, summer heat, Ulcinj records Montenegro’s hottest averages, regularly above 35°C in July and August, so the AC compressor matters more than brochure figures suggest. Second, road surface: the coastal trunk is smooth, but the service tracks onto Velika Plaža, the approach to Valdanos and the last two kilometres to Ada Bojana’s kite schools are patched or unsealed. A raised crossover or a soft-sprung small car earns its money there.",
     "intro3": "If your week splits between beaches and a cross-border day to Shkodra, the Sukobin crossing is twenty minutes south and usually clears fast, make sure your rental includes the Albanian Green Card. For a longer inland loop via Šasko Lake to Podgorica, or the full coast haul to Tivat Airport, a diesel mid-size is the easiest car to live with. And for anyone anchored in an apartment above Mala Plaža, the smallest hatches slip into kerbside lots where larger cars simply give up."
+  },
+  "carSpecs": {
+    "seats": "Seats",
+    "transmission": "Gearbox",
+    "fuel": "Fuel",
+    "luggage": "Luggage",
+    "bootSize": "Boot",
+    "mpg": "Economy"
+  },
+  "blogHome": {
+    "sectionLabel": "Travel Guides",
+    "sectionTitle": "Discover Ulcinj",
+    "sectionSubtitle": "Local guides to beaches, the old town and cross-border drives.",
+    "viewAll": "View all guides"
+  },
+  "privacyBody": [
+    {
+      "p": "__lastUpdated__"
+    },
+    {
+      "h2": "Who We Are"
+    },
+    {
+      "p": "Ulcinj Car Hire operates as an affiliate partner connecting travellers with car rental providers in Montenegro. Our website is located at ulcinjcarhire.com. When you use our site, we may collect certain information as described below."
+    },
+    {
+      "h2": "What Information We Collect"
+    },
+    {
+      "h3": "Information you provide"
+    },
+    {
+      "p": "When you use our booking search form, we collect the pickup location, dates, and times you enter in order to find available vehicles. This information is passed to our partner (LocalRent) to generate search results. We do not collect or store payment details, all payments are processed directly by the rental provider."
+    },
+    {
+      "h3": "Information collected automatically"
+    },
+    {
+      "ulBold": [
+        {
+          "b": "Usage data:",
+          "t": "pages visited, time spent on site, referring website"
+        },
+        {
+          "b": "Device information:",
+          "t": "browser type, operating system, screen resolution"
+        },
+        {
+          "b": "IP address:",
+          "t": "used for approximate location and security purposes"
+        }
+      ]
+    },
+    {
+      "h2": "How We Use Your Information"
+    },
+    {
+      "ul": [
+        "To connect you with car rental availability and pricing",
+        "To improve our website and user experience",
+        "To understand how visitors use our site (analytics)",
+        "To respond to enquiries via WhatsApp, Viber, or email"
+      ]
+    },
+    {
+      "h2": "Third-Party Services"
+    },
+    {
+      "p": "Our website uses the following third-party services:"
+    },
+    {
+      "ulBold": [
+        {
+          "b": "LocalRent:",
+          "t": "car rental booking widget, processes your search queries and handles all booking and payment"
+        }
+      ]
+    },
+    {
+      "p": "Each of these services has their own privacy policy governing how they handle data."
+    },
+    {
+      "h2": "Cookies"
+    },
+    {
+      "p": "We use minimal cookies necessary for the website to function. The LocalRent booking widget may set its own cookies for session management and preferences.",
+      "linkPath": "/cookie-policy",
+      "linkLabel": "See our Cookie Policy for details."
+    },
+    {
+      "h2": "Your Rights"
+    },
+    {
+      "p": "You have the right to:"
+    },
+    {
+      "ul": [
+        "Request access to any personal data we hold about you",
+        "Request correction or deletion of your data",
+        "Withdraw consent for data processing",
+        "Lodge a complaint with a data protection authority"
+      ]
+    },
+    {
+      "h2": "Contact"
+    },
+    {
+      "p": "For any privacy-related questions, contact us via email at info@ulcinjcarhire.com."
+    }
+  ],
+  "termsBody": [
+    {
+      "p": "__lastUpdated__"
+    },
+    {
+      "h2": "About This Website"
+    },
+    {
+      "p": "Ulcinj Car Hire (ulcinjcarhire.com) is an affiliate website that connects travellers with car rental services in Montenegro. We are not a car rental company, we partner with LocalRent to provide real-time availability and booking services."
+    },
+    {
+      "h2": "Booking and Rental Terms"
+    },
+    {
+      "p": "All car rental bookings made through our website are processed and fulfilled by our partner, LocalRent. When you complete a booking, you enter into a rental agreement directly with the vehicle supplier, not with Ulcinj Car Hire."
+    },
+    {
+      "p": "The rental terms, including cancellation policies, insurance coverage, age requirements, and payment conditions, are set by the vehicle supplier and displayed during the booking process. We recommend reading these terms carefully before confirming any booking."
+    },
+    {
+      "h2": "Our Role"
+    },
+    {
+      "p": "We provide:"
+    },
+    {
+      "ul": [
+        "A search interface to browse available rental vehicles",
+        "Destination and travel information about Montenegro",
+        "Customer support to help with enquiries before booking"
+      ]
+    },
+    {
+      "p": "We do not:"
+    },
+    {
+      "ul": [
+        "Own, operate, or maintain any rental vehicles",
+        "Process payments or handle refunds",
+        "Set rental prices, insurance terms, or cancellation policies"
+      ]
+    },
+    {
+      "h2": "Pricing"
+    },
+    {
+      "p": "Prices displayed on our website are provided in real-time by our booking partner and are subject to change. The final price is confirmed at the time of booking. All prices include VAT and mandatory insurance unless otherwise stated."
+    },
+    {
+      "h2": "Website Content"
+    },
+    {
+      "p": "We make every effort to ensure that information on this website is accurate and up to date. However, travel information, driving regulations, and border crossing requirements can change. We recommend verifying critical details (especially border crossing documents and driving rules) with official sources before your trip."
+    },
+    {
+      "h2": "Limitation of Liability"
+    },
+    {
+      "p": "Ulcinj Car Hire acts as an intermediary and is not liable for:"
+    },
+    {
+      "ul": [
+        "The condition or availability of rental vehicles",
+        "Actions or omissions by rental suppliers",
+        "Losses arising from border crossing issues or documentation problems",
+        "Changes to prices after booking confirmation"
+      ]
+    },
+    {
+      "h2": "Intellectual Property"
+    },
+    {
+      "p": "All content on this website, including text, design, and graphics, is owned by Ulcinj Car Hire unless otherwise credited."
+    },
+    {
+      "h2": "Contact"
+    },
+    {
+      "p": "Questions about these terms? Contact us at info@ulcinjcarhire.com."
+    }
+  ],
+  "cookiePolicyBody": [
+    {
+      "p": "__lastUpdated__"
+    },
+    {
+      "h2": "What Are Cookies?"
+    },
+    {
+      "p": "Cookies are small text files stored on your device when you visit a website. They help the site remember your preferences and understand how you use it."
+    },
+    {
+      "h2": "Cookies We Use"
+    },
+    {
+      "h3": "Essential Cookies"
+    },
+    {
+      "p": "These are necessary for the website to function. They cannot be disabled."
+    },
+    {
+      "ulBold": [
+        {
+          "b": "Session cookies:",
+          "t": "maintain your browsing session while you navigate the site"
+        },
+        {
+          "b": "Preference cookies:",
+          "t": "remember your language and location selections"
+        }
+      ]
+    },
+    {
+      "h3": "Third-Party Cookies"
+    },
+    {
+      "p": "Our car rental booking widget (provided by LocalRent) may set cookies to:"
+    },
+    {
+      "ul": [
+        "Remember your search preferences (dates, location)",
+        "Maintain your session during the booking process",
+        "Track affiliate referrals"
+      ]
+    },
+    {
+      "p": "These cookies are set by LocalRent and are governed by their privacy policy."
+    },
+    {
+      "h2": "Managing Cookies"
+    },
+    {
+      "p": "You can control cookies through your browser settings. Most browsers allow you to:"
+    },
+    {
+      "ul": [
+        "View what cookies are stored",
+        "Delete individual or all cookies",
+        "Block cookies from specific sites",
+        "Block all third-party cookies"
+      ]
+    },
+    {
+      "p": "Note that blocking essential cookies may affect the functionality of the booking widget."
+    },
+    {
+      "h2": "Contact"
+    },
+    {
+      "p": "Questions about our use of cookies? Contact us at info@ulcinjcarhire.com."
+    }
+  ],
+  "legalCommon": {
+    "lastUpdated": "Last updated:",
+    "lastUpdatedDate": "April 2026"
   }
 }

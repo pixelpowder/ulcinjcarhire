@@ -26,63 +26,63 @@ import {
 
 // One inline photo per car, chosen for the Ulcinj-specific character of each.
 const INLINE_PHOTOS = {
-  'vw-polo':        { src: '/img/fleet-inline/village-trees.jpg',     alt: 'Stone village road in southern Montenegro',        caption: 'Back streets climbing up toward Kalaja, narrow, single-lane, measured in centimetres. The Polo slips through.' },
-  'fiat-500':       { src: '/img/fleet-inline/seashore-hills.jpg',    alt: 'Coastal road along the Adriatic',                  caption: 'The Mala Plaža promenade at golden hour, short hops, a sunroof, and somewhere tight to park at the end.' },
-  'renault-clio':   { src: '/img/fleet-inline/seaside-road.jpg',      alt: 'Coastal road beside the Adriatic',                 caption: 'The coast road north through Sutomore and Bar, the Clio covers it in quiet sixth-gear cruise.' },
-  'renault-megane': { src: '/img/fleet-inline/mountain-highway.jpg',  alt: 'Mountain highway with empty lanes',                caption: 'The Sozina motorway toward Podgorica, where the Megane\u2019s diesel torque and rear vents justify the size-up.' },
-  'toyota-yaris':   { src: '/img/fleet-inline/aerial-mountains.jpg',  alt: 'Aerial view of south-coast Montenegro',            caption: 'Two weeks of this, beach, border, Šasko Lake, back, for under €80 of fuel in the Yaris Hybrid.' },
-  'kia-stonic':     { src: '/img/fleet-inline/rocky-road.jpg',        alt: 'Empty asphalt road between scrub and rocks',       caption: 'The last kilometres onto Ada Bojana, loose surface, ruts, and the Stonic\u2019s ride height making short work of it.' },
-  'peugeot-308':    { src: '/img/fleet-inline/forest-road.jpg',       alt: 'Tree-lined road in coastal Montenegro',            caption: 'The coastal road north through Bar and Petrovac, EAT8 + BlueHDi, set and forget toward Tivat Airport.' },
-  _default:         { src: '/img/fleet-inline/sunset-montenegro.jpg', alt: 'Southern Montenegro coast at sunset',              caption: 'Ulcinj\u2019s coast stitches beach, border and lake into one long drive south.' },
+  'vw-polo':        { src: '/img/fleet-inline/village-trees.jpg', alt: 'Stone village road in southern Montenegro', caption: 'Back streets climbing up toward Kalaja, narrow, single-lane, measured in centimetres. The Polo slips through.' },
+  'fiat-500':       { src: '/img/fleet-inline/seashore-hills.jpg', alt: 'Coastal road along the Adriatic', caption: 'The Mala Plaža promenade at golden hour, short hops, a sunroof, and somewhere tight to park at the end.' },
+  'renault-clio':   { src: '/img/fleet-inline/seaside-road.jpg', alt: 'Coastal road beside the Adriatic', caption: 'The coast road north through Sutomore and Bar, the Clio covers it in quiet sixth-gear cruise.' },
+  'renault-megane': { src: '/img/fleet-inline/mountain-highway.jpg', alt: 'Mountain highway with empty lanes', caption: 'The Sozina motorway toward Podgorica, where the Megane\u2019s diesel torque and rear vents justify the size-up.' },
+  'toyota-yaris':   { src: '/img/fleet-inline/aerial-mountains.jpg', alt: 'Aerial view of south-coast Montenegro', caption: 'Two weeks of this, beach, border, Šasko Lake, back, for under €80 of fuel in the Yaris Hybrid.' },
+  'kia-stonic':     { src: '/img/fleet-inline/rocky-road.jpg', alt: 'Empty asphalt road between scrub and rocks', caption: 'The last kilometres onto Ada Bojana, loose surface, ruts, and the Stonic\u2019s ride height making short work of it.' },
+  'peugeot-308':    { src: '/img/fleet-inline/forest-road.jpg', alt: 'Tree-lined road in coastal Montenegro', caption: 'The coastal road north through Bar and Petrovac, EAT8 + BlueHDi, set and forget toward Tivat Airport.' },
+  _default:         { src: '/img/fleet-inline/sunset-montenegro.jpg', alt: 'Southern Montenegro coast at sunset', caption: 'Ulcinj\u2019s coast stitches beach, border and lake into one long drive south.' },
 };
 
 // Related image-link cards at the foot of each detail page. Three cards per car,
 // pointing to Ulcinj destination pages or local blog posts that fit the car's character.
 const RELATED = {
   'vw-polo': [
-    { href: '/stari-grad',                               img: '/img/ulcinj-old-town.webp',                            title: 'Ulcinj Old Town (Stari Grad)' },
-    { href: '/velika-plaza',                             img: '/img/velika-plaza.webp',                               title: 'Velika Plaža' },
-    { href: '/blog/ulcinj-old-town-guide',               img: '/img/blog-ulcinj-old-town-guide.webp',                 title: 'Ulcinj Old Town guide' },
+    { href: '/stari-grad', img: '/img/ulcinj-old-town.webp', title: 'Ulcinj Old Town (Stari Grad)' },
+    { href: '/velika-plaza', img: '/img/velika-plaza.webp', title: 'Velika Plaža' },
+    { href: '/blog/ulcinj-old-town-guide', img: '/img/blog-ulcinj-old-town-guide.webp', title: 'Ulcinj Old Town guide' },
   ],
   'fiat-500': [
-    { href: '/stari-grad',                               img: '/img/ulcinj-old-town.webp',                            title: 'Ulcinj Old Town (Stari Grad)' },
-    { href: '/velika-plaza',                             img: '/img/velika-plaza.webp',                               title: 'Velika Plaža' },
-    { href: '/blog/ulcinj-seafood-guide',                img: '/img/blog-ulcinj-seafood-guide.webp',                  title: 'Ulcinj seafood guide' },
+    { href: '/stari-grad', img: '/img/ulcinj-old-town.webp', title: 'Ulcinj Old Town (Stari Grad)' },
+    { href: '/velika-plaza', img: '/img/velika-plaza.webp', title: 'Velika Plaža' },
+    { href: '/blog/ulcinj-seafood-guide', img: '/img/blog-ulcinj-seafood-guide.webp', title: 'Ulcinj seafood guide' },
   ],
   'renault-clio': [
-    { href: '/velika-plaza',                             img: '/img/velika-plaza.webp',                               title: 'Velika Plaža' },
-    { href: '/bar',                                      img: '/img/bar-nearby.webp',                                 title: 'Bar, 30 min north' },
-    { href: '/shkodra',                                  img: '/img/shkodra-albania.webp',                            title: 'Shkodra, Albania' },
+    { href: '/velika-plaza', img: '/img/velika-plaza.webp', title: 'Velika Plaža' },
+    { href: '/bar', img: '/img/bar-nearby.webp', title: 'Bar, 30 min north' },
+    { href: '/shkodra', img: '/img/shkodra-albania.webp', title: 'Shkodra, Albania' },
   ],
   'renault-megane': [
-    { href: '/podgorica-airport',                        img: '/img/podgorica-airport.webp',                          title: 'Podgorica Airport transfer' },
-    { href: '/lake-skadar',                              img: '/img/lake-skadar.webp',                                title: 'Lake Skadar' },
-    { href: '/shkodra',                                  img: '/img/shkodra-albania.webp',                            title: 'Shkodra, Albania' },
+    { href: '/podgorica-airport', img: '/img/podgorica-airport.webp', title: 'Podgorica Airport transfer' },
+    { href: '/lake-skadar', img: '/img/lake-skadar.webp', title: 'Lake Skadar' },
+    { href: '/shkodra', img: '/img/shkodra-albania.webp', title: 'Shkodra, Albania' },
   ],
   'toyota-yaris': [
-    { href: '/velika-plaza',                             img: '/img/velika-plaza.webp',                               title: 'Velika Plaža' },
-    { href: '/blog/velika-plaza-kitesurfing',            img: '/img/blog-velika-plaza-kitesurfing.webp',              title: 'Velika Plaža kitesurfing' },
-    { href: '/bar',                                      img: '/img/bar-nearby.webp',                                 title: 'Bar, 30 min north' },
+    { href: '/velika-plaza', img: '/img/velika-plaza.webp', title: 'Velika Plaža' },
+    { href: '/blog/velika-plaza-kitesurfing', img: '/img/blog-velika-plaza-kitesurfing.webp', title: 'Velika Plaža kitesurfing' },
+    { href: '/bar', img: '/img/bar-nearby.webp', title: 'Bar, 30 min north' },
   ],
   'kia-stonic': [
-    { href: '/ada-bojana',                               img: '/img/ada-bojana.webp',                                 title: 'Ada Bojana' },
-    { href: '/blog/ada-bojana-river-island',             img: '/img/blog-ada-bojana-river-island.webp',               title: 'Ada Bojana river island' },
-    { href: '/valdanos',                                 img: '/img/valdanos-olives.webp',                            title: 'Valdanos Bay' },
+    { href: '/ada-bojana', img: '/img/ada-bojana.webp', title: 'Ada Bojana' },
+    { href: '/blog/ada-bojana-river-island', img: '/img/blog-ada-bojana-river-island.webp', title: 'Ada Bojana river island' },
+    { href: '/valdanos', img: '/img/valdanos-olives.webp', title: 'Valdanos Bay' },
   ],
   'peugeot-308': [
-    { href: '/tivat-airport',                            img: '/img/kotor-old-town.webp',                             title: 'Tivat Airport transfer' },
-    { href: '/shkodra',                                  img: '/img/shkodra-albania.webp',                            title: 'Shkodra, Albania' },
-    { href: '/blog/ulcinj-to-albania-border',            img: '/img/blog-ulcinj-to-albania-border.webp',              title: 'Ulcinj to the Albanian border' },
+    { href: '/tivat-airport', img: '/img/kotor-old-town.webp', title: 'Tivat Airport transfer' },
+    { href: '/shkodra', img: '/img/shkodra-albania.webp', title: 'Shkodra, Albania' },
+    { href: '/blog/ulcinj-to-albania-border', img: '/img/blog-ulcinj-to-albania-border.webp', title: 'Ulcinj to the Albanian border' },
   ],
 };
 
 const ARTICLE_LINKS = {
-  'vw-polo':        { paraIndex: 1, candidates: ['Kalaja', 'Mala Plaža', 'Stari Grad'],                 href: '/stari-grad' },
-  'fiat-500':       { paraIndex: 1, candidates: ['Mala Plaža', 'Kalaja', 'Pristan'],                    href: '/stari-grad' },
-  'renault-clio':   { paraIndex: 1, candidates: ['Velika Plaža', 'Bar', 'Sutomore'],                    href: '/velika-plaza' },
-  'renault-megane': { paraIndex: 1, candidates: ['Sozina', 'Podgorica', 'Velika Plaža'],                href: '/podgorica-airport' },
-  'toyota-yaris':   { paraIndex: 1, candidates: ['Velika Plaža', 'Bar', 'Pristan'],                     href: '/velika-plaza' },
-  'kia-stonic':     { paraIndex: 1, candidates: ['Ada Bojana', 'Valdanos', 'kite schools'],             href: '/blog/ada-bojana-river-island' },
+  'vw-polo':        { paraIndex: 1, candidates: ['Kalaja', 'Mala Plaža', 'Stari Grad'], href: '/stari-grad' },
+  'fiat-500':       { paraIndex: 1, candidates: ['Mala Plaža', 'Kalaja', 'Pristan'], href: '/stari-grad' },
+  'renault-clio':   { paraIndex: 1, candidates: ['Velika Plaža', 'Bar', 'Sutomore'], href: '/velika-plaza' },
+  'renault-megane': { paraIndex: 1, candidates: ['Sozina', 'Podgorica', 'Velika Plaža'], href: '/podgorica-airport' },
+  'toyota-yaris':   { paraIndex: 1, candidates: ['Velika Plaža', 'Bar', 'Pristan'], href: '/velika-plaza' },
+  'kia-stonic':     { paraIndex: 1, candidates: ['Ada Bojana', 'Valdanos', 'kite schools'], href: '/blog/ada-bojana-river-island' },
   'peugeot-308':    { paraIndex: 1, candidates: ['Sukobin', 'Albanian border', 'Tivat Airport', 'Bar'], href: '/blog/ulcinj-to-albania-border' },
 };
 
@@ -144,12 +144,12 @@ export default function CarDetail({ slug }) {
   const mpg = toMpg(details.consumption);
 
   const quickRow = [
-    { icon: <Users size={16} />,     label: tf('carSpecs.seats', 'Seats'),          value: car.seats },
-    { icon: <Settings size={16} />,  label: tf('carSpecs.transmission', 'Gearbox'), value: car.transmission },
-    { icon: <Fuel size={16} />,      label: tf('carSpecs.fuel', 'Fuel'),            value: car.fuel },
-    { icon: <Briefcase size={16} />, label: tf('carSpecs.luggage', 'Luggage'),      value: `${car.luggage} bags` },
-    { icon: <Package size={16} />,   label: tf('carSpecs.bootSize', 'Boot'),        value: details.bootSize },
-    { icon: <Droplet size={16} />,   label: tf('carSpecs.mpg', 'Economy'),          value: mpg || details.consumption },
+    { icon: <Users size={16} />, label: tf('carSpecs.seats', 'Seats'), value: car.seats },
+    { icon: <Settings size={16} />, label: tf('carSpecs.transmission', 'Gearbox'), value: car.transmission },
+    { icon: <Fuel size={16} />, label: tf('carSpecs.fuel', 'Fuel'), value: car.fuel },
+    { icon: <Briefcase size={16} />, label: tf('carSpecs.luggage', 'Luggage'), value: `${car.luggage} bags` },
+    { icon: <Package size={16} />, label: tf('carSpecs.bootSize', 'Boot'), value: details.bootSize },
+    { icon: <Droplet size={16} />, label: tf('carSpecs.mpg', 'Economy'), value: mpg || details.consumption },
   ].filter(r => r.value);
   const detailRow = [];
 

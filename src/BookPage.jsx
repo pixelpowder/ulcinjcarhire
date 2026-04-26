@@ -22,8 +22,8 @@ export default function BookPage() {
   if (pickupDate)             { widgetParams.set('date_from', pickupDate); widgetParams.set('pickup_date', pickupDate); }
   if (dropoffDate)            { widgetParams.set('date_to', dropoffDate); widgetParams.set('dropoff_date', dropoffDate); }
   if (params.get('pickup_time'))  widgetParams.set('time_from', params.get('pickup_time'));
-  if (params.get('dropoff_time')) widgetParams.set('time_to',   params.get('dropoff_time'));
-  if (location)               widgetParams.set('place',     location);
+  if (params.get('dropoff_time')) widgetParams.set('time_to', params.get('dropoff_time'));
+  if (location)               widgetParams.set('place', location);
   if (params.get('city_id')) widgetParams.set('city_id', params.get('city_id'));
   widgetParams.set('lang', WIDGET_LOCALE[lang] || 'en');
   widgetParams.set('v', '11');

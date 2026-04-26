@@ -1,4 +1,4 @@
-// Članci o flotili — crnogorski (Ulcinj).
+// Članci o flotili, crnogorski (Ulcinj).
 export const carArticles = {
   "vw-polo": {
     paragraphs: [

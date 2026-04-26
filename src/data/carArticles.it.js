@@ -1,4 +1,4 @@
-// Articoli della flotta — italiano (Ulcinj).
+// Articoli della flotta, italiano (Ulcinj).
 export const carArticles = {
   "vw-polo": {
     paragraphs: [
