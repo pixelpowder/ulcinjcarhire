@@ -255,6 +255,8 @@ const siteConfig = {
   ],
 
   faq: [
+    { q: "Can I drop off at a different location?", a: "Yes, one-way rentals are available across 28 towns and cities throughout Montenegro. Given the distance from both airports, picking up at Podgorica or Tivat and returning the car in Ulcinj (or the reverse) is one of the most popular combinations we arrange." },
+    { q: "How does pickup work?", a: "Ulcinj is around 2 hours from Podgorica Airport and 2.5 hours from Tivat, both are long drives after a flight. We strongly recommend a one-way rental: pick up at whichever airport you land at and drop off in Ulcinj, or vice versa. Pick up times and meeting points are confirmed with the rental agent after booking." },
     { q: "What documents do I need?", a: "A valid driving licence showing details in Latin script, your passport, and a physical credit card in the main driver's name. If your licence was issued outside the EU and is only valid in its country of origin, bring an International Driving Permit. Electronic or photocopied licences are not accepted at pickup." },
     { q: "Can I drive to Albania?", a: "Absolutely, and Ulcinj is the best starting point in Montenegro for it. The Muriqan/Sukobin border crossing is just 20 minutes south of town and usually clears quickly. Shkodra is 45 minutes away; Tirana is around 3 hours. Just tell us at booking and we'll have the Green Card and border paperwork ready. Travel to Croatia, Bosnia, Kosovo, and Serbia is also permitted." },
     { q: "Is there a minimum age?", a: "The minimum age is 21. Drivers must have held a full licence for at least 2 years. Drivers aged 21–24 pay a young driver supplement, the exact rate is shown per vehicle in the search results." },
