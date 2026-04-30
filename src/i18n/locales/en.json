@@ -468,7 +468,7 @@
     "promise3": "Transparent pricing, no surprises when you are 40 km from the nearest ATM",
     "promise4": "Cross-border travel to Albania, Croatia, Bosnia, Serbia, and Kosovo, Green Card arranged at booking",
     "promise5": "Free cancellation on most bookings, Balkan plans shift, we get it",
-    "promise6": "24/7 roadside assistance, even on the trackless stretch between Velika Plaza and the Albanian border",
+    "promise6": " even on the trackless stretch between Velika Plaza and the Albanian border",
     "h4": "We Know These Roads",
     "p4": "The shortcut through Tuzi that saves 20 minutes from the airport. The unmarked left turn to Valdanos that Google Maps misses. The tide timing at Ada Bojana that determines whether you park on sand or in the river. The old town market where you can buy fresh figs, local honey, and olive oil pressed from trees that were ancient when Rome was young. We drive these roads daily, and we will help you plan yours. Mirëdita, welcome south.",
     "h5": "Get in Touch",
@@ -1279,7 +1279,7 @@
       "h3": "Information you provide"
     },
     {
-      "p": "When you use our booking search form, we collect the pickup location, dates, and times you enter in order to find available vehicles. This information is passed to our partner (LocalRent) to generate search results. We do not collect or store payment details, all payments are processed directly by the rental provider."
+      "p": "When you use our booking search form, we collect the pickup location, dates, and times you enter in order to find available vehicles. This information is passed to our booking partner to generate search results. We do not collect or store payment details, all payments are processed directly by the rental provider."
     },
     {
       "h3": "Information collected automatically"
@@ -1320,7 +1320,7 @@
     {
       "ulBold": [
         {
-          "b": "LocalRent:",
+          "b": "Booking partner:",
           "t": "car rental booking widget, processes your search queries and handles all booking and payment"
         }
       ]
@@ -1332,7 +1332,7 @@
       "h2": "Cookies"
     },
     {
-      "p": "We use minimal cookies necessary for the website to function. The LocalRent booking widget may set its own cookies for session management and preferences.",
+      "p": "We use minimal cookies necessary for the website to function. the booking widget may set its own cookies for session management and preferences.",
       "linkPath": "/cookie-policy",
       "linkLabel": "See our Cookie Policy for details."
     },
@@ -1365,13 +1365,13 @@
       "h2": "About This Website"
     },
     {
-      "p": "Ulcinj Car Hire (ulcinjcarhire.com) is an affiliate website that connects travellers with car rental services in Montenegro. We are not a car rental company, we partner with LocalRent to provide real-time availability and booking services."
+      "p": "Ulcinj Car Hire (ulcinjcarhire.com) is an affiliate website that connects travellers with car rental services in Montenegro. We are not a car rental company, we work with a local booking partner to provide real-time availability and booking services."
     },
     {
       "h2": "Booking and Rental Terms"
     },
     {
-      "p": "All car rental bookings made through our website are processed and fulfilled by our partner, LocalRent. When you complete a booking, you enter into a rental agreement directly with the vehicle supplier, not with Ulcinj Car Hire."
+      "p": "All car rental bookings made through our website are processed and fulfilled by our booking partner. When you complete a booking, you enter into a rental agreement directly with the vehicle supplier, not with Ulcinj Car Hire."
     },
     {
       "p": "The rental terms, including cancellation policies, insurance coverage, age requirements, and payment conditions, are set by the vehicle supplier and displayed during the booking process. We recommend reading these terms carefully before confirming any booking."
@@ -1473,7 +1473,7 @@
       "h3": "Third-Party Cookies"
     },
     {
-      "p": "Our car rental booking widget (provided by LocalRent) may set cookies to:"
+      "p": "Our car rental booking widget (provided by our booking partner) may set cookies to:"
     },
     {
       "ul": [
@@ -1483,7 +1483,7 @@
       ]
     },
     {
-      "p": "These cookies are set by LocalRent and are governed by their privacy policy."
+      "p": "These cookies are set by our booking partner and are governed by their privacy policy."
     },
     {
       "h2": "Managing Cookies"
