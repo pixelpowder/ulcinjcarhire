@@ -265,6 +265,18 @@
     "5": {
       "q": "How do I get to Ada Bojana for kitesurfing?",
       "a": "Ada Bojana is about 20 km south of Ulcinj centre. Cross the bridge from the mainland onto the river island. There is no public transport to Ada Bojana, so a rental car is essential. The wind season runs May to September, with schools and gear hire available on the island."
+    },
+    "6": {
+      "q": "How do cross-border fees work?",
+      "a": "Most suppliers price cross-border travel in three tiers. Tier 1 covers neighbouring countries excluding Albania and Kosovo, so a Croatia or Bosnia hop is the cheapest option. Tier 2 is the one most Ulcinj guests choose, neighbours including Albania and Kosovo, since the Sukobin crossing puts Shkodër within a 30 minute drive. Tier 3 covers neighbouring and more distant countries together for travellers planning a wider regional loop. Tick every country at booking, the Green Card is then prepared in advance and waiting in the glovebox."
+    },
+    "7": {
+      "q": "Which extras can I add to my Ulcinj rental?",
+      "a": "Confirmed extras include a roof rack for hauling kitesurf or SUP gear down to Velika Plaža, a ski rack and snowboard rack if you pair the coast with a winter run up to Kolasin, three sizes of child seat, a wireless hotspot or local SIM-card for digital nomads working from cafés around Mala Plaža, an electric scooter with charger for Stari Grad's stepped lanes, plus Personal Accident Insurance, Theft Protection, and a Winter Pack. Add what you need at booking and the rental agent fits or hands them over at pickup."
+    },
+    "8": {
+      "q": "Should I add Theft Protection and Personal Accident Insurance?",
+      "a": "Both are worth thinking through given how Ulcinj is actually used. Theft Protection makes sense if you leave the car at remote spots like Ada Bojana or the Valdanos olive grove track for a long beach day. Personal Accident Insurance is sensible cover for the rough sand-and-gravel access roads behind Velika Plaža and the unsealed lanes around Šasko Lake. Neither is mandatory, the supplier explains the cap and the day rate at the desk so you can decide on the spot."
     }
   },
   "destCards": {
@@ -461,7 +473,7 @@
     "h2": "Why a Car Changes Everything",
     "p2": "No railway has ever been built to Ulcinj. The bus from Podgorica runs a few times daily, skips most beaches entirely, and stops nowhere near Ada Bojana or Valdanos. Velika Plaza stretches for 12 km along the Albanian border with no pavement, no bus stop, and no taxi rank. The dirt track to Valdanos bay has no signpost. The Sukobin border crossing to Albania is 15 minutes south, but only if you have wheels. A car is not a convenience here. It is the difference between seeing Ulcinj and actually experiencing it.",
     "h3": "What We Arrange",
-    "p3": "Pickup at Podgorica Airport (40 km), Tivat Airport (75 km), or anywhere across Montenegro. Compact cars for Stari Grad's tight lanes, SUVs for the unpaved road to Valdanos, beach-ready wagons that can handle sand. All fully insured with Albanian border paperwork sorted at booking.",
+    "p3": "Pickup at Podgorica Airport (40 km), Tivat Airport (75 km), or anywhere across Montenegro. Compact cars for Stari Grad's tight lanes, SUVs for the unpaved road to Valdanos, beach-ready wagons that can handle sand. Extras tick over what you actually do here: roof racks for kitesurf gear bound for Velika Plaža, child seats in three sizes, a wireless hotspot or SIM-card for long working stays, an electric scooter for the old-town's stepped lanes, plus Theft Protection for cars parked at Ada Bojana day-trips. All fully insured with Albanian border paperwork sorted at booking.",
     "promiseTitle": "What Comes Standard",
     "promise1": "Full insurance with zero-excess upgrade available, dirt roads and unmarked tracks included",
     "promise2": "Airport meet-and-greet at Podgorica or Tivat, your car is at arrivals, not in a lot three shuttles away",
@@ -613,7 +625,7 @@
   },
   "borderCrossingBody": {
     "h1": "Can I Take My Rental Car Across Borders?",
-    "p1": "Yes. Cross-border travel is permitted from Montenegro to Croatia, Bosnia & Herzegovina, Albania, Kosovo, and Serbia. Tick the country at booking and the rental agent prepares the paperwork before you collect.",
+    "p1": "Yes. Cross-border travel is permitted from Montenegro to Croatia, Bosnia & Herzegovina, Albania, Kosovo, and Serbia. Suppliers usually band the fee in three tiers: Tier 1 for neighbouring countries excluding Albania and Kosovo, Tier 2 for neighbouring countries including Albania and Kosovo (the popular choice from Ulcinj since the Sukobin crossing is 20 minutes south), and Tier 3 for neighbouring and more distant countries together. Tick every country at booking and the rental agent prepares the paperwork before you collect.",
     "greenCardTitle": "What is a Green Card?",
     "greenCardText": "A Green Card is an international motor insurance certificate that proves your vehicle is insured in the country you're entering. It's commonly required when taking a rental car across borders in the region.",
     "greenCard1": "Cost: varies by supplier and route, shown on the listing if applicable",
