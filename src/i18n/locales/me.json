@@ -267,16 +267,16 @@
       "a": "Iznos depozita varira po vozilu, obično između 50 i 300 EUR, a neka vozila ne zahtijevaju depozit uopšte. Depozit mora biti na fizičkoj kreditnoj kartici (ne debitnoj ni prepaid) na ime glavnog vozača. Blokira se pri preuzimanju i oslobađa u roku od nekoliko radnih dana po vraćanju vozila bez oštećenja."
     },
     "6": {
-      "q": "Šta se dešava ako prekoračim limit kilometraže?",
-      "a": "Vozila s ograničenjem kilometraže naplaćuju svaki kilometar iznad dogovorenog limita. Cijena po kilometru navedena je u detaljima vozila prije potvrde rezervacije. Ako planirate vožnju u Albaniju ili obilaskom crnogorske obale, potražite opcije s neograničenom kilometražom."
+      "q": "Kako funkcionišu naknade za prelazak granice?",
+      "a": "Većina iznajmljivača naplaćuje prelazak granice u tri nivoa. Nivo 1 pokriva susjedne zemlje bez Albanije i Kosova, pa je skok u Hrvatsku ili Bosnu najjeftinija opcija. Nivo 2 bira većina gostiju iz Ulcinja, susjedne zemlje uključujući Albaniju i Kosovo, pošto granični prelaz Sukobin dovodi Shkodër na 30 minuta vožnje. Nivo 3 pokriva susjedne i udaljenije zemlje zajedno za putnike koji planiraju širi regionalni krug. Označite svaku zemlju pri rezervaciji, Zelena karta se onda priprema unaprijed i čeka u pretincu."
     },
     "7": {
-      "q": "Ima li skrivenih naknada?",
-      "a": "Nema. Cijena prikazana pri rezervaciji je konačna, porezi, PDV i sve standardne naknade su uključeni. Duži transfer od Podgorice ili Tivta je već uračunat u cijenu, nije dodatan. Ne čeka vas neočekivani račun pri preuzimanju."
+      "q": "Koje dodatke mogu dodati uz iznajmljivanje u Ulcinju?",
+      "a": "Potvrđeni dodaci uključuju krovni nosač za prevoz kajt ili SUP opreme do Velike Plaže, nosač za skije i snowboard ako kombinujete obalu sa zimskim odlaskom u Kolasin, tri veličine dječjeg sjedišta, bežični Wi-Fi hotspot ili lokalnu SIM karticu za digitalne nomade koji rade iz kafića oko Male Plaže, električni trotinet sa punjačem za stepenaste uličice Starog grada, plus Osiguranje vozača od nezgode, Zaštitu od krađe i Zimski paket. Dodajte šta vam treba pri rezervaciji, a iznajmljivač ih ugradi ili preda pri preuzimanju."
     },
     "8": {
-      "q": "Koliko plaćam unaprijed?",
-      "a": "Pri rezervaciji se uzima akontacija od 15-20 % ukupnih troškova najma kao garancija za vozilo. Ostatak se plaća gotovinom ili karticom direktno agentu za iznajmljivanje pri preuzimanju ključeva."
+      "q": "Treba li dodati Zaštitu od krađe i Osiguranje vozača od nezgode?",
+      "a": "O obje vrijedi razmisliti s obzirom na to kako se Ulcinj zaista koristi. Zaštita od krađe ima smisla ako ostavljate auto na udaljenim mjestima poput Ada Bojane ili kolskog puta kroz maslinjak Valdanos za dug dan na plaži. Osiguranje vozača od nezgode razumno je pokriće za grube prilazne puteve od pijeska i šljunka iza Velike Plaže i neasfaltirane staze oko Šaskog jezera. Ni jedno nije obavezno, iznajmljivač na šalteru objasni gornji limit i dnevnu cijenu kako biste odluku donijeli na licu mjesta."
     },
     "9": {
       "q": "Mogu li iznajmiti bez kreditne kartice?",
@@ -331,7 +331,7 @@
     "h2": "Zašto smo počeli",
     "p2": "Nijedna pruga nikada nije sagrađena do Ulcinja. Autobus iz Podgorice vozi nekoliko puta dnevno, preskače većinu plaža u potpunosti i nigdje ne staje u blizini Ade Bojane ili Valdanosa. Velika Plaža se proteže 12 km duž albanske granice, bez pločnika, bez autobuske stanice, bez taksi stajališta. Makadamski put do zaliva Valdanos nema putokaza. Granični prelaz Sukobin prema Albaniji je 15 minuta južno, ali samo ako imate točkove. Automobil ovdje nije pogodnost. On je razlika između toga da vidite Ulcinj i da ga zaista doživite.",
     "h3": "Šta nudimo",
-    "p3": "Preuzimanje na aerodromu Podgorica (40 km), aerodromu Tivat (75 km) ili bilo gdje u Crnoj Gori. Kompaktna vozila za uske uličice Starog grada, SUV modeli za neasfaltirani put do Valdanosa, karavani pogodni za plažu koji se nose sa pijeskom. Sva su u potpunosti osigurana, a papiri za albansku granicu uređuju se prilikom rezervacije.",
+    "p3": "Preuzimanje na aerodromu Podgorica (40 km), aerodromu Tivat (75 km) ili bilo gdje u Crnoj Gori. Kompaktna vozila za uske uličice Starog grada, SUV modeli za neasfaltirani put do Valdanosa, karavani pogodni za plažu koji se nose sa pijeskom. Dodaci pokrivaju ono što se ovdje stvarno radi: krovni nosači za kajt opremu prema Velikoj Plaži, dječja sjedišta u tri veličine, bežični Wi-Fi hotspot ili SIM kartica za duže radne boravke, električni trotinet za stepenaste uličice starog grada, plus Zaštita od krađe za vozila ostavljena tokom dnevnih izleta na Adu Bojanu. Sva su u potpunosti osigurana, a papiri za albansku granicu uređuju se prilikom rezervacije.",
     "promiseTitle": "Naše obećanje",
     "promise1": "Potpuno osiguranje sa opcijom nulte franšize",
     "promise2": "Dočekivanje na aerodromu Podgorica ili Tivat, Vaš automobil je na dolascima, a ne na parkingu tri šatla daleko",
@@ -513,7 +513,7 @@
   },
   "borderCrossingBody": {
     "h1": "Mogu Li Odvesti Iznajmljeni Auto Preko Granice?",
-    "p1": "Da. Prekogranično putovanje je dozvoljeno iz Crne Gore u Hrvatsku, Bosnu i Hercegovinu, Albaniju, Kosovo i Srbiju. Označite zemlju prilikom rezervacije i agencija priprema dokumentaciju prije preuzimanja.",
+    "p1": "Da. Prekogranično putovanje je dozvoljeno iz Crne Gore u Hrvatsku, Bosnu i Hercegovinu, Albaniju, Kosovo i Srbiju. Iznajmljivači obično dijele naknadu u tri nivoa: Nivo 1 za susjedne zemlje bez Albanije i Kosova, Nivo 2 za susjedne zemlje uključujući Albaniju i Kosovo (popularan izbor iz Ulcinja jer je granični prelaz Sukobin 20 minuta južno) i Nivo 3 za susjedne i udaljenije zemlje zajedno. Označite svaku zemlju prilikom rezervacije i agencija priprema dokumentaciju prije preuzimanja.",
     "greenCardTitle": "Šta je Zelena Karta?",
     "greenCardText": "Zelena karta je međunarodni sertifikat o osiguranju motornog vozila koji dokazuje da je vaše vozilo osigurano u zemlji u koju ulazite. Obično se traži pri prelasku granice rentiranim vozilom.",
     "greenCard1": "Cijena: varira prema dobavljaču i ruti, prikazana na ponudi ako je primjenjivo",

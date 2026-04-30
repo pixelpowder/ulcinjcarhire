@@ -267,16 +267,16 @@
       "a": "Le montant du dépôt varie selon le véhicule, généralement entre 50 et 300 EUR, et certains véhicules n'en requièrent aucun. Le dépôt doit être effectué sur une carte de crédit physique (pas de débit ni de prépayée) au nom du conducteur principal. Il est retenu à la prise en charge et restitué dans les quelques jours ouvrables suivant le retour du véhicule sans dommages."
     },
     "6": {
-      "q": "Que se passe-t-il si je dépasse la limite de kilométrage ?",
-      "a": "Les véhicules avec un plafond kilométrique facturent chaque kilomètre supplémentaire au-delà de la limite convenue. Le tarif au kilomètre est indiqué dans les détails du véhicule avant confirmation de la réservation. Si vous prévoyez de rouler en Albanie ou de longer toute la côte monténégrine, cherchez les options kilométrage illimité dans les résultats."
+      "q": "Comment fonctionnent les frais de passage de frontière ?",
+      "a": "La plupart des loueurs facturent le passage de frontière en trois paliers. Le palier 1 couvre les pays voisins hors Albanie et Kosovo, un saut en Croatie ou en Bosnie est donc l'option la moins chère. Le palier 2 est celui choisi par la plupart des clients d'Ulcinj, voisins incluant l'Albanie et le Kosovo, puisque le poste-frontière de Sukobin met Shkodër à 30 minutes de route. Le palier 3 couvre ensemble les pays voisins et plus éloignés pour les voyageurs prévoyant une boucle régionale plus large. Cochez chaque pays à la réservation, la carte verte est alors préparée à l'avance et vous attend dans la boîte à gants."
     },
     "7": {
-      "q": "Y a-t-il des frais cachés ?",
-      "a": "Aucun. Le prix affiché à la réservation est le prix final, taxes, TVA et tous frais standard sont inclus. Le trajet plus long depuis Podgorica ou Tivat est intégré dans le tarif, non ajouté après coup. Vous ne recevrez aucune facture surprise à la prise en charge."
+      "q": "Quels extras puis-je ajouter à ma location à Ulcinj ?",
+      "a": "Les extras confirmés incluent un porte-bagages pour transporter le matériel de kitesurf ou de SUP jusqu'à la Velika Plaža, un porte-skis et porte-snowboard si vous combinez la côte avec une virée hivernale à Kolasin, trois tailles de siège enfant, un point d'accès Wi-Fi sans fil ou une carte SIM locale pour les nomades numériques travaillant depuis les cafés autour de la Mala Plaža, une trottinette électrique avec chargeur pour les ruelles à marches du Stari Grad, plus l'Assurance Personnelle des Occupants, la Protection Vol et un Pack Hiver. Ajoutez ce dont vous avez besoin à la réservation et l'agent les installe ou les remet à la prise en charge."
     },
     "8": {
-      "q": "Combien dois-je payer à l'avance ?",
-      "a": "Un acompte de 15 à 20 % du coût total de la location est prélevé à la réservation pour garantir le véhicule. Le solde est réglé en espèces ou par carte directement auprès de l'agent lors de la prise en charge."
+      "q": "Faut-il prendre la Protection Vol et l'Assurance Personnelle des Occupants ?",
+      "a": "Les deux méritent réflexion vu la façon dont Ulcinj est réellement utilisé. La Protection Vol a du sens si vous laissez la voiture dans des endroits isolés comme Ada Bojana ou la piste de l'oliveraie de Valdanos pour une longue journée de plage. L'Assurance Personnelle des Occupants est une couverture sensée pour les chemins d'accès rugueux, en sable et gravier, derrière la Velika Plaža et les voies non revêtues autour du lac de Šasko. Aucune n'est obligatoire, le loueur explique au comptoir le plafond et le tarif journalier afin que vous puissiez décider sur place."
     },
     "9": {
       "q": "Puis-je louer sans carte de crédit ?",
@@ -331,7 +331,7 @@
     "h2": "Pourquoi nous avons commencé",
     "p2": "Aucune ligne de chemin de fer n'a jamais été construite jusqu'à Ulcinj. Le bus depuis Podgorica circule quelques fois par jour, saute la plupart des plages et ne s'arrête nulle part près d'Ada Bojana ou de Valdanos. Velika Plaža s'étend sur 12 km le long de la frontière albanaise, sans trottoir, sans arrêt de bus, sans station de taxi. La piste en terre vers la baie de Valdanos n'est pas signalée. Le passage frontalier de Sukobin vers l'Albanie est à 15 minutes au sud, mais seulement si vous avez des roues. Une voiture n'est pas un confort ici. C'est la différence entre voir Ulcinj et la vivre pour de vrai.",
     "h3": "Ce que nous proposons",
-    "p3": "Prise en charge à l'aéroport de Podgorica (40 km), à l'aéroport de Tivat (75 km) ou partout au Monténégro. Citadines compactes pour les ruelles étroites de Stari Grad, SUV pour la route non goudronnée vers Valdanos, breaks adaptés à la plage capables de rouler sur le sable. Tous entièrement assurés avec les papiers frontaliers pour l'Albanie préparés à la réservation.",
+    "p3": "Prise en charge à l'aéroport de Podgorica (40 km), à l'aéroport de Tivat (75 km) ou partout au Monténégro. Citadines compactes pour les ruelles étroites de Stari Grad, SUV pour la route non goudronnée vers Valdanos, breaks adaptés à la plage capables de rouler sur le sable. Les extras couvrent ce que l'on fait vraiment ici : porte-bagages pour le matériel de kitesurf à destination de la Velika Plaža, sièges enfants en trois tailles, point d'accès Wi-Fi ou carte SIM pour les longs séjours de travail, trottinette électrique pour les ruelles à marches de la vieille ville, plus la Protection Vol pour les voitures stationnées lors des excursions à Ada Bojana. Tous entièrement assurés avec les papiers frontaliers pour l'Albanie préparés à la réservation.",
     "promiseTitle": "Notre engagement",
     "promise1": "Assurance tous risques avec option zéro franchise",
     "promise2": "Accueil à l'aéroport de Podgorica ou de Tivat, votre voiture vous attend aux arrivées, pas sur un parking à trois navettes de distance",
@@ -513,7 +513,7 @@
   },
   "borderCrossingBody": {
     "h1": "Puis-je emmener ma voiture de location au-delà des frontières ?",
-    "p1": "Oui. Les voyages transfrontaliers sont autorisés du Monténégro vers la Croatie, la Bosnie-Herzégovine, l'Albanie, le Kosovo et la Serbie. Cochez le pays à la réservation et l'agent de location prépare les documents avant le retrait.",
+    "p1": "Oui. Les voyages transfrontaliers sont autorisés du Monténégro vers la Croatie, la Bosnie-Herzégovine, l'Albanie, le Kosovo et la Serbie. Les loueurs regroupent généralement les frais en trois paliers : Palier 1 pour les pays voisins hors Albanie et Kosovo, Palier 2 pour les pays voisins incluant l'Albanie et le Kosovo (le choix populaire depuis Ulcinj puisque le poste-frontière de Sukobin est à 20 minutes au sud) et Palier 3 pour les pays voisins et plus lointains regroupés. Cochez chaque pays à la réservation et l'agent de location prépare les documents avant le retrait.",
     "greenCardTitle": "Qu'est-ce qu'une Carte Verte ?",
     "greenCardText": "Une Carte Verte est un certificat international d'assurance automobile qui prouve que votre véhicule est assuré dans le pays où vous entrez. Elle est généralement requise lors d'un passage de frontière en voiture de location.",
     "greenCard1": "Coût : varie selon le prestataire et l'itinéraire, indiqué sur la fiche le cas échéant",
