@@ -60,7 +60,7 @@
   "fleet": {
     "label": "Unsere Flotte",
     "title": "Wählen Sie Ihr Fahrzeug",
-    "subtitle": "Verfügbarkeit und Preise in Echtzeit, direkt buchen."
+    "subtitle": "Verfügbarkeit in Echtzeit mit kostenloser Stornierung und Vollkasko, direkt buchen, ohne Zwischenhändler."
   },
   "brands": {
     "label": "Vertrauenswürdige Marken in unserer Flotte"
@@ -338,7 +338,7 @@
     "promise3": "Transparente Preise, keine Überraschungen, wenn Sie 40 km vom nächsten Geldautomaten entfernt sind",
     "promise4": "Grenzüberschreitende Fahrten nach Albanien, Kroatien, Bosnien, Serbien und Kosovo, Grüne Karte bei der Buchung organisiert",
     "promise5": "Kostenlose Stornierung bei den meisten Buchungen",
-    "promise6": "24/7 Pannenhilfe während Ihrer gesamten Reise",
+    "promise6": " auch auf dem weglosen Abschnitt zwischen Velika Plaza und der albanischen Grenze",
     "h4": "Lokales Wissen",
     "p4": "Die Abkürzung durch Tuzi, die 20 Minuten Flughafenfahrt spart. Die unbeschilderte Linkskurve nach Valdanos, die Google Maps übersieht. Das Gezeitenfenster an der Ada Bojana, das entscheidet, ob Sie im Sand oder im Fluss parken. Der Markt in der Altstadt, auf dem Sie frische Feigen, lokalen Honig und Olivenöl von Bäumen kaufen können, die schon zu Zeiten des alten Rom uralt waren. Wir fahren diese Straßen täglich und helfen Ihnen, Ihre eigenen zu planen. Mirëdita, willkommen im Süden.",
     "h5": "Kontaktieren Sie uns",
@@ -1266,7 +1266,7 @@
   },
   "fleetIndex": {
     "title": "Unsere Flotte in Ulcinj",
-    "subtitle": "Sieben Autos für Ulcinj, Altstadt-Parkplätze, Velika-Plaža-Ausflüge, Ada-Bojana-Pisten, Albanien-Grenzfahrten.",
+    "subtitle": "Kompakte Stadtwagen, Schrägheck-, Limousinen-, SUV- und Van-Modelle, ausgewählt für Ulcinj, Altstadt-Parkplätze, Velika-Plaža-Ausflüge, Ada-Bojana-Pisten, Albanien-Grenzfahrten.",
     "seoDesc": "Die Flotte von Ulcinj Car Hire, Technik, Verbrauch, Kofferraumvolumen und wofür jedes Auto an Montenegros Südküste wirklich taugt.",
     "intro1": "Ulcinj liegt am äußersten Süden der Küste Montenegros, und die Straßen unterscheiden sich spürbar vom Rest des Landes. Morgens enge Gassen unter den osmanischen Mauern von Kalaja; nachmittags dreizehn Kilometer Sandstrand auf Velika Plaža mit den albanischen Bergen am Horizont; abends die Brücke über die Bojana zum Grillfisch-Stelzenrestaurant auf Ada Bojana. Unsere Autos sind genau dafür ausgesucht.",
     "intro2": "Zwei Dinge zählen mehr als der Preis. Erstens die Sommerhitze, Ulcinj hält Montenegros Temperaturrekord, im Juli und August regelmäßig über 35 °C, sodass die Klimaanlage wichtiger ist als die Prospektzahlen suggerieren. Zweitens die Straßenqualität: die Hauptstraße ist glatt, aber die Zufahrten zur Velika Plaža, der Weg nach Valdanos und die letzten zwei Kilometer zu den Kite-Schulen von Ada Bojana sind geflickt oder unbefestigt. Ein erhöhter Crossover oder ein weich gefedertes Auto zahlt sich hier aus.",
@@ -1303,7 +1303,7 @@
       "h3": "Von Ihnen bereitgestellte Informationen"
     },
     {
-      "p": "Wenn Sie unser Buchungsformular verwenden, erfassen wir den Abholort, die Daten und die Zeiten, die Sie eingeben, um verfügbare Fahrzeuge zu finden. Diese Informationen werden an unseren Partner (LocalRent) weitergegeben, um Suchergebnisse zu generieren. Wir erfassen oder speichern keine Zahlungsdaten, alle Zahlungen werden direkt vom Vermieter abgewickelt."
+      "p": "Wenn Sie unser Buchungsformular verwenden, erfassen wir den Abholort, die Daten und die Zeiten, die Sie eingeben, um verfügbare Fahrzeuge zu finden. Diese Informationen werden an unseren Buchungspartner weitergegeben, um Suchergebnisse zu generieren. Wir erfassen oder speichern keine Zahlungsdaten, alle Zahlungen werden direkt vom Vermieter abgewickelt."
     },
     {
       "h3": "Automatisch erfasste Informationen"
@@ -1344,7 +1344,7 @@
     {
       "ulBold": [
         {
-          "b": "LocalRent:",
+          "b": "Buchungspartner:",
           "t": "Mietwagen-Buchungs-Widget, verarbeitet Ihre Suchanfragen und übernimmt alle Buchungen und Zahlungen"
         }
       ]
@@ -1356,7 +1356,7 @@
       "h2": "Cookies"
     },
     {
-      "p": "Wir verwenden minimale Cookies, die für das Funktionieren der Website notwendig sind. Das LocalRent-Buchungs-Widget kann eigene Cookies für Sitzungsverwaltung und Einstellungen setzen.",
+      "p": "Wir verwenden minimale Cookies, die für das Funktionieren der Website notwendig sind. Das Buchungs-Widget kann eigene Cookies für Sitzungsverwaltung und Einstellungen setzen.",
       "linkPath": "/cookie-policy",
       "linkLabel": "Siehe unsere Cookie-Richtlinie für Details."
     },
@@ -1389,13 +1389,13 @@
       "h2": "Über diese Website"
     },
     {
-      "p": "Ulcinj Car Hire (ulcinjcarhire.com) ist eine Affiliate-Website, die Reisende mit Mietwagendiensten in Montenegro verbindet. Wir sind keine Mietwagenfirma, wir arbeiten mit LocalRent zusammen, um Echtzeit-Verfügbarkeit und Buchungsdienste anzubieten."
+      "p": "Ulcinj Car Hire (ulcinjcarhire.com) ist eine Affiliate-Website, die Reisende mit Mietwagendiensten in Montenegro verbindet. Wir sind keine Mietwagenfirma, wir arbeiten mit einem lokalen Buchungspartner zusammen, um Echtzeit-Verfügbarkeit und Buchungsdienste anzubieten."
     },
     {
       "h2": "Buchungs- und Mietbedingungen"
     },
     {
-      "p": "Alle Mietwagenbuchungen über unsere Website werden von unserem Partner LocalRent abgewickelt. Wenn Sie eine Buchung abschließen, schließen Sie einen Mietvertrag direkt mit dem Fahrzeuganbieter ab, nicht mit Ulcinj Car Hire."
+      "p": "Alle Mietwagenbuchungen über unsere Website werden von unserem Buchungspartner abgewickelt. Wenn Sie eine Buchung abschließen, schließen Sie einen Mietvertrag direkt mit dem Fahrzeuganbieter ab, nicht mit Ulcinj Car Hire."
     },
     {
       "p": "Die Mietbedingungen, einschließlich Stornierungsrichtlinien, Versicherungsdeckung, Altersanforderungen und Zahlungsbedingungen, werden vom Fahrzeuganbieter festgelegt und während des Buchungsvorgangs angezeigt. Wir empfehlen, diese Bedingungen vor der Bestätigung einer Buchung sorgfältig zu lesen."
@@ -1497,7 +1497,7 @@
       "h3": "Cookies von Drittanbietern"
     },
     {
-      "p": "Unser Mietwagen-Buchungs-Widget (von LocalRent bereitgestellt) kann Cookies setzen, um:"
+      "p": "Unser Mietwagen-Buchungs-Widget (von unserem Buchungspartner bereitgestellt) kann Cookies setzen, um:"
     },
     {
       "ul": [
@@ -1507,7 +1507,7 @@
       ]
     },
     {
-      "p": "Diese Cookies werden von LocalRent gesetzt und unterliegen deren Datenschutzrichtlinie."
+      "p": "Diese Cookies werden von unserem Buchungspartner gesetzt und unterliegen dessen Datenschutzrichtlinie."
     },
     {
       "h2": "Cookies verwalten"

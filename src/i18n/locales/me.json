@@ -60,7 +60,7 @@
   "fleet": {
     "label": "Naša Flota",
     "title": "Izaberite Vaše Vozilo",
-    "subtitle": "Dostupnost i cijene u realnom vremenu, rezervišite direktno, bez posrednika."
+    "subtitle": "Dostupnost u realnom vremenu uz besplatno otkazivanje i puno osiguranje, rezervišite direktno, bez posrednika."
   },
   "brands": {
     "label": "Provjereni brendovi u našoj floti"
@@ -338,7 +338,7 @@
     "promise3": "Transparentne cijene, bez iznenađenja kada ste 40 km od najbližeg bankomata",
     "promise4": "Prekogranična putovanja u Albaniju, Hrvatsku, Bosnu, Srbiju i Kosovo, zelena karta uređena prilikom rezervacije",
     "promise5": "Besplatno otkazivanje za većinu rezervacija",
-    "promise6": "Pomoć na putu 24/7 tokom cijelog putovanja",
+    "promise6": " čak i na bespućnom potezu između Velike Plaže i albanske granice",
     "h4": "Lokalno znanje",
     "p4": "Prečica kroz Tuzi koja štedi 20 minuta od aerodroma. Neoznačeno skretanje lijevo prema Valdanosu koje Google Maps propušta. Vrijeme plime na Adi Bojani koje odlučuje hoćete li parkirati na pijesku ili u rijeci. Pijaca u starom gradu gdje možete kupiti svježe smokve, lokalni med i maslinovo ulje sa stabala koja su bila drevna dok je Rim bio mlad. Mi ove puteve vozimo svakodnevno i pomoći ćemo Vam da isplanirate svoje. Mirëdita, dobro došli na jug.",
     "h5": "Kontaktirajte nas",
@@ -1266,7 +1266,7 @@
   },
   "fleetIndex": {
     "title": "Naša flota u Ulcinju",
-    "subtitle": "Sedam automobila odabranih za Ulcinj, starogradski parking, izleti do Velike Plaže, puteljci ka Adi Bojani, prelazi granice ka Albaniji.",
+    "subtitle": "Kompaktni gradski automobili, hečbeci, limuzine, SUV vozila i kombiji odabrani za Ulcinj, starogradski parking, izleti do Velike Plaže, puteljci ka Adi Bojani, prelazi granice ka Albaniji.",
     "seoDesc": "Pregledajte flotu Ulcinj Car Hirea, tehnika, potrošnja, prtljažnik i za šta je svaki auto stvarno koristan na južnoj obali Crne Gore.",
     "intro1": "Ulcinj je na krajnjem jugu crnogorske obale, a vožnja ovdje razlikuje se od ostatka zemlje. Ujutro, uske uličice ispod otomanskih zidina Kalaje; popodne, trinaest kilometara otvorene pješčane plaže na Velikoj Plaži s albanskim planinama na horizontu; uveče, most preko Bojane i pečena jegulja u restoranu na stubovima na Adi Bojani. Automobili koje iznajmljujemo pokrivaju upravo taj raspon.",
     "intro2": "Dvije stvari znače više od cijene. Ljetna vrućina, Ulcinj drži rekorde u Crnoj Gori, često iznad 35 °C u julu i avgustu, pa klima znači više nego brojke iz kataloga. I stanje puteva: obalna magistrala je glatka, ali servisni putevi do Velike Plaže, spust do Valdanosa i posljednja dva kilometra do kajt škola Ade Bojane su iskrpljeni ili neasfaltirani. Povišen krosover ili meko oslonjen mali auto tu opravdava cijenu.",
@@ -1303,7 +1303,7 @@
       "h3": "Informacije koje vi pružate"
     },
     {
-      "p": "Kada koristite naš formular za pretragu, prikupljamo mjesto preuzimanja, datume i vrijeme koje unesete kako bismo pronašli dostupna vozila. Ove informacije se prosljeđuju našem partneru (LocalRent) radi generisanja rezultata pretrage. Ne prikupljamo niti čuvamo platežne podatke, sve uplate obrađuje direktno davalac iznajmljivanja."
+      "p": "Kada koristite naš formular za pretragu, prikupljamo mjesto preuzimanja, datume i vrijeme koje unesete kako bismo pronašli dostupna vozila. Ove informacije se prosljeđuju našem partneru za rezervacije radi generisanja rezultata pretrage. Ne prikupljamo niti čuvamo platežne podatke, sve uplate obrađuje direktno davalac iznajmljivanja."
     },
     {
       "h3": "Informacije prikupljene automatski"
@@ -1344,7 +1344,7 @@
     {
       "ulBold": [
         {
-          "b": "LocalRent:",
+          "b": "Partner za rezervacije:",
           "t": "vidžet za rezervaciju iznajmljivanja, obrađuje pretrage i sve rezervacije i plaćanja"
         }
       ]
@@ -1356,7 +1356,7 @@
       "h2": "Kolačići"
     },
     {
-      "p": "Koristimo minimalne kolačiće potrebne za funkcionisanje sajta. LocalRent vidžet za rezervaciju može postavljati sopstvene kolačiće za upravljanje sesijom i preferencijama.",
+      "p": "Koristimo minimalne kolačiće potrebne za funkcionisanje sajta. Vidžet za rezervaciju može postavljati sopstvene kolačiće za upravljanje sesijom i preferencijama.",
       "linkPath": "/cookie-policy",
       "linkLabel": "Pogledajte našu Politiku kolačića za detalje."
     },
@@ -1389,13 +1389,13 @@
       "h2": "O ovom sajtu"
     },
     {
-      "p": "Ulcinj Car Hire (ulcinjcarhire.com) je affiliate sajt koji povezuje putnike sa uslugama iznajmljivanja vozila u Crnoj Gori. Mi nismo rent-a-car kompanija, sarađujemo sa LocalRent kako bismo pružili dostupnost u realnom vremenu i usluge rezervacije."
+      "p": "Ulcinj Car Hire (ulcinjcarhire.com) je affiliate sajt koji povezuje putnike sa uslugama iznajmljivanja vozila u Crnoj Gori. Mi nismo rent-a-car kompanija, sarađujemo sa lokalnim partnerom za rezervacije kako bismo pružili dostupnost u realnom vremenu i usluge rezervacije."
     },
     {
       "h2": "Uslovi rezervacije i iznajmljivanja"
     },
     {
-      "p": "Sve rezervacije izvršene preko našeg sajta obrađuje i ispunjava naš partner LocalRent. Kada izvršite rezervaciju, sklapate ugovor o iznajmljivanju direktno sa dobavljačem vozila, a ne sa Ulcinj Car Hire."
+      "p": "Sve rezervacije izvršene preko našeg sajta obrađuje i ispunjava naš partner za rezervacije. Kada izvršite rezervaciju, sklapate ugovor o iznajmljivanju direktno sa dobavljačem vozila, a ne sa Ulcinj Car Hire."
     },
     {
       "p": "Uslovi iznajmljivanja, uključujući politike otkazivanja, osiguranje, starosna ograničenja i uslove plaćanja, postavlja dobavljač vozila i prikazuju se tokom procesa rezervacije. Preporučujemo pažljivo čitanje ovih uslova prije potvrde rezervacije."
@@ -1497,7 +1497,7 @@
       "h3": "Kolačići trećih strana"
     },
     {
-      "p": "Naš vidžet za rezervaciju (pruža ga LocalRent) može postavljati kolačiće za:"
+      "p": "Naš vidžet za rezervaciju (pruža ga naš partner za rezervacije) može postavljati kolačiće za:"
     },
     {
       "ul": [
@@ -1507,7 +1507,7 @@
       ]
     },
     {
-      "p": "Ove kolačiće postavlja LocalRent i regulisani su njihovom politikom privatnosti."
+      "p": "Ove kolačiće postavlja naš partner za rezervacije i regulisani su njegovom politikom privatnosti."
     },
     {
       "h2": "Upravljanje kolačićima"

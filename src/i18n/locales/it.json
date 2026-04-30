@@ -60,7 +60,7 @@
   "fleet": {
     "label": "La Nostra Flotta",
     "title": "Scegli la Tua Auto",
-    "subtitle": "Disponibilità e prezzi in tempo reale, prenoti direttamente, senza intermediari."
+    "subtitle": "Disponibilità in tempo reale con cancellazione gratuita e assicurazione completa, prenoti direttamente, senza intermediari."
   },
   "brands": {
     "label": "Marchi affidabili nella nostra flotta"
@@ -338,7 +338,7 @@
     "promise3": "Prezzi trasparenti, nessuna sorpresa quando è a 40 km dal bancomat più vicino",
     "promise4": "Viaggi transfrontalieri verso Albania, Croazia, Bosnia, Serbia e Kosovo, Carta Verde preparata alla prenotazione",
     "promise5": "Cancellazione gratuita sulla maggior parte delle prenotazioni, i piani balcanici cambiano, lo capiamo",
-    "promise6": "Assistenza stradale 24 ore su 24, anche sul tratto senza sentiero tra Velika Plaža e il confine albanese",
+    "promise6": " anche sul tratto senza sentiero tra Velika Plaza e il confine albanese",
     "h4": "Conoscenza locale",
     "p4": "La scorciatoia attraverso Tuzi che fa risparmiare 20 minuti dall'aeroporto. La svolta a sinistra non segnalata verso Valdanos che Google Maps si perde. L'ora delle maree ad Ada Bojana che decide se parcheggia sulla sabbia o nel fiume. Il mercato della città vecchia dove può comprare fichi freschi, miele locale e olio d'oliva spremuto da alberi già antichi quando Roma era giovane. Percorriamo queste strade ogni giorno e L'aiuteremo a pianificare le Sue. Mirëdita, benvenuto nel sud.",
     "h5": "Contattaci",
@@ -1266,7 +1266,7 @@
   },
   "fleetIndex": {
     "title": "La nostra flotta a Ulcinj",
-    "subtitle": "Sette auto scelte per Ulcinj, parcheggi in centro storico, gite a Velika Plaža, piste ad Ada Bojana, salti oltre confine in Albania.",
+    "subtitle": "Citycar compatte, hatchback, berline, SUV e van scelti per Ulcinj, parcheggi in centro storico, gite a Velika Plaža, piste ad Ada Bojana, salti oltre confine in Albania.",
     "seoDesc": "Esplora la flotta di Ulcinj Car Hire, schede tecniche, consumi, bagagliaio e a cosa serve davvero ogni auto sulla costa sud del Montenegro.",
     "intro1": "Ulcinj è al capo meridionale della costa montenegrina e si guida diversamente dal resto del paese. La mattina si sgomitola tra i vicoli stretti sotto le mura ottomane di Kalaja; il pomeriggio si percorrono tredici chilometri di sabbia aperta a Velika Plaža con le montagne albanesi all’orizzonte; la sera si attraversa il ponte sulla Bojana per anguille alla griglia in un ristorante su palafitte ad Ada Bojana. Le auto che noleggiamo coprono esattamente quella gamma.",
     "intro2": "Due cose pesano più del prezzo. Il caldo estivo, Ulcinj detiene i record del Montenegro, spesso oltre 35°C a luglio e agosto, quindi il climatizzatore conta più dei numeri di catalogo. E la superficie stradale: la dorsale costiera è liscia, ma le strade di servizio verso Velika Plaža, la discesa a Valdanos e gli ultimi due chilometri alle scuole di kite di Ada Bojana sono rattoppati o sterrati. Un crossover rialzato o una citycar morbida lì giustifica il costo.",
@@ -1303,7 +1303,7 @@
       "h3": "Informazioni che fornisci"
     },
     {
-      "p": "Quando utilizzi il nostro modulo di ricerca, raccogliamo il luogo di ritiro, le date e gli orari che inserisci per trovare i veicoli disponibili. Queste informazioni vengono trasmesse al nostro partner (LocalRent) per generare i risultati. Non raccogliamo né conserviamo i dati di pagamento, tutti i pagamenti sono gestiti direttamente dal noleggiatore."
+      "p": "Quando utilizzi il nostro modulo di ricerca, raccogliamo il luogo di ritiro, le date e gli orari che inserisci per trovare i veicoli disponibili. Queste informazioni vengono trasmesse al nostro partner di prenotazione per generare i risultati. Non raccogliamo né conserviamo i dati di pagamento, tutti i pagamenti sono gestiti direttamente dal noleggiatore."
     },
     {
       "h3": "Informazioni raccolte automaticamente"
@@ -1344,7 +1344,7 @@
     {
       "ulBold": [
         {
-          "b": "LocalRent:",
+          "b": "Partner di prenotazione:",
           "t": "widget di prenotazione, elabora le ricerche e gestisce tutte le prenotazioni e i pagamenti"
         }
       ]
@@ -1356,7 +1356,7 @@
       "h2": "Cookie"
     },
     {
-      "p": "Utilizziamo cookie minimi necessari al funzionamento del sito. Il widget di prenotazione LocalRent può impostare propri cookie per la gestione delle sessioni e delle preferenze.",
+      "p": "Utilizziamo cookie minimi necessari al funzionamento del sito. Il widget di prenotazione può impostare propri cookie per la gestione delle sessioni e delle preferenze.",
       "linkPath": "/cookie-policy",
       "linkLabel": "Consulta la nostra Politica sui Cookie per i dettagli."
     },
@@ -1389,13 +1389,13 @@
       "h2": "Informazioni su questo sito"
     },
     {
-      "p": "Ulcinj Car Hire (ulcinjcarhire.com) è un sito affiliato che mette in contatto i viaggiatori con i servizi di noleggio auto in Montenegro. Non siamo una società di noleggio, collaboriamo con LocalRent per fornire disponibilità in tempo reale e servizi di prenotazione."
+      "p": "Ulcinj Car Hire (ulcinjcarhire.com) è un sito affiliato che mette in contatto i viaggiatori con i servizi di noleggio auto in Montenegro. Non siamo una società di noleggio, collaboriamo con un partner di prenotazione locale per fornire disponibilità in tempo reale e servizi di prenotazione."
     },
     {
       "h2": "Termini di prenotazione e noleggio"
     },
     {
-      "p": "Tutte le prenotazioni effettuate tramite il nostro sito sono gestite ed evase dal nostro partner LocalRent. Quando completi una prenotazione, stipuli un contratto di noleggio direttamente con il fornitore del veicolo, non con Ulcinj Car Hire."
+      "p": "Tutte le prenotazioni effettuate tramite il nostro sito sono gestite ed evase dal nostro partner di prenotazione. Quando completi una prenotazione, stipuli un contratto di noleggio direttamente con il fornitore del veicolo, non con Ulcinj Car Hire."
     },
     {
       "p": "I termini di noleggio, comprese le politiche di cancellazione, la copertura assicurativa, i requisiti di età e le condizioni di pagamento, sono stabiliti dal fornitore del veicolo e visualizzati durante il processo di prenotazione. Si raccomanda di leggere attentamente questi termini prima di confermare qualsiasi prenotazione."
@@ -1497,7 +1497,7 @@
       "h3": "Cookie di terze parti"
     },
     {
-      "p": "Il nostro widget di prenotazione (fornito da LocalRent) può impostare cookie per:"
+      "p": "Il nostro widget di prenotazione (fornito dal nostro partner di prenotazione) può impostare cookie per:"
     },
     {
       "ul": [
@@ -1507,7 +1507,7 @@
       ]
     },
     {
-      "p": "Questi cookie sono impostati da LocalRent e sono disciplinati dalla loro politica sulla privacy."
+      "p": "Questi cookie sono impostati dal nostro partner di prenotazione e sono disciplinati dalla loro politica sulla privacy."
     },
     {
       "h2": "Gestione dei cookie"
