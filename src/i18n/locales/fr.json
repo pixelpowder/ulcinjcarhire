@@ -58,9 +58,10 @@
     "step3Desc": "Au delà de la dernière station service, au delà du dernier panneau, dans la partie du Monténégro que la plupart des touristes n'atteignent jamais."
   },
   "fleet": {
-    "label": "Notre Flotte",
-    "title": "Choisissez Votre Véhicule",
-    "subtitle": "Disponibilité en direct avec annulation gratuite et assurance tous risques, réservez directement, sans intermédiaire."
+    "label": "Flotte Ulcinj",
+    "title": "Location de Voiture Ulcinj",
+    "subtitle": "Un guide de quelques voitures à notre point de retrait à Ulcinj, adaptées au littoral sud, à la route de Velika Plaža et au passage frontière vers l'Albanie.",
+    "bookCta": "Réserver cette voiture"
   },
   "brands": {
     "label": "Marques de confiance dans notre flotte"

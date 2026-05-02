@@ -58,9 +58,10 @@
     "step3Desc": "Iza posljednje benzinske pumpe, iza posljednjeg putokaza, u dio Crne Gore koji većina turista nikad ne dosegne."
   },
   "fleet": {
-    "label": "Naša Flota",
-    "title": "Izaberite Vaše Vozilo",
-    "subtitle": "Dostupnost u realnom vremenu uz besplatno otkazivanje i puno osiguranje, rezervišite direktno, bez posrednika."
+    "label": "Flota Ulcinj",
+    "title": "Iznajmljivanje Auta Ulcinj",
+    "subtitle": "Vodič kroz neka od vozila na našem mjestu preuzimanja u Ulcinju, prikladnih za južno primorje, rutu Velike Plaže i prelaz prema Albaniji.",
+    "bookCta": "Rezerviši ovaj auto"
   },
   "brands": {
     "label": "Provjereni brendovi u našoj floti"

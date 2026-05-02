@@ -58,9 +58,10 @@
     "step3Desc": "Vorbei an der letzten Tankstelle, vorbei am letzten Wegweiser, hinein in den Teil Montenegros, den die meisten Touristen nie erreichen."
   },
   "fleet": {
-    "label": "Unsere Flotte",
-    "title": "Wählen Sie Ihr Fahrzeug",
-    "subtitle": "Verfügbarkeit in Echtzeit mit kostenloser Stornierung und Vollkasko, direkt buchen, ohne Zwischenhändler."
+    "label": "Ulcinj Flotte",
+    "title": "Mietwagen Ulcinj",
+    "subtitle": "Ein Überblick über einige Fahrzeuge an unserer Übernahme in Ulcinj, geeignet für die Südküste, die Strecke zur Velika Plaža und den Grenzübergang nach Albanien.",
+    "bookCta": "Dieses Auto buchen"
   },
   "brands": {
     "label": "Vertrauenswürdige Marken in unserer Flotte"

@@ -58,9 +58,10 @@
     "step3Desc": "Past the last petrol station, past the final signpost, into the part of Montenegro that most tourists never reach."
   },
   "fleet": {
-    "label": "Our Fleet",
-    "title": "Choose Your Ride",
-    "subtitle": "Live availability with free cancellation and full insurance, book directly, skip the middlemen."
+    "label": "Ulcinj Fleet",
+    "title": "Car Hire Ulcinj",
+    "subtitle": "A guide to some of the cars at our Ulcinj pickup, ready for the southern coast, the Velika Plaža run, and the Albania border crossing.",
+    "bookCta": "Book this car"
   },
   "brands": {
     "label": "Trusted brands in our fleet"
