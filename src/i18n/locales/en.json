@@ -94,7 +94,7 @@
     "bookTitle": "Book Your Car",
     "bookText": "Live availability for Ulcinj and the forgotten south, vehicles ready for sand, dirt roads, and border crossings.",
     "helpTitle": "Need Help?",
-    "helpText": "Reach us on WhatsApp, Viber, or phone. We speak the local roads.",
+    "helpText": "Send us an email and we will get back to you.",
     "popularDest": "Popular Destinations",
     "tivatAirport": "Tivat Airport",
     "dubrovnikAirport": "Dubrovnik Airport"
@@ -484,7 +484,7 @@
     "h4": "We Know These Roads",
     "p4": "The shortcut through Tuzi that saves 20 minutes from the airport. The unmarked left turn to Valdanos that Google Maps misses. The tide timing at Ada Bojana that determines whether you park on sand or in the river. The old town market where you can buy fresh figs, local honey, and olive oil pressed from trees that were ancient when Rome was young. We drive these roads daily, and we will help you plan yours. Mirëdita, welcome south.",
     "h5": "Get in Touch",
-    "p5": "Questions about renting a car in Ulcinj? We are available via phone, WhatsApp, and Viber. Search the fleet online and book in minutes, or reach out and we will match you with the right vehicle for wherever you are headed. Faleminderit."
+    "p5": "Questions about renting a car in Ulcinj? We are available via email. Search the fleet online and book in minutes, or reach out and we will match you with the right vehicle for wherever you are headed. Faleminderit."
   },
   "velikaPlazaBody": {
     "h1": "Velika Plaza, 12 Kilometres of Grey Volcanic Sand",
@@ -1320,7 +1320,7 @@
         "To connect you with car rental availability and pricing",
         "To improve our website and user experience",
         "To understand how visitors use our site (analytics)",
-        "To respond to enquiries via WhatsApp, Viber, or email"
+        "To respond to enquiries via email"
       ]
     },
     {
