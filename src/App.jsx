@@ -955,7 +955,6 @@ export default function App() {
         <CTABanner />
       </main>
       <Footer />
-      <WhatsAppFab />
       <ScrollToTop />
       <StickyMobileCTA />
     </>
