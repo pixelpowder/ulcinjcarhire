@@ -31,7 +31,6 @@ import {
   Search,
   Menu,
   X,
-  MessageCircle,
   Award,
   TrendingUp,
 } from 'lucide-react';
@@ -796,28 +795,11 @@ function StickyMobileCTA() {
       <a href={localePath("/book")} className="sticky-cta__btn">
         {t('common.bookNow')} <ArrowRight size={16} />
       </a>
-      <a href="https://wa.me/38269000000?text=Hi!%20I%27d%20like%20to%20enquire%20about%20renting%20a%20car%20in%20Ulcinj." target="_blank" rel="noopener noreferrer" className="sticky-cta__phone">
-        <MessageCircle size={18} />
-      </a>
-    </div>
+</div>
   );
 }
 
 /* ─── SCROLL TO TOP ────────────────────────────────────── */
-function WhatsAppFab() {
-  return (
-    <a
-      href={`https://wa.me/38269000000?text=Hi!%20I%27d%20like%20to%20enquire%20about%20renting%20a%20car%20in%20Ulcinj.`}
-      target="_blank"
-      rel="noopener noreferrer"
-      className="whatsapp-fab"
-      aria-label="Chat on WhatsApp"
-    >
-      <MessageCircle size={22} />
-    </a>
-  );
-}
-
 function ScrollToTop() {
   const [show, setShow] = useState(false);
 
