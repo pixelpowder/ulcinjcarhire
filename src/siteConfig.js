@@ -20,7 +20,7 @@ const siteConfig = {
       name: "VW Polo",
       category: "Economy",
       tagline: "Simple hatch that parks anywhere outside Kalaja and sips petrol all the way to Ada Bojana",
-      lede: "Five seats, 351-litre boot and a turning circle made for narrow lanes beneath the Ottoman walls.",
+      lede: "Easy to park near the Kalaja walls and light enough for the long sand of Velika Plaža and the Ada Bojana road in summer.",
       price: 25,
       image: "/img/fleet/vw-polo.jpg",
       seats: 5,
