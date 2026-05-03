@@ -5,7 +5,9 @@
     "destinations": "Villes",
     "about": "À Propos",
     "contact": "Nous contacter",
-    "fleet": "Flotte"
+    "fleet": "Flotte",
+    "darkMode": "Mode sombre",
+    "lightMode": "Mode clair"
   },
   "common": {
     "home": "Accueil",
