@@ -21,7 +21,7 @@
     "headline": "Mietwagen in Ulcinj",
     "badges": {
       "freeCancellation": "Kostenlose Stornierung",
-      "fullInsurance": "Vollkasko inklusive",
+      "fullInsurance": "Versicherungsoptionen",
       "airportPickup": "10-Min Flughafen-Abholung",
       "trustpilot": "4.8/5 auf Trustpilot"
     },
@@ -37,7 +37,7 @@
   "trust": {
     "noHiddenFees": "Keine versteckten Kosten",
     "noHiddenFeesDesc": "Der angezeigte Preis ist all-inclusive",
-    "fullInsurance": "Vollkasko",
+    "fullInsurance": "Versicherungsoptionen",
     "fullInsuranceDesc": "Option ohne Selbstbeteiligung verfügbar",
     "fastPickup": "10-Min Abholung",
     "fastPickupDesc": "Wir empfangen Sie am Ankunftsbereich"
@@ -334,14 +334,14 @@
     "h2": "Warum wir angefangen haben",
     "p2": "Es wurde nie eine Bahn nach Ulcinj gebaut. Der Bus aus Podgorica fährt nur wenige Male täglich, lässt die meisten Strände komplett aus und hält nirgendwo in der Nähe von Ada Bojana oder Valdanos. Velika Plaža erstreckt sich 12 km entlang der albanischen Grenze, ohne Gehweg, ohne Bushaltestelle, ohne Taxistand. Der Schotterweg zur Bucht von Valdanos hat kein Schild. Der Grenzübergang Sukobin nach Albanien ist 15 Minuten südlich, aber nur wenn Sie Räder haben. Ein Auto ist hier kein Luxus. Es ist der Unterschied zwischen Ulcinj sehen und Ulcinj wirklich erleben.",
     "h3": "Was wir anbieten",
-    "p3": "Abholung am Flughafen Podgorica (40 km), am Flughafen Tivat (75 km) oder überall in Montenegro. Kompakte Fahrzeuge für die engen Gassen des Stari Grad, SUVs für die unbefestigte Straße nach Valdanos, strandtaugliche Kombis, die mit Sand umgehen können. Extras decken ab, was hier wirklich gebraucht wird: Dachträger für Kitesurf-Ausrüstung in Richtung Velika Plaža, Kindersitze in drei Größen, ein WLAN-Hotspot oder eine SIM-Karte für längere Arbeitsaufenthalte, ein Elektroroller für die getreppten Gassen der Altstadt, dazu Diebstahlschutz für Fahrzeuge, die bei Ada-Bojana-Tagestrips abgestellt werden. Alle vollständig versichert, mit albanischen Grenzpapieren, die bei der Buchung vorbereitet werden.",
+    "p3": "Abholung am Flughafen Podgorica (40 km), am Flughafen Tivat (75 km) oder überall in Montenegro. Kompakte Fahrzeuge für die engen Gassen des Stari Grad, SUVs für die unbefestigte Straße nach Valdanos, strandtaugliche Kombis, die mit Sand umgehen können. Extras decken ab, was hier wirklich gebraucht wird: Dachträger für Kitesurf-Ausrüstung in Richtung Velika Plaža, Kindersitze in drei Größen, ein WLAN-Hotspot oder eine SIM-Karte für längere Arbeitsaufenthalte, ein Elektroroller für die getreppten Gassen der Altstadt, dazu Diebstahlschutz für Fahrzeuge, die bei Ada-Bojana-Tagestrips abgestellt werden. Alle mit flexiblen Versicherungsoptionen, mit albanischen Grenzpapieren, die bei der Buchung vorbereitet werden.",
     "promiseTitle": "Unser Versprechen",
     "promise1": "Vollversicherung mit Null-Selbstbeteiligung-Upgrade, Schotterwege und unbeschilderte Pisten inbegriffen",
     "promise2": "Persönlicher Empfang am Flughafen Podgorica oder Tivat, Ihr Fahrzeug steht direkt bei der Ankunft bereit, nicht auf einem Parkplatz drei Shuttles entfernt",
     "promise3": "Transparente Preise, keine Überraschungen, wenn Sie 40 km vom nächsten Geldautomaten entfernt sind",
     "promise4": "Grenzüberschreitende Fahrten nach Albanien, Kroatien, Bosnien, Serbien und Kosovo, Grüne Karte bei der Buchung organisiert",
     "promise5": "Kostenlose Stornierung bei den meisten Buchungen",
-    "promise6": "Lokale Mietanbieter, Vollkasko und Optionen mit niedriger oder keiner Kaution",
+    "promise6": "Lokale Mietanbieter, Versicherungsoptionen und Optionen mit niedriger oder keiner Kaution",
     "h4": "Lokales Wissen",
     "p4": "Die Abkürzung durch Tuzi, die 20 Minuten Flughafenfahrt spart. Die unbeschilderte Linkskurve nach Valdanos, die Google Maps übersieht. Das Gezeitenfenster an der Ada Bojana, das entscheidet, ob Sie im Sand oder im Fluss parken. Der Markt in der Altstadt, auf dem Sie frische Feigen, lokalen Honig und Olivenöl von Bäumen kaufen können, die schon zu Zeiten des alten Rom uralt waren. Wir fahren diese Straßen täglich und helfen Ihnen, Ihre eigenen zu planen. Mirëdita, willkommen im Süden.",
     "h5": "Kontaktieren Sie uns",

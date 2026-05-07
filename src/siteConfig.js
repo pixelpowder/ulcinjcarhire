@@ -241,7 +241,7 @@ const siteConfig = {
 
   features: [
     { icon: "map-pin", title: "Beach Access", description: "Velika Plaza, Ada Bojana, Valdanos, each beach a different world, and none of them on a bus route." },
-    { icon: "shield-check", title: "Full Insurance", description: "Comprehensive coverage with zero excess option. Includes protection on unpaved access roads near Ada Bojana and the Valdanos olive grove track." },
+    { icon: "shield-check", title: "Insurance Options", description: "Pick from basic third-party up to no-deposit zero-excess. Cover tiers shown at checkout, including protection options for unpaved access roads near Ada Bojana and the Valdanos olive grove track." },
     { icon: "clock", title: "24/7 Support", description: "Kite snapped at Ada Bojana and you need a lift? Ring us. Roadside help available around the clock, wherever the road ends." },
     { icon: "ban", title: "No Hidden Fees", description: "Everything baked into the price, including the longer airport transfer from Podgorica (2 hrs) or Tivat (2.5 hrs). What you see is what you pay." },
     { icon: "refresh-cw", title: "Free Cancellation", description: "Wind conditions shift and kitesurfing plans change. Cancel up to 24 hours before pickup for a full refund, seasonal changes covered too." },

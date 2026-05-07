@@ -21,7 +21,7 @@
     "headline": "Ulcinj Car Hire",
     "badges": {
       "freeCancellation": "Free Cancellation",
-      "fullInsurance": "Full Insurance Included",
+      "fullInsurance": "Insurance Options",
       "airportPickup": "10-Min Airport Pickup",
       "trustpilot": "4.8/5 on Trustpilot"
     },
@@ -37,7 +37,7 @@
   "trust": {
     "noHiddenFees": "No Hidden Fees",
     "noHiddenFeesDesc": "All-in pricing from the start, border tolls and fuel policy explained upfront",
-    "fullInsurance": "Full Insurance",
+    "fullInsurance": "Insurance Options",
     "fullInsuranceDesc": "Full collision cover included, plus optional zero-excess for coastal and mountain routes",
     "fastPickup": "Flexible Pickup",
     "fastPickupDesc": "Collect from Podgorica Airport, Tivat Airport, or direct to your Ulcinj hotel"
@@ -213,7 +213,7 @@
       "desc": "Velika Plaza, Ada Bojana, Valdanos, each beach a different world, and none of them on a bus route."
     },
     "fullInsurance": {
-      "title": "Full Insurance",
+      "title": "Insurance Options",
       "desc": "Comprehensive cover with zero-excess upgrade. Includes protection on the unpaved access roads near Ada Bojana and the Valdanos olive grove track."
     },
     "support": {
@@ -483,7 +483,7 @@
     "promise3": "Transparent pricing, no surprises when you are 40 km from the nearest ATM",
     "promise4": "Cross-border travel to Albania, Croatia, Bosnia, Serbia, and Kosovo, Green Card arranged at booking",
     "promise5": "Free cancellation on most bookings, Balkan plans shift, we get it",
-    "promise6": "Local rental providers, full insurance and low or no-deposit options",
+    "promise6": "Local rental providers, flexible insurance tiers and low or no-deposit options",
     "h4": "We Know These Roads",
     "p4": "The shortcut through Tuzi that saves 20 minutes from the airport. The unmarked left turn to Valdanos that Google Maps misses. The tide timing at Ada Bojana that determines whether you park on sand or in the river. The old town market where you can buy fresh figs, local honey, and olive oil pressed from trees that were ancient when Rome was young. We drive these roads daily, and we will help you plan yours. Mirëdita, welcome south.",
     "h5": "Get in Touch",
